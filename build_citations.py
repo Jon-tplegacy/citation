@@ -2,8 +2,14 @@
 Build reverse citation index for tplegacy.net glossary entries.
 
 Scans all posts tagged 'glossary' via Ghost Content API,
-extracts internal <a> links with context (moon-quote / mentioned / further-reading),
-inverts the forward map to produce a reverse citation index,
+extracts internal <a> links with three contexts:
+  - verbatim:        link in the attribution paragraph that follows
+                     a <blockquote class="moon-quote">
+  - further_reading: link in a section under H2/H3 named
+                     "Further Reading" or "Key Texts"
+  - mentioned:       everything else (default)
+
+Inverts the forward map to produce a reverse citation index,
 saves as citations.json sorted alphabetically for stable diffs.
 """
 
@@ -11,10 +17,10 @@ import json
 import os
 import sys
 from collections import defaultdict
-from html.parser import HTMLParser
 from urllib.parse import urlparse
 
 import requests
+from bs4 import BeautifulSoup
 
 GHOST_URL = "https://tplegacy.net"
 SITE_HOST = "tplegacy.net"
@@ -23,57 +29,8 @@ API_KEY = os.environ.get("GHOST_CONTENT_API_KEY")
 if not API_KEY:
     sys.exit("Missing GHOST_CONTENT_API_KEY environment variable")
 
-CONTEXT_WEIGHT = {"verbatim": 3, "mentioned": 2, "further_reading": 1}
-
-
-class LinkExtractor(HTMLParser):
-    """Walk the HTML, capture <a> hrefs with their structural context."""
-
-    def __init__(self):
-        super().__init__()
-        self.links = []
-        self._stack = []
-        self._current_section = ""
-        self._in_heading = False
-        self._heading_buf = []
-
-    def handle_starttag(self, tag, attrs):
-        attrs_dict = dict(attrs)
-        if tag in ("h2", "h3"):
-            self._in_heading = True
-            self._heading_buf = []
-        if tag == "a" and "href" in attrs_dict:
-            self.links.append({
-                "href": attrs_dict["href"],
-                "context": self._detect_context(),
-            })
-        self._stack.append((tag, attrs_dict))
-
-    def handle_endtag(self, tag):
-        if tag in ("h2", "h3") and self._in_heading:
-            self._current_section = "".join(self._heading_buf).strip().lower()
-            self._in_heading = False
-        if self._stack and self._stack[-1][0] == tag:
-            self._stack.pop()
-
-    def handle_data(self, data):
-        if self._in_heading:
-            self._heading_buf.append(data)
-
-    def _detect_context(self):
-        # Inside <blockquote class="moon-quote"> = verbatim citation
-        for tag, attrs in reversed(self._stack):
-            if tag == "blockquote":
-                cls = attrs.get("class", "")
-                if "moon-quote" in cls:
-                    return "verbatim"
-        # Inside "Further Reading" or "Key Texts" section
-        if self._current_section:
-            if "further reading" in self._current_section:
-                return "further_reading"
-            if "key texts" in self._current_section:
-                return "further_reading"
-        return "mentioned"
+CONTEXT_WEIGHT = {"verbatim": 3, "further_reading": 1, "mentioned": 2}
+FURTHER_READING_HEADINGS = ("further reading", "key texts")
 
 
 def fetch_all_glossary_posts():
@@ -112,11 +69,56 @@ def normalize_link(href):
     path = parsed.path.strip("/")
     if not path:
         return None
-    # Skip system paths
     if path.startswith(("tag/", "author/", "content/", "assets/")):
         return None
-    # Slug = first path segment
     return path.split("/")[0]
+
+
+def is_after_moon_quote(p_tag):
+    """Return True if the given <p> immediately follows a moon-quote blockquote."""
+    prev = p_tag.find_previous_sibling()
+    if prev is None or prev.name != "blockquote":
+        return False
+    classes = prev.get("class") or []
+    return "moon-quote" in classes
+
+
+def detect_context(a_tag, current_section):
+    """Classify a single <a> tag into verbatim / further_reading / mentioned."""
+    # 1. Verbatim: <a> sits inside a <p> that immediately follows moon-quote
+    p_parent = a_tag.find_parent("p")
+    if p_parent is not None and is_after_moon_quote(p_parent):
+        return "verbatim"
+
+    # 2. Further reading: under an H2/H3 with matching title
+    section_lc = current_section.lower() if current_section else ""
+    if any(marker in section_lc for marker in FURTHER_READING_HEADINGS):
+        return "further_reading"
+
+    # 3. Default
+    return "mentioned"
+
+
+def extract_links(html):
+    """Walk the post HTML and yield (target_slug, context) tuples."""
+    soup = BeautifulSoup(html, "html.parser")
+    current_section = ""
+
+    # Walk all elements in document order
+    for elem in soup.descendants:
+        if not hasattr(elem, "name") or elem.name is None:
+            continue
+        if elem.name in ("h2", "h3"):
+            current_section = elem.get_text(" ", strip=True)
+        elif elem.name == "a":
+            href = elem.get("href")
+            if not href:
+                continue
+            target = normalize_link(href)
+            if not target:
+                continue
+            context = detect_context(elem, current_section)
+            yield target, context
 
 
 def build_index(posts):
@@ -128,16 +130,11 @@ def build_index(posts):
         source_title = post["title"]
         html = post.get("html") or ""
 
-        extractor = LinkExtractor()
-        extractor.feed(html)
-
         # Dedupe: same source→target keeps the strongest context
         seen = {}
-        for link in extractor.links:
-            target = normalize_link(link["href"])
-            if not target or target == source_slug:
+        for target, ctx in extract_links(html):
+            if target == source_slug:
                 continue
-            ctx = link["context"]
             prev = seen.get(target)
             if prev is None or CONTEXT_WEIGHT[ctx] > CONTEXT_WEIGHT[prev]:
                 seen[target] = ctx
@@ -150,7 +147,6 @@ def build_index(posts):
                 "context": ctx,
             })
 
-    # Invert to reverse index
     reverse = defaultdict(lambda: {
         "verbatim": [],
         "mentioned": [],
@@ -162,7 +158,6 @@ def build_index(posts):
             "title": edge["source_title"],
         })
 
-    # Sort each category alphabetically for stable diffs
     for target in reverse:
         for cat in reverse[target]:
             reverse[target][cat].sort(key=lambda x: x["title"].lower())
@@ -179,12 +174,19 @@ def main():
     index = build_index(posts)
     print(f"  Index covers {len(index)} target slugs")
 
+    # Summary by category
+    total_v = sum(len(c["verbatim"]) for c in index.values())
+    total_m = sum(len(c["mentioned"]) for c in index.values())
+    total_fr = sum(len(c["further_reading"]) for c in index.values())
+    print(f"  verbatim:        {total_v}")
+    print(f"  mentioned:       {total_m}")
+    print(f"  further_reading: {total_fr}")
+
     out_path = "citations.json"
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(index, f, ensure_ascii=False, indent=2, sort_keys=True)
     print(f"Wrote {out_path}")
 
-    # Show top 10 most-cited targets so you can sanity-check
     print("\nTop 10 most-cited targets:")
     ranked = sorted(
         index.items(),
@@ -192,11 +194,11 @@ def main():
         reverse=True,
     )
     for slug, cats in ranked[:10]:
-        total = sum(len(v) for v in cats.values())
         v = len(cats["verbatim"])
         m = len(cats["mentioned"])
         fr = len(cats["further_reading"])
-        print(f"  {slug:50s}  {total:3d}  (v={v} m={m} fr={fr})")
+        total = v + m + fr
+        print(f"  {slug:50s}  total={total:3d}  v={v:2d}  m={m:2d}  fr={fr:2d}")
 
 
 if __name__ == "__main__":
