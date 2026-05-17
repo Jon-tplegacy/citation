@@ -1,10 +1,10 @@
-name: Recon segment data
+name: Build related (DP / CSG / Sermons)
 
 on:
   workflow_dispatch:
 
 jobs:
-  recon:
+  build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -18,14 +18,17 @@ jobs:
       - name: Install dependencies
         run: pip install requests beautifulsoup4
 
-      - name: Run recon
-        run: python recon_segments.py
+      - name: Build related-X.json files
+        run: python build_related.py
         env:
           GHOST_CONTENT_API_KEY: ${{ secrets.GHOST_CONTENT_API_KEY }}
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: segments_recon
-          path: segments_recon.json
+          name: related
+          path: |
+            related-dp.json
+            related-csg.json
+            related-sermons.json
           retention-days: 30
