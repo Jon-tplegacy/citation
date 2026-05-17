@@ -1,7 +1,7 @@
 name: Build reverse citation index
 
 on:
-  workflow_dispatch:   # тільки ручний запуск
+  workflow_dispatch:
 
 jobs:
   build:
@@ -16,7 +16,7 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests beautifulsoup4
 
       - name: Build citations.json
         run: python build_citations.py
