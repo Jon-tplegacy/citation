@@ -1,28 +1,22 @@
-name: Build related (DP / CSG / Sermons)
-
+name: Build related (DP / CSG / Sermons / World Scripture)
 on:
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
       - name: Install dependencies
         run: pip install requests beautifulsoup4
-
       - name: Build related-X.json files
         run: python build_related.py
         env:
           GHOST_CONTENT_API_KEY: ${{ secrets.GHOST_CONTENT_API_KEY }}
-
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
@@ -31,4 +25,5 @@ jobs:
             related-dp.json
             related-csg.json
             related-sermons.json
+            related-world-scripture.json
           retention-days: 30
