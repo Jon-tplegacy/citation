@@ -1,19 +1,21 @@
 """
-Build related-12 index for three corpus segments based on direct intra-segment links.
+Build related-12 index for corpus segments based on direct intra-segment links.
 
 Segments:
-  - dp     → exposition-of-the-divine-principle
-  - csg    → cheon-seong-gyeong
-  - sermon → sermon
+  - dp              → exposition-of-the-divine-principle
+  - csg             → cheon-seong-gyeong
+  - sermon          → sermon + hoon-dok-hae (merged corpus)
+  - world-scripture → world-scripture-and-the-teachings-of-sun-myung-moon
 
 For each post in each segment, computes top-12 related posts ranked by:
   1. Bidirectional links (both posts cite each other) — strongest signal
   2. Forward + Backward by edge presence, scored by combined connectivity
 
-Outputs three JSON files, one per segment:
+Outputs one JSON file per segment:
   - related-dp.json
   - related-csg.json
   - related-sermons.json
+  - related-world-scripture.json
 
 Each entry: { "post-slug": [ {slug, title, kind}, ... up to 12 ] }
   kind: "bi" (bidirectional), "out" (this cites them), "in" (they cite this)
@@ -35,10 +37,12 @@ API_KEY = os.environ.get("GHOST_CONTENT_API_KEY")
 if not API_KEY:
     sys.exit("Missing GHOST_CONTENT_API_KEY environment variable")
 
+# Each segment: (list of tags to merge, output filename)
 SEGMENTS = {
-    "dp":     ("exposition-of-the-divine-principle", "related-dp.json"),
-    "csg":    ("cheon-seong-gyeong",                 "related-csg.json"),
-    "sermon": ("sermon",                             "related-sermons.json"),
+    "dp":              (["exposition-of-the-divine-principle"],                  "related-dp.json"),
+    "csg":             (["cheon-seong-gyeong"],                                  "related-csg.json"),
+    "sermon":          (["sermon", "hoon-dok-hae"],                              "related-sermons.json"),
+    "world-scripture": (["world-scripture-and-the-teachings-of-sun-myung-moon"], "related-world-scripture.json"),
 }
 
 TOP_N = 12
@@ -68,6 +72,26 @@ def fetch_posts_by_tag(tag):
             break
         page += 1
     return posts
+
+
+def fetch_posts_by_tags(tags):
+    """
+    Fetch and merge posts across multiple tags, deduplicating by post id.
+    Returns a flat list of unique posts.
+    """
+    seen_ids = set()
+    merged = []
+    for tag in tags:
+        tag_posts = fetch_posts_by_tag(tag)
+        new_count = 0
+        for p in tag_posts:
+            pid = p.get("id")
+            if pid and pid not in seen_ids:
+                seen_ids.add(pid)
+                merged.append(p)
+                new_count += 1
+        print(f"    tag '{tag}': {len(tag_posts)} posts ({new_count} new after dedup)", flush=True)
+    return merged
 
 
 def extract_outbound_slugs(html):
@@ -163,10 +187,11 @@ def build_related(posts):
 
 
 def main():
-    for key, (tag, filename) in SEGMENTS.items():
-        print(f"\n[{key}] Fetching posts with tag '{tag}' ...", flush=True)
-        posts = fetch_posts_by_tag(tag)
-        print(f"  Got {len(posts)} posts", flush=True)
+    for key, (tags, filename) in SEGMENTS.items():
+        tag_list = ", ".join(f"'{t}'" for t in tags)
+        print(f"\n[{key}] Fetching posts with tag(s): {tag_list}", flush=True)
+        posts = fetch_posts_by_tags(tags)
+        print(f"  Got {len(posts)} unique posts total", flush=True)
 
         print(f"[{key}] Building related-{TOP_N} index ...", flush=True)
         result = build_related(posts)
@@ -193,7 +218,7 @@ def main():
             json.dump(result, f, ensure_ascii=False, indent=2, sort_keys=True)
         print(f"  Wrote {filename}", flush=True)
 
-    print("\nDone — three files generated.")
+    print(f"\nDone — {len(SEGMENTS)} files generated.")
 
 
 if __name__ == "__main__":
