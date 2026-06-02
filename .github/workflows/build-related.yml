@@ -4,26 +4,35 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
+
       - name: Install dependencies
         run: pip install requests beautifulsoup4
+
       - name: Build related-X.json files
         run: python build_related.py
         env:
           GHOST_CONTENT_API_KEY: ${{ secrets.GHOST_CONTENT_API_KEY }}
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: related
-          path: |
-            related-dp.json
-            related-csg.json
-            related-sermons.json
-            related-world-scripture.json
-          retention-days: 30
+
+      - name: Commit related-X.json files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add related-dp.json related-csg.json related-sermons.json related-world-scripture.json
+          git diff --staged --quiet || git commit -m "chore: rebuild related indexes"
+          git push
+
+      - name: Purge jsDelivr cache
+        run: |
+          for f in related-dp.json related-csg.json related-sermons.json related-world-scripture.json; do
+            curl -sf "https://purge.jsdelivr.net/gh/Jon-tplegacy/citation@main/$f" || true
+          done
