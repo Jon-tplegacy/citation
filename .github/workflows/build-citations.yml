@@ -1,11 +1,11 @@
 name: Build reverse citation index
-
 on:
   workflow_dispatch:
-
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -23,9 +23,13 @@ jobs:
         env:
           GHOST_CONTENT_API_KEY: ${{ secrets.GHOST_CONTENT_API_KEY }}
 
-      - name: Upload citations.json as artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: citations
-          path: citations.json
-          retention-days: 30
+      - name: Commit citations.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add citations.json
+          git diff --staged --quiet || git commit -m "chore: rebuild citations index"
+          git push
+
+      - name: Purge jsDelivr cache
+        run: curl -sf "https://purge.jsdelivr.net/gh/Jon-tplegacy/citation@main/citations.json" || true
