@@ -1,31 +1,31 @@
 """
-Build "Cited Across the Archive" — a single corpus-wide backlink index of
-which materials cite each text, across seven merged tags.
+Build "Cited Across the Archive" — a corpus-wide, CROSS-CORPUS backlink index:
+for each text, the materials from OTHER books/segments that cite it.
 
 Corpus (merged, deduped by post id):
   sermon, cheon-seong-gyeong, exposition-of-the-divine-principle,
   messages-of-peace, world-scripture-and-the-teachings-of-sun-myung-moon,
   pyeong-hwa-gyeong, chambumo-gyeong
 
-For each post, outputs the top-N materials that link TO it — backlinks only:
+Backlinks only:
   kind: "bi" (mutual: they cite each other), "in" (they cite this, one-way)
-Forward-only links ("this cites them") are intentionally excluded; this block
-answers "who across the archive cites this text".
 
-Hub guard: optional. If HUB_THRESHOLD is an int, any source post with more
-outbound links than that is treated as a navigation / index page and ignored
-as a backlink for everyone. Set to None to disable (the archive contains no
-catalog pages — dense cross-citation between long sermons is real content).
+Cross-corpus filter: a citing material is dropped from a text's list when it
+belongs to the SAME scope group as that text. Same-book/same-segment links are
+already shown by the per-segment "Connected Texts" blocks, so excluding them
+here removes the duplication and keeps this block strictly cross-corpus.
+PHG and CBG share one scope (they share a per-segment block); every other
+corpus is its own scope.
 
-Each entry carries a short `corpus` label (which book/segment the citing
-material comes from) for display as an origin tag.
+Each entry carries a short `corpus` label (which book the citing material comes
+from) for display as an origin tag — now always a DIFFERENT book.
+
+Hub guard: optional, off by default (HUB_THRESHOLD = None). The archive has no
+catalog pages; dense cross-citation between long sermons is real content.
 
 Output: cited-across-archive.json
   { "post-slug": [ {slug, title, kind, corpus}, ... up to TOP_N ] }
 sorted alphabetically for stable diffs.
-
-Diagnostics (top sources by outbound links) are printed to stdout AND written
-to the GitHub Step Summary so they render on the run's Summary page.
 """
 
 import json
@@ -58,8 +58,22 @@ CORPUS_TAGS = [
     ("sermon",                                             "Sermon"),
 ]
 
+# Corpus labels that share one per-segment block are grouped into the same
+# "scope" — a citing material in the same scope as the target is excluded
+# (it already appears in that target's per-segment block). Labels not listed
+# here are their own scope. Edit this to change what counts as "same book".
+SCOPE_GROUP = {
+    "PHG": "phg-cbg",
+    "CBG": "phg-cbg",
+}
+
 TOP_N = 7              # backlinks shown per material
 HUB_THRESHOLD = None   # None disables the hub guard; set an int (e.g. 200) to re-enable
+
+
+def scope_of(corpus_label):
+    """Map a corpus label to its scope group (defaults to itself)."""
+    return SCOPE_GROUP.get(corpus_label, corpus_label)
 
 
 def fetch_posts_by_tag(tag):
@@ -131,11 +145,12 @@ def extract_outbound_slugs(html):
 
 def build_index(posts):
     """
-    Build the corpus-wide backlink index.
+    Build the cross-corpus backlink index.
 
     Ranking within each tier: by inbound popularity (how widely each citing
     material is itself cited), with title as a tie-break for stable diffs.
-    Returns (result, forward, hubs) so main() can print diagnostics.
+    Same-scope sources are filtered out per target (cross-corpus only).
+    Returns (result, forward, hubs).
     """
     by_slug = {p["slug"]: p for p in posts}
     slugs_in_corpus = set(by_slug)
@@ -168,27 +183,23 @@ def build_index(posts):
     result = {}
     for p in posts:
         slug = p["slug"]
+        my_scope = scope_of(p["_corpus"])
         fwd = forward.get(slug, set())
-        bwd = backward.get(slug, set())   # hub-free when guard is on
+        bwd = backward.get(slug, set())
 
-        bi = fwd & bwd          # mutual: they cite each other
-        in_only = bwd - bi      # one-way: they cite this, this does not cite them
+        bi = fwd & bwd
+        in_only = bwd - bi
+
+        def cross_corpus(slug_set):
+            # keep only sources from a DIFFERENT scope than the current text
+            return [s for s in sort_by_popularity(slug_set)
+                    if scope_of(by_slug[s]["_corpus"]) != my_scope]
 
         ranked = []
-        for s in sort_by_popularity(bi):
-            ranked.append({
-                "slug": s,
-                "title": by_slug[s]["title"],
-                "kind": "bi",
-                "corpus": by_slug[s]["_corpus"],
-            })
-        for s in sort_by_popularity(in_only):
-            ranked.append({
-                "slug": s,
-                "title": by_slug[s]["title"],
-                "kind": "in",
-                "corpus": by_slug[s]["_corpus"],
-            })
+        for s in cross_corpus(bi):
+            ranked.append({"slug": s, "title": by_slug[s]["title"], "kind": "bi", "corpus": by_slug[s]["_corpus"]})
+        for s in cross_corpus(in_only):
+            ranked.append({"slug": s, "title": by_slug[s]["title"], "kind": "in", "corpus": by_slug[s]["_corpus"]})
 
         if ranked:
             result[slug] = ranked[:TOP_N]
@@ -213,9 +224,9 @@ def main():
     posts = fetch_corpus()
     print(f"  {len(posts)} unique posts in corpus", flush=True)
 
-    print("Building Cited-Across-the-Archive index ...", flush=True)
+    print("Building cross-corpus backlink index ...", flush=True)
     result, forward, hubs = build_index(posts)
-    print(f"  Built backlink lists for {len(result)} posts", flush=True)
+    print(f"  Built lists for {len(result)} posts (cross-corpus only)", flush=True)
 
     by_slug = {p["slug"]: p for p in posts}
     ranked_out = sorted(forward.items(), key=lambda kv: -len(kv[1]))
@@ -229,30 +240,29 @@ def main():
     avg = sum(sizes) / max(1, len(sizes))
     full = sum(1 for s in sizes if s == TOP_N)
 
-    guard_txt = "disabled (HUB_THRESHOLD = None)" if HUB_THRESHOLD is None \
-        else f"threshold {HUB_THRESHOLD}; {len(hubs)} source(s) ignored"
+    guard_txt = "disabled" if HUB_THRESHOLD is None \
+        else f"threshold {HUB_THRESHOLD}; {len(hubs)} ignored"
 
-    # ── stdout diagnostics (all flushed) ──
     print(f"\n  Hub guard: {guard_txt}", flush=True)
     print("  Top 15 sources by outbound links (within corpus):", flush=True)
     for slug, targets in ranked_out[:15]:
         flag = "   <-- HUB (ignored)" if slug in hubs else ""
         print(f"    {len(targets):4d}  {by_slug[slug]['title'][:48]:50s}{flag}", flush=True)
-    print(f"\n  Backlink edges shown:  {sum(kinds.values())}", flush=True)
+    print(f"\n  Cross-corpus edges:    {sum(kinds.values())}", flush=True)
     print(f"  Mutual (bi):           {kinds['bi']}", flush=True)
     print(f"  One-way cited (in):    {kinds['in']}", flush=True)
     print(f"  Avg list size:         {avg:.1f}", flush=True)
     print(f"  Full lists ({TOP_N}):        {full} of {len(result)}", flush=True)
 
-    # ── GitHub Step Summary ──
     summary = [
-        "## Cited Across the Archive — build report",
+        "## Cited Across the Archive — build report (cross-corpus)",
         "",
         f"- Corpus posts: **{len(posts)}**",
-        f"- Posts with at least one backlink: **{len(result)}**",
+        f"- Posts with at least one cross-corpus backlink: **{len(result)}**",
         f"- Hub guard: **{guard_txt}**",
-        f"- Backlink edges shown: **{sum(kinds.values())}** (mutual {kinds['bi']}, one-way {kinds['in']})",
+        f"- Cross-corpus edges: **{sum(kinds.values())}** (mutual {kinds['bi']}, one-way {kinds['in']})",
         f"- Avg list size: **{avg:.1f}** · full lists of {TOP_N}: **{full}**",
+        "- Same-book citations are excluded here (they appear in the per-segment blocks).",
         "",
         "### Top 15 sources by outbound links",
         "",
