@@ -1,0 +1,30 @@
+name: Build glossary backlinks index
+on:
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+      - name: Build glossary-backlinks.json
+        run: python build_glossary_backlinks.py
+        env:
+          GHOST_CONTENT_API_KEY: ${{ secrets.GHOST_CONTENT_API_KEY }}
+      - name: Commit glossary-backlinks.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add glossary-backlinks.json
+          git diff --staged --quiet || git commit -m "chore: rebuild glossary backlinks index"
+          git push
+      - name: Purge jsDelivr cache
+        run: curl -sf "https://purge.jsdelivr.net/gh/Jon-tplegacy/citation@main/glossary-backlinks.json" || true
