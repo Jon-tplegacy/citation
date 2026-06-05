@@ -12,9 +12,10 @@ For each post, outputs the top-N materials that link TO it — backlinks only:
 Forward-only links ("this cites them") are intentionally excluded; this block
 answers "who across the archive cites this text".
 
-Hub guard: any source post with more than HUB_THRESHOLD outbound links within
-the corpus is treated as a navigation / index page and ignored as a backlink
-for everyone — so catalog pages can't flood every list.
+Hub guard: optional. If HUB_THRESHOLD is an int, any source post with more
+outbound links than that is treated as a navigation / index page and ignored
+as a backlink for everyone. Set to None to disable (the archive contains no
+catalog pages — dense cross-citation between long sermons is real content).
 
 Each entry carries a short `corpus` label (which book/segment the citing
 material comes from) for display as an origin tag.
@@ -22,6 +23,9 @@ material comes from) for display as an origin tag.
 Output: cited-across-archive.json
   { "post-slug": [ {slug, title, kind, corpus}, ... up to TOP_N ] }
 sorted alphabetically for stable diffs.
+
+Diagnostics (top sources by outbound links) are printed to stdout AND written
+to the GitHub Step Summary so they render on the run's Summary page.
 """
 
 import json
@@ -44,7 +48,6 @@ OUTPUT_FILE = "cited-across-archive.json"
 
 # (tag slug, short display label). Order = precedence: when a post carries
 # several of these tags, the first match in this list wins as its corpus label.
-# Reorder if a different label should win for posts that share tags.
 CORPUS_TAGS = [
     ("chambumo-gyeong",                                    "CBG"),
     ("pyeong-hwa-gyeong",                                  "PHG"),
@@ -55,8 +58,8 @@ CORPUS_TAGS = [
     ("sermon",                                             "Sermon"),
 ]
 
-TOP_N = 7            # backlinks shown per material
-HUB_THRESHOLD = 55   # sources with MORE outbound links than this are ignored
+TOP_N = 7              # backlinks shown per material
+HUB_THRESHOLD = None   # None disables the hub guard; set an int (e.g. 200) to re-enable
 
 
 def fetch_posts_by_tag(tag):
@@ -143,9 +146,11 @@ def build_index(posts):
         outbound = extract_outbound_slugs(p.get("html", ""))
         forward[p["slug"]] = {s for s in outbound if s in slugs_in_corpus and s != p["slug"]}
 
-    # Hub guard: sources linking to more than HUB_THRESHOLD targets are
-    # navigation/index pages, not real citations — drop them as sources.
-    hubs = {slug for slug, targets in forward.items() if len(targets) > HUB_THRESHOLD}
+    # Hub guard (optional)
+    if HUB_THRESHOLD is None:
+        hubs = set()
+    else:
+        hubs = {slug for slug, targets in forward.items() if len(targets) > HUB_THRESHOLD}
 
     # Backward edges (excluding hub sources): slug -> set of slugs citing it
     backward = defaultdict(set)
@@ -164,7 +169,7 @@ def build_index(posts):
     for p in posts:
         slug = p["slug"]
         fwd = forward.get(slug, set())
-        bwd = backward.get(slug, set())   # already hub-free
+        bwd = backward.get(slug, set())   # hub-free when guard is on
 
         bi = fwd & bwd          # mutual: they cite each other
         in_only = bwd - bi      # one-way: they cite this, this does not cite them
@@ -191,6 +196,18 @@ def build_index(posts):
     return result, forward, hubs
 
 
+def write_step_summary(lines):
+    """Append markdown to the GitHub Step Summary, if running in Actions."""
+    path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if not path:
+        return
+    try:
+        with open(path, "a", encoding="utf-8") as f:
+            f.write("\n".join(lines) + "\n")
+    except OSError as e:
+        print(f"  (could not write step summary: {e})", flush=True)
+
+
 def main():
     print(f"Fetching corpus from {GHOST_URL} ...", flush=True)
     posts = fetch_corpus()
@@ -201,17 +218,8 @@ def main():
     print(f"  Built backlink lists for {len(result)} posts", flush=True)
 
     by_slug = {p["slug"]: p for p in posts}
-
-    # Diagnostics — use this to confirm HUB_THRESHOLD fits the real archive.
     ranked_out = sorted(forward.items(), key=lambda kv: -len(kv[1]))
-    print(f"\n  Hub threshold = {HUB_THRESHOLD}; {len(hubs)} source(s) flagged as hubs and ignored")
-    print("  Top 15 sources by outbound links (within corpus):")
-    for slug, targets in ranked_out[:15]:
-        flag = "   <-- HUB (ignored)" if slug in hubs else ""
-        title = by_slug[slug]["title"][:48]
-        print(f"    {len(targets):4d}  {title:50s}{flag}")
 
-    # Stats
     kinds = {"bi": 0, "in": 0}
     sizes = []
     for slug, related in result.items():
@@ -220,11 +228,43 @@ def main():
             kinds[item["kind"]] += 1
     avg = sum(sizes) / max(1, len(sizes))
     full = sum(1 for s in sizes if s == TOP_N)
-    print(f"\n  Backlink edges shown:  {sum(kinds.values())}")
-    print(f"  Mutual (bi):           {kinds['bi']}")
-    print(f"  One-way cited (in):    {kinds['in']}")
-    print(f"  Avg list size:         {avg:.1f}")
-    print(f"  Full lists ({TOP_N}):        {full} of {len(result)}")
+
+    guard_txt = "disabled (HUB_THRESHOLD = None)" if HUB_THRESHOLD is None \
+        else f"threshold {HUB_THRESHOLD}; {len(hubs)} source(s) ignored"
+
+    # ── stdout diagnostics (all flushed) ──
+    print(f"\n  Hub guard: {guard_txt}", flush=True)
+    print("  Top 15 sources by outbound links (within corpus):", flush=True)
+    for slug, targets in ranked_out[:15]:
+        flag = "   <-- HUB (ignored)" if slug in hubs else ""
+        print(f"    {len(targets):4d}  {by_slug[slug]['title'][:48]:50s}{flag}", flush=True)
+    print(f"\n  Backlink edges shown:  {sum(kinds.values())}", flush=True)
+    print(f"  Mutual (bi):           {kinds['bi']}", flush=True)
+    print(f"  One-way cited (in):    {kinds['in']}", flush=True)
+    print(f"  Avg list size:         {avg:.1f}", flush=True)
+    print(f"  Full lists ({TOP_N}):        {full} of {len(result)}", flush=True)
+
+    # ── GitHub Step Summary ──
+    summary = [
+        "## Cited Across the Archive — build report",
+        "",
+        f"- Corpus posts: **{len(posts)}**",
+        f"- Posts with at least one backlink: **{len(result)}**",
+        f"- Hub guard: **{guard_txt}**",
+        f"- Backlink edges shown: **{sum(kinds.values())}** (mutual {kinds['bi']}, one-way {kinds['in']})",
+        f"- Avg list size: **{avg:.1f}** · full lists of {TOP_N}: **{full}**",
+        "",
+        "### Top 15 sources by outbound links",
+        "",
+        "| Outbound | Title | Status |",
+        "|---:|---|:--|",
+    ]
+    for slug, targets in ranked_out[:15]:
+        status = "HUB — ignored" if slug in hubs else "kept"
+        title = by_slug[slug]["title"].replace("|", "\\|")
+        summary.append(f"| {len(targets)} | {title} | {status} |")
+    summary.append("")
+    write_step_summary(summary)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2, sort_keys=True)
