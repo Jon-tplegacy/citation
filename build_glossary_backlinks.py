@@ -15,9 +15,15 @@ Each entry carries a `corpus` origin label (Sermon, DP, CSG, ...).
 Ranking: by how widely the citing source is itself cited within the corpus
 (prominent sources first), with title as a tie-break for stable diffs.
 
+Capping is PER CORPUS (PER_CORPUS_LIMIT): each book/segment is limited
+independently, so a term cited by many sermons can't crowd out the other
+books. Per term the list can therefore hold up to PER_CORPUS_LIMIT × (number
+of citing corpora) entries.
+
 Output: glossary-backlinks.json
-  { "term-slug": [ {slug, title, corpus}, ... up to TOP_N ] }
-sorted alphabetically for stable diffs.
+  { "term-slug": [ {slug, title, corpus}, ... ] }
+sorted alphabetically for stable diffs; within a term, ordered by corpus then
+by rank.
 """
 
 import json
@@ -40,7 +46,7 @@ OUTPUT_FILE = "glossary-backlinks.json"
 GLOSSARY_TAG = "glossary"
 
 # Source corpus: (tag slug, short display label). Order = precedence when a
-# source post carries several of these tags.
+# source post carries several of these tags, and the order corpora are emitted.
 CORPUS_TAGS = [
     ("chambumo-gyeong",                                    "CBG"),
     ("pyeong-hwa-gyeong",                                  "PHG"),
@@ -50,8 +56,9 @@ CORPUS_TAGS = [
     ("messages-of-peace",                                  "Messages of Peace"),
     ("sermon",                                             "Sermon"),
 ]
+CORPUS_ORDER = [label for _, label in CORPUS_TAGS]
 
-TOP_N = 7   # sources shown per term
+PER_CORPUS_LIMIT = 7   # max sources shown per corpus, per term
 
 
 def fetch_posts_by_tag(tag, fields="id,slug,title,html,url"):
@@ -131,8 +138,9 @@ def extract_outbound_slugs(html):
 
 def build_index(glossary_titles, sources):
     """
-    For each glossary term, the corpus sources that link to it (top TOP_N),
-    ranked by the source's own prominence (inbound citations within corpus).
+    For each glossary term, the corpus sources that link to it, capped PER
+    CORPUS at PER_CORPUS_LIMIT and ranked within each corpus by the source's
+    own prominence (inbound citations within corpus).
     Returns (result, glossary_edges) for diagnostics.
     """
     glossary_slugs = set(glossary_titles)
@@ -159,12 +167,21 @@ def build_index(glossary_titles, sources):
 
     result = {}
     for term, srcs in glossary_edges.items():
-        ranked = [
-            {"slug": s, "title": by_slug[s]["title"], "corpus": by_slug[s]["_corpus"]}
-            for s in rank(srcs)
-        ]
-        if ranked:
-            result[term] = ranked[:TOP_N]
+        # group ranked sources by corpus, capping each corpus independently
+        per_corpus = defaultdict(list)
+        for s in rank(srcs):
+            label = by_slug[s]["_corpus"]
+            if len(per_corpus[label]) < PER_CORPUS_LIMIT:
+                per_corpus[label].append(s)
+
+        # emit in corpus order, preserving within-corpus rank
+        entry = []
+        for label in CORPUS_ORDER:
+            for s in per_corpus.get(label, []):
+                entry.append({"slug": s, "title": by_slug[s]["title"], "corpus": label})
+
+        if entry:
+            result[term] = entry
 
     return result, glossary_edges
 
@@ -190,7 +207,7 @@ def main():
     sources = fetch_corpus_sources()
     print(f"  {len(sources)} source posts", flush=True)
 
-    print("Building glossary backlink index ...", flush=True)
+    print(f"Building glossary backlink index (cap {PER_CORPUS_LIMIT}/corpus) ...", flush=True)
     result, glossary_edges = build_index(glossary_titles, sources)
     print(f"  {len(result)} terms have at least one backlink", flush=True)
 
@@ -198,14 +215,14 @@ def main():
     total_edges = sum(len(v) for v in result.values())
     sizes = [len(v) for v in result.values()]
     avg = sum(sizes) / max(1, len(sizes))
-    full = sum(1 for s in sizes if s == TOP_N)
+    biggest = max(sizes) if sizes else 0
 
-    print("\n  Top 15 most-referenced terms (corpus sources citing them):", flush=True)
+    print("\n  Top 15 most-referenced terms (corpus sources citing them, pre-cap):", flush=True)
     for term, srcs in ranked_terms[:15]:
         print(f"    {len(srcs):4d}  {glossary_titles.get(term, term)[:48]}", flush=True)
     print(f"\n  Backlink edges shown:  {total_edges}", flush=True)
     print(f"  Avg list size:         {avg:.1f}", flush=True)
-    print(f"  Full lists ({TOP_N}):        {full} of {len(result)}", flush=True)
+    print(f"  Largest list shown:    {biggest}", flush=True)
 
     summary = [
         "## Glossary backlinks — build report",
@@ -213,9 +230,10 @@ def main():
         f"- Glossary terms: **{len(glossary_titles)}**",
         f"- Source corpus posts: **{len(sources)}**",
         f"- Terms with at least one backlink: **{len(result)}**",
-        f"- Backlink edges shown: **{total_edges}** · avg list {avg:.1f} · full lists of {TOP_N}: **{full}**",
+        f"- Cap: **{PER_CORPUS_LIMIT}** per corpus, per term",
+        f"- Backlink edges shown: **{total_edges}** · avg list {avg:.1f} · largest list **{biggest}**",
         "",
-        "### Top 15 most-referenced terms",
+        "### Top 15 most-referenced terms (pre-cap)",
         "",
         "| Sources | Term |",
         "|---:|---|",
