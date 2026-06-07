@@ -1519,6 +1519,23 @@
       "title": "The Lost Sheep and the Father: Finding the Way Back Home"
     }
   ],
+  "heavenly-dignity": [
+    {
+      "corpus": "CSG",
+      "slug": "gods-sorrow-and-the-providence-of-restoration",
+      "title": "God's Grief and Shock at Losing His Son and Daughter"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "the-love-of-man-and-woman-in-the-original-creation",
+      "title": "The Love of Man and Woman  in the Original Creation"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "genuine-loyalty-and-filial-piety-demands-the-cost-of-your-life",
+      "title": "Genuine Loyalty and Filial Piety Demands the Cost of Your Life"
+    }
+  ],
   "heavenly-fortune": [
     {
       "corpus": "CBG",
@@ -1659,6 +1676,58 @@
       "corpus": "Sermon",
       "slug": "outline-of-the-45th-true-childrens-day-celebration",
       "title": "Outline Of The 45th True Children’s Day Celebration"
+    }
+  ],
+  "heavenly-order-and-human-order": [
+    {
+      "corpus": "World Scripture",
+      "slug": "heaven",
+      "title": "Heaven"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "meditation",
+      "title": "Meditation"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "repentance",
+      "title": "Repentance"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "how-we-are-born-again",
+      "title": "How We Are Born Again"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "blessed-families-and-true-tradition",
+      "title": "Blessed Families And True Tradition"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "my-lifes-fate-and-destiny",
+      "title": "My Life's Fate And Destiny"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-arrival-of-the-era-of-the-fourth-adams-realm",
+      "title": "The Arrival of the Era of the Fourth Adam's Realm"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-fight-has-begun",
+      "title": "The Fight Has Begun"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "who-is-god-and-who-am-i",
+      "title": "Who Is God And Who Am I?"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "let-this-be-a-good-year",
+      "title": "Let This Be A Good Year"
     }
   ],
   "hell-term": [
@@ -2203,6 +2272,118 @@
       "corpus": "Sermon",
       "slug": "the-true-father-and-his-sons-and-daughters",
       "title": "The True Father and His Sons and Daughters"
+    }
+  ],
+  "living-for-the-sake-of-others": [
+    {
+      "corpus": "CBG",
+      "slug": "true-parents-philosophy-of-life",
+      "title": "True Parents' Philosophy of Life"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "the-root-of-peace-is-in-true-love",
+      "title": "The Root of Peace Is in True Love"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "god-and-a-united-world-of-peace",
+      "title": "God and a United World of Peace"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "let-us-build-a-world-of-peace",
+      "title": "Let Us Build A World Of Peace Through Living For The Sake Of Others"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "the-power-of-true-love",
+      "title": "Love of the Nation, Love of the World, and Love of Humankind"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "the-love-of-man-and-woman-in-the-original-creation",
+      "title": "The Love of Man and Woman  in the Original Creation"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "the-family-is-the-school-of-love-for-life-in-the-heavenly-kingdom",
+      "title": "The Family is the School of Love for Life in the Heavenly Kingdom"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "the-characteristics-of-true-love",
+      "title": "Love Is Boundless"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "a-life-of-living-with-true-love",
+      "title": "A Life of Living with True Love"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "what-is-heaven",
+      "title": "The Prerequisites and Conditions for Going to Heaven"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "explanation-of-family-pledge-number-seven",
+      "title": "Explanation of Family Pledge Number Seven"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "the-creator",
+      "title": "The Creator"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "eternal-truth",
+      "title": "Eternal Truth"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "living-for-others",
+      "title": "Living for Others"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "giving-and-receiving",
+      "title": "Giving and Receiving"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "ethics-of-married-life",
+      "title": "Ethics of Married Life"
+    },
+    {
+      "corpus": "Messages of Peace",
+      "slug": "gods-ideal-family-and-the-kingdom-of-the-peaceful-ideal-world",
+      "title": "God’s Ideal Family and the Kingdom of the Peaceful, Ideal World"
+    },
+    {
+      "corpus": "Messages of Peace",
+      "slug": "the-mission-of-the-clan-messiah-in-the-revolutionary-era-after-the-coming-of-heaven",
+      "title": "The Mission of the Clan Messiah in the Revolutionary Era After the Coming of Heaven"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "sunday-morning-speech",
+      "title": "Live for the Sake of Others"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "ceremony-for-gods-kingship",
+      "title": "Homeland, Parents, and Eldest Son - 1st Anniversary of the Enthronement Ceremony for God's Kingship"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "our-attitude-in-the-time-of-great-transition",
+      "title": "Our Attitude In The Time Of Great Transition"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "rally-for-the-declaration-of-absolute-values-for-the-sake-of-harmony-and-unification",
+      "title": "Rally For The Declaration Of Absolute Values For The Sake Of Harmony And Unification"
     }
   ],
   "logos": [
