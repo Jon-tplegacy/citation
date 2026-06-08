@@ -1,5 +1,5 @@
 """
-Build related-12 index for corpus segments based on direct intra-segment links.
+Build related index for corpus segments based on direct intra-segment links.
 
 Segments:
   - dp              → exposition-of-the-divine-principle
@@ -7,9 +7,13 @@ Segments:
   - sermon          → sermon + hoon-dok-hae (merged corpus)
   - world-scripture → world-scripture-and-the-teachings-of-sun-myung-moon
 
-For each post in each segment, computes top-12 related posts ranked by:
-  1. Bidirectional links (both posts cite each other) — strongest signal
-  2. Forward + Backward by edge presence, scored by combined connectivity
+For each post in each segment, computes related posts grouped by link type:
+  - bi  : bidirectional (both posts cite each other) — strongest signal
+  - out : this post cites them
+  - in  : they cite this post
+
+Each type is capped independently at PER_KIND_LIMIT, so no single type crowds
+out the others. Within a type, sorted by inbound popularity (most-cited first).
 
 Outputs one JSON file per segment:
   - related-dp.json
@@ -17,7 +21,7 @@ Outputs one JSON file per segment:
   - related-sermons.json
   - related-world-scripture.json
 
-Each entry: { "post-slug": [ {slug, title, kind}, ... up to 12 ] }
+Each entry: { "post-slug": [ {slug, title, kind}, ... ] }
   kind: "bi" (bidirectional), "out" (this cites them), "in" (they cite this)
 """
 
@@ -45,7 +49,7 @@ SEGMENTS = {
     "world-scripture": (["world-scripture-and-the-teachings-of-sun-myung-moon"], "related-world-scripture.json"),
 }
 
-TOP_N = 12
+PER_KIND_LIMIT = 7   # max items shown per type (bi / out / in), independently
 
 
 def fetch_posts_by_tag(tag):
@@ -97,7 +101,7 @@ def fetch_posts_by_tags(tags):
 def extract_outbound_slugs(html):
     """Return unique internal post slugs linked from this HTML."""
     if not html:
-        return []
+        return set()
     soup = BeautifulSoup(html, "html.parser")
     slugs = set()
     for a in soup.find_all("a", href=True):
@@ -116,36 +120,33 @@ def extract_outbound_slugs(html):
 
 def build_related(posts):
     """
-    For each post in the segment, return list of up to TOP_N related posts.
+    For each post in the segment, return related posts grouped by link type,
+    each type capped independently at PER_KIND_LIMIT.
 
-    Ranking:
-      1. Bidirectional links (post A and B both reference each other)
-      2. Forward links (this post references them)
-      3. Backward links (they reference this post)
-
-    Within each tier, sorted by "popularity" within segment (inbound count).
-    This ensures that if a post has many forward links, the most-cited targets
-    appear first.
+    Ranking within each type: by inbound popularity within the segment
+    (most-cited targets first).
     """
     by_slug = {p["slug"]: p for p in posts}
     slugs_in_segment = set(by_slug.keys())
 
-    # Build forward edges: slug → set of other slugs in segment it links to
+    # Forward edges: slug → set of other slugs in segment it links to
     forward = {}
     for p in posts:
         outbound = extract_outbound_slugs(p.get("html", ""))
         forward[p["slug"]] = {s for s in outbound if s in slugs_in_segment and s != p["slug"]}
 
-    # Build backward edges: slug → set of slugs that link to it
+    # Backward edges: slug → set of slugs that link to it
     backward = defaultdict(set)
     for slug, targets in forward.items():
         for target in targets:
             backward[target].add(slug)
 
-    # Compute inbound count per slug (used for tier-internal ranking)
+    # Inbound count per slug (used for tier-internal ranking)
     inbound_count = {slug: len(backward.get(slug, set())) for slug in slugs_in_segment}
 
-    # For each post, build ranked related list
+    def sort_by_popularity(slug_set):
+        return sorted(slug_set, key=lambda s: (-inbound_count.get(s, 0), by_slug[s]["title"].lower()))
+
     result = {}
     for p in posts:
         slug = p["slug"]
@@ -156,32 +157,16 @@ def build_related(posts):
         out_only = fwd - bi          # only this cites them
         in_only = bwd - bi           # only they cite this
 
-        # Sort each tier by inbound popularity (most-cited first)
-        def sort_by_popularity(slug_set):
-            return sorted(slug_set, key=lambda s: -inbound_count.get(s, 0))
-
         ranked = []
-        for s in sort_by_popularity(bi):
-            ranked.append({
-                "slug": s,
-                "title": by_slug[s]["title"],
-                "kind": "bi",
-            })
-        for s in sort_by_popularity(out_only):
-            ranked.append({
-                "slug": s,
-                "title": by_slug[s]["title"],
-                "kind": "out",
-            })
-        for s in sort_by_popularity(in_only):
-            ranked.append({
-                "slug": s,
-                "title": by_slug[s]["title"],
-                "kind": "in",
-            })
+        for s in sort_by_popularity(bi)[:PER_KIND_LIMIT]:
+            ranked.append({"slug": s, "title": by_slug[s]["title"], "kind": "bi"})
+        for s in sort_by_popularity(out_only)[:PER_KIND_LIMIT]:
+            ranked.append({"slug": s, "title": by_slug[s]["title"], "kind": "out"})
+        for s in sort_by_popularity(in_only)[:PER_KIND_LIMIT]:
+            ranked.append({"slug": s, "title": by_slug[s]["title"], "kind": "in"})
 
         if ranked:
-            result[slug] = ranked[:TOP_N]
+            result[slug] = ranked
 
     return result
 
@@ -193,7 +178,7 @@ def main():
         posts = fetch_posts_by_tags(tags)
         print(f"  Got {len(posts)} unique posts total", flush=True)
 
-        print(f"[{key}] Building related-{TOP_N} index ...", flush=True)
+        print(f"[{key}] Building related index (cap {PER_KIND_LIMIT}/type) ...", flush=True)
         result = build_related(posts)
         print(f"  Built related lists for {len(result)} posts", flush=True)
 
@@ -206,13 +191,13 @@ def main():
                 kinds[item["kind"]] += 1
 
         avg_size = sum(sizes) / max(1, len(sizes))
-        full_lists = sum(1 for s in sizes if s == TOP_N)
+        biggest = max(sizes) if sizes else 0
         print(f"  Total edges:        {sum(kinds.values())}")
         print(f"  Bidirectional:      {kinds['bi']}")
         print(f"  Forward-only:       {kinds['out']}")
         print(f"  Backward-only:      {kinds['in']}")
         print(f"  Avg list size:      {avg_size:.1f}")
-        print(f"  Full lists ({TOP_N}):     {full_lists} of {len(result)}")
+        print(f"  Largest list:       {biggest}")
 
         with open(filename, "w", encoding="utf-8") as f:
             json.dump(result, f, ensure_ascii=False, indent=2, sort_keys=True)
