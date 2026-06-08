@@ -19,13 +19,13 @@
   "democracy-exposition": [
     {
       "kind": "bi",
-      "slug": "the-providence-of-restoration-and-the-progress-of-history",
-      "title": "The Providence of Restoration and the Progress of History"
+      "slug": "the-period-of-religious-and-ideological-conflicts-1648-1789",
+      "title": "The Period of Religious and Ideological Conflicts (1648-1789)"
     },
     {
       "kind": "bi",
-      "slug": "the-period-of-religious-and-ideological-conflicts-1648-1789",
-      "title": "The Period of Religious and Ideological Conflicts (1648-1789)"
+      "slug": "the-providence-of-restoration-and-the-progress-of-history",
+      "title": "The Providence of Restoration and the Progress of History"
     },
     {
       "kind": "bi",
@@ -64,13 +64,13 @@
     },
     {
       "kind": "in",
-      "slug": "where-will-christ-return",
-      "title": "Where Will Christ Return?"
+      "slug": "the-third-world-war",
+      "title": "The Third World War"
     },
     {
       "kind": "in",
-      "slug": "the-third-world-war",
-      "title": "The Third World War"
+      "slug": "where-will-christ-return",
+      "title": "Where Will Christ Return?"
     }
   ],
   "give-and-take-action": [
@@ -101,13 +101,13 @@
     },
     {
       "kind": "in",
-      "slug": "love-and-beauty-good-evil",
-      "title": "Love and Beauty, Good and Evil, Righteousness and Unrighteousness"
+      "slug": "good-object-partners-for-the-joy-of-god",
+      "title": "Good Object Partners for the Joy of God"
     },
     {
       "kind": "in",
-      "slug": "good-object-partners-for-the-joy-of-god",
-      "title": "Good Object Partners for the Joy of God"
+      "slug": "love-and-beauty-good-evil",
+      "title": "Love and Beauty, Good and Evil, Righteousness and Unrighteousness"
     },
     {
       "kind": "in",
@@ -123,16 +123,6 @@
       "kind": "in",
       "slug": "the-providence-of-resurrection-for-spirits",
       "title": "The Providence of Resurrection for Spirits"
-    },
-    {
-      "kind": "in",
-      "slug": "the-reason-all-beings-are-composed-of-dual-characteristics",
-      "title": "The Reason All Beings Are Composed of Dual Characteristics"
-    },
-    {
-      "kind": "in",
-      "slug": "satans-activities-in-human-society",
-      "title": "Satan’s Activities in Human Society"
     }
   ],
   "gods-work-of-salvation-is-the-providence-of-restoration": [
@@ -143,13 +133,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
-      "title": "The Providence of Restoration under the Leadership of Moses"
+      "slug": "human-history-is-the-history-of-the-providence-of-restoration",
+      "title": "Human History Is the History of the Providence of Restoration"
     },
     {
       "kind": "in",
-      "slug": "human-history-is-the-history-of-the-providence-of-restoration",
-      "title": "Human History Is the History of the Providence of Restoration"
+      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
+      "title": "The Providence of Restoration under the Leadership of Moses"
     },
     {
       "kind": "in",
@@ -212,13 +202,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-purpose-of-the-creation-of-the-universe",
-      "title": "The Purpose of the Creation of the Universe"
+      "slug": "the-providence-of-restoration-and-the-progress-of-history",
+      "title": "The Providence of Restoration and the Progress of History"
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-restoration-and-the-progress-of-history",
-      "title": "The Providence of Restoration and the Progress of History"
+      "slug": "the-purpose-of-the-creation-of-the-universe",
+      "title": "The Purpose of the Creation of the Universe"
     },
     {
       "kind": "in",
@@ -293,13 +283,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-renaissance",
-      "title": "The Renaissance"
+      "slug": "rebirth-exposition",
+      "title": "Rebirth"
     },
     {
       "kind": "out",
-      "slug": "rebirth-exposition",
-      "title": "Rebirth"
+      "slug": "the-renaissance",
+      "title": "The Renaissance"
     },
     {
       "kind": "out",
@@ -313,13 +303,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-three-ordered-stages-of-the-growing-period",
-      "title": "The Three Ordered Stages of the Growing Period"
+      "slug": "the-goal-of-the-providence-of-restoration",
+      "title": "The Goal of the Providence of Restoration"
     },
     {
       "kind": "in",
-      "slug": "the-goal-of-the-providence-of-restoration",
-      "title": "The Goal of the Providence of Restoration"
+      "slug": "the-three-ordered-stages-of-the-growing-period",
+      "title": "The Three Ordered Stages of the Growing Period"
     },
     {
       "kind": "in",
@@ -330,6 +320,11 @@
       "kind": "in",
       "slug": "perfected-adam-jesus",
       "title": "Perfected Adam, Jesus and the Restoration of the Tree of Life"
+    },
+    {
+      "kind": "in",
+      "slug": "the-history-of-the-providence-of-restoration-and-i",
+      "title": "The History of the Providence of Restoration and I"
     },
     {
       "kind": "in",
@@ -372,8 +367,8 @@
     },
     {
       "kind": "out",
-      "slug": "the-limit-of-salvation-through-redemption-by-the-cross-and-the-purpose-of-jesus-second-advent",
-      "title": "The Limit of Salvation through Redemption by the Cross and the Purpose of Jesus’ Second Advent"
+      "slug": "the-direction-the-jewish-people-would-choose",
+      "title": "The Direction the Jewish People Would Choose"
     },
     {
       "kind": "out",
@@ -382,13 +377,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-providence-of-resurrection-for-people-on-earth",
-      "title": "The Providence of Resurrection for People on Earth"
+      "slug": "the-limit-of-salvation-through-redemption-by-the-cross-and-the-purpose-of-jesus-second-advent",
+      "title": "The Limit of Salvation through Redemption by the Cross and the Purpose of Jesus’ Second Advent"
     },
     {
       "kind": "out",
-      "slug": "the-direction-the-jewish-people-would-choose",
-      "title": "The Direction the Jewish People Would Choose"
+      "slug": "the-providence-of-resurrection-for-people-on-earth",
+      "title": "The Providence of Resurrection for People on Earth"
     },
     {
       "kind": "out",
@@ -399,11 +394,6 @@
       "kind": "out",
       "slug": "the-unification-of-christianity-through-resurrection",
       "title": "The Unification of Christianity through Returning Resurrection"
-    },
-    {
-      "kind": "out",
-      "slug": "the-unification-of-all-other-religions-through-returning-resurrection",
-      "title": "The Unification of All Other Religions through Returning Resurrection"
     },
     {
       "kind": "in",
@@ -522,13 +512,13 @@
     },
     {
       "kind": "in",
-      "slug": "original-emotion-intellect-original-beauty-truth",
-      "title": "Original Emotion, Intellect and Will; and Original Beauty, Truth and Goodness"
+      "slug": "good-and-evil-seen-from-the-viewpoint-of-purpose",
+      "title": "Good and Evil Seen from the Viewpoint of Purpose"
     },
     {
       "kind": "in",
-      "slug": "good-and-evil-seen-from-the-viewpoint-of-purpose",
-      "title": "Good and Evil Seen from the Viewpoint of Purpose"
+      "slug": "original-emotion-intellect-original-beauty-truth",
+      "title": "Original Emotion, Intellect and Will; and Original Beauty, Truth and Goodness"
     }
   ],
   "original-emotion-intellect-original-beauty-truth": [
@@ -551,23 +541,23 @@
     },
     {
       "kind": "out",
-      "slug": "the-three-ordered-stages-of-the-growing-period",
-      "title": "The Three Ordered Stages of the Growing Period"
-    },
-    {
-      "kind": "out",
       "slug": "the-goal-of-the-providence-of-restoration",
       "title": "The Goal of the Providence of Restoration"
     },
     {
       "kind": "out",
-      "slug": "the-predestination-of-gods-will",
-      "title": "The Predestination of God’s Will"
+      "slug": "the-three-ordered-stages-of-the-growing-period",
+      "title": "The Three Ordered Stages of the Growing Period"
     },
     {
       "kind": "out",
       "slug": "the-providence-to-lay-the-foundation-for-restoration",
       "title": "The Number of Generations or Years in the Periods of the Age of the Providence to Lay the Foundation for Restoration"
+    },
+    {
+      "kind": "out",
+      "slug": "the-predestination-of-gods-will",
+      "title": "The Predestination of God’s Will"
     },
     {
       "kind": "in",
@@ -659,13 +649,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-second-world-war",
-      "title": "The Second World War"
+      "slug": "signs-of-the-restoration-of-the-second-blessing",
+      "title": "Signs of the Restoration of the Second Blessing"
     },
     {
       "kind": "in",
-      "slug": "signs-of-the-restoration-of-the-second-blessing",
-      "title": "Signs of the Restoration of the Second Blessing"
+      "slug": "the-second-world-war",
+      "title": "The Second World War"
     },
     {
       "kind": "in",
@@ -681,13 +671,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-trinity-exposition",
-      "title": "The Trinity"
+      "slug": "the-providence-of-restoration-in-adams-family",
+      "title": "The Providence of Restoration in Adam’s Family"
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-restoration-in-adams-family",
-      "title": "The Providence of Restoration in Adam’s Family"
+      "slug": "the-trinity-exposition",
+      "title": "The Trinity"
     },
     {
       "kind": "in",
@@ -708,11 +698,6 @@
       "kind": "in",
       "slug": "the-providence-to-lay-the-foundation-for-restoration",
       "title": "The Number of Generations or Years in the Periods of the Age of the Providence to Lay the Foundation for Restoration"
-    },
-    {
-      "kind": "in",
-      "slug": "when-will-christ-return",
-      "title": "When Will Christ Return?"
     },
     {
       "kind": "in",
@@ -782,13 +767,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-providence-of-resurrection-for-people-on-earth",
-      "title": "The Providence of Resurrection for People on Earth"
+      "slug": "the-process-and-standard-for-the-determination-of-original-value",
+      "title": "The Process and Standard for the Determination of Original Value"
     },
     {
       "kind": "out",
-      "slug": "the-process-and-standard-for-the-determination-of-original-value",
-      "title": "The Process and Standard for the Determination of Original Value"
+      "slug": "the-providence-of-resurrection-for-people-on-earth",
+      "title": "The Providence of Resurrection for People on Earth"
     },
     {
       "kind": "out",
@@ -819,23 +804,23 @@
     },
     {
       "kind": "out",
-      "slug": "signs-of-the-restoration-of-the-third-blessing",
-      "title": "Signs of the Restoration of the Third Blessing"
-    },
-    {
-      "kind": "out",
       "slug": "parallel-providential-periods",
       "title": "Parallel Providential Periods"
     },
     {
-      "kind": "in",
-      "slug": "the-unification-of-all-other-religions-through-returning-resurrection",
-      "title": "The Unification of All Other Religions through Returning Resurrection"
+      "kind": "out",
+      "slug": "signs-of-the-restoration-of-the-third-blessing",
+      "title": "Signs of the Restoration of the Third Blessing"
     },
     {
       "kind": "in",
       "slug": "signs-of-the-restoration-of-the-first-blessing",
       "title": "Signs of the Restoration of the First Blessing"
+    },
+    {
+      "kind": "in",
+      "slug": "the-unification-of-all-other-religions-through-returning-resurrection",
+      "title": "The Unification of All Other Religions through Returning Resurrection"
     },
     {
       "kind": "in",
@@ -878,13 +863,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
-      "title": "The Providence of Restoration under the Leadership of Moses"
+      "slug": "the-providence-of-restoration-in-noahs-family",
+      "title": "The Providence of Restoration in Noah’s Family"
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-restoration-in-noahs-family",
-      "title": "The Providence of Restoration in Noah’s Family"
+      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
+      "title": "The Providence of Restoration under the Leadership of Moses"
     },
     {
       "kind": "in",
@@ -910,16 +895,6 @@
       "kind": "in",
       "slug": "the-works-of-good-spirits-and-evil-spirits",
       "title": "The Works of Good Spirits and Evil Spirits"
-    },
-    {
-      "kind": "in",
-      "slug": "the-model-courses-for-bringing-satan-to-submission",
-      "title": "The Model Courses for Bringing Satan to Submission"
-    },
-    {
-      "kind": "in",
-      "slug": "the-purpose-of-jesus-coming-as-the-messiah",
-      "title": "The Purpose of Jesus’ Coming as the Messiah"
     }
   ],
   "the-ages-in-the-course-of-the-providence-of-restoration": [
@@ -1084,13 +1059,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-trinity-exposition",
-      "title": "The Trinity"
+      "slug": "rebirth-exposition",
+      "title": "Rebirth"
     },
     {
       "kind": "in",
-      "slug": "rebirth-exposition",
-      "title": "Rebirth"
+      "slug": "the-trinity-exposition",
+      "title": "The Trinity"
     },
     {
       "kind": "in",
@@ -1101,16 +1076,6 @@
       "kind": "in",
       "slug": "introduction",
       "title": "Introduction"
-    },
-    {
-      "kind": "in",
-      "slug": "the-significance-of-the-separation-of-powers",
-      "title": "The Significance of the Separation of Powers"
-    },
-    {
-      "kind": "in",
-      "slug": "the-value-of-a-person-who-has-realized-the-purpose-of-creation",
-      "title": "The Value of a Person Who Has Realized the Purpose of Creation"
     }
   ],
   "the-faithlessness-of-john-the-baptist": [
@@ -1180,6 +1145,11 @@
     },
     {
       "kind": "out",
+      "slug": "human-history-is-the-history-of-the-providence-of-restoration",
+      "title": "Human History Is the History of the Providence of Restoration"
+    },
+    {
+      "kind": "out",
       "slug": "the-period-of-religious-and-ideological-conflicts-1648-1789",
       "title": "The Period of Religious and Ideological Conflicts (1648-1789)"
     },
@@ -1190,13 +1160,13 @@
     },
     {
       "kind": "out",
-      "slug": "human-history-is-the-history-of-the-providence-of-restoration",
-      "title": "Human History Is the History of the Providence of Restoration"
-    },
-    {
-      "kind": "out",
       "slug": "the-significance-of-the-industrial-revolution",
       "title": "The Significance of the Industrial Revolution"
+    },
+    {
+      "kind": "in",
+      "slug": "the-providential-causes-of-the-world-wars",
+      "title": "The Providential Causes of the World Wars"
     },
     {
       "kind": "in",
@@ -1210,11 +1180,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-providential-causes-of-the-world-wars",
-      "title": "The Providential Causes of the World Wars"
-    },
-    {
-      "kind": "in",
       "slug": "where-will-christ-return",
       "title": "Where Will Christ Return?"
     }
@@ -1222,13 +1187,13 @@
   "the-foundation-for-the-messiah": [
     {
       "kind": "out",
-      "slug": "the-tree-of-life-and-the-tree-of-the-knowledge-of-good-and-evil",
-      "title": "The Tree of Life and the Tree of the Knowledge of Good and Evil"
+      "slug": "the-three-ordered-stages-of-the-growing-period",
+      "title": "The Three Ordered Stages of the Growing Period"
     },
     {
       "kind": "out",
-      "slug": "the-three-ordered-stages-of-the-growing-period",
-      "title": "The Three Ordered Stages of the Growing Period"
+      "slug": "the-tree-of-life-and-the-tree-of-the-knowledge-of-good-and-evil",
+      "title": "The Tree of Life and the Tree of the Knowledge of Good and Evil"
     },
     {
       "kind": "out",
@@ -1252,13 +1217,13 @@
     },
     {
       "kind": "in",
-      "slug": "restoration-through-indemnity-dp",
-      "title": "Restoration through Indemnity"
+      "slug": "democracy-exposition",
+      "title": "Democracy"
     },
     {
       "kind": "in",
-      "slug": "democracy-exposition",
-      "title": "Democracy"
+      "slug": "restoration-through-indemnity-dp",
+      "title": "Restoration through Indemnity"
     },
     {
       "kind": "in",
@@ -1267,13 +1232,18 @@
     },
     {
       "kind": "in",
+      "slug": "the-period-of-religious-and-ideological-conflicts-1648-1789",
+      "title": "The Period of Religious and Ideological Conflicts (1648-1789)"
+    },
+    {
+      "kind": "in",
       "slug": "the-providence-of-restoration-and-the-progress-of-history",
       "title": "The Providence of Restoration and the Progress of History"
     },
     {
       "kind": "in",
-      "slug": "the-period-of-religious-and-ideological-conflicts-1648-1789",
-      "title": "The Period of Religious and Ideological Conflicts (1648-1789)"
+      "slug": "the-providence-of-restoration-in-noahs-family",
+      "title": "The Providence of Restoration in Noah’s Family"
     },
     {
       "kind": "in",
@@ -1314,28 +1284,23 @@
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
-      "title": "The Providence of Restoration under the Leadership of Moses"
-    },
-    {
-      "kind": "in",
       "slug": "the-providence-of-restoration-in-noahs-family",
       "title": "The Providence of Restoration in Noah’s Family"
     },
     {
       "kind": "in",
-      "slug": "love-and-beauty-good-evil",
-      "title": "Love and Beauty, Good and Evil, Righteousness and Unrighteousness"
-    },
-    {
-      "kind": "in",
-      "slug": "the-trinity-exposition",
-      "title": "The Trinity"
+      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
+      "title": "The Providence of Restoration under the Leadership of Moses"
     },
     {
       "kind": "in",
       "slug": "good-object-partners-for-the-joy-of-god",
       "title": "Good Object Partners for the Joy of God"
+    },
+    {
+      "kind": "in",
+      "slug": "love-and-beauty-good-evil",
+      "title": "Love and Beauty, Good and Evil, Righteousness and Unrighteousness"
     },
     {
       "kind": "in",
@@ -1366,8 +1331,8 @@
     },
     {
       "kind": "in",
-      "slug": "what-changes-does-resurrection-cause-in-human-beings",
-      "title": "What Changes Does Resurrection Cause in Human Beings?"
+      "slug": "the-death-caused-by-the-human-fall",
+      "title": "The Death Caused by the Human Fall"
     },
     {
       "kind": "in",
@@ -1376,13 +1341,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-death-caused-by-the-human-fall",
-      "title": "The Death Caused by the Human Fall"
+      "slug": "two-kinds-of-prophecies-concerning-the-cross",
+      "title": "Two Kinds of Prophecies Concerning the Cross"
     },
     {
       "kind": "in",
-      "slug": "two-kinds-of-prophecies-concerning-the-cross",
-      "title": "Two Kinds of Prophecies Concerning the Cross"
+      "slug": "what-changes-does-resurrection-cause-in-human-beings",
+      "title": "What Changes Does Resurrection Cause in Human Beings?"
     }
   ],
   "the-goal-of-the-providence-of-restoration": [
@@ -1413,38 +1378,18 @@
     },
     {
       "kind": "in",
-      "slug": "the-model-courses-for-bringing-satan-to-submission",
-      "title": "The Model Courses for Bringing Satan to Submission"
-    },
-    {
-      "kind": "in",
       "slug": "signs-of-the-restoration-of-the-second-blessing",
       "title": "Signs of the Restoration of the Second Blessing"
     },
     {
       "kind": "in",
-      "slug": "the-period-of-the-divided-kingdoms-of-north-and-south",
-      "title": "The Period of the Divided Kingdoms of North and South and the Period of the Divided Kingdoms of East and West"
-    },
-    {
-      "kind": "in",
-      "slug": "the-providence-to-lay-the-foundation-for-restoration",
-      "title": "The Number of Generations or Years in the Periods of the Age of the Providence to Lay the Foundation for Restoration"
-    },
-    {
-      "kind": "in",
-      "slug": "the-period-of-the-united-kingdom-and-the-period-of-the-christian-empire",
-      "title": "The Period of the United Kingdom and the Period of the Christian Empire"
+      "slug": "the-model-courses-for-bringing-satan-to-submission",
+      "title": "The Model Courses for Bringing Satan to Submission"
     },
     {
       "kind": "in",
       "slug": "parallel-providential-periods",
       "title": "Parallel Providential Periods"
-    },
-    {
-      "kind": "in",
-      "slug": "the-purpose-of-jesus-coming-as-the-messiah",
-      "title": "The Purpose of Jesus’ Coming as the Messiah"
     }
   ],
   "the-growing-period-for-the-creation": [
@@ -1691,11 +1636,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-restoration-and-the-progress-of-history",
-      "title": "The Providence of Restoration and the Progress of History"
-    },
-    {
-      "kind": "in",
       "slug": "human-history-is-the-history-of-the-providence-of-restoration",
       "title": "Human History Is the History of the Providence of Restoration"
     },
@@ -1706,8 +1646,18 @@
     },
     {
       "kind": "in",
+      "slug": "the-providence-of-restoration-and-the-progress-of-history",
+      "title": "The Providence of Restoration and the Progress of History"
+    },
+    {
+      "kind": "in",
       "slug": "the-providence-of-restoration-in-noahs-family",
       "title": "The Providence of Restoration in Noah’s Family"
+    },
+    {
+      "kind": "in",
+      "slug": "the-last-days-and-the-new-truth",
+      "title": "The Last Days and the New Truth"
     },
     {
       "kind": "in",
@@ -1718,11 +1668,6 @@
       "kind": "in",
       "slug": "the-providence-of-resurrection-for-people-on-earth",
       "title": "The Providence of Resurrection for People on Earth"
-    },
-    {
-      "kind": "in",
-      "slug": "the-last-days-and-the-new-truth",
-      "title": "The Last Days and the New Truth"
     }
   ],
   "the-model-courses-for-bringing-satan-to-submission": [
@@ -1760,16 +1705,6 @@
       "kind": "out",
       "slug": "the-primary-characteristics-of-the-fallen-nature",
       "title": "The Primary Characteristics of the Fallen Nature"
-    },
-    {
-      "kind": "out",
-      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
-      "title": "The Providence of Restoration under the Leadership of Moses"
-    },
-    {
-      "kind": "out",
-      "slug": "the-root-of-sin",
-      "title": "The Root of Sin"
     },
     {
       "kind": "in",
@@ -1925,13 +1860,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-third-world-war",
-      "title": "The Third World War"
+      "slug": "the-providential-causes-of-the-world-wars",
+      "title": "The Providential Causes of the World Wars"
     },
     {
       "kind": "in",
-      "slug": "the-providential-causes-of-the-world-wars",
-      "title": "The Providential Causes of the World Wars"
+      "slug": "the-third-world-war",
+      "title": "The Third World War"
     }
   ],
   "the-period-of-slavery-in-egypt-and-the-period-of-persecution-in-the-roman-empire": [
@@ -1947,18 +1882,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
-      "title": "The Providence of Restoration under the Leadership of Moses"
-    },
-    {
-      "kind": "out",
       "slug": "the-providence-of-restoration-in-noahs-family",
       "title": "The Providence of Restoration in Noah’s Family"
     },
     {
-      "kind": "in",
-      "slug": "the-period-of-the-divided-kingdoms-of-north-and-south",
-      "title": "The Period of the Divided Kingdoms of North and South and the Period of the Divided Kingdoms of East and West"
+      "kind": "out",
+      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
+      "title": "The Providence of Restoration under the Leadership of Moses"
     },
     {
       "kind": "in",
@@ -1967,13 +1897,18 @@
     },
     {
       "kind": "in",
-      "slug": "the-periods-in-the-age-of-the-prolongation-of-the-providence-of-restoration-and-their-lengths",
-      "title": "The Periods in the Age of the Prolongation of the Providence of Restoration and Their Lengths"
+      "slug": "the-period-of-the-divided-kingdoms-of-north-and-south",
+      "title": "The Period of the Divided Kingdoms of North and South and the Period of the Divided Kingdoms of East and West"
     },
     {
       "kind": "in",
       "slug": "parallel-providential-periods-chapter",
       "title": "Chart 2: Parallel Providential Periods"
+    },
+    {
+      "kind": "in",
+      "slug": "the-periods-in-the-age-of-the-prolongation-of-the-providence-of-restoration-and-their-lengths",
+      "title": "The Periods in the Age of the Prolongation of the Providence of Restoration and Their Lengths"
     }
   ],
   "the-period-of-the-divided-kingdoms-of-north-and-south": [
@@ -2068,13 +2003,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-renaissance",
-      "title": "The Renaissance"
+      "slug": "the-providence-of-restoration-in-adams-family",
+      "title": "The Providence of Restoration in Adam’s Family"
     },
     {
       "kind": "out",
-      "slug": "the-providence-of-restoration-in-adams-family",
-      "title": "The Providence of Restoration in Adam’s Family"
+      "slug": "the-renaissance",
+      "title": "The Renaissance"
     },
     {
       "kind": "out",
@@ -2296,13 +2231,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
-      "title": "The Providence of Restoration under the Leadership of Moses"
+      "slug": "the-providence-of-restoration-in-noahs-family",
+      "title": "The Providence of Restoration in Noah’s Family"
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-restoration-in-noahs-family",
-      "title": "The Providence of Restoration in Noah’s Family"
+      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
+      "title": "The Providence of Restoration under the Leadership of Moses"
     },
     {
       "kind": "in",
@@ -2313,11 +2248,6 @@
       "kind": "in",
       "slug": "the-providence-of-restoration-under-the-leadership-of-jesus",
       "title": "The Providence of Restoration under the Leadership of Jesus"
-    },
-    {
-      "kind": "in",
-      "slug": "the-model-courses-for-bringing-satan-to-submission",
-      "title": "The Model Courses for Bringing Satan to Submission"
     }
   ],
   "the-process-and-standard-for-the-determination-of-original-value": [
@@ -2407,40 +2337,45 @@
     },
     {
       "kind": "out",
-      "slug": "the-period-of-the-judges-and-the-period-of-regional-church-leadership",
-      "title": "The Period of the Judges and the Period of Regional Church Leadership"
-    },
-    {
-      "kind": "out",
       "slug": "good-object-partners-for-the-joy-of-god",
       "title": "Good Object Partners for the Joy of God"
     },
     {
-      "kind": "out",
-      "slug": "the-last-days-and-the-new-truth",
-      "title": "The Last Days and the New Truth"
+      "kind": "in",
+      "slug": "the-first-world-war",
+      "title": "The First World War"
     },
     {
-      "kind": "out",
-      "slug": "the-period-of-the-divided-kingdoms-of-north-and-south",
-      "title": "The Period of the Divided Kingdoms of North and South and the Period of the Divided Kingdoms of East and West"
+      "kind": "in",
+      "slug": "the-period-of-preparation-for-the-advent-of-the-messiah-and-the-period-of-preparation-for-the-second-advent-of-the-messiah",
+      "title": "The Period of Preparation for the Advent of the Messiah and the Period of Preparation for the Second Advent of the Messiah"
     },
     {
-      "kind": "out",
-      "slug": "the-period-of-the-reformation-1517-1648",
-      "title": "The Period of the Reformation (1517-1648)"
+      "kind": "in",
+      "slug": "the-providential-causes-of-the-world-wars",
+      "title": "The Providential Causes of the World Wars"
+    },
+    {
+      "kind": "in",
+      "slug": "the-third-world-war",
+      "title": "The Third World War"
+    },
+    {
+      "kind": "in",
+      "slug": "when-will-christ-return",
+      "title": "When Will Christ Return?"
     }
   ],
   "the-providence-of-restoration-in-abrahams-family": [
     {
       "kind": "bi",
-      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
-      "title": "The Providence of Restoration under the Leadership of Moses"
+      "slug": "the-providence-of-restoration-in-noahs-family",
+      "title": "The Providence of Restoration in Noah’s Family"
     },
     {
       "kind": "bi",
-      "slug": "the-providence-of-restoration-in-noahs-family",
-      "title": "The Providence of Restoration in Noah’s Family"
+      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
+      "title": "The Providence of Restoration under the Leadership of Moses"
     },
     {
       "kind": "out",
@@ -2486,6 +2421,11 @@
       "kind": "in",
       "slug": "the-providence-to-lay-the-foundation-for-restoration",
       "title": "The Number of Generations or Years in the Periods of the Age of the Providence to Lay the Foundation for Restoration"
+    },
+    {
+      "kind": "in",
+      "slug": "the-periods-in-the-age-of-the-providence-of-restoration-and-their-lengths",
+      "title": "The Periods in the Age of the Providence of Restoration and Their Lengths"
     },
     {
       "kind": "in",
@@ -2535,11 +2475,6 @@
       "title": "God’s Work of Salvation is the Providence of Restoration"
     },
     {
-      "kind": "out",
-      "slug": "satan-and-fallen-humanity",
-      "title": "Satan and Fallen Humanity"
-    },
-    {
       "kind": "in",
       "slug": "the-providence-of-restoration-in-abrahams-family",
       "title": "The Providence of Restoration in Abraham’s Family"
@@ -2548,6 +2483,11 @@
       "kind": "in",
       "slug": "the-providence-to-lay-the-foundation-for-restoration",
       "title": "The Number of Generations or Years in the Periods of the Age of the Providence to Lay the Foundation for Restoration"
+    },
+    {
+      "kind": "in",
+      "slug": "the-history-of-the-providence-of-restoration-and-i",
+      "title": "The History of the Providence of Restoration and I"
     },
     {
       "kind": "in",
@@ -2598,23 +2538,28 @@
     },
     {
       "kind": "out",
-      "slug": "the-predestination-of-the-way-in-which-gods-will-is-fulfilled",
-      "title": "The Predestination of the Way in Which God’s Will Is Fulfilled"
-    },
-    {
-      "kind": "out",
       "slug": "the-predestination-of-human-beings",
       "title": "The Predestination of Human Beings"
-    },
-    {
-      "kind": "out",
-      "slug": "the-process-of-the-creation-of-the-universe",
-      "title": "The Process of the Creation of the Universe"
     },
     {
       "kind": "in",
       "slug": "the-period-of-slavery-in-egypt-and-the-period-of-persecution-in-the-roman-empire",
       "title": "The Period of Slavery in Egypt and the Period of Persecution in the Roman Empire"
+    },
+    {
+      "kind": "in",
+      "slug": "the-providence-to-lay-the-foundation-for-restoration",
+      "title": "The Number of Generations or Years in the Periods of the Age of the Providence to Lay the Foundation for Restoration"
+    },
+    {
+      "kind": "in",
+      "slug": "the-periods-in-the-age-of-the-providence-of-restoration-and-their-lengths",
+      "title": "The Periods in the Age of the Providence of Restoration and Their Lengths"
+    },
+    {
+      "kind": "in",
+      "slug": "where-will-christ-return",
+      "title": "Where Will Christ Return?"
     }
   ],
   "the-providence-of-restoration-under-the-leadership-of-jesus": [
@@ -2659,24 +2604,19 @@
       "title": "The Primary Characteristics of the Fallen Nature"
     },
     {
-      "kind": "out",
-      "slug": "the-limit-of-salvation-through-redemption-by-the-cross-and-the-purpose-of-jesus-second-advent",
-      "title": "The Limit of Salvation through Redemption by the Cross and the Purpose of Jesus’ Second Advent"
+      "kind": "in",
+      "slug": "the-last-days-and-the-new-truth",
+      "title": "The Last Days and the New Truth"
     },
     {
-      "kind": "out",
-      "slug": "the-faithlessness-of-john-the-baptist",
-      "title": "The Faithlessness of John the Baptist"
+      "kind": "in",
+      "slug": "the-period-of-the-reformation-1517-1648",
+      "title": "The Period of the Reformation (1517-1648)"
     },
     {
-      "kind": "out",
-      "slug": "the-direction-the-jewish-people-would-choose",
-      "title": "The Direction the Jewish People Would Choose"
-    },
-    {
-      "kind": "out",
-      "slug": "was-salvation-completed-through-the-cross",
-      "title": "Was Salvation Completed through the Cross?"
+      "kind": "in",
+      "slug": "the-third-world-war",
+      "title": "The Third World War"
     }
   ],
   "the-providence-of-restoration-under-the-leadership-of-moses": [
@@ -2726,11 +2666,6 @@
       "title": "God’s Work of Salvation is the Providence of Restoration"
     },
     {
-      "kind": "out",
-      "slug": "the-faithlessness-of-john-the-baptist",
-      "title": "The Faithlessness of John the Baptist"
-    },
-    {
       "kind": "in",
       "slug": "the-period-of-slavery-in-egypt-and-the-period-of-persecution-in-the-roman-empire",
       "title": "The Period of Slavery in Egypt and the Period of Persecution in the Roman Empire"
@@ -2739,6 +2674,16 @@
       "kind": "in",
       "slug": "the-period-of-the-judges-and-the-period-of-regional-church-leadership",
       "title": "The Period of the Judges and the Period of Regional Church Leadership"
+    },
+    {
+      "kind": "in",
+      "slug": "the-model-courses-for-bringing-satan-to-submission",
+      "title": "The Model Courses for Bringing Satan to Submission"
+    },
+    {
+      "kind": "in",
+      "slug": "the-period-of-the-divided-kingdoms-of-north-and-south",
+      "title": "The Period of the Divided Kingdoms of North and South and the Period of the Divided Kingdoms of East and West"
     }
   ],
   "the-providence-of-resurrection-for-people-on-earth": [
@@ -2774,13 +2719,13 @@
     },
     {
       "kind": "in",
-      "slug": "what-is-the-meaning-of-the-verse-that-christ-will-return-on-the-clouds",
-      "title": "What is the Meaning of the Verse that Christ Will Return on the Clouds?"
+      "slug": "how-does-god-carry-out-his-work-of-resurrection",
+      "title": "How Does God Carry Out His Work of Resurrection?"
     },
     {
       "kind": "in",
-      "slug": "how-does-god-carry-out-his-work-of-resurrection",
-      "title": "How Does God Carry Out His Work of Resurrection?"
+      "slug": "what-is-the-meaning-of-the-verse-that-christ-will-return-on-the-clouds",
+      "title": "What is the Meaning of the Verse that Christ Will Return on the Clouds?"
     }
   ],
   "the-providence-of-resurrection-for-spirits": [
@@ -2855,21 +2800,6 @@
       "kind": "out",
       "slug": "the-period-of-slavery-in-egypt-and-the-period-of-persecution-in-the-roman-empire",
       "title": "The Period of Slavery in Egypt and the Period of Persecution in the Roman Empire"
-    },
-    {
-      "kind": "out",
-      "slug": "the-trinity-exposition",
-      "title": "The Trinity"
-    },
-    {
-      "kind": "out",
-      "slug": "the-providence-of-restoration-in-adams-family",
-      "title": "The Providence of Restoration in Adam’s Family"
-    },
-    {
-      "kind": "out",
-      "slug": "the-model-courses-for-bringing-satan-to-submission",
-      "title": "The Model Courses for Bringing Satan to Submission"
     },
     {
       "kind": "in",
@@ -2959,8 +2889,8 @@
     },
     {
       "kind": "in",
-      "slug": "the-reason-all-beings-are-composed-of-dual-characteristics",
-      "title": "The Reason All Beings Are Composed of Dual Characteristics"
+      "slug": "the-completion-of-gods-purpose-of-creation",
+      "title": "The Completion of God’s Purpose of Creation"
     },
     {
       "kind": "in",
@@ -2969,8 +2899,8 @@
     },
     {
       "kind": "in",
-      "slug": "the-completion-of-gods-purpose-of-creation",
-      "title": "The Completion of God’s Purpose of Creation"
+      "slug": "the-reason-all-beings-are-composed-of-dual-characteristics",
+      "title": "The Reason All Beings Are Composed of Dual Characteristics"
     }
   ],
   "the-realm-of-direct-dominion": [
@@ -2991,13 +2921,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-realm-of-indirect-dominion",
-      "title": "The Realm of Indirect Dominion"
+      "slug": "good-object-partners-for-the-joy-of-god",
+      "title": "Good Object Partners for the Joy of God"
     },
     {
       "kind": "in",
-      "slug": "good-object-partners-for-the-joy-of-god",
-      "title": "Good Object Partners for the Joy of God"
+      "slug": "the-realm-of-indirect-dominion",
+      "title": "The Realm of Indirect Dominion"
     }
   ],
   "the-realm-of-indirect-dominion": [
@@ -3018,8 +2948,8 @@
     },
     {
       "kind": "in",
-      "slug": "why-god-set-up-the-commandment-as-an-object-of-faith",
-      "title": "Why God Set Up the Commandment as an Object of Faith"
+      "slug": "the-completion-of-gods-purpose-of-creation",
+      "title": "The Completion of God’s Purpose of Creation"
     },
     {
       "kind": "in",
@@ -3028,8 +2958,8 @@
     },
     {
       "kind": "in",
-      "slug": "the-completion-of-gods-purpose-of-creation",
-      "title": "The Completion of God’s Purpose of Creation"
+      "slug": "why-god-set-up-the-commandment-as-an-object-of-faith",
+      "title": "Why God Set Up the Commandment as an Object of Faith"
     }
   ],
   "the-reason-all-beings-are-composed-of-dual-characteristics": [
@@ -3119,11 +3049,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-biblical-concepts-of-life-and-death",
-      "title": "The Biblical Concepts of Life and Death"
-    },
-    {
-      "kind": "in",
       "slug": "how-does-god-carry-out-his-work-of-resurrection",
       "title": "How Does God Carry Out His Work of Resurrection?"
     }
@@ -3195,13 +3120,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-period-of-religious-and-ideological-conflicts-1648-1789",
-      "title": "The Period of Religious and Ideological Conflicts (1648-1789)"
+      "slug": "human-history-is-the-history-of-the-providence-of-restoration",
+      "title": "Human History Is the History of the Providence of Restoration"
     },
     {
       "kind": "in",
-      "slug": "human-history-is-the-history-of-the-providence-of-restoration",
-      "title": "Human History Is the History of the Providence of Restoration"
+      "slug": "the-period-of-religious-and-ideological-conflicts-1648-1789",
+      "title": "The Period of Religious and Ideological Conflicts (1648-1789)"
     },
     {
       "kind": "in",
@@ -3254,13 +3179,13 @@
     },
     {
       "kind": "out",
-      "slug": "restoration-through-indemnity-dp",
-      "title": "Restoration through Indemnity"
+      "slug": "democracy-exposition",
+      "title": "Democracy"
     },
     {
       "kind": "out",
-      "slug": "democracy-exposition",
-      "title": "Democracy"
+      "slug": "restoration-through-indemnity-dp",
+      "title": "Restoration through Indemnity"
     },
     {
       "kind": "out",
@@ -3377,13 +3302,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-third-world-war",
-      "title": "The Third World War"
+      "slug": "angels-their-missions-and-their-relationship",
+      "title": "Angels, Their Missions and Their Relationship to Human Beings"
     },
     {
       "kind": "in",
-      "slug": "angels-their-missions-and-their-relationship",
-      "title": "Angels, Their Missions and Their Relationship to Human Beings"
+      "slug": "the-third-world-war",
+      "title": "The Third World War"
     }
   ],
   "the-third-world-war": [
@@ -3409,13 +3334,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-spiritual-fall-and-the-physical-fall",
-      "title": "The Spiritual Fall and the Physical Fall"
+      "slug": "the-first-world-war",
+      "title": "The First World War"
     },
     {
       "kind": "out",
-      "slug": "the-first-world-war",
-      "title": "The First World War"
+      "slug": "the-spiritual-fall-and-the-physical-fall",
+      "title": "The Spiritual Fall and the Physical Fall"
     },
     {
       "kind": "out",
@@ -3523,13 +3448,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
-      "title": "The Providence of Restoration under the Leadership of Moses"
+      "slug": "human-history-is-the-history-of-the-providence-of-restoration",
+      "title": "Human History Is the History of the Providence of Restoration"
     },
     {
       "kind": "in",
-      "slug": "human-history-is-the-history-of-the-providence-of-restoration",
-      "title": "Human History Is the History of the Providence of Restoration"
+      "slug": "the-providence-of-restoration-under-the-leadership-of-moses",
+      "title": "The Providence of Restoration under the Leadership of Moses"
     },
     {
       "kind": "in",
@@ -3540,16 +3465,6 @@
       "kind": "in",
       "slug": "the-providence-of-restoration-under-the-leadership-of-jesus",
       "title": "The Providence of Restoration under the Leadership of Jesus"
-    },
-    {
-      "kind": "in",
-      "slug": "the-fall-of-the-angel-and-the-fall-of-human-beings",
-      "title": "The Fall of the Angel and the Fall of Human Beings"
-    },
-    {
-      "kind": "in",
-      "slug": "theory-of-reincarnation-examined-in-light",
-      "title": "The Theory of Reincarnation Examined in Light of the Principle of Returning Resurrection"
     }
   ],
   "the-trinity-exposition": [
@@ -3705,6 +3620,11 @@
     },
     {
       "kind": "in",
+      "slug": "good-and-evil-seen-from-the-viewpoint-of-purpose",
+      "title": "Good and Evil Seen from the Viewpoint of Purpose"
+    },
+    {
+      "kind": "in",
       "slug": "satans-activities-in-human-society",
       "title": "Satan’s Activities in Human Society"
     },
@@ -3712,11 +3632,6 @@
       "kind": "in",
       "slug": "the-unification-of-non-religious-people-through-returning-resurrection",
       "title": "The Unification of Non-Religious People through Returning Resurrection"
-    },
-    {
-      "kind": "in",
-      "slug": "good-and-evil-seen-from-the-viewpoint-of-purpose",
-      "title": "Good and Evil Seen from the Viewpoint of Purpose"
     }
   ],
   "theory-of-reincarnation-examined-in-light": [
@@ -3764,13 +3679,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-purpose-of-jesus-coming-as-the-messiah",
-      "title": "The Purpose of Jesus’ Coming as the Messiah"
+      "slug": "jesus-death-on-the-cross",
+      "title": "Jesus’ Death on the Cross"
     },
     {
       "kind": "out",
-      "slug": "jesus-death-on-the-cross",
-      "title": "Jesus’ Death on the Cross"
+      "slug": "the-purpose-of-jesus-coming-as-the-messiah",
+      "title": "The Purpose of Jesus’ Coming as the Messiah"
     },
     {
       "kind": "out",
@@ -3813,13 +3728,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-purpose-of-jesus-coming-as-the-messiah",
-      "title": "The Purpose of Jesus’ Coming as the Messiah"
+      "slug": "the-predestination-of-gods-will",
+      "title": "The Predestination of God’s Will"
     },
     {
       "kind": "in",
-      "slug": "the-predestination-of-gods-will",
-      "title": "The Predestination of God’s Will"
+      "slug": "the-purpose-of-jesus-coming-as-the-messiah",
+      "title": "The Purpose of Jesus’ Coming as the Messiah"
     }
   ],
   "what-changes-does-resurrection-cause-in-human-beings": [
@@ -3933,26 +3848,6 @@
       "kind": "out",
       "slug": "the-last-days-and-the-new-truth",
       "title": "The Last Days and the New Truth"
-    },
-    {
-      "kind": "out",
-      "slug": "signs-of-the-restoration-of-the-second-blessing",
-      "title": "Signs of the Restoration of the Second Blessing"
-    },
-    {
-      "kind": "out",
-      "slug": "the-second-world-war",
-      "title": "The Second World War"
-    },
-    {
-      "kind": "out",
-      "slug": "theory-of-reincarnation-examined-in-light",
-      "title": "The Theory of Reincarnation Examined in Light of the Principle of Returning Resurrection"
-    },
-    {
-      "kind": "out",
-      "slug": "parallels-between-jesus-day-and-today",
-      "title": "Parallels between Jesus’ Day and Today"
     },
     {
       "kind": "in",

@@ -88,9 +88,39 @@
       "title": "The Purpose of Human Life"
     },
     {
-      "kind": "out",
-      "slug": "noah",
-      "title": "Noah"
+      "kind": "in",
+      "slug": "jesus-world-scripture",
+      "title": "Jesus"
+    },
+    {
+      "kind": "in",
+      "slug": "angels",
+      "title": "Angels"
+    },
+    {
+      "kind": "in",
+      "slug": "moses-world-scripture",
+      "title": "Moses"
+    },
+    {
+      "kind": "in",
+      "slug": "hell",
+      "title": "Hell"
+    },
+    {
+      "kind": "in",
+      "slug": "the-devil-and-his-activities",
+      "title": "The Devil and His Activities"
+    },
+    {
+      "kind": "in",
+      "slug": "dreams",
+      "title": "Dreams"
+    },
+    {
+      "kind": "in",
+      "slug": "universal-salvation",
+      "title": "Universal Salvation"
     }
   ],
   "angels": [
@@ -141,18 +171,53 @@
     },
     {
       "kind": "out",
-      "slug": "muhammad",
-      "title": "Muhammad"
-    },
-    {
-      "kind": "out",
       "slug": "islam",
       "title": "Islam"
     },
     {
       "kind": "out",
+      "slug": "muhammad",
+      "title": "Muhammad"
+    },
+    {
+      "kind": "out",
       "slug": "good-deeds",
       "title": "Good Deeds"
+    },
+    {
+      "kind": "in",
+      "slug": "human-fall",
+      "title": "The Human Fall"
+    },
+    {
+      "kind": "in",
+      "slug": "jesus-world-scripture",
+      "title": "Jesus"
+    },
+    {
+      "kind": "in",
+      "slug": "righteousness",
+      "title": "Righteousness"
+    },
+    {
+      "kind": "in",
+      "slug": "praise",
+      "title": "Praise"
+    },
+    {
+      "kind": "in",
+      "slug": "heaven",
+      "title": "Heaven"
+    },
+    {
+      "kind": "in",
+      "slug": "true-love",
+      "title": "True Love"
+    },
+    {
+      "kind": "in",
+      "slug": "dreams",
+      "title": "Dreams"
     }
   ],
   "arguing-with-god": [
@@ -190,21 +255,6 @@
       "kind": "out",
       "slug": "obedience-and-submission",
       "title": "Obedience and Submission"
-    },
-    {
-      "kind": "out",
-      "slug": "assurance",
-      "title": "Assurance"
-    },
-    {
-      "kind": "out",
-      "slug": "ritual",
-      "title": "Ritual"
-    },
-    {
-      "kind": "out",
-      "slug": "the-fear-of-god",
-      "title": "The Fear of God"
     }
   ],
   "asceticism-monasticism-and-celibacy": [
@@ -249,24 +299,39 @@
       "title": "The Messiah"
     },
     {
-      "kind": "out",
-      "slug": "humility",
-      "title": "Humility"
+      "kind": "in",
+      "slug": "praise",
+      "title": "Praise"
     },
     {
-      "kind": "out",
-      "slug": "repentance",
-      "title": "Repentance"
+      "kind": "in",
+      "slug": "self-control",
+      "title": "Self-Control"
     },
     {
-      "kind": "out",
-      "slug": "resurrections",
-      "title": "Resurrection"
+      "kind": "in",
+      "slug": "offerings-and-tithes",
+      "title": "Offerings and Tithes"
     },
     {
-      "kind": "out",
-      "slug": "new-revelation",
-      "title": "New Revelation"
+      "kind": "in",
+      "slug": "self-sacrifice",
+      "title": "Self-Sacrifice"
+    },
+    {
+      "kind": "in",
+      "slug": "chastity",
+      "title": "Chastity"
+    },
+    {
+      "kind": "in",
+      "slug": "subduing-the-desires-of-the-flesh",
+      "title": "Subduing the Desires of the Flesh"
+    },
+    {
+      "kind": "in",
+      "slug": "exemplary-leadership",
+      "title": "Exemplary Leadership"
     }
   ],
   "assurance": [
@@ -329,6 +394,16 @@
       "kind": "in",
       "slug": "the-fear-of-god",
       "title": "The Fear of God"
+    },
+    {
+      "kind": "in",
+      "slug": "the-moral-foundations-of-society",
+      "title": "The Moral Foundations of Society"
+    },
+    {
+      "kind": "in",
+      "slug": "hope",
+      "title": "Hope"
     }
   ],
   "beauty": [
@@ -339,13 +414,13 @@
     },
     {
       "kind": "out",
-      "slug": "spirit-world",
-      "title": "The Spirit World"
+      "slug": "synergy-of-grace-and-effort",
+      "title": "Synergy of Grace and Effort"
     },
     {
       "kind": "out",
-      "slug": "synergy-of-grace-and-effort",
-      "title": "Synergy of Grace and Effort"
+      "slug": "spirit-world",
+      "title": "The Spirit World"
     },
     {
       "kind": "out",
@@ -354,13 +429,13 @@
     },
     {
       "kind": "out",
-      "slug": "microcosm-and-macrocosm",
-      "title": "Microcosm and Macrocosm"
+      "slug": "duality",
+      "title": "Duality"
     },
     {
       "kind": "out",
-      "slug": "duality",
-      "title": "Duality"
+      "slug": "microcosm-and-macrocosm",
+      "title": "Microcosm and Macrocosm"
     },
     {
       "kind": "in",
@@ -421,33 +496,8 @@
     },
     {
       "kind": "out",
-      "slug": "praise",
-      "title": "Praise"
-    },
-    {
-      "kind": "out",
       "slug": "meditation",
       "title": "Meditation"
-    },
-    {
-      "kind": "out",
-      "slug": "devotion",
-      "title": "Devotion"
-    },
-    {
-      "kind": "out",
-      "slug": "prayer",
-      "title": "Prayer"
-    },
-    {
-      "kind": "out",
-      "slug": "inherited-sin-and-karma",
-      "title": "Inherited Sin and Karma"
-    },
-    {
-      "kind": "out",
-      "slug": "offerings-and-tithes",
-      "title": "Offerings and Tithes"
     }
   ],
   "beyond-the-law": [
@@ -487,29 +537,24 @@
       "title": "Freedom"
     },
     {
-      "kind": "out",
-      "slug": "microcosm-and-macrocosm",
-      "title": "Microcosm and Macrocosm"
-    },
-    {
-      "kind": "out",
-      "slug": "duality",
-      "title": "Duality"
-    },
-    {
-      "kind": "out",
-      "slug": "ritual",
-      "title": "Ritual"
-    },
-    {
-      "kind": "out",
-      "slug": "cause-and-effect",
-      "title": "Cause and Effect"
-    },
-    {
       "kind": "in",
       "slug": "sacrificial-love",
       "title": "Sacrificial Love"
+    },
+    {
+      "kind": "in",
+      "slug": "filial-piety",
+      "title": "Filial Piety"
+    },
+    {
+      "kind": "in",
+      "slug": "eternal-truth",
+      "title": "Eternal Truth"
+    },
+    {
+      "kind": "in",
+      "slug": "interdependence",
+      "title": "Interdependence"
     }
   ],
   "buddha-world-scripture": [
@@ -565,13 +610,13 @@
     },
     {
       "kind": "in",
-      "slug": "true-love",
-      "title": "True Love"
+      "slug": "enlightenment",
+      "title": "Enlightenment"
     },
     {
       "kind": "in",
-      "slug": "enlightenment",
-      "title": "Enlightenment"
+      "slug": "the-devil-and-his-activities",
+      "title": "The Devil and His Activities"
     }
   ],
   "buddhism": [
@@ -634,6 +679,31 @@
       "kind": "in",
       "slug": "jesus-world-scripture",
       "title": "Jesus"
+    },
+    {
+      "kind": "in",
+      "slug": "spirit-world",
+      "title": "The Spirit World"
+    },
+    {
+      "kind": "in",
+      "slug": "the-messiah",
+      "title": "The Messiah"
+    },
+    {
+      "kind": "in",
+      "slug": "ignorance-and-atheism",
+      "title": "Ignorance and Atheism"
+    },
+    {
+      "kind": "in",
+      "slug": "the-purpose-of-religion",
+      "title": "The Purpose of Religion"
+    },
+    {
+      "kind": "in",
+      "slug": "inherited-sin-and-karma",
+      "title": "Inherited Sin and Karma"
     }
   ],
   "cain-abel": [
@@ -721,23 +791,13 @@
     },
     {
       "kind": "out",
-      "slug": "muhammad",
-      "title": "Muhammad"
-    },
-    {
-      "kind": "out",
       "slug": "heaven",
       "title": "Heaven"
     },
     {
       "kind": "out",
-      "slug": "omniscient-and-omnipresent",
-      "title": "Omniscient and Omnipresent"
-    },
-    {
-      "kind": "out",
-      "slug": "spiritual-error-and-the-occult",
-      "title": "Spiritual Error and the Occult"
+      "slug": "muhammad",
+      "title": "Muhammad"
     },
     {
       "kind": "in",
@@ -768,13 +828,13 @@
     },
     {
       "kind": "out",
-      "slug": "good-deeds",
-      "title": "Good Deeds"
+      "slug": "enlightenment",
+      "title": "Enlightenment"
     },
     {
       "kind": "out",
-      "slug": "enlightenment",
-      "title": "Enlightenment"
+      "slug": "good-deeds",
+      "title": "Good Deeds"
     },
     {
       "kind": "out",
@@ -792,19 +852,14 @@
       "title": "Joy"
     },
     {
-      "kind": "out",
-      "slug": "the-rebirth",
-      "title": "Rebirth"
+      "kind": "in",
+      "slug": "beyond-the-law",
+      "title": "Beyond the Law"
     },
     {
-      "kind": "out",
-      "slug": "reincarnation",
-      "title": "Reincarnation"
-    },
-    {
-      "kind": "out",
-      "slug": "duality",
-      "title": "Duality"
+      "kind": "in",
+      "slug": "interdependence",
+      "title": "Interdependence"
     }
   ],
   "caution-and-vigilance": [
@@ -849,16 +904,6 @@
       "title": "Self-Control"
     },
     {
-      "kind": "out",
-      "slug": "offerings-and-tithes",
-      "title": "Offerings and Tithes"
-    },
-    {
-      "kind": "out",
-      "slug": "modesty",
-      "title": "Modesty"
-    },
-    {
       "kind": "in",
       "slug": "recognizing-the-day-of-the-lord",
       "title": "Recognizing the Day of the Lord"
@@ -867,6 +912,21 @@
       "kind": "in",
       "slug": "family-as-the-cornerstone-of-society",
       "title": "Family as the Cornerstone of Society"
+    },
+    {
+      "kind": "in",
+      "slug": "interdependence",
+      "title": "Interdependence"
+    },
+    {
+      "kind": "in",
+      "slug": "prudent-speech",
+      "title": "Prudent Speech"
+    },
+    {
+      "kind": "in",
+      "slug": "moderation",
+      "title": "Moderation"
     }
   ],
   "charity": [
@@ -929,6 +989,21 @@
       "kind": "in",
       "slug": "perfection",
       "title": "Perfection"
+    },
+    {
+      "kind": "in",
+      "slug": "spiritual-union",
+      "title": "Spiritual Union"
+    },
+    {
+      "kind": "in",
+      "slug": "beyond-the-law",
+      "title": "Beyond the Law"
+    },
+    {
+      "kind": "in",
+      "slug": "grief",
+      "title": "Grief"
     }
   ],
   "chastity": [
@@ -991,6 +1066,11 @@
       "kind": "in",
       "slug": "refining-fire",
       "title": "Refining Fire"
+    },
+    {
+      "kind": "in",
+      "slug": "sobriety-and-temperance",
+      "title": "Sobriety and Temperance"
     }
   ],
   "christianity": [
@@ -1035,24 +1115,39 @@
       "title": "Reconciliation and Peacemaking"
     },
     {
-      "kind": "out",
-      "slug": "charity",
-      "title": "Charity"
+      "kind": "in",
+      "slug": "human-fall",
+      "title": "The Human Fall"
     },
     {
-      "kind": "out",
-      "slug": "perseverance-and-patience",
-      "title": "Perseverance and Patience"
+      "kind": "in",
+      "slug": "jesus-world-scripture",
+      "title": "Jesus"
     },
     {
-      "kind": "out",
-      "slug": "self-sacrifice",
-      "title": "Self-Sacrifice"
+      "kind": "in",
+      "slug": "angels",
+      "title": "Angels"
     },
     {
-      "kind": "out",
-      "slug": "martyrdom",
-      "title": "Martyrdom"
+      "kind": "in",
+      "slug": "abraham",
+      "title": "Abraham"
+    },
+    {
+      "kind": "in",
+      "slug": "justice",
+      "title": "Justice"
+    },
+    {
+      "kind": "in",
+      "slug": "meditation",
+      "title": "Meditation"
+    },
+    {
+      "kind": "in",
+      "slug": "the-messiah",
+      "title": "The Messiah"
     }
   ],
   "collective-and-historical-sin": [
@@ -1162,6 +1257,16 @@
       "kind": "in",
       "slug": "judaism",
       "title": "Judaism"
+    },
+    {
+      "kind": "in",
+      "slug": "tribulation",
+      "title": "Tribulation"
+    },
+    {
+      "kind": "in",
+      "slug": "shamanism-polytheism-and-animism",
+      "title": "Shamanism, Polytheism and Animism"
     }
   ],
   "confucius": [
@@ -1217,13 +1322,18 @@
     },
     {
       "kind": "in",
+      "slug": "one-truth-many-paths",
+      "title": "One Truth, Many Paths"
+    },
+    {
+      "kind": "in",
       "slug": "perfection",
       "title": "Perfection"
     },
     {
       "kind": "in",
-      "slug": "one-truth-many-paths",
-      "title": "One Truth, Many Paths"
+      "slug": "reincarnation",
+      "title": "Reincarnation"
     }
   ],
   "conjugal-love": [
@@ -1321,23 +1431,13 @@
     },
     {
       "kind": "out",
-      "slug": "good-deeds",
-      "title": "Good Deeds"
-    },
-    {
-      "kind": "out",
       "slug": "enlightenment",
       "title": "Enlightenment"
     },
     {
       "kind": "out",
-      "slug": "confucianism",
-      "title": "Confucianism"
-    },
-    {
-      "kind": "out",
-      "slug": "the-purpose-of-human-life",
-      "title": "The Purpose of Human Life"
+      "slug": "good-deeds",
+      "title": "Good Deeds"
     },
     {
       "kind": "in",
@@ -1348,6 +1448,26 @@
       "kind": "in",
       "slug": "self-control",
       "title": "Self-Control"
+    },
+    {
+      "kind": "in",
+      "slug": "the-moral-law",
+      "title": "The Moral Law"
+    },
+    {
+      "kind": "in",
+      "slug": "the-search-for-knowledge",
+      "title": "The Search for Knowledge"
+    },
+    {
+      "kind": "in",
+      "slug": "economic-justice",
+      "title": "Economic Justice"
+    },
+    {
+      "kind": "in",
+      "slug": "the-war-within",
+      "title": "The War Within"
     }
   ],
   "creativity-and-art": [
@@ -1388,13 +1508,13 @@
     },
     {
       "kind": "out",
-      "slug": "self-control",
-      "title": "Self-Control"
+      "slug": "omniscient-and-omnipresent",
+      "title": "Omniscient and Omnipresent"
     },
     {
       "kind": "out",
-      "slug": "omniscient-and-omnipresent",
-      "title": "Omniscient and Omnipresent"
+      "slug": "self-control",
+      "title": "Self-Control"
     },
     {
       "kind": "out",
@@ -1402,14 +1522,19 @@
       "title": "Hypocrisy"
     },
     {
-      "kind": "out",
-      "slug": "selfish-desires-and-fallen-nature",
-      "title": "Selfish Desires and Fallen Nature"
+      "kind": "in",
+      "slug": "the-temple-of-god",
+      "title": "The Temple of God"
     },
     {
-      "kind": "out",
-      "slug": "reverence-for-life",
-      "title": "Reverence for Life"
+      "kind": "in",
+      "slug": "exemplary-leadership",
+      "title": "Exemplary Leadership"
+    },
+    {
+      "kind": "in",
+      "slug": "health-and-disease",
+      "title": "Health and Disease"
     }
   ],
   "cultivating-the-good": [
@@ -1452,21 +1577,6 @@
       "kind": "out",
       "slug": "tribulation",
       "title": "Tribulation"
-    },
-    {
-      "kind": "out",
-      "slug": "charity",
-      "title": "Charity"
-    },
-    {
-      "kind": "out",
-      "slug": "restraint",
-      "title": "Restraint"
-    },
-    {
-      "kind": "out",
-      "slug": "gods-goodness",
-      "title": "God’s Goodness"
     },
     {
       "kind": "in",
@@ -1543,19 +1653,39 @@
       "title": "Inherited Sin and Karma"
     },
     {
-      "kind": "out",
-      "slug": "sovereign-and-omnipotent",
-      "title": "Sovereign and Omnipotent"
+      "kind": "in",
+      "slug": "righteousness",
+      "title": "Righteousness"
     },
     {
-      "kind": "out",
-      "slug": "new-revelation",
-      "title": "New Revelation"
+      "kind": "in",
+      "slug": "moses-world-scripture",
+      "title": "Moses"
     },
     {
-      "kind": "out",
-      "slug": "the-last-judgment",
-      "title": "The Last Judgment"
+      "kind": "in",
+      "slug": "abraham",
+      "title": "Abraham"
+    },
+    {
+      "kind": "in",
+      "slug": "humility",
+      "title": "Humility"
+    },
+    {
+      "kind": "in",
+      "slug": "offerings-and-tithes",
+      "title": "Offerings and Tithes"
+    },
+    {
+      "kind": "in",
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
+    },
+    {
+      "kind": "in",
+      "slug": "assurance",
+      "title": "Assurance"
     }
   ],
   "discipleship": [
@@ -1593,11 +1723,6 @@
       "kind": "out",
       "slug": "intellectual-knowledge-and-spiritual-wisdom",
       "title": "Intellectual Knowledge and Spiritual Wisdom"
-    },
-    {
-      "kind": "out",
-      "slug": "the-teacher",
-      "title": "The Teacher"
     },
     {
       "kind": "in",
@@ -1647,24 +1772,39 @@
       "title": "Perfection"
     },
     {
-      "kind": "out",
-      "slug": "parental-love",
-      "title": "Parental Love"
-    },
-    {
-      "kind": "out",
-      "slug": "sibling-love",
-      "title": "Sibling Love"
-    },
-    {
-      "kind": "out",
-      "slug": "heresy",
-      "title": "Heresy"
-    },
-    {
       "kind": "in",
       "slug": "the-messiah",
       "title": "The Messiah"
+    },
+    {
+      "kind": "in",
+      "slug": "true-love",
+      "title": "True Love"
+    },
+    {
+      "kind": "in",
+      "slug": "the-purpose-of-human-life",
+      "title": "The Purpose of Human Life"
+    },
+    {
+      "kind": "in",
+      "slug": "sacrificial-love",
+      "title": "Sacrificial Love"
+    },
+    {
+      "kind": "in",
+      "slug": "equality",
+      "title": "Equality"
+    },
+    {
+      "kind": "in",
+      "slug": "conjugal-love",
+      "title": "Conjugal Love"
+    },
+    {
+      "kind": "in",
+      "slug": "spiritual-union",
+      "title": "Spiritual Union"
     }
   ],
   "doubt": [
@@ -1685,13 +1825,13 @@
     },
     {
       "kind": "out",
-      "slug": "hypocrisy",
-      "title": "Hypocrisy"
+      "slug": "assurance",
+      "title": "Assurance"
     },
     {
       "kind": "out",
-      "slug": "assurance",
-      "title": "Assurance"
+      "slug": "hypocrisy",
+      "title": "Hypocrisy"
     },
     {
       "kind": "out",
@@ -1725,8 +1865,18 @@
     },
     {
       "kind": "in",
+      "slug": "joy",
+      "title": "Joy"
+    },
+    {
+      "kind": "in",
       "slug": "sincerity-and-authenticity",
       "title": "Sincerity and Authenticity"
+    },
+    {
+      "kind": "in",
+      "slug": "the-last-judgment",
+      "title": "The Last Judgment"
     }
   ],
   "dreams": [
@@ -1789,6 +1939,36 @@
       "kind": "in",
       "slug": "faith",
       "title": "Faith"
+    },
+    {
+      "kind": "in",
+      "slug": "gods-grief",
+      "title": "God’s Grief"
+    },
+    {
+      "kind": "in",
+      "slug": "sacrificial-love",
+      "title": "Sacrificial Love"
+    },
+    {
+      "kind": "in",
+      "slug": "suffering",
+      "title": "Suffering"
+    },
+    {
+      "kind": "in",
+      "slug": "beauty",
+      "title": "Beauty"
+    },
+    {
+      "kind": "in",
+      "slug": "chastity",
+      "title": "Chastity"
+    },
+    {
+      "kind": "in",
+      "slug": "creativity-and-art",
+      "title": "Creativity and Art"
     }
   ],
   "duality": [
@@ -1834,11 +2014,6 @@
     },
     {
       "kind": "in",
-      "slug": "eternal-truth",
-      "title": "Eternal Truth"
-    },
-    {
-      "kind": "in",
       "slug": "beyond-the-law",
       "title": "Beyond the Law"
     },
@@ -1846,6 +2021,11 @@
       "kind": "in",
       "slug": "cause-and-effect",
       "title": "Cause and Effect"
+    },
+    {
+      "kind": "in",
+      "slug": "eternal-truth",
+      "title": "Eternal Truth"
     }
   ],
   "economic-justice": [
@@ -1866,11 +2046,6 @@
     },
     {
       "kind": "out",
-      "slug": "labor",
-      "title": "Labor"
-    },
-    {
-      "kind": "out",
       "slug": "heaven",
       "title": "Heaven"
     },
@@ -1881,33 +2056,23 @@
     },
     {
       "kind": "out",
+      "slug": "labor",
+      "title": "Labor"
+    },
+    {
+      "kind": "out",
       "slug": "true-love",
       "title": "True Love"
     },
     {
-      "kind": "out",
-      "slug": "divine-love-and-compassion",
-      "title": "Divine Love and Compassion"
+      "kind": "in",
+      "slug": "unity-and-community",
+      "title": "Unity and Community"
     },
     {
-      "kind": "out",
-      "slug": "the-purpose-of-human-life",
-      "title": "The Purpose of Human Life"
-    },
-    {
-      "kind": "out",
-      "slug": "freedom",
-      "title": "Freedom"
-    },
-    {
-      "kind": "out",
-      "slug": "equality",
-      "title": "Equality"
-    },
-    {
-      "kind": "out",
-      "slug": "the-one-god",
-      "title": "The One God"
+      "kind": "in",
+      "slug": "world-citizenship",
+      "title": "World Citizenship"
     }
   ],
   "egoism-and-pride": [
@@ -1970,6 +2135,31 @@
       "kind": "in",
       "slug": "self-denial",
       "title": "Self-Denial"
+    },
+    {
+      "kind": "in",
+      "slug": "asceticism-monasticism-and-celibacy",
+      "title": "Asceticism, Monasticism and Celibacy"
+    },
+    {
+      "kind": "in",
+      "slug": "healing",
+      "title": "Healing"
+    },
+    {
+      "kind": "in",
+      "slug": "selfish-desires-and-fallen-nature",
+      "title": "Selfish Desires and Fallen Nature"
+    },
+    {
+      "kind": "in",
+      "slug": "suffering",
+      "title": "Suffering"
+    },
+    {
+      "kind": "in",
+      "slug": "tolerance-religious-freedom-and-interfaith-solidarity",
+      "title": "Tolerance, Religious Freedom and Interfaith Solidarity"
     }
   ],
   "emptiness-nirvana": [
@@ -2025,13 +2215,33 @@
     },
     {
       "kind": "in",
+      "slug": "omniscient-and-omnipresent",
+      "title": "Omniscient and Omnipresent"
+    },
+    {
+      "kind": "in",
       "slug": "self-control",
       "title": "Self-Control"
     },
     {
       "kind": "in",
-      "slug": "omniscient-and-omnipresent",
-      "title": "Omniscient and Omnipresent"
+      "slug": "joy",
+      "title": "Joy"
+    },
+    {
+      "kind": "in",
+      "slug": "eternal-life-world-scripture",
+      "title": "Eternal Life"
+    },
+    {
+      "kind": "in",
+      "slug": "resurrections",
+      "title": "Resurrection"
+    },
+    {
+      "kind": "in",
+      "slug": "the-moral-law",
+      "title": "The Moral Law"
     }
   ],
   "enlightenment": [
@@ -2077,23 +2287,43 @@
     },
     {
       "kind": "out",
-      "slug": "the-lord-of-creation",
-      "title": "The Lord of Creation"
-    },
-    {
-      "kind": "out",
       "slug": "knowledge-of-god",
       "title": "Knowledge of God"
     },
     {
-      "kind": "out",
-      "slug": "immanent-and-dwelling-within-the-heart",
-      "title": "Immanent and Dwelling within the Heart"
+      "kind": "in",
+      "slug": "christianity",
+      "title": "Christianity"
     },
     {
-      "kind": "out",
-      "slug": "transcendent-reality",
-      "title": "Transcendent Reality"
+      "kind": "in",
+      "slug": "true-love",
+      "title": "True Love"
+    },
+    {
+      "kind": "in",
+      "slug": "self-control",
+      "title": "Self-Control"
+    },
+    {
+      "kind": "in",
+      "slug": "tribulation",
+      "title": "Tribulation"
+    },
+    {
+      "kind": "in",
+      "slug": "gods-goodness",
+      "title": "God’s Goodness"
+    },
+    {
+      "kind": "in",
+      "slug": "perfection",
+      "title": "Perfection"
+    },
+    {
+      "kind": "in",
+      "slug": "conscience-and-inborn-goodness",
+      "title": "Conscience and Inborn Goodness"
     }
   ],
   "equality": [
@@ -2149,13 +2379,18 @@
     },
     {
       "kind": "in",
+      "slug": "ritual",
+      "title": "Ritual"
+    },
+    {
+      "kind": "in",
       "slug": "spiritual-union",
       "title": "Spiritual Union"
     },
     {
       "kind": "in",
-      "slug": "ritual",
-      "title": "Ritual"
+      "slug": "the-basic-form-of-life",
+      "title": "The Basic Form of Life"
     }
   ],
   "eternal-life-world-scripture": [
@@ -2191,13 +2426,13 @@
     },
     {
       "kind": "in",
-      "slug": "witness",
-      "title": "Witness"
+      "slug": "ignorance-and-atheism",
+      "title": "Ignorance and Atheism"
     },
     {
       "kind": "in",
-      "slug": "ignorance-and-atheism",
-      "title": "Ignorance and Atheism"
+      "slug": "witness",
+      "title": "Witness"
     },
     {
       "kind": "in",
@@ -2218,6 +2453,11 @@
       "kind": "in",
       "slug": "the-rebirth",
       "title": "Rebirth"
+    },
+    {
+      "kind": "in",
+      "slug": "help-and-deliverance",
+      "title": "Help and Deliverance"
     }
   ],
   "eternal-truth": [
@@ -2255,11 +2495,6 @@
       "kind": "out",
       "slug": "beyond-the-law",
       "title": "Beyond the Law"
-    },
-    {
-      "kind": "out",
-      "slug": "unchanging-and-eternal",
-      "title": "Unchanging and Eternal"
     },
     {
       "kind": "in",
@@ -2408,19 +2643,39 @@
       "title": "Egoism and Pride"
     },
     {
-      "kind": "out",
-      "slug": "noah",
-      "title": "Noah"
+      "kind": "in",
+      "slug": "christianity",
+      "title": "Christianity"
     },
     {
-      "kind": "out",
-      "slug": "the-ten-commandments",
-      "title": "The Ten Commandments"
+      "kind": "in",
+      "slug": "justice",
+      "title": "Justice"
     },
     {
-      "kind": "out",
-      "slug": "collective-and-historical-sin",
-      "title": "Collective and Historical Sin"
+      "kind": "in",
+      "slug": "doubt",
+      "title": "Doubt"
+    },
+    {
+      "kind": "in",
+      "slug": "witness",
+      "title": "Witness"
+    },
+    {
+      "kind": "in",
+      "slug": "good-deeds",
+      "title": "Good Deeds"
+    },
+    {
+      "kind": "in",
+      "slug": "the-devil-and-his-activities",
+      "title": "The Devil and His Activities"
+    },
+    {
+      "kind": "in",
+      "slug": "offerings-and-tithes",
+      "title": "Offerings and Tithes"
     }
   ],
   "family-as-the-cornerstone-of-society": [
@@ -2483,23 +2738,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-golden-rule",
-      "title": "The Golden Rule"
-    },
-    {
-      "kind": "out",
       "slug": "the-basic-form-of-life",
       "title": "The Basic Form of Life"
     },
     {
       "kind": "out",
-      "slug": "beyond-the-law",
-      "title": "Beyond the Law"
-    },
-    {
-      "kind": "out",
-      "slug": "eternal-truth",
-      "title": "Eternal Truth"
+      "slug": "the-golden-rule",
+      "title": "The Golden Rule"
     },
     {
       "kind": "in",
@@ -2515,6 +2760,26 @@
       "kind": "in",
       "slug": "women-of-the-bible",
       "title": "Women of the Bible"
+    },
+    {
+      "kind": "in",
+      "slug": "self-sacrifice",
+      "title": "Self-Sacrifice"
+    },
+    {
+      "kind": "in",
+      "slug": "parental-love",
+      "title": "Parental Love"
+    },
+    {
+      "kind": "in",
+      "slug": "sibling-love",
+      "title": "Sibling Love"
+    },
+    {
+      "kind": "in",
+      "slug": "family-as-the-cornerstone-of-society",
+      "title": "Family as the Cornerstone of Society"
     }
   ],
   "forgiveness": [
@@ -2755,14 +3020,39 @@
       "title": "Justice"
     },
     {
-      "kind": "out",
-      "slug": "faith",
-      "title": "Faith"
+      "kind": "in",
+      "slug": "the-messiah",
+      "title": "The Messiah"
     },
     {
-      "kind": "out",
-      "slug": "persecution",
-      "title": "Persecution"
+      "kind": "in",
+      "slug": "the-purpose-of-religion",
+      "title": "The Purpose of Religion"
+    },
+    {
+      "kind": "in",
+      "slug": "women-of-the-bible",
+      "title": "Women of the Bible"
+    },
+    {
+      "kind": "in",
+      "slug": "the-one-god",
+      "title": "The One God"
+    },
+    {
+      "kind": "in",
+      "slug": "the-ten-commandments",
+      "title": "The Ten Commandments"
+    },
+    {
+      "kind": "in",
+      "slug": "joseph-world-scripture",
+      "title": "Joseph"
+    },
+    {
+      "kind": "in",
+      "slug": "the-golden-rule",
+      "title": "The Golden Rule"
     }
   ],
   "freedom": [
@@ -2825,6 +3115,21 @@
       "kind": "in",
       "slug": "beyond-the-law",
       "title": "Beyond the Law"
+    },
+    {
+      "kind": "in",
+      "slug": "liberation",
+      "title": "Liberation"
+    },
+    {
+      "kind": "in",
+      "slug": "economic-justice",
+      "title": "Economic Justice"
+    },
+    {
+      "kind": "in",
+      "slug": "unity-and-community",
+      "title": "Unity and Community"
     }
   ],
   "friendship": [
@@ -2840,13 +3145,13 @@
     },
     {
       "kind": "out",
-      "slug": "suffering",
-      "title": "Suffering"
+      "slug": "one-truth-many-paths",
+      "title": "One Truth, Many Paths"
     },
     {
       "kind": "out",
-      "slug": "one-truth-many-paths",
-      "title": "One Truth, Many Paths"
+      "slug": "suffering",
+      "title": "Suffering"
     },
     {
       "kind": "out",
@@ -2924,13 +3229,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-basic-form-of-life",
-      "title": "The Basic Form of Life"
+      "slug": "cain-abel",
+      "title": "Cain and Abel"
     },
     {
       "kind": "in",
-      "slug": "cain-abel",
-      "title": "Cain and Abel"
+      "slug": "the-basic-form-of-life",
+      "title": "The Basic Form of Life"
     },
     {
       "kind": "in",
@@ -3003,6 +3308,16 @@
       "kind": "in",
       "slug": "giving-and-receiving",
       "title": "Giving and Receiving"
+    },
+    {
+      "kind": "in",
+      "slug": "cultivating-the-good",
+      "title": "Cultivating the Good"
+    },
+    {
+      "kind": "in",
+      "slug": "war-against-evil",
+      "title": "War against Evil"
     }
   ],
   "gods-grief": [
@@ -3043,18 +3358,8 @@
     },
     {
       "kind": "out",
-      "slug": "universal-salvation",
-      "title": "Universal Salvation"
-    },
-    {
-      "kind": "out",
       "slug": "dreams",
       "title": "Dreams"
-    },
-    {
-      "kind": "out",
-      "slug": "omniscient-and-omnipresent",
-      "title": "Omniscient and Omnipresent"
     },
     {
       "kind": "in",
@@ -3065,6 +3370,31 @@
       "kind": "in",
       "slug": "hell",
       "title": "Hell"
+    },
+    {
+      "kind": "in",
+      "slug": "ignorance-and-atheism",
+      "title": "Ignorance and Atheism"
+    },
+    {
+      "kind": "in",
+      "slug": "inherited-sin-and-karma",
+      "title": "Inherited Sin and Karma"
+    },
+    {
+      "kind": "in",
+      "slug": "tribulation",
+      "title": "Tribulation"
+    },
+    {
+      "kind": "in",
+      "slug": "divine-love-and-compassion",
+      "title": "Divine Love and Compassion"
+    },
+    {
+      "kind": "in",
+      "slug": "the-temple-of-god",
+      "title": "The Temple of God"
     }
   ],
   "good-and-evil": [
@@ -3115,18 +3445,48 @@
     },
     {
       "kind": "out",
-      "slug": "universal-salvation",
-      "title": "Universal Salvation"
-    },
-    {
-      "kind": "out",
       "slug": "self-control",
       "title": "Self-Control"
     },
     {
       "kind": "out",
-      "slug": "charity",
-      "title": "Charity"
+      "slug": "universal-salvation",
+      "title": "Universal Salvation"
+    },
+    {
+      "kind": "in",
+      "slug": "persecution",
+      "title": "Persecution"
+    },
+    {
+      "kind": "in",
+      "slug": "the-devil-and-his-activities",
+      "title": "The Devil and His Activities"
+    },
+    {
+      "kind": "in",
+      "slug": "inherited-sin-and-karma",
+      "title": "Inherited Sin and Karma"
+    },
+    {
+      "kind": "in",
+      "slug": "gratitude-and-indebtedness",
+      "title": "Gratitude and Indebtedness"
+    },
+    {
+      "kind": "in",
+      "slug": "love-your-enemy",
+      "title": "Love Your Enemy"
+    },
+    {
+      "kind": "in",
+      "slug": "spiritual-error-and-the-occult",
+      "title": "Spiritual Error and the Occult"
+    },
+    {
+      "kind": "in",
+      "slug": "god-fearing-leadership",
+      "title": "God-Fearing Leadership"
     }
   ],
   "good-deeds": [
@@ -3246,13 +3606,13 @@
     },
     {
       "kind": "out",
-      "slug": "witness",
-      "title": "Witness"
+      "slug": "labor",
+      "title": "Labor"
     },
     {
       "kind": "out",
-      "slug": "labor",
-      "title": "Labor"
+      "slug": "witness",
+      "title": "Witness"
     },
     {
       "kind": "out",
@@ -3293,6 +3653,16 @@
       "kind": "in",
       "slug": "grief",
       "title": "Grief"
+    },
+    {
+      "kind": "in",
+      "slug": "the-fear-of-god",
+      "title": "The Fear of God"
+    },
+    {
+      "kind": "in",
+      "slug": "intellectual-knowledge-and-spiritual-wisdom",
+      "title": "Intellectual Knowledge and Spiritual Wisdom"
     }
   ],
   "grief": [
@@ -3328,33 +3698,28 @@
     },
     {
       "kind": "out",
-      "slug": "sin",
-      "title": "Sin"
-    },
-    {
-      "kind": "out",
       "slug": "abraham",
       "title": "Abraham"
     },
     {
       "kind": "out",
-      "slug": "meditation",
-      "title": "Meditation"
+      "slug": "sin",
+      "title": "Sin"
     },
     {
-      "kind": "out",
-      "slug": "the-messiah",
-      "title": "The Messiah"
+      "kind": "in",
+      "slug": "tribulation",
+      "title": "Tribulation"
     },
     {
-      "kind": "out",
-      "slug": "labor",
-      "title": "Labor"
+      "kind": "in",
+      "slug": "forgiveness",
+      "title": "Forgiveness"
     },
     {
-      "kind": "out",
-      "slug": "enlightenment",
-      "title": "Enlightenment"
+      "kind": "in",
+      "slug": "spiritual-growth",
+      "title": "Spiritual Growth"
     }
   ],
   "healing": [
@@ -3399,24 +3764,39 @@
       "title": "Isaac"
     },
     {
-      "kind": "out",
-      "slug": "suffering",
-      "title": "Suffering"
-    },
-    {
-      "kind": "out",
-      "slug": "forgiveness",
-      "title": "Forgiveness"
-    },
-    {
-      "kind": "out",
-      "slug": "spiritual-union",
-      "title": "Spiritual Union"
-    },
-    {
       "kind": "in",
       "slug": "tribulation",
       "title": "Tribulation"
+    },
+    {
+      "kind": "in",
+      "slug": "eternal-life-world-scripture",
+      "title": "Eternal Life"
+    },
+    {
+      "kind": "in",
+      "slug": "the-last-judgment",
+      "title": "The Last Judgment"
+    },
+    {
+      "kind": "in",
+      "slug": "sins",
+      "title": "Atonement"
+    },
+    {
+      "kind": "in",
+      "slug": "help-and-deliverance",
+      "title": "Help and Deliverance"
+    },
+    {
+      "kind": "in",
+      "slug": "economic-justice",
+      "title": "Economic Justice"
+    },
+    {
+      "kind": "in",
+      "slug": "health-and-disease",
+      "title": "Health and Disease"
     }
   ],
   "health-and-disease": [
@@ -3474,13 +3854,13 @@
     },
     {
       "kind": "out",
-      "slug": "spirit-world",
-      "title": "The Spirit World"
+      "slug": "synergy-of-grace-and-effort",
+      "title": "Synergy of Grace and Effort"
     },
     {
       "kind": "out",
-      "slug": "synergy-of-grace-and-effort",
-      "title": "Synergy of Grace and Effort"
+      "slug": "spirit-world",
+      "title": "The Spirit World"
     },
     {
       "kind": "out",
@@ -3508,19 +3888,39 @@
       "title": "Self-Control"
     },
     {
-      "kind": "out",
-      "slug": "sincerity-and-authenticity",
-      "title": "Sincerity and Authenticity"
-    },
-    {
-      "kind": "out",
-      "slug": "formless-invisible-mystery",
-      "title": "Formless, Invisible, Mystery"
-    },
-    {
       "kind": "in",
       "slug": "jesus-world-scripture",
       "title": "Jesus"
+    },
+    {
+      "kind": "in",
+      "slug": "witness",
+      "title": "Witness"
+    },
+    {
+      "kind": "in",
+      "slug": "offerings-and-tithes",
+      "title": "Offerings and Tithes"
+    },
+    {
+      "kind": "in",
+      "slug": "confucianism",
+      "title": "Confucianism"
+    },
+    {
+      "kind": "in",
+      "slug": "confucius",
+      "title": "Confucius"
+    },
+    {
+      "kind": "in",
+      "slug": "sacrificial-love",
+      "title": "Sacrificial Love"
+    },
+    {
+      "kind": "in",
+      "slug": "filial-piety",
+      "title": "Filial Piety"
     }
   ],
   "heavenly-father-and-mother": [
@@ -3573,13 +3973,13 @@
     },
     {
       "kind": "out",
-      "slug": "moses-world-scripture",
-      "title": "Moses"
+      "slug": "emptiness-nirvana",
+      "title": "Emptiness—Nirvana"
     },
     {
       "kind": "out",
-      "slug": "emptiness-nirvana",
-      "title": "Emptiness—Nirvana"
+      "slug": "moses-world-scripture",
+      "title": "Moses"
     },
     {
       "kind": "out",
@@ -3602,24 +4002,39 @@
       "title": "Good Deeds"
     },
     {
-      "kind": "out",
-      "slug": "inherited-sin-and-karma",
-      "title": "Inherited Sin and Karma"
+      "kind": "in",
+      "slug": "human-fall",
+      "title": "The Human Fall"
     },
     {
-      "kind": "out",
-      "slug": "freedom",
-      "title": "Freedom"
+      "kind": "in",
+      "slug": "preparation-for-eternity",
+      "title": "Preparation for Eternity"
     },
     {
-      "kind": "out",
-      "slug": "gods-grief",
-      "title": "God’s Grief"
+      "kind": "in",
+      "slug": "angels",
+      "title": "Angels"
     },
     {
-      "kind": "out",
-      "slug": "filial-piety",
-      "title": "Filial Piety"
+      "kind": "in",
+      "slug": "sin",
+      "title": "Sin"
+    },
+    {
+      "kind": "in",
+      "slug": "the-judgment",
+      "title": "The Judgment"
+    },
+    {
+      "kind": "in",
+      "slug": "witness",
+      "title": "Witness"
+    },
+    {
+      "kind": "in",
+      "slug": "the-devil-and-his-activities",
+      "title": "The Devil and His Activities"
     }
   ],
   "help-and-deliverance": [
@@ -3640,13 +4055,13 @@
     },
     {
       "kind": "out",
-      "slug": "moses-world-scripture",
-      "title": "Moses"
+      "slug": "emptiness-nirvana",
+      "title": "Emptiness—Nirvana"
     },
     {
       "kind": "out",
-      "slug": "emptiness-nirvana",
-      "title": "Emptiness—Nirvana"
+      "slug": "moses-world-scripture",
+      "title": "Moses"
     },
     {
       "kind": "out",
@@ -3655,33 +4070,28 @@
     },
     {
       "kind": "out",
-      "slug": "the-messiah",
-      "title": "The Messiah"
-    },
-    {
-      "kind": "out",
       "slug": "devotion",
       "title": "Devotion"
     },
     {
-      "kind": "out",
-      "slug": "universal-salvation",
-      "title": "Universal Salvation"
+      "kind": "in",
+      "slug": "hell",
+      "title": "Hell"
     },
     {
-      "kind": "out",
-      "slug": "eternal-life-world-scripture",
-      "title": "Eternal Life"
+      "kind": "in",
+      "slug": "the-rebirth",
+      "title": "Rebirth"
     },
     {
-      "kind": "out",
-      "slug": "healing",
-      "title": "Healing"
+      "kind": "in",
+      "slug": "liberation",
+      "title": "Liberation"
     },
     {
-      "kind": "out",
-      "slug": "refining-fire",
-      "title": "Refining Fire"
+      "kind": "in",
+      "slug": "reversal-and-restoration",
+      "title": "Reversal and Restoration"
     }
   ],
   "heresy": [
@@ -3727,13 +4137,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-moral-foundations-of-society",
-      "title": "The Moral Foundations of Society"
+      "slug": "testing",
+      "title": "Testing"
     },
     {
       "kind": "in",
-      "slug": "testing",
-      "title": "Testing"
+      "slug": "the-moral-foundations-of-society",
+      "title": "The Moral Foundations of Society"
     }
   ],
   "honesty": [
@@ -3796,6 +4206,11 @@
       "kind": "in",
       "slug": "prudent-speech",
       "title": "Prudent Speech"
+    },
+    {
+      "kind": "in",
+      "slug": "moderation",
+      "title": "Moderation"
     }
   ],
   "hope": [
@@ -3835,29 +4250,14 @@
       "title": "Jacob"
     },
     {
-      "kind": "out",
-      "slug": "the-purpose-of-human-life",
-      "title": "The Purpose of Human Life"
+      "kind": "in",
+      "slug": "gratitude-and-indebtedness",
+      "title": "Gratitude and Indebtedness"
     },
     {
-      "kind": "out",
-      "slug": "isaac-world-scripture",
-      "title": "Isaac"
-    },
-    {
-      "kind": "out",
-      "slug": "assurance",
-      "title": "Assurance"
-    },
-    {
-      "kind": "out",
-      "slug": "the-value-of-human-life",
-      "title": "The Value of Human Life"
-    },
-    {
-      "kind": "out",
-      "slug": "sons-and-daughters-of-god",
-      "title": "Sons and Daughters of God"
+      "kind": "in",
+      "slug": "the-moral-foundations-of-society",
+      "title": "The Moral Foundations of Society"
     }
   ],
   "hospitality": [
@@ -3930,13 +4330,13 @@
     },
     {
       "kind": "out",
-      "slug": "christianity",
-      "title": "Christianity"
+      "slug": "angels",
+      "title": "Angels"
     },
     {
       "kind": "out",
-      "slug": "angels",
-      "title": "Angels"
+      "slug": "christianity",
+      "title": "Christianity"
     },
     {
       "kind": "out",
@@ -3954,19 +4354,39 @@
       "title": "Doubt"
     },
     {
-      "kind": "out",
-      "slug": "labor",
-      "title": "Labor"
+      "kind": "in",
+      "slug": "jesus-world-scripture",
+      "title": "Jesus"
     },
     {
-      "kind": "out",
-      "slug": "islam",
-      "title": "Islam"
+      "kind": "in",
+      "slug": "spirit-world",
+      "title": "The Spirit World"
     },
     {
-      "kind": "out",
-      "slug": "judaism",
-      "title": "Judaism"
+      "kind": "in",
+      "slug": "faith",
+      "title": "Faith"
+    },
+    {
+      "kind": "in",
+      "slug": "meditation",
+      "title": "Meditation"
+    },
+    {
+      "kind": "in",
+      "slug": "persecution",
+      "title": "Persecution"
+    },
+    {
+      "kind": "in",
+      "slug": "devotion",
+      "title": "Devotion"
+    },
+    {
+      "kind": "in",
+      "slug": "the-messiah",
+      "title": "The Messiah"
     }
   ],
   "humility": [
@@ -4011,24 +4431,39 @@
       "title": "Tribulation"
     },
     {
-      "kind": "out",
-      "slug": "shamanism-polytheism-and-animism",
-      "title": "Shamanism, Polytheism and Animism"
-    },
-    {
-      "kind": "out",
-      "slug": "sins",
-      "title": "Atonement"
-    },
-    {
-      "kind": "out",
-      "slug": "martyrdom",
-      "title": "Martyrdom"
-    },
-    {
       "kind": "in",
       "slug": "repentance",
       "title": "Repentance"
+    },
+    {
+      "kind": "in",
+      "slug": "jacob",
+      "title": "Jacob"
+    },
+    {
+      "kind": "in",
+      "slug": "egoism-and-pride",
+      "title": "Egoism and Pride"
+    },
+    {
+      "kind": "in",
+      "slug": "living-for-others",
+      "title": "Living for Others"
+    },
+    {
+      "kind": "in",
+      "slug": "the-last-judgment",
+      "title": "The Last Judgment"
+    },
+    {
+      "kind": "in",
+      "slug": "self-denial",
+      "title": "Self-Denial"
+    },
+    {
+      "kind": "in",
+      "slug": "asceticism-monasticism-and-celibacy",
+      "title": "Asceticism, Monasticism and Celibacy"
     }
   ],
   "hypocrisy": [
@@ -4091,6 +4526,16 @@
       "kind": "in",
       "slug": "heresy",
       "title": "Heresy"
+    },
+    {
+      "kind": "in",
+      "slug": "testing",
+      "title": "Testing"
+    },
+    {
+      "kind": "in",
+      "slug": "the-moral-foundations-of-society",
+      "title": "The Moral Foundations of Society"
     }
   ],
   "idolatry-and-materialism": [
@@ -4187,14 +4632,39 @@
       "title": "The Ten Commandments"
     },
     {
-      "kind": "out",
-      "slug": "the-search-for-knowledge",
-      "title": "The Search for Knowledge"
+      "kind": "in",
+      "slug": "doubt",
+      "title": "Doubt"
     },
     {
-      "kind": "out",
-      "slug": "the-war-within",
-      "title": "The War Within"
+      "kind": "in",
+      "slug": "inherited-sin-and-karma",
+      "title": "Inherited Sin and Karma"
+    },
+    {
+      "kind": "in",
+      "slug": "tribulation",
+      "title": "Tribulation"
+    },
+    {
+      "kind": "in",
+      "slug": "formless-invisible-mystery",
+      "title": "Formless, Invisible, Mystery"
+    },
+    {
+      "kind": "in",
+      "slug": "the-image-of-god",
+      "title": "The Image of God"
+    },
+    {
+      "kind": "in",
+      "slug": "hypocrisy",
+      "title": "Hypocrisy"
+    },
+    {
+      "kind": "in",
+      "slug": "selfish-desires-and-fallen-nature",
+      "title": "Selfish Desires and Fallen Nature"
     }
   ],
   "immanent-and-dwelling-within-the-heart": [
@@ -4282,18 +4752,8 @@
     },
     {
       "kind": "out",
-      "slug": "sovereign-and-omnipotent",
-      "title": "Sovereign and Omnipotent"
-    },
-    {
-      "kind": "out",
       "slug": "shamanism-polytheism-and-animism",
       "title": "Shamanism, Polytheism and Animism"
-    },
-    {
-      "kind": "out",
-      "slug": "predestination",
-      "title": "Predestination"
     },
     {
       "kind": "in",
@@ -4304,6 +4764,31 @@
       "kind": "in",
       "slug": "synergy-of-grace-and-effort",
       "title": "Synergy of Grace and Effort"
+    },
+    {
+      "kind": "in",
+      "slug": "living-for-others",
+      "title": "Living for Others"
+    },
+    {
+      "kind": "in",
+      "slug": "assurance",
+      "title": "Assurance"
+    },
+    {
+      "kind": "in",
+      "slug": "turn-the-other-cheek",
+      "title": "Turn the Other Cheek"
+    },
+    {
+      "kind": "in",
+      "slug": "preparation-making-a-good-beginning",
+      "title": "Preparation and Making a Good Beginning"
+    },
+    {
+      "kind": "in",
+      "slug": "beyond-ritual",
+      "title": "Beyond Ritual"
     }
   ],
   "inherited-sin-and-karma": [
@@ -4353,19 +4838,39 @@
       "title": "Jacob"
     },
     {
-      "kind": "out",
-      "slug": "isaac-world-scripture",
-      "title": "Isaac"
+      "kind": "in",
+      "slug": "human-fall",
+      "title": "The Human Fall"
     },
     {
-      "kind": "out",
-      "slug": "gods-grief",
-      "title": "God’s Grief"
+      "kind": "in",
+      "slug": "meditation",
+      "title": "Meditation"
     },
     {
-      "kind": "out",
-      "slug": "equality",
-      "title": "Equality"
+      "kind": "in",
+      "slug": "devotion",
+      "title": "Devotion"
+    },
+    {
+      "kind": "in",
+      "slug": "hell",
+      "title": "Hell"
+    },
+    {
+      "kind": "in",
+      "slug": "true-love",
+      "title": "True Love"
+    },
+    {
+      "kind": "in",
+      "slug": "joy",
+      "title": "Joy"
+    },
+    {
+      "kind": "in",
+      "slug": "the-moral-law",
+      "title": "The Moral Law"
     }
   ],
   "inner-peace": [
@@ -4452,11 +4957,6 @@
       "title": "Restraint"
     },
     {
-      "kind": "out",
-      "slug": "modesty",
-      "title": "Modesty"
-    },
-    {
       "kind": "in",
       "slug": "sin",
       "title": "Sin"
@@ -4470,6 +4970,26 @@
       "kind": "in",
       "slug": "the-purpose-of-religion",
       "title": "The Purpose of Religion"
+    },
+    {
+      "kind": "in",
+      "slug": "sincerity-and-authenticity",
+      "title": "Sincerity and Authenticity"
+    },
+    {
+      "kind": "in",
+      "slug": "honesty",
+      "title": "Honesty"
+    },
+    {
+      "kind": "in",
+      "slug": "the-golden-rule",
+      "title": "The Golden Rule"
+    },
+    {
+      "kind": "in",
+      "slug": "stewardship",
+      "title": "Stewardship"
     }
   ],
   "intellectual-knowledge-and-spiritual-wisdom": [
@@ -4509,29 +5029,19 @@
       "title": "Perseverance and Patience"
     },
     {
-      "kind": "out",
-      "slug": "knowledge-of-god",
-      "title": "Knowledge of God"
+      "kind": "in",
+      "slug": "refining-fire",
+      "title": "Refining Fire"
     },
     {
-      "kind": "out",
-      "slug": "gratitude-and-indebtedness",
-      "title": "Gratitude and Indebtedness"
+      "kind": "in",
+      "slug": "discipleship",
+      "title": "Discipleship"
     },
     {
-      "kind": "out",
-      "slug": "predestination",
-      "title": "Predestination"
-    },
-    {
-      "kind": "out",
-      "slug": "the-primary-ends-of-education",
-      "title": "The Primary Ends of Education"
-    },
-    {
-      "kind": "out",
-      "slug": "the-search-for-knowledge",
-      "title": "The Search for Knowledge"
+      "kind": "in",
+      "slug": "the-teacher",
+      "title": "The Teacher"
     }
   ],
   "interdependence": [
@@ -4542,13 +5052,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-ten-commandments",
-      "title": "The Ten Commandments"
+      "slug": "perfection",
+      "title": "Perfection"
     },
     {
       "kind": "out",
-      "slug": "perfection",
-      "title": "Perfection"
+      "slug": "the-ten-commandments",
+      "title": "The Ten Commandments"
     },
     {
       "kind": "out",
@@ -4690,9 +5200,39 @@
       "title": "Jacob"
     },
     {
-      "kind": "out",
-      "slug": "shamanism-polytheism-and-animism",
-      "title": "Shamanism, Polytheism and Animism"
+      "kind": "in",
+      "slug": "human-fall",
+      "title": "The Human Fall"
+    },
+    {
+      "kind": "in",
+      "slug": "angels",
+      "title": "Angels"
+    },
+    {
+      "kind": "in",
+      "slug": "meditation",
+      "title": "Meditation"
+    },
+    {
+      "kind": "in",
+      "slug": "ignorance-and-atheism",
+      "title": "Ignorance and Atheism"
+    },
+    {
+      "kind": "in",
+      "slug": "muhammad",
+      "title": "Muhammad"
+    },
+    {
+      "kind": "in",
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
+    },
+    {
+      "kind": "in",
+      "slug": "selfish-desires-and-fallen-nature",
+      "title": "Selfish Desires and Fallen Nature"
     }
   ],
   "jacob": [
@@ -4733,13 +5273,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-purpose-of-religion",
-      "title": "The Purpose of Religion"
+      "slug": "humility",
+      "title": "Humility"
     },
     {
       "kind": "out",
-      "slug": "humility",
-      "title": "Humility"
+      "slug": "the-purpose-of-religion",
+      "title": "The Purpose of Religion"
     },
     {
       "kind": "out",
@@ -4747,14 +5287,39 @@
       "title": "Shamanism, Polytheism and Animism"
     },
     {
-      "kind": "out",
-      "slug": "isaac-world-scripture",
-      "title": "Isaac"
+      "kind": "in",
+      "slug": "islam",
+      "title": "Islam"
     },
     {
-      "kind": "out",
-      "slug": "noah",
-      "title": "Noah"
+      "kind": "in",
+      "slug": "dreams",
+      "title": "Dreams"
+    },
+    {
+      "kind": "in",
+      "slug": "judaism",
+      "title": "Judaism"
+    },
+    {
+      "kind": "in",
+      "slug": "inherited-sin-and-karma",
+      "title": "Inherited Sin and Karma"
+    },
+    {
+      "kind": "in",
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
+    },
+    {
+      "kind": "in",
+      "slug": "predestination",
+      "title": "Predestination"
+    },
+    {
+      "kind": "in",
+      "slug": "cain-abel",
+      "title": "Cain and Abel"
     }
   ],
   "jesus-world-scripture": [
@@ -4770,13 +5335,13 @@
     },
     {
       "kind": "bi",
-      "slug": "muhammad",
-      "title": "Muhammad"
+      "slug": "humility",
+      "title": "Humility"
     },
     {
       "kind": "bi",
-      "slug": "humility",
-      "title": "Humility"
+      "slug": "muhammad",
+      "title": "Muhammad"
     },
     {
       "kind": "bi",
@@ -4785,13 +5350,13 @@
     },
     {
       "kind": "bi",
-      "slug": "the-ten-commandments",
-      "title": "The Ten Commandments"
+      "slug": "healing",
+      "title": "Healing"
     },
     {
       "kind": "bi",
-      "slug": "healing",
-      "title": "Healing"
+      "slug": "the-ten-commandments",
+      "title": "The Ten Commandments"
     },
     {
       "kind": "out",
@@ -4800,13 +5365,13 @@
     },
     {
       "kind": "out",
-      "slug": "spirit-world",
-      "title": "The Spirit World"
+      "slug": "synergy-of-grace-and-effort",
+      "title": "Synergy of Grace and Effort"
     },
     {
       "kind": "out",
-      "slug": "synergy-of-grace-and-effort",
-      "title": "Synergy of Grace and Effort"
+      "slug": "spirit-world",
+      "title": "The Spirit World"
     },
     {
       "kind": "out",
@@ -4817,6 +5382,51 @@
       "kind": "out",
       "slug": "preparation-for-eternity",
       "title": "Preparation for Eternity"
+    },
+    {
+      "kind": "out",
+      "slug": "angels",
+      "title": "Angels"
+    },
+    {
+      "kind": "out",
+      "slug": "christianity",
+      "title": "Christianity"
+    },
+    {
+      "kind": "in",
+      "slug": "faith",
+      "title": "Faith"
+    },
+    {
+      "kind": "in",
+      "slug": "the-judgment",
+      "title": "The Judgment"
+    },
+    {
+      "kind": "in",
+      "slug": "devotion",
+      "title": "Devotion"
+    },
+    {
+      "kind": "in",
+      "slug": "hell",
+      "title": "Hell"
+    },
+    {
+      "kind": "in",
+      "slug": "prayer",
+      "title": "Prayer"
+    },
+    {
+      "kind": "in",
+      "slug": "reconciliation-and-peacemaking",
+      "title": "Reconciliation and Peacemaking"
+    },
+    {
+      "kind": "in",
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
     }
   ],
   "joseph-world-scripture": [
@@ -4866,19 +5476,24 @@
       "title": "Isaac"
     },
     {
-      "kind": "out",
-      "slug": "noah",
-      "title": "Noah"
-    },
-    {
-      "kind": "out",
-      "slug": "perseverance-and-patience",
-      "title": "Perseverance and Patience"
-    },
-    {
       "kind": "in",
       "slug": "angels",
       "title": "Angels"
+    },
+    {
+      "kind": "in",
+      "slug": "offerings-and-tithes",
+      "title": "Offerings and Tithes"
+    },
+    {
+      "kind": "in",
+      "slug": "women-of-the-bible",
+      "title": "Women of the Bible"
+    },
+    {
+      "kind": "in",
+      "slug": "forgiveness-world-scripture",
+      "title": "Forgiveness"
     }
   ],
   "joy": [
@@ -4928,11 +5543,6 @@
       "title": "The Image of God"
     },
     {
-      "kind": "out",
-      "slug": "conjugal-love",
-      "title": "Conjugal Love"
-    },
-    {
       "kind": "in",
       "slug": "human-fall",
       "title": "The Human Fall"
@@ -4941,6 +5551,31 @@
       "kind": "in",
       "slug": "sincerity-and-authenticity",
       "title": "Sincerity and Authenticity"
+    },
+    {
+      "kind": "in",
+      "slug": "the-last-judgment",
+      "title": "The Last Judgment"
+    },
+    {
+      "kind": "in",
+      "slug": "perfection",
+      "title": "Perfection"
+    },
+    {
+      "kind": "in",
+      "slug": "duality",
+      "title": "Duality"
+    },
+    {
+      "kind": "in",
+      "slug": "sons-and-daughters-of-god",
+      "title": "Sons and Daughters of God"
+    },
+    {
+      "kind": "in",
+      "slug": "ritual",
+      "title": "Ritual"
     }
   ],
   "judaism": [
@@ -5000,9 +5635,39 @@
       "title": "Reconciliation and Peacemaking"
     },
     {
-      "kind": "out",
-      "slug": "confucianism",
-      "title": "Confucianism"
+      "kind": "in",
+      "slug": "human-fall",
+      "title": "The Human Fall"
+    },
+    {
+      "kind": "in",
+      "slug": "jesus-world-scripture",
+      "title": "Jesus"
+    },
+    {
+      "kind": "in",
+      "slug": "angels",
+      "title": "Angels"
+    },
+    {
+      "kind": "in",
+      "slug": "abraham",
+      "title": "Abraham"
+    },
+    {
+      "kind": "in",
+      "slug": "meditation",
+      "title": "Meditation"
+    },
+    {
+      "kind": "in",
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
+    },
+    {
+      "kind": "in",
+      "slug": "the-moral-law",
+      "title": "The Moral Law"
     }
   ],
   "judge-not": [
@@ -5107,6 +5772,21 @@
       "kind": "in",
       "slug": "the-messiah",
       "title": "The Messiah"
+    },
+    {
+      "kind": "in",
+      "slug": "humility",
+      "title": "Humility"
+    },
+    {
+      "kind": "in",
+      "slug": "islam",
+      "title": "Islam"
+    },
+    {
+      "kind": "in",
+      "slug": "the-devil-and-his-activities",
+      "title": "The Devil and His Activities"
     }
   ],
   "knowledge-of-god": [
@@ -5117,13 +5797,13 @@
     },
     {
       "kind": "out",
-      "slug": "spirit-world",
-      "title": "The Spirit World"
+      "slug": "synergy-of-grace-and-effort",
+      "title": "Synergy of Grace and Effort"
     },
     {
       "kind": "out",
-      "slug": "synergy-of-grace-and-effort",
-      "title": "Synergy of Grace and Effort"
+      "slug": "spirit-world",
+      "title": "The Spirit World"
     },
     {
       "kind": "out",
@@ -5146,21 +5826,6 @@
       "title": "Formless, Invisible, Mystery"
     },
     {
-      "kind": "out",
-      "slug": "the-one-god",
-      "title": "The One God"
-    },
-    {
-      "kind": "out",
-      "slug": "transcendent-reality",
-      "title": "Transcendent Reality"
-    },
-    {
-      "kind": "out",
-      "slug": "world-citizenship",
-      "title": "World Citizenship"
-    },
-    {
       "kind": "in",
       "slug": "the-creator",
       "title": "The Creator"
@@ -5169,6 +5834,31 @@
       "kind": "in",
       "slug": "doubt",
       "title": "Doubt"
+    },
+    {
+      "kind": "in",
+      "slug": "enlightenment",
+      "title": "Enlightenment"
+    },
+    {
+      "kind": "in",
+      "slug": "new-revelation",
+      "title": "New Revelation"
+    },
+    {
+      "kind": "in",
+      "slug": "the-fear-of-god",
+      "title": "The Fear of God"
+    },
+    {
+      "kind": "in",
+      "slug": "the-original-cause",
+      "title": "The Original Cause"
+    },
+    {
+      "kind": "in",
+      "slug": "intellectual-knowledge-and-spiritual-wisdom",
+      "title": "Intellectual Knowledge and Spiritual Wisdom"
     }
   ],
   "labor": [
@@ -5216,21 +5906,6 @@
       "kind": "in",
       "slug": "repentance",
       "title": "Repentance"
-    },
-    {
-      "kind": "in",
-      "slug": "women-of-the-bible",
-      "title": "Women of the Bible"
-    },
-    {
-      "kind": "in",
-      "slug": "equality",
-      "title": "Equality"
-    },
-    {
-      "kind": "in",
-      "slug": "assurance",
-      "title": "Assurance"
     }
   ],
   "law-and-punishments": [
@@ -5329,29 +6004,19 @@
       "title": "Freedom"
     },
     {
-      "kind": "out",
-      "slug": "gods-grief",
-      "title": "God’s Grief"
+      "kind": "in",
+      "slug": "emptiness-nirvana",
+      "title": "Emptiness—Nirvana"
     },
     {
-      "kind": "out",
-      "slug": "sins",
-      "title": "Atonement"
+      "kind": "in",
+      "slug": "self-control",
+      "title": "Self-Control"
     },
     {
-      "kind": "out",
-      "slug": "restraint",
-      "title": "Restraint"
-    },
-    {
-      "kind": "out",
-      "slug": "forgiveness",
-      "title": "Forgiveness"
-    },
-    {
-      "kind": "out",
-      "slug": "help-and-deliverance",
-      "title": "Help and Deliverance"
+      "kind": "in",
+      "slug": "reversal-and-restoration",
+      "title": "Reversal and Restoration"
     }
   ],
   "living-for-others": [
@@ -5396,24 +6061,39 @@
       "title": "Reincarnation"
     },
     {
-      "kind": "out",
-      "slug": "parental-love",
-      "title": "Parental Love"
+      "kind": "in",
+      "slug": "emptiness-nirvana",
+      "title": "Emptiness—Nirvana"
     },
     {
-      "kind": "out",
-      "slug": "the-immortal-soul",
-      "title": "The Immortal Soul"
+      "kind": "in",
+      "slug": "praise",
+      "title": "Praise"
     },
     {
-      "kind": "out",
-      "slug": "predestination",
-      "title": "Predestination"
+      "kind": "in",
+      "slug": "the-purpose-of-religion",
+      "title": "The Purpose of Religion"
     },
     {
-      "kind": "out",
-      "slug": "hospitality",
-      "title": "Hospitality"
+      "kind": "in",
+      "slug": "resurrections",
+      "title": "Resurrection"
+    },
+    {
+      "kind": "in",
+      "slug": "universal-love",
+      "title": "Universal Love"
+    },
+    {
+      "kind": "in",
+      "slug": "love-your-enemy",
+      "title": "Love Your Enemy"
+    },
+    {
+      "kind": "in",
+      "slug": "the-golden-rule",
+      "title": "The Golden Rule"
     }
   ],
   "love-your-enemy": [
@@ -5516,18 +6196,8 @@
     },
     {
       "kind": "out",
-      "slug": "suffering",
-      "title": "Suffering"
-    },
-    {
-      "kind": "out",
       "slug": "self-sacrifice",
       "title": "Self-Sacrifice"
-    },
-    {
-      "kind": "out",
-      "slug": "war-against-evil",
-      "title": "War against Evil"
     },
     {
       "kind": "in",
@@ -5538,6 +6208,16 @@
       "kind": "in",
       "slug": "humility",
       "title": "Humility"
+    },
+    {
+      "kind": "in",
+      "slug": "resurrections",
+      "title": "Resurrection"
+    },
+    {
+      "kind": "in",
+      "slug": "purity-of-intention",
+      "title": "Purity of Intention"
     }
   ],
   "meditation": [
@@ -5582,11 +6262,6 @@
       "title": "Shamanism, Polytheism and Animism"
     },
     {
-      "kind": "out",
-      "slug": "tolerance-religious-freedom-and-interfaith-solidarity",
-      "title": "Tolerance, Religious Freedom and Interfaith Solidarity"
-    },
-    {
       "kind": "in",
       "slug": "buddhism",
       "title": "Buddhism"
@@ -5600,6 +6275,26 @@
       "kind": "in",
       "slug": "emptiness-nirvana",
       "title": "Emptiness—Nirvana"
+    },
+    {
+      "kind": "in",
+      "slug": "praise",
+      "title": "Praise"
+    },
+    {
+      "kind": "in",
+      "slug": "devotion",
+      "title": "Devotion"
+    },
+    {
+      "kind": "in",
+      "slug": "humility",
+      "title": "Humility"
+    },
+    {
+      "kind": "in",
+      "slug": "enlightenment",
+      "title": "Enlightenment"
     }
   ],
   "microcosm-and-macrocosm": [
@@ -5630,13 +6325,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-value-of-human-life",
-      "title": "The Value of Human Life"
+      "slug": "beauty",
+      "title": "Beauty"
     },
     {
       "kind": "in",
-      "slug": "beauty",
-      "title": "Beauty"
+      "slug": "the-value-of-human-life",
+      "title": "The Value of Human Life"
     },
     {
       "kind": "in",
@@ -5783,6 +6478,16 @@
       "kind": "in",
       "slug": "islam",
       "title": "Islam"
+    },
+    {
+      "kind": "in",
+      "slug": "the-devil-and-his-activities",
+      "title": "The Devil and His Activities"
+    },
+    {
+      "kind": "in",
+      "slug": "judaism",
+      "title": "Judaism"
     }
   ],
   "muhammad": [
@@ -5823,13 +6528,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-purpose-of-religion",
-      "title": "The Purpose of Religion"
+      "slug": "heaven",
+      "title": "Heaven"
     },
     {
       "kind": "in",
-      "slug": "heaven",
-      "title": "Heaven"
+      "slug": "the-purpose-of-religion",
+      "title": "The Purpose of Religion"
     },
     {
       "kind": "in",
@@ -5907,13 +6612,13 @@
     },
     {
       "kind": "out",
-      "slug": "spirit-world",
-      "title": "The Spirit World"
+      "slug": "synergy-of-grace-and-effort",
+      "title": "Synergy of Grace and Effort"
     },
     {
       "kind": "out",
-      "slug": "synergy-of-grace-and-effort",
-      "title": "Synergy of Grace and Effort"
+      "slug": "spirit-world",
+      "title": "The Spirit World"
     },
     {
       "kind": "out",
@@ -5927,23 +6632,43 @@
     },
     {
       "kind": "out",
-      "slug": "the-purpose-of-religion",
-      "title": "The Purpose of Religion"
-    },
-    {
-      "kind": "out",
       "slug": "muhammad",
       "title": "Muhammad"
     },
     {
-      "kind": "out",
-      "slug": "prayer",
-      "title": "Prayer"
+      "kind": "in",
+      "slug": "the-kingdom-of-heaven",
+      "title": "The Kingdom of Heaven"
     },
     {
-      "kind": "out",
-      "slug": "tribulation",
-      "title": "Tribulation"
+      "kind": "in",
+      "slug": "devotion",
+      "title": "Devotion"
+    },
+    {
+      "kind": "in",
+      "slug": "judaism",
+      "title": "Judaism"
+    },
+    {
+      "kind": "in",
+      "slug": "asceticism-monasticism-and-celibacy",
+      "title": "Asceticism, Monasticism and Celibacy"
+    },
+    {
+      "kind": "in",
+      "slug": "the-primary-ends-of-education",
+      "title": "The Primary Ends of Education"
+    },
+    {
+      "kind": "in",
+      "slug": "prophets-and-messengers",
+      "title": "Prophets and Messengers"
+    },
+    {
+      "kind": "in",
+      "slug": "scripture-and-interpretation",
+      "title": "Scripture and Interpretation"
     }
   ],
   "noah": [
@@ -6006,6 +6731,16 @@
       "kind": "in",
       "slug": "isaac-world-scripture",
       "title": "Isaac"
+    },
+    {
+      "kind": "in",
+      "slug": "the-ten-commandments",
+      "title": "The Ten Commandments"
+    },
+    {
+      "kind": "in",
+      "slug": "joseph-world-scripture",
+      "title": "Joseph"
     }
   ],
   "non-attachment-to-wealth-and-possessions": [
@@ -6110,6 +6845,21 @@
       "kind": "in",
       "slug": "self-sacrifice",
       "title": "Self-Sacrifice"
+    },
+    {
+      "kind": "in",
+      "slug": "martyrdom",
+      "title": "Martyrdom"
+    },
+    {
+      "kind": "in",
+      "slug": "refining-fire",
+      "title": "Refining Fire"
+    },
+    {
+      "kind": "in",
+      "slug": "the-seasons-of-life",
+      "title": "The Seasons of Life"
     }
   ],
   "offerings-and-tithes": [
@@ -6154,11 +6904,6 @@
       "title": "Asceticism, Monasticism and Celibacy"
     },
     {
-      "kind": "out",
-      "slug": "joseph-world-scripture",
-      "title": "Joseph"
-    },
-    {
       "kind": "in",
       "slug": "jesus-world-scripture",
       "title": "Jesus"
@@ -6172,6 +6917,26 @@
       "kind": "in",
       "slug": "charity",
       "title": "Charity"
+    },
+    {
+      "kind": "in",
+      "slug": "obedience-and-submission",
+      "title": "Obedience and Submission"
+    },
+    {
+      "kind": "in",
+      "slug": "hypocrisy",
+      "title": "Hypocrisy"
+    },
+    {
+      "kind": "in",
+      "slug": "self-sacrifice",
+      "title": "Self-Sacrifice"
+    },
+    {
+      "kind": "in",
+      "slug": "caution-and-vigilance",
+      "title": "Caution and Vigilance"
     }
   ],
   "omniscient-and-omnipresent": [
@@ -6217,23 +6982,13 @@
     },
     {
       "kind": "in",
-      "slug": "formless-invisible-mystery",
-      "title": "Formless, Invisible, Mystery"
-    },
-    {
-      "kind": "in",
       "slug": "sins",
       "title": "Atonement"
     },
     {
       "kind": "in",
-      "slug": "the-image-of-god",
-      "title": "The Image of God"
-    },
-    {
-      "kind": "in",
-      "slug": "gods-goodness",
-      "title": "God’s Goodness"
+      "slug": "formless-invisible-mystery",
+      "title": "Formless, Invisible, Mystery"
     }
   ],
   "one-truth-many-paths": [
@@ -6288,14 +7043,29 @@
       "title": "Justice"
     },
     {
-      "kind": "out",
-      "slug": "devotion",
-      "title": "Devotion"
+      "kind": "in",
+      "slug": "islam",
+      "title": "Islam"
     },
     {
-      "kind": "out",
-      "slug": "hell",
-      "title": "Hell"
+      "kind": "in",
+      "slug": "judaism",
+      "title": "Judaism"
+    },
+    {
+      "kind": "in",
+      "slug": "tolerance-religious-freedom-and-interfaith-solidarity",
+      "title": "Tolerance, Religious Freedom and Interfaith Solidarity"
+    },
+    {
+      "kind": "in",
+      "slug": "friendship",
+      "title": "Friendship"
+    },
+    {
+      "kind": "in",
+      "slug": "purity-of-intention",
+      "title": "Purity of Intention"
     }
   ],
   "parental-love": [
@@ -6350,14 +7120,24 @@
       "title": "Filial Piety"
     },
     {
-      "kind": "out",
-      "slug": "conjugal-love",
-      "title": "Conjugal Love"
+      "kind": "in",
+      "slug": "divine-love-and-compassion",
+      "title": "Divine Love and Compassion"
     },
     {
-      "kind": "out",
-      "slug": "ethics-of-married-life",
-      "title": "Ethics of Married Life"
+      "kind": "in",
+      "slug": "living-for-others",
+      "title": "Living for Others"
+    },
+    {
+      "kind": "in",
+      "slug": "exemplary-leadership",
+      "title": "Exemplary Leadership"
+    },
+    {
+      "kind": "in",
+      "slug": "the-love-of-grandparents",
+      "title": "The Love of Grandparents"
     }
   ],
   "patriotism-and-public-service": [
@@ -6400,11 +7180,6 @@
       "kind": "out",
       "slug": "the-moral-foundations-of-society",
       "title": "The Moral Foundations of Society"
-    },
-    {
-      "kind": "out",
-      "slug": "world-citizenship",
-      "title": "World Citizenship"
     },
     {
       "kind": "in",
@@ -6450,13 +7225,13 @@
     },
     {
       "kind": "out",
-      "slug": "spirit-world",
-      "title": "The Spirit World"
+      "slug": "synergy-of-grace-and-effort",
+      "title": "Synergy of Grace and Effort"
     },
     {
       "kind": "out",
-      "slug": "synergy-of-grace-and-effort",
-      "title": "Synergy of Grace and Effort"
+      "slug": "spirit-world",
+      "title": "The Spirit World"
     },
     {
       "kind": "out",
@@ -6470,18 +7245,33 @@
     },
     {
       "kind": "out",
-      "slug": "the-purpose-of-religion",
-      "title": "The Purpose of Religion"
-    },
-    {
-      "kind": "out",
       "slug": "humility",
       "title": "Humility"
     },
     {
-      "kind": "out",
-      "slug": "enlightenment",
-      "title": "Enlightenment"
+      "kind": "in",
+      "slug": "the-creator",
+      "title": "The Creator"
+    },
+    {
+      "kind": "in",
+      "slug": "divine-love-and-compassion",
+      "title": "Divine Love and Compassion"
+    },
+    {
+      "kind": "in",
+      "slug": "duality",
+      "title": "Duality"
+    },
+    {
+      "kind": "in",
+      "slug": "sons-and-daughters-of-god",
+      "title": "Sons and Daughters of God"
+    },
+    {
+      "kind": "in",
+      "slug": "interdependence",
+      "title": "Interdependence"
     }
   ],
   "persecution": [
@@ -6541,9 +7331,39 @@
       "title": "Self-Sacrifice"
     },
     {
-      "kind": "out",
-      "slug": "call-and-mission",
-      "title": "Call and Mission"
+      "kind": "in",
+      "slug": "righteousness",
+      "title": "Righteousness"
+    },
+    {
+      "kind": "in",
+      "slug": "hell",
+      "title": "Hell"
+    },
+    {
+      "kind": "in",
+      "slug": "tribulation",
+      "title": "Tribulation"
+    },
+    {
+      "kind": "in",
+      "slug": "forgiveness-world-scripture",
+      "title": "Forgiveness"
+    },
+    {
+      "kind": "in",
+      "slug": "jacob",
+      "title": "Jacob"
+    },
+    {
+      "kind": "in",
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
+    },
+    {
+      "kind": "in",
+      "slug": "shamanism-polytheism-and-animism",
+      "title": "Shamanism, Polytheism and Animism"
     }
   ],
   "perseverance-and-patience": [
@@ -6584,23 +7404,18 @@
     },
     {
       "kind": "in",
-      "slug": "recognizing-the-day-of-the-lord",
-      "title": "Recognizing the Day of the Lord"
-    },
-    {
-      "kind": "in",
       "slug": "intellectual-knowledge-and-spiritual-wisdom",
       "title": "Intellectual Knowledge and Spiritual Wisdom"
     },
     {
       "kind": "in",
-      "slug": "spirits-of-the-departed",
-      "title": "Spirits of the Departed"
+      "slug": "recognizing-the-day-of-the-lord",
+      "title": "Recognizing the Day of the Lord"
     },
     {
       "kind": "in",
-      "slug": "decision",
-      "title": "Decision"
+      "slug": "spirits-of-the-departed",
+      "title": "Spirits of the Departed"
     }
   ],
   "praise": [
@@ -6656,13 +7471,28 @@
     },
     {
       "kind": "in",
+      "slug": "prayer",
+      "title": "Prayer"
+    },
+    {
+      "kind": "in",
       "slug": "self-control",
       "title": "Self-Control"
     },
     {
       "kind": "in",
-      "slug": "prayer",
-      "title": "Prayer"
+      "slug": "tribulation",
+      "title": "Tribulation"
+    },
+    {
+      "kind": "in",
+      "slug": "sincerity-and-authenticity",
+      "title": "Sincerity and Authenticity"
+    },
+    {
+      "kind": "in",
+      "slug": "the-last-judgment",
+      "title": "The Last Judgment"
     }
   ],
   "prayer": [
@@ -6725,6 +7555,31 @@
       "kind": "in",
       "slug": "the-messiah",
       "title": "The Messiah"
+    },
+    {
+      "kind": "in",
+      "slug": "offerings-and-tithes",
+      "title": "Offerings and Tithes"
+    },
+    {
+      "kind": "in",
+      "slug": "women-of-the-bible",
+      "title": "Women of the Bible"
+    },
+    {
+      "kind": "in",
+      "slug": "charity",
+      "title": "Charity"
+    },
+    {
+      "kind": "in",
+      "slug": "new-revelation",
+      "title": "New Revelation"
+    },
+    {
+      "kind": "in",
+      "slug": "perseverance-and-patience",
+      "title": "Perseverance and Patience"
     }
   ],
   "predestination": [
@@ -6764,16 +7619,6 @@
       "title": "Jacob"
     },
     {
-      "kind": "out",
-      "slug": "cain-abel",
-      "title": "Cain and Abel"
-    },
-    {
-      "kind": "out",
-      "slug": "spiritual-growth",
-      "title": "Spiritual Growth"
-    },
-    {
       "kind": "in",
       "slug": "synergy-of-grace-and-effort",
       "title": "Synergy of Grace and Effort"
@@ -6787,6 +7632,21 @@
       "kind": "in",
       "slug": "living-for-others",
       "title": "Living for Others"
+    },
+    {
+      "kind": "in",
+      "slug": "individual-responsibility",
+      "title": "Individual Responsibility"
+    },
+    {
+      "kind": "in",
+      "slug": "the-primary-ends-of-education",
+      "title": "The Primary Ends of Education"
+    },
+    {
+      "kind": "in",
+      "slug": "intellectual-knowledge-and-spiritual-wisdom",
+      "title": "Intellectual Knowledge and Spiritual Wisdom"
     }
   ],
   "preparation-for-eternity": [
@@ -6844,6 +7704,11 @@
       "kind": "in",
       "slug": "tradition",
       "title": "Tradition"
+    },
+    {
+      "kind": "in",
+      "slug": "the-devil-and-his-activities",
+      "title": "The Devil and His Activities"
     },
     {
       "kind": "in",
@@ -6906,13 +7771,13 @@
     },
     {
       "kind": "out",
-      "slug": "muhammad",
-      "title": "Muhammad"
+      "slug": "islam",
+      "title": "Islam"
     },
     {
       "kind": "out",
-      "slug": "islam",
-      "title": "Islam"
+      "slug": "muhammad",
+      "title": "Muhammad"
     },
     {
       "kind": "out",
@@ -6930,29 +7795,24 @@
       "title": "New Revelation"
     },
     {
-      "kind": "out",
-      "slug": "spiritual-union",
-      "title": "Spiritual Union"
+      "kind": "in",
+      "slug": "faith",
+      "title": "Faith"
     },
     {
-      "kind": "out",
-      "slug": "righteous-leadership",
-      "title": "Righteous Leadership"
+      "kind": "in",
+      "slug": "the-one-god",
+      "title": "The One God"
     },
     {
-      "kind": "out",
-      "slug": "law-and-punishments",
-      "title": "Law and Punishments"
+      "kind": "in",
+      "slug": "beyond-ritual",
+      "title": "Beyond Ritual"
     },
     {
-      "kind": "out",
-      "slug": "exemplary-leadership",
-      "title": "Exemplary Leadership"
-    },
-    {
-      "kind": "out",
-      "slug": "interdependence",
-      "title": "Interdependence"
+      "kind": "in",
+      "slug": "world-peace",
+      "title": "World Peace"
     }
   ],
   "prudent-speech": [
@@ -7000,6 +7860,11 @@
     },
     {
       "kind": "out",
+      "slug": "devotion",
+      "title": "Devotion"
+    },
+    {
+      "kind": "out",
       "slug": "hell",
       "title": "Hell"
     },
@@ -7010,38 +7875,13 @@
     },
     {
       "kind": "out",
-      "slug": "devotion",
-      "title": "Devotion"
-    },
-    {
-      "kind": "out",
       "slug": "offerings-and-tithes",
       "title": "Offerings and Tithes"
     },
     {
-      "kind": "out",
-      "slug": "sincerity-and-authenticity",
-      "title": "Sincerity and Authenticity"
-    },
-    {
-      "kind": "out",
-      "slug": "obedience-and-submission",
-      "title": "Obedience and Submission"
-    },
-    {
-      "kind": "out",
-      "slug": "filial-piety",
-      "title": "Filial Piety"
-    },
-    {
-      "kind": "out",
-      "slug": "one-truth-many-paths",
-      "title": "One Truth, Many Paths"
-    },
-    {
-      "kind": "out",
-      "slug": "hypocrisy",
-      "title": "Hypocrisy"
+      "kind": "in",
+      "slug": "beyond-ritual",
+      "title": "Beyond Ritual"
     }
   ],
   "recognizing-the-day-of-the-lord": [
@@ -7091,19 +7931,9 @@
       "title": "New Revelation"
     },
     {
-      "kind": "out",
-      "slug": "the-moral-law",
-      "title": "The Moral Law"
-    },
-    {
-      "kind": "out",
-      "slug": "perseverance-and-patience",
-      "title": "Perseverance and Patience"
-    },
-    {
-      "kind": "out",
-      "slug": "caution-and-vigilance",
-      "title": "Caution and Vigilance"
+      "kind": "in",
+      "slug": "the-kingdom-of-heaven",
+      "title": "The Kingdom of Heaven"
     }
   ],
   "reconciliation-and-peacemaking": [
@@ -7144,13 +7974,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-purpose-of-religion",
-      "title": "The Purpose of Religion"
+      "slug": "islam",
+      "title": "Islam"
     },
     {
       "kind": "in",
-      "slug": "islam",
-      "title": "Islam"
+      "slug": "the-purpose-of-religion",
+      "title": "The Purpose of Religion"
     },
     {
       "kind": "in",
@@ -7166,6 +7996,11 @@
       "kind": "in",
       "slug": "restitution",
       "title": "Restitution"
+    },
+    {
+      "kind": "in",
+      "slug": "inner-peace",
+      "title": "Inner Peace"
     }
   ],
   "refining-fire": [
@@ -7210,24 +8045,24 @@
       "title": "Suffering"
     },
     {
-      "kind": "out",
-      "slug": "chastity",
-      "title": "Chastity"
+      "kind": "in",
+      "slug": "resurrections",
+      "title": "Resurrection"
     },
     {
-      "kind": "out",
-      "slug": "spiritual-union",
-      "title": "Spiritual Union"
+      "kind": "in",
+      "slug": "the-rebirth",
+      "title": "Rebirth"
     },
     {
-      "kind": "out",
-      "slug": "intellectual-knowledge-and-spiritual-wisdom",
-      "title": "Intellectual Knowledge and Spiritual Wisdom"
+      "kind": "in",
+      "slug": "help-and-deliverance",
+      "title": "Help and Deliverance"
     },
     {
-      "kind": "out",
-      "slug": "testing",
-      "title": "Testing"
+      "kind": "in",
+      "slug": "reversal-and-restoration",
+      "title": "Reversal and Restoration"
     }
   ],
   "reincarnation": [
@@ -7277,19 +8112,34 @@
       "title": "Resurrection"
     },
     {
-      "kind": "out",
-      "slug": "the-rebirth",
-      "title": "Rebirth"
-    },
-    {
-      "kind": "out",
-      "slug": "spirits-of-the-departed",
-      "title": "Spirits of the Departed"
-    },
-    {
       "kind": "in",
       "slug": "the-judgment",
       "title": "The Judgment"
+    },
+    {
+      "kind": "in",
+      "slug": "living-for-others",
+      "title": "Living for Others"
+    },
+    {
+      "kind": "in",
+      "slug": "the-immortal-soul",
+      "title": "The Immortal Soul"
+    },
+    {
+      "kind": "in",
+      "slug": "spiritual-error-and-the-occult",
+      "title": "Spiritual Error and the Occult"
+    },
+    {
+      "kind": "in",
+      "slug": "cause-and-effect",
+      "title": "Cause and Effect"
+    },
+    {
+      "kind": "in",
+      "slug": "uniting-heaven-and-earth",
+      "title": "Uniting Heaven and Earth"
     }
   ],
   "repentance": [
@@ -7315,13 +8165,13 @@
     },
     {
       "kind": "out",
-      "slug": "labor",
-      "title": "Labor"
+      "slug": "humility",
+      "title": "Humility"
     },
     {
       "kind": "out",
-      "slug": "humility",
-      "title": "Humility"
+      "slug": "labor",
+      "title": "Labor"
     },
     {
       "kind": "out",
@@ -7345,13 +8195,28 @@
     },
     {
       "kind": "in",
+      "slug": "prayer",
+      "title": "Prayer"
+    },
+    {
+      "kind": "in",
       "slug": "universal-salvation",
       "title": "Universal Salvation"
     },
     {
       "kind": "in",
-      "slug": "prayer",
-      "title": "Prayer"
+      "slug": "gods-grief",
+      "title": "God’s Grief"
+    },
+    {
+      "kind": "in",
+      "slug": "sins",
+      "title": "Atonement"
+    },
+    {
+      "kind": "in",
+      "slug": "self-denial",
+      "title": "Self-Denial"
     }
   ],
   "restitution": [
@@ -7407,6 +8272,11 @@
     },
     {
       "kind": "in",
+      "slug": "spirits-of-the-departed",
+      "title": "Spirits of the Departed"
+    },
+    {
+      "kind": "in",
       "slug": "the-futility-of-war",
       "title": "The Futility of War"
     },
@@ -7459,13 +8329,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-rebirth",
-      "title": "Rebirth"
+      "slug": "integrity",
+      "title": "Integrity"
     },
     {
       "kind": "in",
-      "slug": "integrity",
-      "title": "Integrity"
+      "slug": "the-rebirth",
+      "title": "Rebirth"
     },
     {
       "kind": "in",
@@ -7476,6 +8346,11 @@
       "kind": "in",
       "slug": "honesty",
       "title": "Honesty"
+    },
+    {
+      "kind": "in",
+      "slug": "liberation",
+      "title": "Liberation"
     }
   ],
   "resurrections": [
@@ -7506,23 +8381,18 @@
     },
     {
       "kind": "out",
-      "slug": "living-for-others",
-      "title": "Living for Others"
-    },
-    {
-      "kind": "out",
       "slug": "eternal-life-world-scripture",
       "title": "Eternal Life"
     },
     {
       "kind": "out",
-      "slug": "the-temple-of-god",
-      "title": "The Temple of God"
+      "slug": "living-for-others",
+      "title": "Living for Others"
     },
     {
       "kind": "out",
-      "slug": "refining-fire",
-      "title": "Refining Fire"
+      "slug": "the-temple-of-god",
+      "title": "The Temple of God"
     },
     {
       "kind": "out",
@@ -7538,6 +8408,31 @@
       "kind": "in",
       "slug": "preparation-for-eternity",
       "title": "Preparation for Eternity"
+    },
+    {
+      "kind": "in",
+      "slug": "the-judgment",
+      "title": "The Judgment"
+    },
+    {
+      "kind": "in",
+      "slug": "sins",
+      "title": "Atonement"
+    },
+    {
+      "kind": "in",
+      "slug": "asceticism-monasticism-and-celibacy",
+      "title": "Asceticism, Monasticism and Celibacy"
+    },
+    {
+      "kind": "in",
+      "slug": "the-rebirth",
+      "title": "Rebirth"
+    },
+    {
+      "kind": "in",
+      "slug": "reincarnation",
+      "title": "Reincarnation"
     }
   ],
   "reverence-for-life": [
@@ -7588,13 +8483,13 @@
     },
     {
       "kind": "in",
-      "slug": "stewardship",
-      "title": "Stewardship"
+      "slug": "health-and-disease",
+      "title": "Health and Disease"
     },
     {
       "kind": "in",
-      "slug": "health-and-disease",
-      "title": "Health and Disease"
+      "slug": "stewardship",
+      "title": "Stewardship"
     }
   ],
   "reversal-and-restoration": [
@@ -7639,24 +8534,14 @@
       "title": "Enlightenment"
     },
     {
-      "kind": "out",
-      "slug": "reconciliation-and-peacemaking",
-      "title": "Reconciliation and Peacemaking"
+      "kind": "in",
+      "slug": "the-rebirth",
+      "title": "Rebirth"
     },
     {
-      "kind": "out",
-      "slug": "restitution",
-      "title": "Restitution"
-    },
-    {
-      "kind": "out",
-      "slug": "refining-fire",
-      "title": "Refining Fire"
-    },
-    {
-      "kind": "out",
-      "slug": "spiritual-union",
-      "title": "Spiritual Union"
+      "kind": "in",
+      "slug": "the-search-for-knowledge",
+      "title": "The Search for Knowledge"
     }
   ],
   "righteous-leadership": [
@@ -7764,8 +8649,28 @@
     },
     {
       "kind": "in",
+      "slug": "abraham",
+      "title": "Abraham"
+    },
+    {
+      "kind": "in",
       "slug": "sin",
       "title": "Sin"
+    },
+    {
+      "kind": "in",
+      "slug": "faith",
+      "title": "Faith"
+    },
+    {
+      "kind": "in",
+      "slug": "the-messiah",
+      "title": "The Messiah"
+    },
+    {
+      "kind": "in",
+      "slug": "judaism",
+      "title": "Judaism"
     }
   ],
   "ritual": [
@@ -7805,29 +8710,29 @@
       "title": "Praise"
     },
     {
-      "kind": "out",
-      "slug": "devotion",
-      "title": "Devotion"
+      "kind": "in",
+      "slug": "obedience-and-submission",
+      "title": "Obedience and Submission"
     },
     {
-      "kind": "out",
-      "slug": "heaven",
-      "title": "Heaven"
+      "kind": "in",
+      "slug": "beyond-the-law",
+      "title": "Beyond the Law"
     },
     {
-      "kind": "out",
-      "slug": "offerings-and-tithes",
-      "title": "Offerings and Tithes"
+      "kind": "in",
+      "slug": "the-moral-foundations-of-society",
+      "title": "The Moral Foundations of Society"
     },
     {
-      "kind": "out",
-      "slug": "joy",
-      "title": "Joy"
+      "kind": "in",
+      "slug": "arguing-with-god",
+      "title": "Arguing with God"
     },
     {
-      "kind": "out",
-      "slug": "equality",
-      "title": "Equality"
+      "kind": "in",
+      "slug": "beyond-ritual",
+      "title": "Beyond Ritual"
     }
   ],
   "sacrificial-love": [
@@ -7882,14 +8787,39 @@
       "title": "The Judgment"
     },
     {
-      "kind": "out",
-      "slug": "persecution",
-      "title": "Persecution"
+      "kind": "in",
+      "slug": "praise",
+      "title": "Praise"
     },
     {
-      "kind": "out",
-      "slug": "the-kingdom-of-heaven",
-      "title": "The Kingdom of Heaven"
+      "kind": "in",
+      "slug": "charity",
+      "title": "Charity"
+    },
+    {
+      "kind": "in",
+      "slug": "universal-love",
+      "title": "Universal Love"
+    },
+    {
+      "kind": "in",
+      "slug": "patriotism-and-public-service",
+      "title": "Patriotism and Public Service"
+    },
+    {
+      "kind": "in",
+      "slug": "a-good-heart",
+      "title": "A Good Heart"
+    },
+    {
+      "kind": "in",
+      "slug": "the-teacher",
+      "title": "The Teacher"
+    },
+    {
+      "kind": "in",
+      "slug": "the-great-commandment",
+      "title": "The Great Commandment"
     }
   ],
   "scripture-and-interpretation": [
@@ -7929,29 +8859,24 @@
       "title": "The Kingdom of Heaven"
     },
     {
-      "kind": "out",
-      "slug": "tradition",
-      "title": "Tradition"
-    },
-    {
-      "kind": "out",
-      "slug": "humility",
-      "title": "Humility"
-    },
-    {
-      "kind": "out",
-      "slug": "offerings-and-tithes",
-      "title": "Offerings and Tithes"
-    },
-    {
-      "kind": "out",
-      "slug": "new-revelation",
-      "title": "New Revelation"
-    },
-    {
       "kind": "in",
       "slug": "sibling-love",
       "title": "Sibling Love"
+    },
+    {
+      "kind": "in",
+      "slug": "intellectual-knowledge-and-spiritual-wisdom",
+      "title": "Intellectual Knowledge and Spiritual Wisdom"
+    },
+    {
+      "kind": "in",
+      "slug": "discipleship",
+      "title": "Discipleship"
+    },
+    {
+      "kind": "in",
+      "slug": "the-teacher",
+      "title": "The Teacher"
     }
   ],
   "self-control": [
@@ -7972,13 +8897,13 @@
     },
     {
       "kind": "out",
-      "slug": "praise",
-      "title": "Praise"
+      "slug": "meditation",
+      "title": "Meditation"
     },
     {
       "kind": "out",
-      "slug": "meditation",
-      "title": "Meditation"
+      "slug": "praise",
+      "title": "Praise"
     },
     {
       "kind": "out",
@@ -7996,24 +8921,39 @@
       "title": "Atonement"
     },
     {
-      "kind": "out",
-      "slug": "self-denial",
-      "title": "Self-Denial"
+      "kind": "in",
+      "slug": "human-fall",
+      "title": "The Human Fall"
     },
     {
-      "kind": "out",
-      "slug": "forgiveness",
-      "title": "Forgiveness"
+      "kind": "in",
+      "slug": "heaven",
+      "title": "Heaven"
     },
     {
-      "kind": "out",
-      "slug": "asceticism-monasticism-and-celibacy",
-      "title": "Asceticism, Monasticism and Celibacy"
+      "kind": "in",
+      "slug": "true-love",
+      "title": "True Love"
     },
     {
-      "kind": "out",
-      "slug": "conscience-and-inborn-goodness",
-      "title": "Conscience and Inborn Goodness"
+      "kind": "in",
+      "slug": "good-and-evil",
+      "title": "Good and Evil"
+    },
+    {
+      "kind": "in",
+      "slug": "sincerity-and-authenticity",
+      "title": "Sincerity and Authenticity"
+    },
+    {
+      "kind": "in",
+      "slug": "restraint",
+      "title": "Restraint"
+    },
+    {
+      "kind": "in",
+      "slug": "perfection",
+      "title": "Perfection"
     }
   ],
   "self-denial": [
@@ -8115,29 +9055,39 @@
       "title": "Offerings and Tithes"
     },
     {
-      "kind": "out",
-      "slug": "obedience-and-submission",
-      "title": "Obedience and Submission"
-    },
-    {
-      "kind": "out",
-      "slug": "self-denial",
-      "title": "Self-Denial"
-    },
-    {
-      "kind": "out",
-      "slug": "filial-piety",
-      "title": "Filial Piety"
-    },
-    {
-      "kind": "out",
-      "slug": "asceticism-monasticism-and-celibacy",
-      "title": "Asceticism, Monasticism and Celibacy"
-    },
-    {
       "kind": "in",
       "slug": "christianity",
       "title": "Christianity"
+    },
+    {
+      "kind": "in",
+      "slug": "persecution",
+      "title": "Persecution"
+    },
+    {
+      "kind": "in",
+      "slug": "tradition",
+      "title": "Tradition"
+    },
+    {
+      "kind": "in",
+      "slug": "the-moral-law",
+      "title": "The Moral Law"
+    },
+    {
+      "kind": "in",
+      "slug": "tolerance-religious-freedom-and-interfaith-solidarity",
+      "title": "Tolerance, Religious Freedom and Interfaith Solidarity"
+    },
+    {
+      "kind": "in",
+      "slug": "martyrdom",
+      "title": "Martyrdom"
+    },
+    {
+      "kind": "in",
+      "slug": "war-against-evil",
+      "title": "War against Evil"
     }
   ],
   "selfish-desires-and-fallen-nature": [
@@ -8187,19 +9137,34 @@
       "title": "Egoism and Pride"
     },
     {
-      "kind": "out",
-      "slug": "restraint",
-      "title": "Restraint"
+      "kind": "in",
+      "slug": "the-messiah",
+      "title": "The Messiah"
     },
     {
-      "kind": "out",
-      "slug": "the-temple-of-god",
-      "title": "The Temple of God"
+      "kind": "in",
+      "slug": "the-devil-and-his-activities",
+      "title": "The Devil and His Activities"
     },
     {
-      "kind": "out",
-      "slug": "collective-and-historical-sin",
-      "title": "Collective and Historical Sin"
+      "kind": "in",
+      "slug": "the-last-judgment",
+      "title": "The Last Judgment"
+    },
+    {
+      "kind": "in",
+      "slug": "perfection",
+      "title": "Perfection"
+    },
+    {
+      "kind": "in",
+      "slug": "creativity-and-art",
+      "title": "Creativity and Art"
+    },
+    {
+      "kind": "in",
+      "slug": "the-war-within",
+      "title": "The War Within"
     }
   ],
   "separation-from-family": [
@@ -8225,13 +9190,13 @@
     },
     {
       "kind": "out",
-      "slug": "subduing-the-desires-of-the-flesh",
-      "title": "Subduing the Desires of the Flesh"
+      "slug": "judge-not",
+      "title": "Judge Not"
     },
     {
       "kind": "out",
-      "slug": "judge-not",
-      "title": "Judge Not"
+      "slug": "subduing-the-desires-of-the-flesh",
+      "title": "Subduing the Desires of the Flesh"
     },
     {
       "kind": "out",
@@ -8308,19 +9273,39 @@
       "title": "The Moral Law"
     },
     {
-      "kind": "out",
-      "slug": "the-one-god",
-      "title": "The One God"
-    },
-    {
       "kind": "in",
       "slug": "meditation",
       "title": "Meditation"
     },
     {
       "kind": "in",
+      "slug": "humility",
+      "title": "Humility"
+    },
+    {
+      "kind": "in",
       "slug": "islam",
       "title": "Islam"
+    },
+    {
+      "kind": "in",
+      "slug": "judaism",
+      "title": "Judaism"
+    },
+    {
+      "kind": "in",
+      "slug": "jacob",
+      "title": "Jacob"
+    },
+    {
+      "kind": "in",
+      "slug": "new-revelation",
+      "title": "New Revelation"
+    },
+    {
+      "kind": "in",
+      "slug": "individual-responsibility",
+      "title": "Individual Responsibility"
     }
   ],
   "sibling-love": [
@@ -8341,13 +9326,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-basic-form-of-life",
-      "title": "The Basic Form of Life"
+      "slug": "cain-abel",
+      "title": "Cain and Abel"
     },
     {
       "kind": "out",
-      "slug": "cain-abel",
-      "title": "Cain and Abel"
+      "slug": "the-basic-form-of-life",
+      "title": "The Basic Form of Life"
     },
     {
       "kind": "out",
@@ -8430,6 +9415,31 @@
       "kind": "in",
       "slug": "faith",
       "title": "Faith"
+    },
+    {
+      "kind": "in",
+      "slug": "the-kingdom-of-heaven",
+      "title": "The Kingdom of Heaven"
+    },
+    {
+      "kind": "in",
+      "slug": "repentance",
+      "title": "Repentance"
+    },
+    {
+      "kind": "in",
+      "slug": "universal-salvation",
+      "title": "Universal Salvation"
+    },
+    {
+      "kind": "in",
+      "slug": "good-and-evil",
+      "title": "Good and Evil"
+    },
+    {
+      "kind": "in",
+      "slug": "inherited-sin-and-karma",
+      "title": "Inherited Sin and Karma"
     }
   ],
   "sincerity-and-authenticity": [
@@ -8475,23 +9485,48 @@
     },
     {
       "kind": "out",
-      "slug": "true-love",
-      "title": "True Love"
-    },
-    {
-      "kind": "out",
       "slug": "the-devil-and-his-activities",
       "title": "The Devil and His Activities"
     },
     {
       "kind": "out",
-      "slug": "self-control",
-      "title": "Self-Control"
+      "slug": "true-love",
+      "title": "True Love"
     },
     {
-      "kind": "out",
-      "slug": "joy",
-      "title": "Joy"
+      "kind": "in",
+      "slug": "jesus-world-scripture",
+      "title": "Jesus"
+    },
+    {
+      "kind": "in",
+      "slug": "moses-world-scripture",
+      "title": "Moses"
+    },
+    {
+      "kind": "in",
+      "slug": "the-creator",
+      "title": "The Creator"
+    },
+    {
+      "kind": "in",
+      "slug": "heaven",
+      "title": "Heaven"
+    },
+    {
+      "kind": "in",
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
+    },
+    {
+      "kind": "in",
+      "slug": "freedom",
+      "title": "Freedom"
+    },
+    {
+      "kind": "in",
+      "slug": "perfection",
+      "title": "Perfection"
     }
   ],
   "sins": [
@@ -8527,13 +9562,13 @@
     },
     {
       "kind": "out",
-      "slug": "universal-salvation",
-      "title": "Universal Salvation"
+      "slug": "omniscient-and-omnipresent",
+      "title": "Omniscient and Omnipresent"
     },
     {
       "kind": "out",
-      "slug": "omniscient-and-omnipresent",
-      "title": "Omniscient and Omnipresent"
+      "slug": "universal-salvation",
+      "title": "Universal Salvation"
     },
     {
       "kind": "out",
@@ -8541,19 +9576,39 @@
       "title": "Forgiveness"
     },
     {
-      "kind": "out",
-      "slug": "resurrections",
-      "title": "Resurrection"
+      "kind": "in",
+      "slug": "humility",
+      "title": "Humility"
     },
     {
-      "kind": "out",
-      "slug": "eternal-life-world-scripture",
-      "title": "Eternal Life"
+      "kind": "in",
+      "slug": "enlightenment",
+      "title": "Enlightenment"
     },
     {
-      "kind": "out",
-      "slug": "healing",
-      "title": "Healing"
+      "kind": "in",
+      "slug": "self-control",
+      "title": "Self-Control"
+    },
+    {
+      "kind": "in",
+      "slug": "integrity",
+      "title": "Integrity"
+    },
+    {
+      "kind": "in",
+      "slug": "the-rebirth",
+      "title": "Rebirth"
+    },
+    {
+      "kind": "in",
+      "slug": "liberation",
+      "title": "Liberation"
+    },
+    {
+      "kind": "in",
+      "slug": "beyond-ritual",
+      "title": "Beyond Ritual"
     }
   ],
   "sobriety-and-temperance": [
@@ -8663,6 +9718,11 @@
       "kind": "in",
       "slug": "testing",
       "title": "Testing"
+    },
+    {
+      "kind": "in",
+      "slug": "hope",
+      "title": "Hope"
     }
   ],
   "sovereign-and-omnipotent": [
@@ -8725,6 +9785,26 @@
       "kind": "in",
       "slug": "divine-love-and-compassion",
       "title": "Divine Love and Compassion"
+    },
+    {
+      "kind": "in",
+      "slug": "the-image-of-god",
+      "title": "The Image of God"
+    },
+    {
+      "kind": "in",
+      "slug": "individual-responsibility",
+      "title": "Individual Responsibility"
+    },
+    {
+      "kind": "in",
+      "slug": "knowledge-of-god",
+      "title": "Knowledge of God"
+    },
+    {
+      "kind": "in",
+      "slug": "universal-love",
+      "title": "Universal Love"
     }
   ],
   "spirit-world": [
@@ -8787,6 +9867,26 @@
       "kind": "in",
       "slug": "meditation",
       "title": "Meditation"
+    },
+    {
+      "kind": "in",
+      "slug": "the-judgment",
+      "title": "The Judgment"
+    },
+    {
+      "kind": "in",
+      "slug": "heaven",
+      "title": "Heaven"
+    },
+    {
+      "kind": "in",
+      "slug": "enlightenment",
+      "title": "Enlightenment"
+    },
+    {
+      "kind": "in",
+      "slug": "dreams",
+      "title": "Dreams"
     }
   ],
   "spirits-of-the-departed": [
@@ -8849,13 +9949,13 @@
     },
     {
       "kind": "out",
-      "slug": "christianity",
-      "title": "Christianity"
+      "slug": "angels",
+      "title": "Angels"
     },
     {
       "kind": "out",
-      "slug": "angels",
-      "title": "Angels"
+      "slug": "christianity",
+      "title": "Christianity"
     },
     {
       "kind": "out",
@@ -8873,19 +9973,24 @@
       "title": "Islam"
     },
     {
-      "kind": "out",
-      "slug": "good-deeds",
-      "title": "Good Deeds"
+      "kind": "in",
+      "slug": "tolerance-religious-freedom-and-interfaith-solidarity",
+      "title": "Tolerance, Religious Freedom and Interfaith Solidarity"
     },
     {
-      "kind": "out",
-      "slug": "universal-salvation",
-      "title": "Universal Salvation"
+      "kind": "in",
+      "slug": "uniting-heaven-and-earth",
+      "title": "Uniting Heaven and Earth"
     },
     {
-      "kind": "out",
-      "slug": "judaism",
-      "title": "Judaism"
+      "kind": "in",
+      "slug": "spirits-of-the-departed",
+      "title": "Spirits of the Departed"
+    },
+    {
+      "kind": "in",
+      "slug": "call-and-mission",
+      "title": "Call and Mission"
     }
   ],
   "spiritual-growth": [
@@ -8958,13 +10063,13 @@
     },
     {
       "kind": "out",
-      "slug": "christianity",
-      "title": "Christianity"
+      "slug": "angels",
+      "title": "Angels"
     },
     {
       "kind": "out",
-      "slug": "angels",
-      "title": "Angels"
+      "slug": "christianity",
+      "title": "Christianity"
     },
     {
       "kind": "out",
@@ -8978,28 +10083,28 @@
     },
     {
       "kind": "out",
-      "slug": "muhammad",
-      "title": "Muhammad"
-    },
-    {
-      "kind": "out",
       "slug": "islam",
       "title": "Islam"
     },
     {
-      "kind": "out",
-      "slug": "enlightenment",
-      "title": "Enlightenment"
+      "kind": "in",
+      "slug": "healing",
+      "title": "Healing"
     },
     {
-      "kind": "out",
-      "slug": "judaism",
-      "title": "Judaism"
+      "kind": "in",
+      "slug": "refining-fire",
+      "title": "Refining Fire"
     },
     {
-      "kind": "out",
-      "slug": "charity",
-      "title": "Charity"
+      "kind": "in",
+      "slug": "prophets-and-messengers",
+      "title": "Prophets and Messengers"
+    },
+    {
+      "kind": "in",
+      "slug": "reversal-and-restoration",
+      "title": "Reversal and Restoration"
     }
   ],
   "stewardship": [
@@ -9064,11 +10169,6 @@
       "kind": "out",
       "slug": "judge-not",
       "title": "Judge Not"
-    },
-    {
-      "kind": "out",
-      "slug": "turn-the-other-cheek",
-      "title": "Turn the Other Cheek"
     },
     {
       "kind": "in",
@@ -9138,19 +10238,34 @@
       "title": "Egoism and Pride"
     },
     {
-      "kind": "out",
-      "slug": "the-rebirth",
-      "title": "Rebirth"
+      "kind": "in",
+      "slug": "jesus-world-scripture",
+      "title": "Jesus"
     },
     {
-      "kind": "out",
-      "slug": "gratitude-and-indebtedness",
-      "title": "Gratitude and Indebtedness"
+      "kind": "in",
+      "slug": "noah",
+      "title": "Noah"
     },
     {
-      "kind": "out",
-      "slug": "idolatry-and-materialism",
-      "title": "Idolatry and Materialism"
+      "kind": "in",
+      "slug": "healing",
+      "title": "Healing"
+    },
+    {
+      "kind": "in",
+      "slug": "martyrdom",
+      "title": "Martyrdom"
+    },
+    {
+      "kind": "in",
+      "slug": "refining-fire",
+      "title": "Refining Fire"
+    },
+    {
+      "kind": "in",
+      "slug": "friendship",
+      "title": "Friendship"
     }
   ],
   "synergy-of-grace-and-effort": [
@@ -9191,8 +10306,8 @@
     },
     {
       "kind": "in",
-      "slug": "muhammad",
-      "title": "Muhammad"
+      "slug": "heaven",
+      "title": "Heaven"
     },
     {
       "kind": "in",
@@ -9201,18 +10316,8 @@
     },
     {
       "kind": "in",
-      "slug": "heaven",
-      "title": "Heaven"
-    },
-    {
-      "kind": "in",
-      "slug": "the-purpose-of-religion",
-      "title": "The Purpose of Religion"
-    },
-    {
-      "kind": "in",
-      "slug": "universal-salvation",
-      "title": "Universal Salvation"
+      "slug": "muhammad",
+      "title": "Muhammad"
     }
   ],
   "testing": [
@@ -9252,29 +10357,19 @@
       "title": "Faith"
     },
     {
-      "kind": "out",
-      "slug": "persecution",
-      "title": "Persecution"
+      "kind": "in",
+      "slug": "judaism",
+      "title": "Judaism"
     },
     {
-      "kind": "out",
-      "slug": "muhammad",
-      "title": "Muhammad"
+      "kind": "in",
+      "slug": "the-one-god",
+      "title": "The One God"
     },
     {
-      "kind": "out",
-      "slug": "jacob",
-      "title": "Jacob"
-    },
-    {
-      "kind": "out",
-      "slug": "hypocrisy",
-      "title": "Hypocrisy"
-    },
-    {
-      "kind": "out",
-      "slug": "sons-and-daughters-of-god",
-      "title": "Sons and Daughters of God"
+      "kind": "in",
+      "slug": "refining-fire",
+      "title": "Refining Fire"
     }
   ],
   "the-basic-form-of-life": [
@@ -9319,24 +10414,24 @@
       "title": "Sons and Daughters of God"
     },
     {
-      "kind": "out",
-      "slug": "god-fearing-leadership",
-      "title": "God-Fearing Leadership"
-    },
-    {
-      "kind": "out",
-      "slug": "conjugal-love",
-      "title": "Conjugal Love"
-    },
-    {
-      "kind": "out",
-      "slug": "heavenly-father-and-mother",
-      "title": "Heavenly Father and Mother"
-    },
-    {
       "kind": "in",
       "slug": "filial-piety",
       "title": "Filial Piety"
+    },
+    {
+      "kind": "in",
+      "slug": "sibling-love",
+      "title": "Sibling Love"
+    },
+    {
+      "kind": "in",
+      "slug": "the-futility-of-war",
+      "title": "The Futility of War"
+    },
+    {
+      "kind": "in",
+      "slug": "friendship",
+      "title": "Friendship"
     }
   ],
   "the-creator": [
@@ -9357,13 +10452,13 @@
     },
     {
       "kind": "bi",
-      "slug": "the-original-cause",
-      "title": "The Original Cause"
+      "slug": "cause-and-effect",
+      "title": "Cause and Effect"
     },
     {
       "kind": "bi",
-      "slug": "cause-and-effect",
-      "title": "Cause and Effect"
+      "slug": "the-original-cause",
+      "title": "The Original Cause"
     },
     {
       "kind": "out",
@@ -9399,6 +10494,36 @@
       "kind": "in",
       "slug": "jesus-world-scripture",
       "title": "Jesus"
+    },
+    {
+      "kind": "in",
+      "slug": "christianity",
+      "title": "Christianity"
+    },
+    {
+      "kind": "in",
+      "slug": "the-purpose-of-religion",
+      "title": "The Purpose of Religion"
+    },
+    {
+      "kind": "in",
+      "slug": "true-love",
+      "title": "True Love"
+    },
+    {
+      "kind": "in",
+      "slug": "the-purpose-of-human-life",
+      "title": "The Purpose of Human Life"
+    },
+    {
+      "kind": "in",
+      "slug": "gods-grief",
+      "title": "God’s Grief"
+    },
+    {
+      "kind": "in",
+      "slug": "gods-goodness",
+      "title": "God’s Goodness"
     }
   ],
   "the-devil-and-his-activities": [
@@ -9448,19 +10573,39 @@
       "title": "Faith"
     },
     {
-      "kind": "out",
-      "slug": "hell",
-      "title": "Hell"
+      "kind": "in",
+      "slug": "jesus-world-scripture",
+      "title": "Jesus"
     },
     {
-      "kind": "out",
-      "slug": "doubt",
-      "title": "Doubt"
+      "kind": "in",
+      "slug": "spirit-world",
+      "title": "The Spirit World"
     },
     {
-      "kind": "out",
-      "slug": "the-purpose-of-religion",
-      "title": "The Purpose of Religion"
+      "kind": "in",
+      "slug": "sin",
+      "title": "Sin"
+    },
+    {
+      "kind": "in",
+      "slug": "the-messiah",
+      "title": "The Messiah"
+    },
+    {
+      "kind": "in",
+      "slug": "labor",
+      "title": "Labor"
+    },
+    {
+      "kind": "in",
+      "slug": "dreams",
+      "title": "Dreams"
+    },
+    {
+      "kind": "in",
+      "slug": "inherited-sin-and-karma",
+      "title": "Inherited Sin and Karma"
     }
   ],
   "the-fear-of-god": [
@@ -9500,29 +10645,24 @@
       "title": "Divine Love and Compassion"
     },
     {
-      "kind": "out",
-      "slug": "egoism-and-pride",
-      "title": "Egoism and Pride"
-    },
-    {
-      "kind": "out",
-      "slug": "assurance",
-      "title": "Assurance"
-    },
-    {
-      "kind": "out",
-      "slug": "knowledge-of-god",
-      "title": "Knowledge of God"
-    },
-    {
-      "kind": "out",
-      "slug": "gratitude-and-indebtedness",
-      "title": "Gratitude and Indebtedness"
-    },
-    {
       "kind": "in",
       "slug": "doubt",
       "title": "Doubt"
+    },
+    {
+      "kind": "in",
+      "slug": "the-purpose-of-human-life",
+      "title": "The Purpose of Human Life"
+    },
+    {
+      "kind": "in",
+      "slug": "testing",
+      "title": "Testing"
+    },
+    {
+      "kind": "in",
+      "slug": "arguing-with-god",
+      "title": "Arguing with God"
     }
   ],
   "the-futility-of-war": [
@@ -9580,13 +10720,13 @@
     },
     {
       "kind": "out",
-      "slug": "muhammad",
-      "title": "Muhammad"
+      "slug": "humility",
+      "title": "Humility"
     },
     {
       "kind": "out",
-      "slug": "humility",
-      "title": "Humility"
+      "slug": "muhammad",
+      "title": "Muhammad"
     },
     {
       "kind": "out",
@@ -9604,16 +10744,6 @@
       "title": "Living for Others"
     },
     {
-      "kind": "out",
-      "slug": "integrity",
-      "title": "Integrity"
-    },
-    {
-      "kind": "out",
-      "slug": "eternal-truth",
-      "title": "Eternal Truth"
-    },
-    {
       "kind": "in",
       "slug": "true-love",
       "title": "True Love"
@@ -9627,6 +10757,16 @@
       "kind": "in",
       "slug": "women-of-the-bible",
       "title": "Women of the Bible"
+    },
+    {
+      "kind": "in",
+      "slug": "filial-piety",
+      "title": "Filial Piety"
+    },
+    {
+      "kind": "in",
+      "slug": "cause-and-effect",
+      "title": "Cause and Effect"
     }
   ],
   "the-great-commandment": [
@@ -9708,19 +10848,39 @@
       "title": "Charity"
     },
     {
-      "kind": "out",
-      "slug": "sovereign-and-omnipotent",
-      "title": "Sovereign and Omnipotent"
+      "kind": "in",
+      "slug": "the-creator",
+      "title": "The Creator"
     },
     {
-      "kind": "out",
-      "slug": "the-value-of-human-life",
-      "title": "The Value of Human Life"
+      "kind": "in",
+      "slug": "divine-love-and-compassion",
+      "title": "Divine Love and Compassion"
     },
     {
-      "kind": "out",
-      "slug": "beauty",
-      "title": "Beauty"
+      "kind": "in",
+      "slug": "joy",
+      "title": "Joy"
+    },
+    {
+      "kind": "in",
+      "slug": "formless-invisible-mystery",
+      "title": "Formless, Invisible, Mystery"
+    },
+    {
+      "kind": "in",
+      "slug": "the-temple-of-god",
+      "title": "The Temple of God"
+    },
+    {
+      "kind": "in",
+      "slug": "duality",
+      "title": "Duality"
+    },
+    {
+      "kind": "in",
+      "slug": "eternal-truth",
+      "title": "Eternal Truth"
     }
   ],
   "the-immortal-soul": [
@@ -9770,19 +10930,29 @@
       "title": "Resurrection"
     },
     {
-      "kind": "out",
-      "slug": "reincarnation",
-      "title": "Reincarnation"
-    },
-    {
-      "kind": "out",
-      "slug": "nature-as-teacher",
-      "title": "Nature as Teacher"
-    },
-    {
       "kind": "in",
       "slug": "human-fall",
       "title": "The Human Fall"
+    },
+    {
+      "kind": "in",
+      "slug": "preparation-for-eternity",
+      "title": "Preparation for Eternity"
+    },
+    {
+      "kind": "in",
+      "slug": "dreams",
+      "title": "Dreams"
+    },
+    {
+      "kind": "in",
+      "slug": "living-for-others",
+      "title": "Living for Others"
+    },
+    {
+      "kind": "in",
+      "slug": "the-passage-beyond",
+      "title": "The Passage Beyond"
     }
   ],
   "the-judgment": [
@@ -9823,28 +10993,48 @@
     },
     {
       "kind": "out",
-      "slug": "true-love",
-      "title": "True Love"
-    },
-    {
-      "kind": "out",
       "slug": "good-deeds",
       "title": "Good Deeds"
     },
     {
       "kind": "out",
-      "slug": "resurrections",
-      "title": "Resurrection"
+      "slug": "true-love",
+      "title": "True Love"
     },
     {
-      "kind": "out",
-      "slug": "reincarnation",
-      "title": "Reincarnation"
+      "kind": "in",
+      "slug": "human-fall",
+      "title": "The Human Fall"
     },
     {
-      "kind": "out",
-      "slug": "integrity",
-      "title": "Integrity"
+      "kind": "in",
+      "slug": "moses-world-scripture",
+      "title": "Moses"
+    },
+    {
+      "kind": "in",
+      "slug": "sin",
+      "title": "Sin"
+    },
+    {
+      "kind": "in",
+      "slug": "heaven",
+      "title": "Heaven"
+    },
+    {
+      "kind": "in",
+      "slug": "repentance",
+      "title": "Repentance"
+    },
+    {
+      "kind": "in",
+      "slug": "good-and-evil",
+      "title": "Good and Evil"
+    },
+    {
+      "kind": "in",
+      "slug": "living-for-others",
+      "title": "Living for Others"
     }
   ],
   "the-kingdom-of-heaven": [
@@ -9889,24 +11079,39 @@
       "title": "New Revelation"
     },
     {
-      "kind": "out",
-      "slug": "the-last-judgment",
-      "title": "The Last Judgment"
-    },
-    {
-      "kind": "out",
-      "slug": "the-one-god",
-      "title": "The One God"
-    },
-    {
-      "kind": "out",
-      "slug": "recognizing-the-day-of-the-lord",
-      "title": "Recognizing the Day of the Lord"
-    },
-    {
       "kind": "in",
       "slug": "persecution",
       "title": "Persecution"
+    },
+    {
+      "kind": "in",
+      "slug": "devotion",
+      "title": "Devotion"
+    },
+    {
+      "kind": "in",
+      "slug": "hell",
+      "title": "Hell"
+    },
+    {
+      "kind": "in",
+      "slug": "heaven",
+      "title": "Heaven"
+    },
+    {
+      "kind": "in",
+      "slug": "humility",
+      "title": "Humility"
+    },
+    {
+      "kind": "in",
+      "slug": "witness",
+      "title": "Witness"
+    },
+    {
+      "kind": "in",
+      "slug": "universal-salvation",
+      "title": "Universal Salvation"
     }
   ],
   "the-last-judgment": [
@@ -9947,13 +11152,13 @@
     },
     {
       "kind": "out",
-      "slug": "christianity",
-      "title": "Christianity"
+      "slug": "angels",
+      "title": "Angels"
     },
     {
       "kind": "out",
-      "slug": "angels",
-      "title": "Angels"
+      "slug": "christianity",
+      "title": "Christianity"
     },
     {
       "kind": "out",
@@ -9966,9 +11171,39 @@
       "title": "Praise"
     },
     {
-      "kind": "out",
-      "slug": "hell",
-      "title": "Hell"
+      "kind": "in",
+      "slug": "the-kingdom-of-heaven",
+      "title": "The Kingdom of Heaven"
+    },
+    {
+      "kind": "in",
+      "slug": "devotion",
+      "title": "Devotion"
+    },
+    {
+      "kind": "in",
+      "slug": "universal-salvation",
+      "title": "Universal Salvation"
+    },
+    {
+      "kind": "in",
+      "slug": "new-revelation",
+      "title": "New Revelation"
+    },
+    {
+      "kind": "in",
+      "slug": "restraint",
+      "title": "Restraint"
+    },
+    {
+      "kind": "in",
+      "slug": "asceticism-monasticism-and-celibacy",
+      "title": "Asceticism, Monasticism and Celibacy"
+    },
+    {
+      "kind": "in",
+      "slug": "the-primary-ends-of-education",
+      "title": "The Primary Ends of Education"
     }
   ],
   "the-lord-of-creation": [
@@ -10031,6 +11266,11 @@
       "kind": "in",
       "slug": "cain-abel",
       "title": "Cain and Abel"
+    },
+    {
+      "kind": "in",
+      "slug": "uniting-heaven-and-earth",
+      "title": "Uniting Heaven and Earth"
     }
   ],
   "the-love-of-grandparents": [
@@ -10082,11 +11322,6 @@
       "title": "The Last Judgment"
     },
     {
-      "kind": "bi",
-      "slug": "recognizing-the-day-of-the-lord",
-      "title": "Recognizing the Day of the Lord"
-    },
-    {
       "kind": "out",
       "slug": "human-fall",
       "title": "The Human Fall"
@@ -10105,6 +11340,56 @@
       "kind": "out",
       "slug": "buddhism",
       "title": "Buddhism"
+    },
+    {
+      "kind": "out",
+      "slug": "christianity",
+      "title": "Christianity"
+    },
+    {
+      "kind": "out",
+      "slug": "buddha-world-scripture",
+      "title": "Buddha"
+    },
+    {
+      "kind": "out",
+      "slug": "justice",
+      "title": "Justice"
+    },
+    {
+      "kind": "in",
+      "slug": "faith",
+      "title": "Faith"
+    },
+    {
+      "kind": "in",
+      "slug": "the-kingdom-of-heaven",
+      "title": "The Kingdom of Heaven"
+    },
+    {
+      "kind": "in",
+      "slug": "devotion",
+      "title": "Devotion"
+    },
+    {
+      "kind": "in",
+      "slug": "women-of-the-bible",
+      "title": "Women of the Bible"
+    },
+    {
+      "kind": "in",
+      "slug": "resurrections",
+      "title": "Resurrection"
+    },
+    {
+      "kind": "in",
+      "slug": "sovereign-and-omnipotent",
+      "title": "Sovereign and Omnipotent"
+    },
+    {
+      "kind": "in",
+      "slug": "sacrificial-love",
+      "title": "Sacrificial Love"
     }
   ],
   "the-moral-foundations-of-society": [
@@ -10149,24 +11434,14 @@
       "title": "Reconciliation and Peacemaking"
     },
     {
-      "kind": "out",
-      "slug": "assurance",
-      "title": "Assurance"
+      "kind": "in",
+      "slug": "patriotism-and-public-service",
+      "title": "Patriotism and Public Service"
     },
     {
-      "kind": "out",
-      "slug": "hypocrisy",
-      "title": "Hypocrisy"
-    },
-    {
-      "kind": "out",
-      "slug": "ritual",
-      "title": "Ritual"
-    },
-    {
-      "kind": "out",
-      "slug": "heresy",
-      "title": "Heresy"
+      "kind": "in",
+      "slug": "womens-rights",
+      "title": "Women’s Rights"
     }
   ],
   "the-moral-law": [
@@ -10211,24 +11486,39 @@
       "title": "Self-Sacrifice"
     },
     {
-      "kind": "out",
-      "slug": "honesty",
-      "title": "Honesty"
-    },
-    {
-      "kind": "out",
-      "slug": "conscience-and-inborn-goodness",
-      "title": "Conscience and Inborn Goodness"
-    },
-    {
-      "kind": "out",
-      "slug": "unchanging-and-eternal",
-      "title": "Unchanging and Eternal"
-    },
-    {
       "kind": "in",
       "slug": "women-of-the-bible",
       "title": "Women of the Bible"
+    },
+    {
+      "kind": "in",
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
+    },
+    {
+      "kind": "in",
+      "slug": "freedom",
+      "title": "Freedom"
+    },
+    {
+      "kind": "in",
+      "slug": "shamanism-polytheism-and-animism",
+      "title": "Shamanism, Polytheism and Animism"
+    },
+    {
+      "kind": "in",
+      "slug": "filial-piety",
+      "title": "Filial Piety"
+    },
+    {
+      "kind": "in",
+      "slug": "recognizing-the-day-of-the-lord",
+      "title": "Recognizing the Day of the Lord"
+    },
+    {
+      "kind": "in",
+      "slug": "righteous-leadership",
+      "title": "Righteous Leadership"
     }
   ],
   "the-one-god": [
@@ -10268,29 +11558,39 @@
       "title": "Founders, Prophets, and Saints"
     },
     {
-      "kind": "out",
-      "slug": "formless-invisible-mystery",
-      "title": "Formless, Invisible, Mystery"
-    },
-    {
-      "kind": "out",
-      "slug": "immanent-and-dwelling-within-the-heart",
-      "title": "Immanent and Dwelling within the Heart"
-    },
-    {
-      "kind": "out",
-      "slug": "prophets-and-messengers",
-      "title": "Prophets and Messengers"
-    },
-    {
-      "kind": "out",
-      "slug": "testing",
-      "title": "Testing"
-    },
-    {
       "kind": "in",
       "slug": "jesus-world-scripture",
       "title": "Jesus"
+    },
+    {
+      "kind": "in",
+      "slug": "the-kingdom-of-heaven",
+      "title": "The Kingdom of Heaven"
+    },
+    {
+      "kind": "in",
+      "slug": "witness",
+      "title": "Witness"
+    },
+    {
+      "kind": "in",
+      "slug": "shamanism-polytheism-and-animism",
+      "title": "Shamanism, Polytheism and Animism"
+    },
+    {
+      "kind": "in",
+      "slug": "gods-goodness",
+      "title": "God’s Goodness"
+    },
+    {
+      "kind": "in",
+      "slug": "one-truth-many-paths",
+      "title": "One Truth, Many Paths"
+    },
+    {
+      "kind": "in",
+      "slug": "knowledge-of-god",
+      "title": "Knowledge of God"
     }
   ],
   "the-original-cause": [
@@ -10353,28 +11653,18 @@
     },
     {
       "kind": "out",
-      "slug": "labor",
-      "title": "Labor"
-    },
-    {
-      "kind": "out",
       "slug": "heaven",
       "title": "Heaven"
     },
     {
       "kind": "out",
+      "slug": "labor",
+      "title": "Labor"
+    },
+    {
+      "kind": "out",
       "slug": "eternal-life-world-scripture",
       "title": "Eternal Life"
-    },
-    {
-      "kind": "out",
-      "slug": "the-rebirth",
-      "title": "Rebirth"
-    },
-    {
-      "kind": "out",
-      "slug": "the-immortal-soul",
-      "title": "The Immortal Soul"
     },
     {
       "kind": "in",
@@ -10420,13 +11710,13 @@
     },
     {
       "kind": "in",
-      "slug": "restitution",
-      "title": "Restitution"
+      "slug": "assurance",
+      "title": "Assurance"
     },
     {
       "kind": "in",
-      "slug": "assurance",
-      "title": "Assurance"
+      "slug": "restitution",
+      "title": "Restitution"
     },
     {
       "kind": "in",
@@ -10561,6 +11851,21 @@
       "kind": "in",
       "slug": "conscience-and-inborn-goodness",
       "title": "Conscience and Inborn Goodness"
+    },
+    {
+      "kind": "in",
+      "slug": "conjugal-love",
+      "title": "Conjugal Love"
+    },
+    {
+      "kind": "in",
+      "slug": "the-search-for-knowledge",
+      "title": "The Search for Knowledge"
+    },
+    {
+      "kind": "in",
+      "slug": "intellectual-knowledge-and-spiritual-wisdom",
+      "title": "Intellectual Knowledge and Spiritual Wisdom"
     }
   ],
   "the-purpose-of-religion": [
@@ -10623,6 +11928,46 @@
       "kind": "out",
       "slug": "tradition",
       "title": "Tradition"
+    },
+    {
+      "kind": "out",
+      "slug": "muhammad",
+      "title": "Muhammad"
+    },
+    {
+      "kind": "in",
+      "slug": "jesus-world-scripture",
+      "title": "Jesus"
+    },
+    {
+      "kind": "in",
+      "slug": "humility",
+      "title": "Humility"
+    },
+    {
+      "kind": "in",
+      "slug": "the-devil-and-his-activities",
+      "title": "The Devil and His Activities"
+    },
+    {
+      "kind": "in",
+      "slug": "judaism",
+      "title": "Judaism"
+    },
+    {
+      "kind": "in",
+      "slug": "jacob",
+      "title": "Jacob"
+    },
+    {
+      "kind": "in",
+      "slug": "new-revelation",
+      "title": "New Revelation"
+    },
+    {
+      "kind": "in",
+      "slug": "sacrificial-love",
+      "title": "Sacrificial Love"
     }
   ],
   "the-rebirth": [
@@ -10648,13 +11993,13 @@
     },
     {
       "kind": "out",
-      "slug": "resurrections",
-      "title": "Resurrection"
+      "slug": "eternal-life-world-scripture",
+      "title": "Eternal Life"
     },
     {
       "kind": "out",
-      "slug": "eternal-life-world-scripture",
-      "title": "Eternal Life"
+      "slug": "resurrections",
+      "title": "Resurrection"
     },
     {
       "kind": "out",
@@ -10662,29 +12007,39 @@
       "title": "Atonement"
     },
     {
-      "kind": "out",
-      "slug": "restraint",
-      "title": "Restraint"
-    },
-    {
-      "kind": "out",
-      "slug": "refining-fire",
-      "title": "Refining Fire"
-    },
-    {
-      "kind": "out",
-      "slug": "help-and-deliverance",
-      "title": "Help and Deliverance"
-    },
-    {
-      "kind": "out",
-      "slug": "reversal-and-restoration",
-      "title": "Reversal and Restoration"
-    },
-    {
       "kind": "in",
       "slug": "ignorance-and-atheism",
       "title": "Ignorance and Atheism"
+    },
+    {
+      "kind": "in",
+      "slug": "egoism-and-pride",
+      "title": "Egoism and Pride"
+    },
+    {
+      "kind": "in",
+      "slug": "perfection",
+      "title": "Perfection"
+    },
+    {
+      "kind": "in",
+      "slug": "reincarnation",
+      "title": "Reincarnation"
+    },
+    {
+      "kind": "in",
+      "slug": "suffering",
+      "title": "Suffering"
+    },
+    {
+      "kind": "in",
+      "slug": "cause-and-effect",
+      "title": "Cause and Effect"
+    },
+    {
+      "kind": "in",
+      "slug": "the-passage-beyond",
+      "title": "The Passage Beyond"
     }
   ],
   "the-rise-and-fall-of-nations": [
@@ -10747,13 +12102,13 @@
     },
     {
       "kind": "out",
-      "slug": "spirit-world",
-      "title": "The Spirit World"
+      "slug": "synergy-of-grace-and-effort",
+      "title": "Synergy of Grace and Effort"
     },
     {
       "kind": "out",
-      "slug": "synergy-of-grace-and-effort",
-      "title": "Synergy of Grace and Effort"
+      "slug": "spirit-world",
+      "title": "The Spirit World"
     },
     {
       "kind": "out",
@@ -10799,33 +12154,28 @@
     },
     {
       "kind": "out",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
-    },
-    {
-      "kind": "out",
-      "slug": "the-purpose-of-human-life",
-      "title": "The Purpose of Human Life"
-    },
-    {
-      "kind": "out",
       "slug": "eternal-life-world-scripture",
       "title": "Eternal Life"
     },
     {
       "kind": "out",
-      "slug": "conscience-and-inborn-goodness",
-      "title": "Conscience and Inborn Goodness"
-    },
-    {
-      "kind": "out",
-      "slug": "reversal-and-restoration",
-      "title": "Reversal and Restoration"
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
     },
     {
       "kind": "in",
       "slug": "ignorance-and-atheism",
       "title": "Ignorance and Atheism"
+    },
+    {
+      "kind": "in",
+      "slug": "intellectual-knowledge-and-spiritual-wisdom",
+      "title": "Intellectual Knowledge and Spiritual Wisdom"
+    },
+    {
+      "kind": "in",
+      "slug": "the-teacher",
+      "title": "The Teacher"
     }
   ],
   "the-seasons-of-life": [
@@ -10836,13 +12186,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-moral-law",
-      "title": "The Moral Law"
+      "slug": "obedience-and-submission",
+      "title": "Obedience and Submission"
     },
     {
       "kind": "out",
-      "slug": "obedience-and-submission",
-      "title": "Obedience and Submission"
+      "slug": "the-moral-law",
+      "title": "The Moral Law"
     },
     {
       "kind": "in",
@@ -10892,21 +12242,6 @@
       "title": "The Primary Ends of Education"
     },
     {
-      "kind": "out",
-      "slug": "the-search-for-knowledge",
-      "title": "The Search for Knowledge"
-    },
-    {
-      "kind": "out",
-      "slug": "scripture-and-interpretation",
-      "title": "Scripture and Interpretation"
-    },
-    {
-      "kind": "out",
-      "slug": "intellectual-knowledge-and-spiritual-wisdom",
-      "title": "Intellectual Knowledge and Spiritual Wisdom"
-    },
-    {
       "kind": "in",
       "slug": "discipleship",
       "title": "Discipleship"
@@ -10930,13 +12265,13 @@
     },
     {
       "kind": "out",
-      "slug": "spirit-world",
-      "title": "The Spirit World"
+      "slug": "synergy-of-grace-and-effort",
+      "title": "Synergy of Grace and Effort"
     },
     {
       "kind": "out",
-      "slug": "synergy-of-grace-and-effort",
-      "title": "Synergy of Grace and Effort"
+      "slug": "spirit-world",
+      "title": "The Spirit World"
     },
     {
       "kind": "out",
@@ -10959,19 +12294,34 @@
       "title": "The Image of God"
     },
     {
-      "kind": "out",
-      "slug": "microcosm-and-macrocosm",
-      "title": "Microcosm and Macrocosm"
-    },
-    {
-      "kind": "out",
-      "slug": "creativity-and-art",
-      "title": "Creativity and Art"
-    },
-    {
       "kind": "in",
       "slug": "abraham",
       "title": "Abraham"
+    },
+    {
+      "kind": "in",
+      "slug": "true-love",
+      "title": "True Love"
+    },
+    {
+      "kind": "in",
+      "slug": "resurrections",
+      "title": "Resurrection"
+    },
+    {
+      "kind": "in",
+      "slug": "the-purpose-of-human-life",
+      "title": "The Purpose of Human Life"
+    },
+    {
+      "kind": "in",
+      "slug": "selfish-desires-and-fallen-nature",
+      "title": "Selfish Desires and Fallen Nature"
+    },
+    {
+      "kind": "in",
+      "slug": "inner-peace",
+      "title": "Inner Peace"
     }
   ],
   "the-ten-commandments": [
@@ -11021,19 +12371,34 @@
       "title": "Confucianism"
     },
     {
-      "kind": "out",
-      "slug": "confucius",
-      "title": "Confucius"
+      "kind": "in",
+      "slug": "faith",
+      "title": "Faith"
     },
     {
-      "kind": "out",
-      "slug": "forgiveness-world-scripture",
-      "title": "Forgiveness"
+      "kind": "in",
+      "slug": "ignorance-and-atheism",
+      "title": "Ignorance and Atheism"
     },
     {
-      "kind": "out",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
+      "kind": "in",
+      "slug": "filial-piety",
+      "title": "Filial Piety"
+    },
+    {
+      "kind": "in",
+      "slug": "duality",
+      "title": "Duality"
+    },
+    {
+      "kind": "in",
+      "slug": "government-for-the-people",
+      "title": "Government for the People"
+    },
+    {
+      "kind": "in",
+      "slug": "interdependence",
+      "title": "Interdependence"
     }
   ],
   "the-value-of-human-life": [
@@ -11096,6 +12461,11 @@
       "kind": "in",
       "slug": "sons-and-daughters-of-god",
       "title": "Sons and Daughters of God"
+    },
+    {
+      "kind": "in",
+      "slug": "hope",
+      "title": "Hope"
     }
   ],
   "the-war-within": [
@@ -11177,24 +12547,29 @@
       "title": "Muhammad"
     },
     {
-      "kind": "out",
-      "slug": "witness",
-      "title": "Witness"
+      "kind": "in",
+      "slug": "meditation",
+      "title": "Meditation"
     },
     {
-      "kind": "out",
-      "slug": "good-deeds",
-      "title": "Good Deeds"
+      "kind": "in",
+      "slug": "the-messiah",
+      "title": "The Messiah"
     },
     {
-      "kind": "out",
-      "slug": "confucius",
-      "title": "Confucius"
+      "kind": "in",
+      "slug": "islam",
+      "title": "Islam"
     },
     {
-      "kind": "out",
-      "slug": "egoism-and-pride",
-      "title": "Egoism and Pride"
+      "kind": "in",
+      "slug": "judaism",
+      "title": "Judaism"
+    },
+    {
+      "kind": "in",
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
     }
   ],
   "tradition": [
@@ -11245,13 +12620,18 @@
     },
     {
       "kind": "in",
+      "slug": "confucianism",
+      "title": "Confucianism"
+    },
+    {
+      "kind": "in",
       "slug": "women-of-the-bible",
       "title": "Women of the Bible"
     },
     {
       "kind": "in",
-      "slug": "confucianism",
-      "title": "Confucianism"
+      "slug": "jacob",
+      "title": "Jacob"
     },
     {
       "kind": "in",
@@ -11314,13 +12694,13 @@
     },
     {
       "kind": "out",
-      "slug": "christianity",
-      "title": "Christianity"
+      "slug": "angels",
+      "title": "Angels"
     },
     {
       "kind": "out",
-      "slug": "angels",
-      "title": "Angels"
+      "slug": "christianity",
+      "title": "Christianity"
     },
     {
       "kind": "out",
@@ -11338,14 +12718,39 @@
       "title": "Hell"
     },
     {
-      "kind": "out",
-      "slug": "ignorance-and-atheism",
-      "title": "Ignorance and Atheism"
+      "kind": "in",
+      "slug": "jesus-world-scripture",
+      "title": "Jesus"
     },
     {
-      "kind": "out",
-      "slug": "enlightenment",
-      "title": "Enlightenment"
+      "kind": "in",
+      "slug": "the-kingdom-of-heaven",
+      "title": "The Kingdom of Heaven"
+    },
+    {
+      "kind": "in",
+      "slug": "humility",
+      "title": "Humility"
+    },
+    {
+      "kind": "in",
+      "slug": "prayer",
+      "title": "Prayer"
+    },
+    {
+      "kind": "in",
+      "slug": "new-revelation",
+      "title": "New Revelation"
+    },
+    {
+      "kind": "in",
+      "slug": "universal-love",
+      "title": "Universal Love"
+    },
+    {
+      "kind": "in",
+      "slug": "martyrdom",
+      "title": "Martyrdom"
     }
   ],
   "true-love": [
@@ -11390,24 +12795,39 @@
       "title": "Self-Control"
     },
     {
-      "kind": "out",
-      "slug": "inherited-sin-and-karma",
-      "title": "Inherited Sin and Karma"
+      "kind": "in",
+      "slug": "the-judgment",
+      "title": "The Judgment"
     },
     {
-      "kind": "out",
-      "slug": "confucianism",
-      "title": "Confucianism"
+      "kind": "in",
+      "slug": "the-kingdom-of-heaven",
+      "title": "The Kingdom of Heaven"
     },
     {
-      "kind": "out",
-      "slug": "divine-love-and-compassion",
-      "title": "Divine Love and Compassion"
+      "kind": "in",
+      "slug": "the-messiah",
+      "title": "The Messiah"
     },
     {
-      "kind": "out",
-      "slug": "the-temple-of-god",
-      "title": "The Temple of God"
+      "kind": "in",
+      "slug": "offerings-and-tithes",
+      "title": "Offerings and Tithes"
+    },
+    {
+      "kind": "in",
+      "slug": "sincerity-and-authenticity",
+      "title": "Sincerity and Authenticity"
+    },
+    {
+      "kind": "in",
+      "slug": "freedom",
+      "title": "Freedom"
+    },
+    {
+      "kind": "in",
+      "slug": "hypocrisy",
+      "title": "Hypocrisy"
     }
   ],
   "turn-the-other-cheek": [
@@ -11516,21 +12936,6 @@
       "title": "Universal Salvation"
     },
     {
-      "kind": "out",
-      "slug": "reincarnation",
-      "title": "Reincarnation"
-    },
-    {
-      "kind": "out",
-      "slug": "the-lord-of-creation",
-      "title": "The Lord of Creation"
-    },
-    {
-      "kind": "out",
-      "slug": "spiritual-error-and-the-occult",
-      "title": "Spiritual Error and the Occult"
-    },
-    {
       "kind": "in",
       "slug": "the-judgment",
       "title": "The Judgment"
@@ -11539,6 +12944,11 @@
       "kind": "in",
       "slug": "law-and-punishments",
       "title": "Law and Punishments"
+    },
+    {
+      "kind": "in",
+      "slug": "spirits-of-the-departed",
+      "title": "Spirits of the Departed"
     }
   ],
   "unity-and-community": [
@@ -11569,13 +12979,13 @@
     },
     {
       "kind": "out",
-      "slug": "family-as-the-cornerstone-of-society",
-      "title": "Family as the Cornerstone of Society"
+      "slug": "economic-justice",
+      "title": "Economic Justice"
     },
     {
       "kind": "out",
-      "slug": "economic-justice",
-      "title": "Economic Justice"
+      "slug": "family-as-the-cornerstone-of-society",
+      "title": "Family as the Cornerstone of Society"
     },
     {
       "kind": "in",
@@ -11631,23 +13041,33 @@
     },
     {
       "kind": "out",
-      "slug": "true-love",
-      "title": "True Love"
-    },
-    {
-      "kind": "out",
       "slug": "repentance",
       "title": "Repentance"
     },
     {
-      "kind": "out",
-      "slug": "tribulation",
-      "title": "Tribulation"
+      "kind": "in",
+      "slug": "forgiveness-world-scripture",
+      "title": "Forgiveness"
     },
     {
-      "kind": "out",
-      "slug": "living-for-others",
-      "title": "Living for Others"
+      "kind": "in",
+      "slug": "equality",
+      "title": "Equality"
+    },
+    {
+      "kind": "in",
+      "slug": "love-your-enemy",
+      "title": "Love Your Enemy"
+    },
+    {
+      "kind": "in",
+      "slug": "patriotism-and-public-service",
+      "title": "Patriotism and Public Service"
+    },
+    {
+      "kind": "in",
+      "slug": "giving-and-receiving",
+      "title": "Giving and Receiving"
     }
   ],
   "universal-salvation": [
@@ -11687,29 +13107,39 @@
       "title": "Justice"
     },
     {
-      "kind": "out",
-      "slug": "the-kingdom-of-heaven",
-      "title": "The Kingdom of Heaven"
+      "kind": "in",
+      "slug": "angels",
+      "title": "Angels"
     },
     {
-      "kind": "out",
-      "slug": "hell",
-      "title": "Hell"
+      "kind": "in",
+      "slug": "emptiness-nirvana",
+      "title": "Emptiness—Nirvana"
     },
     {
-      "kind": "out",
-      "slug": "witness",
-      "title": "Witness"
+      "kind": "in",
+      "slug": "the-purpose-of-religion",
+      "title": "The Purpose of Religion"
     },
     {
-      "kind": "out",
-      "slug": "repentance",
-      "title": "Repentance"
+      "kind": "in",
+      "slug": "enlightenment",
+      "title": "Enlightenment"
     },
     {
-      "kind": "out",
-      "slug": "eternal-life-world-scripture",
-      "title": "Eternal Life"
+      "kind": "in",
+      "slug": "good-and-evil",
+      "title": "Good and Evil"
+    },
+    {
+      "kind": "in",
+      "slug": "egoism-and-pride",
+      "title": "Egoism and Pride"
+    },
+    {
+      "kind": "in",
+      "slug": "gods-grief",
+      "title": "God’s Grief"
     }
   ],
   "war-against-evil": [
@@ -11754,24 +13184,9 @@
       "title": "Islam"
     },
     {
-      "kind": "out",
-      "slug": "the-devil-and-his-activities",
-      "title": "The Devil and His Activities"
-    },
-    {
-      "kind": "out",
-      "slug": "good-and-evil",
-      "title": "Good and Evil"
-    },
-    {
-      "kind": "out",
-      "slug": "tribulation",
-      "title": "Tribulation"
-    },
-    {
-      "kind": "out",
-      "slug": "gods-goodness",
-      "title": "God’s Goodness"
+      "kind": "in",
+      "slug": "martyrdom",
+      "title": "Martyrdom"
     }
   ],
   "witness": [
@@ -11797,13 +13212,13 @@
     },
     {
       "kind": "out",
-      "slug": "sovereign-and-omnipotent",
-      "title": "Sovereign and Omnipotent"
+      "slug": "eternal-life-world-scripture",
+      "title": "Eternal Life"
     },
     {
       "kind": "out",
-      "slug": "eternal-life-world-scripture",
-      "title": "Eternal Life"
+      "slug": "sovereign-and-omnipotent",
+      "title": "Sovereign and Omnipotent"
     },
     {
       "kind": "out",
@@ -11827,13 +13242,23 @@
     },
     {
       "kind": "in",
+      "slug": "islam",
+      "title": "Islam"
+    },
+    {
+      "kind": "in",
       "slug": "muhammad",
       "title": "Muhammad"
     },
     {
       "kind": "in",
-      "slug": "islam",
-      "title": "Islam"
+      "slug": "judaism",
+      "title": "Judaism"
+    },
+    {
+      "kind": "in",
+      "slug": "universal-salvation",
+      "title": "Universal Salvation"
     }
   ],
   "women-of-the-bible": [
@@ -11896,6 +13321,46 @@
       "kind": "out",
       "slug": "labor",
       "title": "Labor"
+    },
+    {
+      "kind": "out",
+      "slug": "prayer",
+      "title": "Prayer"
+    },
+    {
+      "kind": "in",
+      "slug": "buddha-world-scripture",
+      "title": "Buddha"
+    },
+    {
+      "kind": "in",
+      "slug": "the-purpose-of-religion",
+      "title": "The Purpose of Religion"
+    },
+    {
+      "kind": "in",
+      "slug": "judaism",
+      "title": "Judaism"
+    },
+    {
+      "kind": "in",
+      "slug": "confucius",
+      "title": "Confucius"
+    },
+    {
+      "kind": "in",
+      "slug": "healing",
+      "title": "Healing"
+    },
+    {
+      "kind": "in",
+      "slug": "one-truth-many-paths",
+      "title": "One Truth, Many Paths"
+    },
+    {
+      "kind": "in",
+      "slug": "the-search-for-knowledge",
+      "title": "The Search for Knowledge"
     }
   ],
   "womens-rights": [
@@ -11911,13 +13376,13 @@
     },
     {
       "kind": "out",
-      "slug": "labor",
-      "title": "Labor"
+      "slug": "heaven",
+      "title": "Heaven"
     },
     {
       "kind": "out",
-      "slug": "heaven",
-      "title": "Heaven"
+      "slug": "labor",
+      "title": "Labor"
     },
     {
       "kind": "out",
@@ -11933,11 +13398,6 @@
       "kind": "out",
       "slug": "self-sacrifice",
       "title": "Self-Sacrifice"
-    },
-    {
-      "kind": "out",
-      "slug": "the-moral-foundations-of-society",
-      "title": "The Moral Foundations of Society"
     },
     {
       "kind": "in",
@@ -11963,13 +13423,13 @@
     },
     {
       "kind": "out",
-      "slug": "unity-and-community",
-      "title": "Unity and Community"
+      "slug": "economic-justice",
+      "title": "Economic Justice"
     },
     {
       "kind": "out",
-      "slug": "economic-justice",
-      "title": "Economic Justice"
+      "slug": "unity-and-community",
+      "title": "Unity and Community"
     },
     {
       "kind": "out",
@@ -12022,31 +13482,6 @@
       "kind": "out",
       "slug": "freedom",
       "title": "Freedom"
-    },
-    {
-      "kind": "out",
-      "slug": "restitution",
-      "title": "Restitution"
-    },
-    {
-      "kind": "out",
-      "slug": "the-primary-ends-of-education",
-      "title": "The Primary Ends of Education"
-    },
-    {
-      "kind": "out",
-      "slug": "cain-abel",
-      "title": "Cain and Abel"
-    },
-    {
-      "kind": "out",
-      "slug": "the-peace-of-god",
-      "title": "The Peace of God"
-    },
-    {
-      "kind": "out",
-      "slug": "prophets-and-messengers",
-      "title": "Prophets and Messengers"
     }
   ]
 }
