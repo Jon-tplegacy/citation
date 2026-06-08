@@ -1705,13 +1705,13 @@
     },
     {
       "kind": "out",
-      "slug": "heavenly-tradition",
-      "title": "Heavenly Tradition"
+      "slug": "happy-unification-church-members",
+      "title": "Happy Unification Church Members"
     },
     {
       "kind": "out",
-      "slug": "happy-unification-church-members",
-      "title": "Happy Unification Church Members"
+      "slug": "heavenly-tradition",
+      "title": "Heavenly Tradition"
     },
     {
       "kind": "in",
@@ -3310,6 +3310,28 @@
       "kind": "in",
       "slug": "lets-fulfill-the-responsibility-of-the-third-creators",
       "title": "Let's Fulfill the Responsibility of the Third Creators"
+    }
+  ],
+  "centering-upon-true-parents-let-us-see-it-through-to-the-end": [
+    {
+      "kind": "out",
+      "slug": "happy-unification-church-members",
+      "title": "Happy Unification Church Members"
+    },
+    {
+      "kind": "out",
+      "slug": "gods-strategy-and-satans-strategy",
+      "title": "God's Strategy and Satan's Strategy"
+    },
+    {
+      "kind": "out",
+      "slug": "the-coronation-ceremony-of-gods-kingship-completes-the-victory-of-heaven-and-earth",
+      "title": "The Coronation Ceremony Of God’s Kingship Completes The Victory Of Heaven And Earth"
+    },
+    {
+      "kind": "in",
+      "slug": "victory-in-the-history-of-gods-providence",
+      "title": "The Age Of Great Victory In The History Of God's Providence"
     }
   ],
   "ceremony-for-gods-kingship": [
@@ -5406,13 +5428,13 @@
   "declaration-of-return-to-the-home-country": [
     {
       "kind": "out",
-      "slug": "heavenly-tradition",
-      "title": "Heavenly Tradition"
+      "slug": "happy-unification-church-members",
+      "title": "Happy Unification Church Members"
     },
     {
       "kind": "out",
-      "slug": "happy-unification-church-members",
-      "title": "Happy Unification Church Members"
+      "slug": "heavenly-tradition",
+      "title": "Heavenly Tradition"
     },
     {
       "kind": "out",
@@ -12379,13 +12401,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-core-of-absolute-faith-absolute-love-and-absolute-obedience",
-      "title": "The Core of Absolute Faith, Absolute Love and Absolute Obedience"
+      "slug": "gods-strategy-and-satans-strategy",
+      "title": "God's Strategy and Satan's Strategy"
     },
     {
       "kind": "out",
-      "slug": "gods-strategy-and-satans-strategy",
-      "title": "God's Strategy and Satan's Strategy"
+      "slug": "the-core-of-absolute-faith-absolute-love-and-absolute-obedience",
+      "title": "The Core of Absolute Faith, Absolute Love and Absolute Obedience"
     },
     {
       "kind": "out",
@@ -14434,8 +14456,8 @@
     },
     {
       "kind": "in",
-      "slug": "gods-providence-in-the-scriptures",
-      "title": "God's Providence in the Scriptures"
+      "slug": "gods-fatherland",
+      "title": "God's Fatherland"
     }
   ],
   "human-life": [
@@ -15662,13 +15684,13 @@
     },
     {
       "kind": "out",
-      "slug": "heavenly-tradition",
-      "title": "Heavenly Tradition"
+      "slug": "happy-unification-church-members",
+      "title": "Happy Unification Church Members"
     },
     {
       "kind": "out",
-      "slug": "happy-unification-church-members",
-      "title": "Happy Unification Church Members"
+      "slug": "heavenly-tradition",
+      "title": "Heavenly Tradition"
     },
     {
       "kind": "out",
@@ -20696,8 +20718,8 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-whom-god-wanted-to-find",
-      "title": "Jesus, Whom God Wanted To Find"
+      "slug": "jesus-and-paradise",
+      "title": "Jesus And Paradise"
     }
   ],
   "love-all-people": [
@@ -27072,13 +27094,13 @@
     },
     {
       "kind": "out",
-      "slug": "heavenly-tradition",
-      "title": "Heavenly Tradition"
+      "slug": "happy-unification-church-members",
+      "title": "Happy Unification Church Members"
     },
     {
       "kind": "out",
-      "slug": "happy-unification-church-members",
-      "title": "Happy Unification Church Members"
+      "slug": "heavenly-tradition",
+      "title": "Heavenly Tradition"
     },
     {
       "kind": "out",
@@ -31915,13 +31937,13 @@
     },
     {
       "kind": "out",
-      "slug": "heavenly-tradition",
-      "title": "Heavenly Tradition"
+      "slug": "happy-unification-church-members",
+      "title": "Happy Unification Church Members"
     },
     {
       "kind": "out",
-      "slug": "happy-unification-church-members",
-      "title": "Happy Unification Church Members"
+      "slug": "heavenly-tradition",
+      "title": "Heavenly Tradition"
     },
     {
       "kind": "out",
@@ -33618,13 +33640,13 @@
   "the-completed-testament-era-means-living-with-god": [
     {
       "kind": "out",
-      "slug": "tribal-messiahship",
-      "title": "Tribal Messiahship"
+      "slug": "the-coronation-ceremony-of-gods-kingship-completes-the-victory-of-heaven-and-earth",
+      "title": "The Coronation Ceremony Of God’s Kingship Completes The Victory Of Heaven And Earth"
     },
     {
       "kind": "out",
-      "slug": "the-coronation-ceremony-of-gods-kingship-completes-the-victory-of-heaven-and-earth",
-      "title": "The Coronation Ceremony Of God’s Kingship Completes The Victory Of Heaven And Earth"
+      "slug": "tribal-messiahship",
+      "title": "Tribal Messiahship"
     },
     {
       "kind": "out",
@@ -34106,6 +34128,11 @@
     },
     {
       "kind": "in",
+      "slug": "centering-upon-true-parents-let-us-see-it-through-to-the-end",
+      "title": "Centering upon True Parents, Let Us See It Through to the End"
+    },
+    {
+      "kind": "in",
       "slug": "true-parents-have-given-all-of-humanity-the-path-to-eternity",
       "title": "True Parents Have Given All of Humanity the Path to Eternity"
     },
@@ -34118,11 +34145,6 @@
       "kind": "in",
       "slug": "upon-the-return-of-the-aclc-clergy",
       "title": "Upon The Return Of The ACLC Clergy From The Fifth Pilgrimage To The Holy Land"
-    },
-    {
-      "kind": "in",
-      "slug": "kick-off-ceremony-of-harmony-and-unity-to-fulfill-vision-2020",
-      "title": "Kick-Off Ceremony of Harmony and Unity to Fulfill Vision 2020"
     }
   ],
   "the-coronation-ceremony-of-the-kingship-of-god": [
@@ -34168,13 +34190,13 @@
     },
     {
       "kind": "in",
-      "slug": "gods-palace-of-peace",
-      "title": "God's Palace Of Peace Is The Home That We Long For In The Hometown And Homeland With True Parents At The Center"
+      "slug": "the-coronation-ceremony-of-gods-kingship-completes-the-victory-of-heaven-and-earth",
+      "title": "The Coronation Ceremony Of God’s Kingship Completes The Victory Of Heaven And Earth"
     },
     {
       "kind": "in",
-      "slug": "the-coronation-ceremony-of-gods-kingship-completes-the-victory-of-heaven-and-earth",
-      "title": "The Coronation Ceremony Of God’s Kingship Completes The Victory Of Heaven And Earth"
+      "slug": "gods-palace-of-peace",
+      "title": "God's Palace Of Peace Is The Home That We Long For In The Hometown And Homeland With True Parents At The Center"
     },
     {
       "kind": "in",
@@ -41068,13 +41090,13 @@
     },
     {
       "kind": "in",
-      "slug": "43rd-childrens-day",
-      "title": "43rd Children’s Day"
+      "slug": "toward-one-christian-family-under-god",
+      "title": "Toward One Christian Family Under God"
     },
     {
       "kind": "in",
-      "slug": "problems-confronting-society-and-the-responsibility-of-the-media-2",
-      "title": "Standing In The Presence Of God"
+      "slug": "43rd-childrens-day",
+      "title": "43rd Children’s Day"
     }
   ],
   "the-physical-body-and-hell": [
@@ -44798,6 +44820,28 @@
       "kind": "in",
       "slug": "total-self-reevaluation",
       "title": "Total Self Reevaluation"
+    }
+  ],
+  "the-training-ground-of-the-family": [
+    {
+      "kind": "out",
+      "slug": "the-blessing",
+      "title": "The Blessing"
+    },
+    {
+      "kind": "out",
+      "slug": "jesus-and-paradise",
+      "title": "Jesus And Paradise"
+    },
+    {
+      "kind": "out",
+      "slug": "gods-fatherland",
+      "title": "God's Fatherland"
+    },
+    {
+      "kind": "out",
+      "slug": "toward-one-christian-family-under-god",
+      "title": "Toward One Christian Family Under God"
     }
   ],
   "the-tribal-messiah-and-my-homeland": [
@@ -48749,6 +48793,11 @@
       "kind": "in",
       "slug": "the-arrival-of-the-era-of-the-fourth-adams-realm",
       "title": "The Arrival of the Era of the Fourth Adam's Realm"
+    },
+    {
+      "kind": "in",
+      "slug": "the-training-ground-of-the-family",
+      "title": "The Training Ground of the Family"
     }
   ],
   "tp-return-to-east-garden": [
@@ -50490,8 +50539,8 @@
     },
     {
       "kind": "out",
-      "slug": "heavenly-tradition",
-      "title": "Heavenly Tradition"
+      "slug": "happy-unification-church-members",
+      "title": "Happy Unification Church Members"
     },
     {
       "kind": "in",
@@ -52114,6 +52163,11 @@
     },
     {
       "kind": "in",
+      "slug": "gods-fatherland",
+      "title": "God's Fatherland"
+    },
+    {
+      "kind": "in",
       "slug": "on-unification-philosophy",
       "title": "On Unification Philosophy"
     },
@@ -52121,11 +52175,6 @@
       "kind": "in",
       "slug": "unification-church-heavenly-law",
       "title": "Unification Church And Heavenly Law"
-    },
-    {
-      "kind": "in",
-      "slug": "gods-fatherland",
-      "title": "God's Fatherland"
     },
     {
       "kind": "in",
@@ -52954,13 +53003,13 @@
     },
     {
       "kind": "out",
-      "slug": "heavenly-tradition",
-      "title": "Heavenly Tradition"
+      "slug": "happy-unification-church-members",
+      "title": "Happy Unification Church Members"
     },
     {
       "kind": "out",
-      "slug": "happy-unification-church-members",
-      "title": "Happy Unification Church Members"
+      "slug": "heavenly-tradition",
+      "title": "Heavenly Tradition"
     },
     {
       "kind": "out",
