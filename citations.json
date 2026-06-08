@@ -214,6 +214,10 @@
         "title": "Restoration Through Indemnity"
       },
       {
+        "slug": "second-israel-term",
+        "title": "Second Israel"
+      },
+      {
         "slug": "spirit-world-term",
         "title": "Spirit World"
       },
@@ -1595,6 +1599,10 @@
         "title": "Moses"
       },
       {
+        "slug": "second-israel-term",
+        "title": "Second Israel"
+      },
+      {
         "slug": "sin-term",
         "title": "Sin"
       },
@@ -1760,6 +1768,10 @@
       {
         "slug": "satan-lucifer",
         "title": "Satan / Lucifer"
+      },
+      {
+        "slug": "second-israel-term",
+        "title": "Second Israel"
       },
       {
         "slug": "sovereignty",
@@ -2015,6 +2027,10 @@
         "title": "Salvation History"
       },
       {
+        "slug": "second-israel-term",
+        "title": "Second Israel"
+      },
+      {
         "slug": "sin-term",
         "title": "Sin"
       },
@@ -2266,6 +2282,10 @@
       {
         "slug": "salvation-history",
         "title": "Salvation History"
+      },
+      {
+        "slug": "second-israel-term",
+        "title": "Second Israel"
       },
       {
         "slug": "sin-term",
@@ -3991,6 +4011,16 @@
     ],
     "verbatim": []
   },
+  "gospel-passages-in-which-jesus-spoke-of-his-crucifixion-as-if-it-were-necessary": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "second-israel-term",
+        "title": "Second Israel"
+      }
+    ],
+    "verbatim": []
+  },
   "gyedae": {
     "further_reading": [],
     "mentioned": [
@@ -5432,6 +5462,10 @@
         "title": "Portion of Responsibility"
       },
       {
+        "slug": "second-israel-term",
+        "title": "Second Israel"
+      },
+      {
         "slug": "the-last-days",
         "title": "The Last Days"
       },
@@ -5801,6 +5835,10 @@
         "title": "Righteousness"
       },
       {
+        "slug": "second-israel-term",
+        "title": "Second Israel"
+      },
+      {
         "slug": "the-last-days",
         "title": "The Last Days"
       },
@@ -5992,6 +6030,10 @@
       {
         "slug": "offering",
         "title": "Offering"
+      },
+      {
+        "slug": "second-israel-term",
+        "title": "Second Israel"
       },
       {
         "slug": "the-old-testament-age",
@@ -6548,6 +6590,10 @@
       {
         "slug": "rebirth",
         "title": "Rebirth"
+      },
+      {
+        "slug": "second-israel-term",
+        "title": "Second Israel"
       },
       {
         "slug": "sin-term",
@@ -8237,6 +8283,24 @@
       {
         "slug": "the-fall-term",
         "title": "The Fall"
+      }
+    ],
+    "verbatim": []
+  },
+  "second-israel-term": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "blessed-family-term",
+        "title": "Blessed Family"
+      },
+      {
+        "slug": "the-second-advent",
+        "title": "The Second Advent"
+      },
+      {
+        "slug": "unification-movement",
+        "title": "Unification Movement"
       }
     ],
     "verbatim": []
@@ -10749,6 +10813,10 @@
         "title": "Restoration Through Indemnity"
       },
       {
+        "slug": "second-israel-term",
+        "title": "Second Israel"
+      },
+      {
         "slug": "sovereignty",
         "title": "Sovereignty"
       },
@@ -10884,6 +10952,10 @@
       {
         "slug": "restoration-through-indemnity-term",
         "title": "Restoration Through Indemnity"
+      },
+      {
+        "slug": "second-israel-term",
+        "title": "Second Israel"
       },
       {
         "slug": "sovereignty",
@@ -11760,6 +11832,10 @@
       {
         "slug": "restoration-through-indemnity-term",
         "title": "Restoration Through Indemnity"
+      },
+      {
+        "slug": "second-israel-term",
+        "title": "Second Israel"
       },
       {
         "slug": "sin-term",
