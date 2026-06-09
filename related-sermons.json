@@ -2146,6 +2146,11 @@
       "kind": "out",
       "slug": "the-blessing",
       "title": "The Blessing"
+    },
+    {
+      "kind": "out",
+      "slug": "gods-family-centered-world-of-kindred",
+      "title": "God's Family-Centered World of Kindred"
     }
   ],
   "becoming-a-responsible-person": [
@@ -10416,6 +10421,43 @@
       "kind": "out",
       "slug": "gods-day-morning-address",
       "title": "God's Day Morning Address"
+    }
+  ],
+  "gods-family-centered-world-of-kindred": [
+    {
+      "kind": "out",
+      "slug": "the-key-to-the-heavenly-kingdom-is-our-final-object",
+      "title": "The Key to the Heavenly Kingdom is Our Final Object"
+    },
+    {
+      "kind": "out",
+      "slug": "toward-one-christian-family-under-god",
+      "title": "Toward One Christian Family Under God"
+    },
+    {
+      "kind": "in",
+      "slug": "become-the-master-who-liberates-god",
+      "title": "Become the Master Who Liberates God"
+    },
+    {
+      "kind": "in",
+      "slug": "my-husband-my-wife",
+      "title": "My Husband, My Wife"
+    },
+    {
+      "kind": "in",
+      "slug": "offer-devotion-and-repent",
+      "title": "Offer Devotion and Repent"
+    },
+    {
+      "kind": "in",
+      "slug": "the-mission-bound-responsibility",
+      "title": "The Mission-Bound Responsibility"
+    },
+    {
+      "kind": "in",
+      "slug": "the-training-ground-of-the-family",
+      "title": "The Training Ground of the Family"
     }
   ],
   "gods-fatherland": [
@@ -18928,6 +18970,13 @@
       "title": "The Dignity of God and Man"
     }
   ],
+  "let-us-live-in-attendance-to-god": [
+    {
+      "kind": "in",
+      "slug": "true-mothers-speech-at-the-south-africa-peace-rally-victory-celebration",
+      "title": "The South Africa Peace Rally Victory Celebration"
+    }
+  ],
   "let-us-meet-opportunity-well": [
     {
       "kind": "out",
@@ -21647,13 +21696,13 @@
     },
     {
       "kind": "in",
-      "slug": "importance-of-the-family-pledge",
-      "title": "Importance of the Family Pledge"
+      "slug": "toward-one-christian-family-under-god",
+      "title": "Toward One Christian Family Under God"
     },
     {
       "kind": "in",
-      "slug": "toward-one-christian-family-under-god",
-      "title": "Toward One Christian Family Under God"
+      "slug": "importance-of-the-family-pledge",
+      "title": "Importance of the Family Pledge"
     }
   ],
   "men-are-destined-to-go-the-road-of-restoration-returning-home": [
@@ -22519,6 +22568,11 @@
       "kind": "out",
       "slug": "faith-which-should-be-examined-carefully",
       "title": "The Path of Faith Which Should be Examined Carefully"
+    },
+    {
+      "kind": "out",
+      "slug": "gods-family-centered-world-of-kindred",
+      "title": "God's Family-Centered World of Kindred"
     }
   ],
   "my-life": [
@@ -23365,6 +23419,13 @@
       "kind": "in",
       "slug": "who-will-inherit-the-ocean",
       "title": "Who Will Inherit the Ocean?"
+    }
+  ],
+  "offer-devotion-and-repent": [
+    {
+      "kind": "out",
+      "slug": "gods-family-centered-world-of-kindred",
+      "title": "God's Family-Centered World of Kindred"
     }
   ],
   "offer-our-resolve-to-successfully-dedicate-cheon-won-gung": [
@@ -39063,6 +39124,13 @@
       "title": "The Sound Of The Bell Of The Mind"
     }
   ],
+  "the-mission-bound-responsibility": [
+    {
+      "kind": "out",
+      "slug": "gods-family-centered-world-of-kindred",
+      "title": "God's Family-Centered World of Kindred"
+    }
+  ],
   "the-mission-of-christianity-from-the-viewpoint-of-gods-providence-and-the-responsibility": [
     {
       "kind": "out",
@@ -39916,8 +39984,8 @@
     },
     {
       "kind": "in",
-      "slug": "what-shall-you-do-when-im-gone",
-      "title": "What Shall You Do When I’m Gone?"
+      "slug": "toward-one-christian-family-under-god",
+      "title": "Toward One Christian Family Under God"
     }
   ],
   "the-original-vision-for-love-between-men-and-women": [
@@ -41085,13 +41153,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-completion-of-the-providence-and-parents-day",
-      "title": "The Completion Of The Providence And Parents' Day"
+      "slug": "toward-one-christian-family-under-god",
+      "title": "Toward One Christian Family Under God"
     },
     {
       "kind": "in",
-      "slug": "toward-one-christian-family-under-god",
-      "title": "Toward One Christian Family Under God"
+      "slug": "the-completion-of-the-providence-and-parents-day",
+      "title": "The Completion Of The Providence And Parents' Day"
     },
     {
       "kind": "in",
@@ -44837,6 +44905,11 @@
       "kind": "out",
       "slug": "gods-fatherland",
       "title": "God's Fatherland"
+    },
+    {
+      "kind": "out",
+      "slug": "gods-family-centered-world-of-kindred",
+      "title": "God's Family-Centered World of Kindred"
     },
     {
       "kind": "out",
@@ -48791,6 +48864,11 @@
     },
     {
       "kind": "in",
+      "slug": "gods-family-centered-world-of-kindred",
+      "title": "God's Family-Centered World of Kindred"
+    },
+    {
+      "kind": "in",
       "slug": "the-arrival-of-the-era-of-the-fourth-adams-realm",
       "title": "The Arrival of the Era of the Fourth Adam's Realm"
     },
@@ -50426,6 +50504,11 @@
       "kind": "out",
       "slug": "2018-victory-celebration-in-south-africa",
       "title": "2018 Victory Celebration in South Africa"
+    },
+    {
+      "kind": "out",
+      "slug": "let-us-live-in-attendance-to-god",
+      "title": "Let Us Live in Attendance to God"
     },
     {
       "kind": "out",
