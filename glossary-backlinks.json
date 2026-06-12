@@ -781,6 +781,88 @@
       "title": "The True Father and His Sons and Daughters"
     }
   ],
+  "dialectical-materialism": [
+    {
+      "corpus": "CBG",
+      "slug": "ceremonies-and-proclamations-for-unity-between-the-two-worlds",
+      "title": "Major Ceremonies and Proclamations for Unity between the Two Worlds"
+    },
+    {
+      "corpus": "CBG",
+      "slug": "the-6500-30-000-and-second-generation-couples-2",
+      "title": "The 6500, 30,000, and Second-Generation Couples"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "globalization-and-the-media-looking-to-the-twenty-first-century",
+      "title": "Globalization and the Media: Looking to the Twenty-first Century"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "unification-thought-as-the-basis-of-a-new-cultural-revolution",
+      "title": "Unification Thought as the Basis of a New Cultural Revolution"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "the-path-for-america-and-humanity-in-the-new-millennium",
+      "title": "The Path for America and Humanity in the New Millennium"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "evolution-or-creation",
+      "title": "Evolution or Creation?"
+    },
+    {
+      "corpus": "DP",
+      "slug": "the-third-world-war",
+      "title": "The Third World War"
+    },
+    {
+      "corpus": "DP",
+      "slug": "the-period-of-religious-and-ideological-conflicts-1648-1789",
+      "title": "The Period of Religious and Ideological Conflicts (1648-1789)"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "tribulation",
+      "title": "Tribulation"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-blessing",
+      "title": "The Blessing"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "how-god-exists",
+      "title": "How God Exists"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-spirit-world-and-physical-world",
+      "title": "The Spirit World And Physical World"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-ideal-world-of-subject-and-object",
+      "title": "The Ideal World of Subject and Object"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "textbook-of-love",
+      "title": "Textbook Of Love"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-ones-who-can-receive-gods-love",
+      "title": "The Ones Who Can Receive God's Love"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "let-us-thank-god",
+      "title": "Let Us Thank God"
+    }
+  ],
   "doctrine-and-dogma": [
     {
       "corpus": "PHG",
@@ -2767,6 +2849,43 @@
       "corpus": "Sermon",
       "slug": "in-search-of-the-true-foundation",
       "title": "In Search of the True Foundation"
+    }
+  ],
+  "origin-division-union": [
+    {
+      "corpus": "CBG",
+      "slug": "ceremonies-of-proclamation",
+      "title": "Ceremonies of Proclamation"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "the-providence-of-the-cheon-ii-guk-era",
+      "title": "The Absolute Object of God's Love"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "the-oneness-of-god-and-humankind-and-the-perfection-of-the-ideal-of-love",
+      "title": "The Oneness of God and Humankind, and the Perfection of the Ideal of Love"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "the-manifestation-of-gods-dual-characteristics",
+      "title": "The Manifestation of God's Dual Characteristics"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "embodying-god-through-love-and-living-a-life-of-attendance",
+      "title": "True Family Is the Primary Platform of True Love"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-official-course-of-true-love-and-heavenly-fate",
+      "title": "The Official Course Of True Love And Heavenly Fate"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "true-father-speaks-on-lunar-new-year",
+      "title": "True Father Speaks on Lunar New Year"
     }
   ],
   "original-sin": [
