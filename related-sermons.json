@@ -513,6 +513,11 @@
     },
     {
       "kind": "in",
+      "slug": "meeting-the-era-of-gods-liberation-ceremony-coronation-and-golden-wedding",
+      "title": "Meeting the Era of God's Liberation Ceremony, Coronation, and Golden Wedding"
+    },
+    {
+      "kind": "in",
       "slug": "devote-your-loyal-heart-centering-on-the-textbook-and-the-scripture",
       "title": "Devote Your Loyal Heart Centering on the Textbook and the Scripture"
     },
@@ -530,11 +535,6 @@
       "kind": "in",
       "slug": "let-hope-become-a-lighthouse",
       "title": "Let Hope Become a Lighthouse"
-    },
-    {
-      "kind": "in",
-      "slug": "meeting-the-era-of-gods-liberation-ceremony-coronation-and-golden-wedding",
-      "title": "Meeting the Era of God's Liberation Ceremony, Coronation, and Golden Wedding"
     },
     {
       "kind": "in",
@@ -912,13 +912,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-principle-of-first-love",
-      "title": "The Principle of First Love"
+      "slug": "we-must-create-gods-homeland",
+      "title": "We Must Create God's Homeland"
     },
     {
       "kind": "out",
-      "slug": "we-must-create-gods-homeland",
-      "title": "We Must Create God's Homeland"
+      "slug": "the-principle-of-first-love",
+      "title": "The Principle of First Love"
     },
     {
       "kind": "out",
@@ -2151,6 +2151,11 @@
       "kind": "out",
       "slug": "gods-family-centered-world-of-kindred",
       "title": "God's Family-Centered World of Kindred"
+    },
+    {
+      "kind": "out",
+      "slug": "centered-on-love-heaven-and-earth-become-one",
+      "title": "Centered on Love, Heaven and Earth Become One"
     }
   ],
   "becoming-a-responsible-person": [
@@ -3288,6 +3293,38 @@
       "kind": "out",
       "slug": "the-path-to-world-peace-in-view-of-gods-will",
       "title": "The Path to World Peace in View of God's Will"
+    }
+  ],
+  "centered-on-love-heaven-and-earth-become-one": [
+    {
+      "kind": "out",
+      "slug": "the-blessing",
+      "title": "The Blessing"
+    },
+    {
+      "kind": "out",
+      "slug": "the-way-to-true-happiness",
+      "title": "The Way To True Happiness"
+    },
+    {
+      "kind": "out",
+      "slug": "we-must-create-gods-homeland",
+      "title": "We Must Create God's Homeland"
+    },
+    {
+      "kind": "in",
+      "slug": "become-the-master-who-liberates-god",
+      "title": "Become the Master Who Liberates God"
+    },
+    {
+      "kind": "in",
+      "slug": "let-hope-become-a-lighthouse",
+      "title": "Let Hope Become a Lighthouse"
+    },
+    {
+      "kind": "in",
+      "slug": "the-one-and-only-god",
+      "title": "The One and Only God"
     }
   ],
   "centering-on-you-your-husband-and-children-will-become-completely-one": [
@@ -12443,13 +12480,13 @@
     },
     {
       "kind": "out",
-      "slug": "gods-strategy-and-satans-strategy",
-      "title": "God's Strategy and Satan's Strategy"
+      "slug": "the-core-of-absolute-faith-absolute-love-and-absolute-obedience",
+      "title": "The Core of Absolute Faith, Absolute Love and Absolute Obedience"
     },
     {
       "kind": "out",
-      "slug": "the-core-of-absolute-faith-absolute-love-and-absolute-obedience",
-      "title": "The Core of Absolute Faith, Absolute Love and Absolute Obedience"
+      "slug": "gods-strategy-and-satans-strategy",
+      "title": "God's Strategy and Satan's Strategy"
     },
     {
       "kind": "out",
@@ -17376,6 +17413,18 @@
       "title": "Holy Spirit Association for the Unification of World Christianity"
     }
   ],
+  "leaders-who-fulfill-the-responsibility-of-their-calling": [
+    {
+      "kind": "out",
+      "slug": "history-of-unification-church-part",
+      "title": "History Of Unification Church"
+    },
+    {
+      "kind": "out",
+      "slug": "we-must-create-gods-homeland",
+      "title": "We Must Create God's Homeland"
+    }
+  ],
   "leadership-and-good-governance-for-the-global-family-establishing-a-world-culture-of-heart": [
     {
       "kind": "out",
@@ -17564,6 +17613,11 @@
       "kind": "out",
       "slug": "original-root-and-self",
       "title": "Original Root And Self"
+    },
+    {
+      "kind": "out",
+      "slug": "centered-on-love-heaven-and-earth-become-one",
+      "title": "Centered on Love, Heaven and Earth Become One"
     }
   ],
   "let-the-sleeping-world-awaken": [
@@ -21641,6 +21695,11 @@
       "kind": "out",
       "slug": "a-life-like-a-lighthouse",
       "title": "A Life Like a Lighthouse"
+    },
+    {
+      "kind": "in",
+      "slug": "the-way-a-nation-can-live",
+      "title": "The Way a Nation Can Live"
     }
   ],
   "members-who-will-live-in-gods-family": [
@@ -25321,6 +25380,11 @@
     },
     {
       "kind": "out",
+      "slug": "we-must-create-gods-homeland",
+      "title": "We Must Create God's Homeland"
+    },
+    {
+      "kind": "out",
       "slug": "declaration-of-the-realm-of-the-cosmic-sabbath-for-the-parents-of-heaven-and-earth",
       "title": "Declaration of the Realm of the Cosmic Sabbath for the Parents of Heaven and Earth"
     },
@@ -25328,11 +25392,6 @@
       "kind": "out",
       "slug": "the-meaning-of-ahn-shi-il",
       "title": "The Meaning of Ahn Shi Il"
-    },
-    {
-      "kind": "out",
-      "slug": "we-must-create-gods-homeland",
-      "title": "We Must Create God's Homeland"
     },
     {
       "kind": "out",
@@ -39333,6 +39392,23 @@
       "title": "The Path to World Peace in View of God's Will"
     }
   ],
+  "the-model-pattern-for-the-course-of-a-life": [
+    {
+      "kind": "out",
+      "slug": "the-blessing",
+      "title": "The Blessing"
+    },
+    {
+      "kind": "out",
+      "slug": "the-ideal-world",
+      "title": "The Ideal World"
+    },
+    {
+      "kind": "out",
+      "slug": "whose-sons-and-daughters-are-you",
+      "title": "Whose Sons and Daughters Are You?"
+    }
+  ],
   "the-most-important-stripe-and-the-point-of-origin-in-dispensational-history": [
     {
       "kind": "out",
@@ -39667,6 +39743,13 @@
       "kind": "in",
       "slug": "cutting-off-satans-lineage-which-is-the-origin-of-this-most-evil-world",
       "title": "Cutting Off Satan's Lineage, Which Is the Origin of this Most Evil World"
+    }
+  ],
+  "the-one-and-only-god": [
+    {
+      "kind": "out",
+      "slug": "centered-on-love-heaven-and-earth-become-one",
+      "title": "Centered on Love, Heaven and Earth Become One"
     }
   ],
   "the-one-and-only-god-who-is-like-a-nucleus": [
@@ -46466,6 +46549,23 @@
       "kind": "in",
       "slug": "the-whole-and-myself",
       "title": "The Whole And Myself"
+    }
+  ],
+  "the-way-a-nation-can-live": [
+    {
+      "kind": "out",
+      "slug": "the-core-of-absolute-faith-absolute-love-and-absolute-obedience",
+      "title": "The Core of Absolute Faith, Absolute Love and Absolute Obedience"
+    },
+    {
+      "kind": "out",
+      "slug": "we-must-create-gods-homeland",
+      "title": "We Must Create God's Homeland"
+    },
+    {
+      "kind": "out",
+      "slug": "meeting-the-era-of-gods-liberation-ceremony-coronation-and-golden-wedding",
+      "title": "Meeting the Era of God's Liberation Ceremony, Coronation, and Golden Wedding"
     }
   ],
   "the-way-god-is-pursuing": [
@@ -53554,6 +53654,11 @@
     },
     {
       "kind": "in",
+      "slug": "centered-on-love-heaven-and-earth-become-one",
+      "title": "Centered on Love, Heaven and Earth Become One"
+    },
+    {
+      "kind": "in",
       "slug": "the-era-of-universal-peace-gods-providence-and-the-abel-un",
       "title": "The Era of Universal Peace: God's Providence and the Abel UN"
     },
@@ -55380,6 +55485,11 @@
       "kind": "out",
       "slug": "the-providence-of-salvation-of-returning-to-god",
       "title": "The providence of salvation of returning to God"
+    },
+    {
+      "kind": "in",
+      "slug": "the-model-pattern-for-the-course-of-a-life",
+      "title": "The Model Pattern for the Course of a Life"
     }
   ],
   "why-father-goes-to-sea": [
