@@ -288,6 +288,14 @@
       {
         "slug": "absoluteness",
         "title": "Absoluteness"
+      },
+      {
+        "slug": "dialectical-materialism",
+        "title": "Dialectical Materialism"
+      },
+      {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
       }
     ],
     "verbatim": []
@@ -634,6 +642,10 @@
         "title": "Ethics"
       },
       {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
+      },
+      {
         "slug": "original-value",
         "title": "Original Value"
       }
@@ -902,6 +914,10 @@
       {
         "slug": "offering",
         "title": "Offering"
+      },
+      {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
       },
       {
         "slug": "parentism",
@@ -1698,6 +1714,10 @@
         "title": "D-Day"
       },
       {
+        "slug": "dialectical-materialism",
+        "title": "Dialectical Materialism"
+      },
+      {
         "slug": "dispensational-time-identity",
         "title": "Dispensational Time-Identity"
       },
@@ -1768,6 +1788,10 @@
       {
         "slug": "kingdom-of-heaven",
         "title": "Kingdom of Heaven"
+      },
+      {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
       },
       {
         "slug": "original-value",
@@ -2268,6 +2292,10 @@
         "title": "Offering"
       },
       {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
+      },
+      {
         "slug": "pacific-rim",
         "title": "Pacific Rim"
       },
@@ -2685,6 +2713,24 @@
     ],
     "verbatim": []
   },
+  "dialectical-materialism": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "communism",
+        "title": "Communism"
+      },
+      {
+        "slug": "godism",
+        "title": "Godism"
+      },
+      {
+        "slug": "human-history",
+        "title": "Human History"
+      }
+    ],
+    "verbatim": []
+  },
   "dispensational-time-identity": {
     "further_reading": [
       {
@@ -2878,6 +2924,10 @@
       {
         "slug": "conscience",
         "title": "Conscience"
+      },
+      {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
       },
       {
         "slug": "the-beginning-and-end-are-the-same",
@@ -3371,6 +3421,10 @@
         "title": "Communism"
       },
       {
+        "slug": "dialectical-materialism",
+        "title": "Dialectical Materialism"
+      },
+      {
         "slug": "evil",
         "title": "Evil"
       },
@@ -3393,6 +3447,10 @@
       {
         "slug": "living-for-the-sake-of-others",
         "title": "Living for the Sake of Others"
+      },
+      {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
       },
       {
         "slug": "sangdae",
@@ -3472,6 +3530,10 @@
         "title": "John the Baptist"
       },
       {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
+      },
+      {
         "slug": "re-creation",
         "title": "Re-creation"
       },
@@ -3543,8 +3605,16 @@
         "title": "Communism"
       },
       {
+        "slug": "dialectical-materialism",
+        "title": "Dialectical Materialism"
+      },
+      {
         "slug": "evil",
         "title": "Evil"
+      },
+      {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
       },
       {
         "slug": "parentism",
@@ -4716,6 +4786,16 @@
       {
         "slug": "truth",
         "title": "Truth"
+      }
+    ],
+    "verbatim": []
+  },
+  "how-god-exists": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "dialectical-materialism",
+        "title": "Dialectical Materialism"
       }
     ],
     "verbatim": []
@@ -6424,6 +6504,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
+      },
+      {
         "slug": "theology",
         "title": "Theology"
       },
@@ -7079,6 +7163,16 @@
         "title": "Tong Ban Kyok Pa"
       }
     ]
+  },
+  "origin-division-union": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "dialectical-materialism",
+        "title": "Dialectical Materialism"
+      }
+    ],
+    "verbatim": []
   },
   "original-sin": {
     "further_reading": [
@@ -8991,8 +9085,16 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "dialectical-materialism",
+        "title": "Dialectical Materialism"
+      },
+      {
         "slug": "goodness",
         "title": "Goodness"
+      },
+      {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
       },
       {
         "slug": "original-value",
@@ -9486,6 +9588,10 @@
         "title": "Exposition of the Divine Principle"
       },
       {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
+      },
+      {
         "slug": "shimjeong",
         "title": "Shimjeong"
       }
@@ -9655,6 +9761,10 @@
         "title": "Hell"
       },
       {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
+      },
+      {
         "slug": "restoration-of-motherhood",
         "title": "Restoration of Motherhood"
       }
@@ -9697,6 +9807,10 @@
       {
         "slug": "conscience",
         "title": "Conscience"
+      },
+      {
+        "slug": "dialectical-materialism",
+        "title": "Dialectical Materialism"
       },
       {
         "slug": "eschatology-term",
@@ -9805,6 +9919,10 @@
       {
         "slug": "offering",
         "title": "Offering"
+      },
+      {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
       },
       {
         "slug": "original-value",
@@ -9931,6 +10049,10 @@
       {
         "slug": "communism",
         "title": "Communism"
+      },
+      {
+        "slug": "dialectical-materialism",
+        "title": "Dialectical Materialism"
       },
       {
         "slug": "human-history",
@@ -10082,6 +10204,10 @@
         "title": "Matching"
       },
       {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
+      },
+      {
         "slug": "original-value",
         "title": "Original Value"
       },
@@ -10155,6 +10281,10 @@
       {
         "slug": "human-affection",
         "title": "Human Affection"
+      },
+      {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
       },
       {
         "slug": "parentism",
@@ -10253,6 +10383,10 @@
   "the-history-of-the-providence-of-restoration-and-i": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
+      },
       {
         "slug": "restoration-through-indemnity-term",
         "title": "Restoration Through Indemnity"
@@ -10849,6 +10983,10 @@
         "title": "Living for the Sake of Others"
       },
       {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
+      },
+      {
         "slug": "pacific-rim",
         "title": "Pacific Rim"
       },
@@ -10988,6 +11126,10 @@
       {
         "slug": "offering",
         "title": "Offering"
+      },
+      {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
       },
       {
         "slug": "pacific-rim",
@@ -11671,6 +11813,16 @@
       }
     ]
   },
+  "the-relationship-between-mind-and-body": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
+      }
+    ],
+    "verbatim": []
+  },
   "the-renaissance": {
     "further_reading": [],
     "mentioned": [
@@ -11938,6 +12090,10 @@
   "the-second-world-war": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "dialectical-materialism",
+        "title": "Dialectical Materialism"
+      },
       {
         "slug": "human-history",
         "title": "Human History"
@@ -12532,6 +12688,10 @@
     ],
     "mentioned": [
       {
+        "slug": "dialectical-materialism",
+        "title": "Dialectical Materialism"
+      },
+      {
         "slug": "five-stages-of-the-blessing",
         "title": "Five Stages of the Blessing"
       },
@@ -12734,6 +12894,16 @@
       {
         "slug": "true-parents-term",
         "title": "True Parents"
+      }
+    ],
+    "verbatim": []
+  },
+  "three-stages-of-growth": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
       }
     ],
     "verbatim": []
@@ -13016,6 +13186,10 @@
       {
         "slug": "jesus",
         "title": "Jesus"
+      },
+      {
+        "slug": "origin-division-union",
+        "title": "Origin-Division-Union"
       }
     ],
     "verbatim": []
@@ -13940,6 +14114,10 @@
       {
         "slug": "communism",
         "title": "Communism"
+      },
+      {
+        "slug": "dialectical-materialism",
+        "title": "Dialectical Materialism"
       },
       {
         "slug": "religion",
