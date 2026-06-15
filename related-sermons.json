@@ -4597,8 +4597,8 @@
     },
     {
       "kind": "out",
-      "slug": "toward-2013-and-the-god-constitution",
-      "title": "Toward 2013 and the God Constitution"
+      "slug": "the-final-destination",
+      "title": "The Final Destination"
     },
     {
       "kind": "in",
@@ -5139,6 +5139,11 @@
       "kind": "out",
       "slug": "the-day-of-all-things-and-the-process-of-restoration",
       "title": "The Day Of All Things And The Process Of Restoration"
+    },
+    {
+      "kind": "out",
+      "slug": "the-final-destination",
+      "title": "The Final Destination"
     }
   ],
   "day-of-attendance-of-safe-settlement": [
@@ -5171,11 +5176,6 @@
       "kind": "in",
       "slug": "pledge-that-my-family-is-a-representative-family",
       "title": "Let Us Realize And Pledge That My Family Is A Representative Family"
-    },
-    {
-      "kind": "in",
-      "slug": "rally-for-the-declaration-of-absolute-values-for-the-sake-of-harmony-and-unification",
-      "title": "Rally For The Declaration Of Absolute Values For The Sake Of Harmony And Unification"
     }
   ],
   "day-of-resolution-of-victory": [
@@ -6530,6 +6530,11 @@
       "kind": "out",
       "slug": "experience-the-sorrow-of-god",
       "title": "Let Us Experience the Sorrow of God"
+    },
+    {
+      "kind": "out",
+      "slug": "the-final-destination",
+      "title": "The Final Destination"
     },
     {
       "kind": "in",
@@ -19488,6 +19493,23 @@
       "title": "Are You a Child or an Adult? – Children’s Day Celebration"
     }
   ],
+  "let-us-return-to-the-origin": [
+    {
+      "kind": "out",
+      "slug": "history-of-unification-church-part",
+      "title": "History Of Unification Church"
+    },
+    {
+      "kind": "out",
+      "slug": "gods-ideal-fruit-is-the-true-family-seed",
+      "title": "God's Ideal Fruit is the True Family Seed"
+    },
+    {
+      "kind": "in",
+      "slug": "the-return-to-tears",
+      "title": "The Return to Tears"
+    }
+  ],
   "let-us-set-the-record": [
     {
       "kind": "out",
@@ -22969,13 +22991,13 @@
     },
     {
       "kind": "out",
-      "slug": "historical-standard-of-indemnity",
-      "title": "Historical Standard Of Indemnity"
+      "slug": "gods-ideal-fruit-is-the-true-family-seed",
+      "title": "God's Ideal Fruit is the True Family Seed"
     },
     {
       "kind": "out",
-      "slug": "gods-ideal-fruit-is-the-true-family-seed",
-      "title": "God's Ideal Fruit is the True Family Seed"
+      "slug": "historical-standard-of-indemnity",
+      "title": "Historical Standard Of Indemnity"
     },
     {
       "kind": "out",
@@ -28536,11 +28558,6 @@
       "kind": "out",
       "slug": "a-turning-point-history",
       "title": "A Turning Point History"
-    },
-    {
-      "kind": "out",
-      "slug": "day-of-attendance-of-safe-settlement",
-      "title": "Day of Attendance of Safe Settlement"
     }
   ],
   "rally-of-hope-for-hyojeong-and-true-families-in-chungcheong-province": [
@@ -36076,6 +36093,33 @@
       "title": "The Point of Rise or Fall"
     }
   ],
+  "the-final-destination": [
+    {
+      "kind": "out",
+      "slug": "true-love-does-not-burn",
+      "title": "True Love Does Not Burn"
+    },
+    {
+      "kind": "in",
+      "slug": "creation-and-fruition",
+      "title": "Creation and Fruition"
+    },
+    {
+      "kind": "in",
+      "slug": "enthroned-the-god-of-night-and-the-god-of-day",
+      "title": "True Parents did not fall away but instead enthroned the God of Night and the God of Day"
+    },
+    {
+      "kind": "in",
+      "slug": "day-of-all-true-things",
+      "title": "The 48th Day of All True Things"
+    },
+    {
+      "kind": "in",
+      "slug": "time-of-harvest-of-heavens-providence",
+      "title": "The Appearance of True Parents and the Time of Harvest of Heaven's Providence"
+    }
+  ],
   "the-final-path-to-golgotha-that-we-must-go": [
     {
       "kind": "out",
@@ -38820,13 +38864,13 @@
     },
     {
       "kind": "in",
-      "slug": "day-of-attendance-of-safe-settlement",
-      "title": "Day of Attendance of Safe Settlement"
+      "slug": "the-trust-placed-in-us",
+      "title": "The Trust Placed In Us"
     },
     {
       "kind": "in",
-      "slug": "the-trust-placed-in-us",
-      "title": "The Trust Placed In Us"
+      "slug": "day-of-attendance-of-safe-settlement",
+      "title": "Day of Attendance of Safe Settlement"
     },
     {
       "kind": "in",
@@ -47944,6 +47988,13 @@
       "title": "Yesteryears and Today"
     }
   ],
+  "time-of-harvest-of-heavens-providence": [
+    {
+      "kind": "out",
+      "slug": "the-final-destination",
+      "title": "The Final Destination"
+    }
+  ],
   "time-to-establish-heavens-sovereignty": [
     {
       "kind": "out",
@@ -49293,13 +49344,13 @@
     },
     {
       "kind": "out",
-      "slug": "historical-standard-of-indemnity",
-      "title": "Historical Standard Of Indemnity"
+      "slug": "gods-ideal-fruit-is-the-true-family-seed",
+      "title": "God's Ideal Fruit is the True Family Seed"
     },
     {
       "kind": "out",
-      "slug": "gods-ideal-fruit-is-the-true-family-seed",
-      "title": "God's Ideal Fruit is the True Family Seed"
+      "slug": "historical-standard-of-indemnity",
+      "title": "Historical Standard Of Indemnity"
     },
     {
       "kind": "out",
@@ -50043,6 +50094,11 @@
       "kind": "out",
       "slug": "jesus-christ-the-pride-of-god",
       "title": "Jesus Christ, The Pride of God"
+    },
+    {
+      "kind": "in",
+      "slug": "the-final-destination",
+      "title": "The Final Destination"
     },
     {
       "kind": "in",
