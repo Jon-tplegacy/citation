@@ -148,6 +148,11 @@
   "adam-and-eve-term": [
     {
       "corpus": "CSG",
+      "slug": "the-providence-of-the-cheon-ii-guk-era",
+      "title": "The Absolute Object of God's Love"
+    },
+    {
+      "corpus": "CSG",
       "slug": "the-results-of-the-fall",
       "title": "Through the Fall, our lineage changed to that of Satan"
     },
@@ -155,6 +160,11 @@
       "corpus": "Sermon",
       "slug": "significance-of-the-training-session",
       "title": "Three Stages of Judgment"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
     },
     {
       "corpus": "Sermon",
@@ -180,11 +190,6 @@
       "corpus": "Sermon",
       "slug": "let-us-have-an-attachment-of-heart-in-which-heaven-abides-together-with-us",
       "title": "Let Us Have an Attachment of Heart in Which Heaven Abides Together with Us"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-father-who-comes-seeking",
-      "title": "The Father Who Comes Seeking"
     }
   ],
   "ancestors": [
@@ -212,6 +217,11 @@
       "corpus": "Sermon",
       "slug": "true-parents-and-ourselves",
       "title": "True Parents and Ourselves"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
     },
     {
       "corpus": "Sermon",
@@ -314,6 +324,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "whose-sons-and-daughters-are-you",
       "title": "Whose Sons and Daughters Are You?"
     },
@@ -341,11 +356,6 @@
       "corpus": "Sermon",
       "slug": "let-us-have-an-attachment-of-heart-in-which-heaven-abides-together-with-us",
       "title": "Let Us Have an Attachment of Heart in Which Heaven Abides Together with Us"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-father-who-comes-seeking",
-      "title": "The Father Who Comes Seeking"
     }
   ],
   "blessed-family-term": [
@@ -470,6 +480,11 @@
     }
   ],
   "cain-and-abel-term": [
+    {
+      "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
+    },
     {
       "corpus": "Sermon",
       "slug": "the-father-who-comes-seeking",
@@ -720,6 +735,53 @@
       "title": "The Father's Bitter Resentment Toward the Enemy: The Cosmic Battle Within You"
     }
   ],
+  "consciousness": [
+    {
+      "corpus": "PHG",
+      "slug": "absolute-values-and-a-reassessment-of-the-contemporary-world",
+      "title": "Absolute Values and a Reassessment of the Contemporary World"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "science-and-absolute-values",
+      "title": "Science and Absolute Values"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "faith-and-reality",
+      "title": "Faith And Reality"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "original-way-of-gods-will",
+      "title": "Original Way Of God's Will"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "our-advancement-and-retreat",
+      "title": "Our Advancement And Retreat"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "to-become-a-living-sacrifice",
+      "title": "To Become A Living Sacrifice"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "god-and-us",
+      "title": "God And Us"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-search-for-absolute-values-in-a-changing-world",
+      "title": "The Search for Absolute Values in a Changing World"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "conditions-for-registration-in-the-kingdom-of-heaven",
+      "title": "Conditions for Registration in the Kingdom of Heaven"
+    }
+  ],
   "coronation-of-gods-kingship": [
     {
       "corpus": "CBG",
@@ -757,6 +819,11 @@
       "corpus": "Sermon",
       "slug": "pinnacle-of-the-heavenly-universe",
       "title": "Pinnacle Of The Heavenly Universe"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
     }
   ],
   "d-day": [
@@ -784,6 +851,11 @@
   "death": [
     {
       "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "whose-sons-and-daughters-are-you",
       "title": "Whose Sons and Daughters Are You?"
     },
@@ -791,6 +863,11 @@
       "corpus": "Sermon",
       "slug": "in-search-of-the-true-foundation",
       "title": "In Search of the True Foundation"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
     },
     {
       "corpus": "Sermon",
@@ -1044,6 +1121,11 @@
       "corpus": "Sermon",
       "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
       "title": "Jesus' View of Life for the Sake of the Restoration"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
     }
   ],
   "ethics": [
@@ -1076,6 +1158,11 @@
       "corpus": "World Scripture",
       "slug": "the-golden-rule",
       "title": "The Golden Rule"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
     }
   ],
   "evil": [
@@ -1299,6 +1386,11 @@
   "filial-piety-term": [
     {
       "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "what-is-the-greatest-hope-of-gods-blessing",
       "title": "What Is the Greatest Hope of God's Blessing"
     }
@@ -1341,6 +1433,11 @@
     }
   ],
   "freedom-term": [
+    {
+      "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
+    },
     {
       "corpus": "Sermon",
       "slug": "the-path-of-resurrection-that-everyone-must-walk",
@@ -1441,6 +1538,11 @@
   "gods-heart": [
     {
       "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "korea-must-welcome-the-god-who-comes-seeking-the-world",
       "title": "Korea Must Welcome the God Who Comes Seeking the World"
     },
@@ -1456,6 +1558,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-father-who-comes-seeking",
       "title": "The Father Who Comes Seeking"
     },
@@ -1463,16 +1570,33 @@
       "corpus": "Sermon",
       "slug": "the-father-who-would-become-one-with-us",
       "title": "The Father Who Would Become One With Us"
+    }
+  ],
+  "gods-hope-term": [
+    {
+      "corpus": "PHG",
+      "slug": "gods-homeland-and-one-world",
+      "title": "God’s Homeland and One World"
     },
     {
-      "corpus": "Sermon",
-      "slug": "the-fathers-bitter-resentment-toward-the-enemy-the-cosmic-battle-within-you",
-      "title": "The Father's Bitter Resentment Toward the Enemy: The Cosmic Battle Within You"
+      "corpus": "PHG",
+      "slug": "a-providential-view-of-the-pacific-rim-era-in-light-of-gods",
+      "title": "A Providential View of the Pacific Rim Era in Light of God's Will The United States and the Future Direction of the United Nations and the World"
     },
     {
-      "corpus": "Sermon",
-      "slug": "the-happy-multitude",
-      "title": "The Happy Multitude"
+      "corpus": "CSG",
+      "slug": "the-providence-of-the-cheon-ii-guk-era",
+      "title": "The Absolute Object of God's Love"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "the-standard-of-love-in-the-family-and-respect-between-husband-and-wife",
+      "title": "Worship Is the Greatest Ceremony that Shows Reverence to God"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "let-us-love-and-be-proud-of-true-parents",
+      "title": "Let Us Love and Be Proud of True Parents"
     }
   ],
   "gods-love": [
@@ -1485,6 +1609,11 @@
       "corpus": "CSG",
       "slug": "the-meaning-of-education",
       "title": "An Education to Live Together with the World"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
     },
     {
       "corpus": "Sermon",
@@ -1515,11 +1644,6 @@
       "corpus": "Sermon",
       "slug": "the-fathers-bitter-resentment-toward-the-enemy-the-cosmic-battle-within-you",
       "title": "The Father's Bitter Resentment Toward the Enemy: The Cosmic Battle Within You"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-lost-sheep-and-the-father-finding-the-way-back-home",
-      "title": "The Lost Sheep and the Father: Finding the Way Back Home"
     }
   ],
   "gods-will": [
@@ -1944,6 +2068,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-father-who-would-become-one-with-us",
       "title": "The Father Who Would Become One With Us"
     },
@@ -1973,6 +2102,11 @@
       "corpus": "Sermon",
       "slug": "jesus-left-everything-behind-and-went",
       "title": "Jesus Left Everything Behind and Went"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
     },
     {
       "corpus": "Sermon",
@@ -2138,6 +2272,33 @@
       "corpus": "Sermon",
       "slug": "man-the-starting-point-of-hope-the-path-for-our-family",
       "title": "Man, The Starting Point Of Hope - The Path For Our Family"
+    }
+  ],
+  "il-shim-il-che-il-nyeom": [
+    {
+      "corpus": "CBG",
+      "slug": "opening-the-age-of-cheon-il-guk",
+      "title": "Opening the Age of Cheon Il Guk"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "life-of-owners-of-cheon-il-guk",
+      "title": "Life of Owners of Cheon Il Guk"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "explanation-of-family-pledge-number-one",
+      "title": "Explanation of Family Pledge Number One"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "parents-day-and-me",
+      "title": "Parents' Day and Me"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-happy-multitude",
+      "title": "The Happy Multitude"
     }
   ],
   "indemnity": [
@@ -2308,8 +2469,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-father-who-comes-seeking",
-      "title": "The Father Who Comes Seeking"
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
     }
   ],
   "john-the-baptist-term": [
@@ -2392,6 +2553,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "in-search-of-the-true-foundation",
       "title": "In Search of the True Foundation"
     },
@@ -2399,14 +2565,14 @@
       "corpus": "Sermon",
       "slug": "let-us-have-an-attachment-of-heart-in-which-heaven-abides-together-with-us",
       "title": "Let Us Have an Attachment of Heart in Which Heaven Abides Together with Us"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "prepare-a-passport-to-heaven",
-      "title": "Prepare A Passport To Heaven"
     }
   ],
   "kingdom-of-heaven": [
+    {
+      "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
+    },
     {
       "corpus": "Sermon",
       "slug": "whose-sons-and-daughters-are-you",
@@ -2429,18 +2595,13 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-father-who-comes-seeking",
       "title": "The Father Who Comes Seeking"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-father-who-would-become-one-with-us",
-      "title": "The Father Who Would Become One With Us"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-fathers-bitter-resentment-toward-the-enemy-the-cosmic-battle-within-you",
-      "title": "The Father's Bitter Resentment Toward the Enemy: The Cosmic Battle Within You"
     }
   ],
   "lineage": [
@@ -2621,6 +2782,11 @@
   "messiah": [
     {
       "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "whose-sons-and-daughters-are-you",
       "title": "Whose Sons and Daughters Are You?"
     },
@@ -2648,11 +2814,6 @@
       "corpus": "Sermon",
       "slug": "the-providence-of-restoration-to-complete-the-liberation-of-the-hearts",
       "title": "The Providence of Restoration to Complete the Liberation of the Heart's"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "what-is-the-greatest-hope-of-gods-blessing",
-      "title": "What Is the Greatest Hope of God's Blessing"
     }
   ],
   "moses-term": [
@@ -3206,6 +3367,11 @@
       "corpus": "Sermon",
       "slug": "korea-must-welcome-the-god-who-comes-seeking-the-world",
       "title": "Korea Must Welcome the God Who Comes Seeking the World"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
     }
   ],
   "restoration-of-motherhood": [
@@ -3267,6 +3433,11 @@
       "corpus": "Sermon",
       "slug": "in-search-of-the-true-foundation",
       "title": "In Search of the True Foundation"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
     },
     {
       "corpus": "Sermon",
@@ -3438,6 +3609,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "in-search-of-the-true-foundation",
       "title": "In Search of the True Foundation"
     },
@@ -3465,11 +3641,6 @@
       "corpus": "Sermon",
       "slug": "the-path-of-resurrection-that-everyone-must-walk",
       "title": "The Path of Resurrection That Everyone Must Walk"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-providence-of-restoration-to-complete-the-liberation-of-the-hearts",
-      "title": "The Providence of Restoration to Complete the Liberation of the Heart's"
     }
   ],
   "second-israel-term": [
@@ -3720,6 +3891,11 @@
   "sin-term": [
     {
       "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "in-search-of-the-true-foundation",
       "title": "In Search of the True Foundation"
     },
@@ -3747,11 +3923,6 @@
       "corpus": "Sermon",
       "slug": "the-providence-of-restoration-to-complete-the-liberation-of-the-hearts",
       "title": "The Providence of Restoration to Complete the Liberation of the Heart's"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "what-is-the-greatest-hope-of-gods-blessing",
-      "title": "What Is the Greatest Hope of God's Blessing"
     }
   ],
   "sovereignty": [
@@ -3970,6 +4141,11 @@
       "corpus": "Sermon",
       "slug": "man-the-starting-point-of-hope-the-path-for-our-family",
       "title": "Man, The Starting Point Of Hope - The Path For Our Family"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
     }
   ],
   "the-beginning-and-end-are-the-same": [
@@ -4069,6 +4245,11 @@
   "the-fall-term": [
     {
       "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "whose-sons-and-daughters-are-you",
       "title": "Whose Sons and Daughters Are You?"
     },
@@ -4089,18 +4270,13 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-father-who-would-become-one-with-us",
       "title": "The Father Who Would Become One With Us"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-fathers-bitter-resentment-toward-the-enemy-the-cosmic-battle-within-you",
-      "title": "The Father's Bitter Resentment Toward the Enemy: The Cosmic Battle Within You"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-happy-multitude",
-      "title": "The Happy Multitude"
     }
   ],
   "the-four-position-foundation": [
@@ -4155,6 +4331,11 @@
   "the-last-days": [
     {
       "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "whose-sons-and-daughters-are-you",
       "title": "Whose Sons and Daughters Are You?"
     },
@@ -4180,13 +4361,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-father-who-comes-seeking",
-      "title": "The Father Who Comes Seeking"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-father-who-would-become-one-with-us",
-      "title": "The Father Who Would Become One With Us"
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
     }
   ],
   "the-new-testament-age": [
@@ -4204,6 +4380,11 @@
       "corpus": "Sermon",
       "slug": "yesteryears-and-today",
       "title": "Yesteryears and Today"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
     },
     {
       "corpus": "Sermon",
@@ -4229,11 +4410,6 @@
       "corpus": "Sermon",
       "slug": "let-us-have-an-attachment-of-heart-in-which-heaven-abides-together-with-us",
       "title": "Let Us Have an Attachment of Heart in Which Heaven Abides Together with Us"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "let-us-regain-the-victorious-nation",
-      "title": "Let Us Regain the Victorious Nation"
     }
   ],
   "the-old-testament-age": [
@@ -4291,8 +4467,18 @@
   "the-second-advent": [
     {
       "corpus": "Sermon",
+      "slug": "let-us-have-an-attachment-that-heaven-shares",
+      "title": "Let Us Have an Attachment That Heaven Shares"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "korea-must-welcome-the-god-who-comes-seeking-the-world",
       "title": "Korea Must Welcome the God Who Comes Seeking the World"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
     },
     {
       "corpus": "Sermon",
@@ -4464,6 +4650,18 @@
       "corpus": "Sermon",
       "slug": "significance-of-the-training-session",
       "title": "Three Stages of Judgment"
+    }
+  ],
+  "three-great-crosses": [
+    {
+      "corpus": "CSG",
+      "slug": "the-three-requisites-of-cheon-il-guk",
+      "title": "God's Ideal of Creation Is the Realization of the Four-Position Foundation and the True Family"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-attitude-of-the-evangelist",
+      "title": "The Attitude Of The Evangelist"
     }
   ],
   "three-great-kingships": [
@@ -4701,6 +4899,11 @@
       "corpus": "CBG",
       "slug": "blessing-community-life",
       "title": "Blessing Community Life"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
     }
   ],
   "true-love-term": [
@@ -4799,6 +5002,11 @@
       "corpus": "Sermon",
       "slug": "the-blessed-land-shall-be-established-by-truth-character-and-heart",
       "title": "The Blessed Land Shall Be Established By Truth, Character And Heart"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
+      "title": "The Consciousness of Purpose in All Beings and the One World"
     },
     {
       "corpus": "Sermon",
