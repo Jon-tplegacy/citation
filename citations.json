@@ -371,6 +371,14 @@
         "title": "Ancestors"
       },
       {
+        "slug": "palace-of-heavenly-harmony",
+        "title": "Cheonhwagung"
+      },
+      {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      },
+      {
         "slug": "conscience",
         "title": "Conscience"
       },
@@ -587,6 +595,10 @@
   "ahn-shil-il": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      },
       {
         "slug": "the-three-great-blessings",
         "title": "The Three Great Blessings"
@@ -844,8 +856,20 @@
         "title": "Cheon Il Guk"
       },
       {
+        "slug": "palace-of-heavenly-harmony",
+        "title": "Cheonhwagung"
+      },
+      {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      },
+      {
         "slug": "conscience",
         "title": "Conscience"
+      },
+      {
+        "slug": "consciousness",
+        "title": "Consciousness"
       },
       {
         "slug": "cosmos",
@@ -870,6 +894,10 @@
       {
         "slug": "gods-heart",
         "title": "God's Heart"
+      },
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
       },
       {
         "slug": "goodness",
@@ -974,6 +1002,10 @@
       {
         "slug": "three-generations",
         "title": "Three Generations"
+      },
+      {
+        "slug": "three-great-crosses",
+        "title": "Three Great Crosses"
       },
       {
         "slug": "three-great-kingships",
@@ -1305,6 +1337,10 @@
       {
         "slug": "human-history",
         "title": "Human History"
+      },
+      {
+        "slug": "il-shim-il-che-il-nyeom",
+        "title": "Il-shim · Il-che · Il-nyeom"
       },
       {
         "slug": "isaac-term",
@@ -1706,6 +1742,14 @@
         "title": "Boon Bong Wang"
       },
       {
+        "slug": "palace-of-heavenly-harmony",
+        "title": "Cheonhwagung"
+      },
+      {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      },
+      {
         "slug": "completed-testament-age",
         "title": "Completed Testament Age"
       },
@@ -1754,6 +1798,10 @@
         "title": "God of Night"
       },
       {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
+      },
+      {
         "slug": "gyedae",
         "title": "Gyedae"
       },
@@ -1788,6 +1836,10 @@
       {
         "slug": "ideal-family-term",
         "title": "Ideal Family"
+      },
+      {
+        "slug": "il-shim-il-che-il-nyeom",
+        "title": "Il-shim · Il-che · Il-nyeom"
       },
       {
         "slug": "kingdom-of-heaven",
@@ -1899,6 +1951,16 @@
     ],
     "verbatim": []
   },
+  "cheonjin-bumo": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "true-parents-term",
+        "title": "True Parents"
+      }
+    ],
+    "verbatim": []
+  },
   "childrens-day": {
     "further_reading": [],
     "mentioned": [
@@ -1961,6 +2023,10 @@
       {
         "slug": "completed-testament-age",
         "title": "Completed Testament Age"
+      },
+      {
+        "slug": "consciousness",
+        "title": "Consciousness"
       },
       {
         "slug": "cosmos",
@@ -2123,6 +2189,10 @@
         "title": "Three Generations"
       },
       {
+        "slug": "three-great-crosses",
+        "title": "Three Great Crosses"
+      },
+      {
         "slug": "tribal-messiah-term",
         "title": "Tribal Messiah"
       },
@@ -2140,6 +2210,10 @@
   "communism": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "consciousness",
+        "title": "Consciousness"
+      },
       {
         "slug": "parentism",
         "title": "Parentism"
@@ -2176,8 +2250,16 @@
         "title": "Bible"
       },
       {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      },
+      {
         "slug": "conscience",
         "title": "Conscience"
+      },
+      {
+        "slug": "consciousness",
+        "title": "Consciousness"
       },
       {
         "slug": "cosmos",
@@ -2388,6 +2470,10 @@
         "title": "Three Generations"
       },
       {
+        "slug": "three-great-crosses",
+        "title": "Three Great Crosses"
+      },
+      {
         "slug": "three-stages-of-growth",
         "title": "Three Stages of Growth"
       },
@@ -2543,12 +2629,70 @@
     ],
     "mentioned": [
       {
+        "slug": "consciousness",
+        "title": "Consciousness"
+      },
+      {
         "slug": "sumgisineun-hananim",
         "title": "Sumgisineun Hananim"
       },
       {
         "slug": "three-great-subject-partners-principle",
         "title": "Three Great Subject Partners Principle"
+      }
+    ],
+    "verbatim": []
+  },
+  "consciousness": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "eternal-life-term",
+        "title": "Eternal Life"
+      },
+      {
+        "slug": "fallen-nature",
+        "title": "Fallen Nature"
+      },
+      {
+        "slug": "god",
+        "title": "God"
+      },
+      {
+        "slug": "godism",
+        "title": "Godism"
+      },
+      {
+        "slug": "hoon-dok-hae",
+        "title": "Hoon Dok Hae"
+      },
+      {
+        "slug": "human-history",
+        "title": "Human History"
+      },
+      {
+        "slug": "rebirth",
+        "title": "Rebirth"
+      },
+      {
+        "slug": "spirit-self",
+        "title": "Spirit Self"
+      },
+      {
+        "slug": "spirit-world-term",
+        "title": "Spirit World"
+      },
+      {
+        "slug": "the-eight-stage-restoration-path",
+        "title": "The Eight-Stage Restoration Path"
+      },
+      {
+        "slug": "the-fall-term",
+        "title": "The Fall"
+      },
+      {
+        "slug": "the-three-great-blessings",
+        "title": "The Three Great Blessings"
       }
     ],
     "verbatim": []
@@ -2767,6 +2911,10 @@
         "title": "Communism"
       },
       {
+        "slug": "consciousness",
+        "title": "Consciousness"
+      },
+      {
         "slug": "godism",
         "title": "Godism"
       },
@@ -2815,6 +2963,10 @@
       {
         "slug": "communism",
         "title": "Communism"
+      },
+      {
+        "slug": "consciousness",
+        "title": "Consciousness"
       },
       {
         "slug": "death",
@@ -3027,6 +3179,26 @@
     ],
     "verbatim": []
   },
+  "explanation-of-family-pledge-number-three": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "palace-of-heavenly-harmony",
+        "title": "Cheonhwagung"
+      }
+    ],
+    "verbatim": []
+  },
+  "explanation-of-materialism": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "consciousness",
+        "title": "Consciousness"
+      }
+    ],
+    "verbatim": []
+  },
   "faith": {
     "further_reading": [
       {
@@ -3040,6 +3212,10 @@
   "faith-term": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "il-shim-il-che-il-nyeom",
+        "title": "Il-shim · Il-che · Il-nyeom"
+      },
       {
         "slug": "noah-term",
         "title": "Noah"
@@ -3467,6 +3643,10 @@
         "title": "Communism"
       },
       {
+        "slug": "consciousness",
+        "title": "Consciousness"
+      },
+      {
         "slug": "dialectical-materialism",
         "title": "Dialectical Materialism"
       },
@@ -3552,12 +3732,20 @@
     ],
     "mentioned": [
       {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      },
+      {
         "slug": "eternal-life-term",
         "title": "Eternal Life"
       },
       {
         "slug": "god-of-night",
         "title": "God of Night"
+      },
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
       },
       {
         "slug": "han",
@@ -3773,6 +3961,10 @@
         "title": "God's Love"
       },
       {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
+      },
+      {
         "slug": "gyedae",
         "title": "Gyedae"
       },
@@ -3843,6 +4035,16 @@
       {
         "slug": "three-generations",
         "title": "Three Generations"
+      }
+    ],
+    "verbatim": []
+  },
+  "gods-hope": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
       }
     ],
     "verbatim": []
@@ -3920,6 +4122,10 @@
       {
         "slug": "conscience",
         "title": "Conscience"
+      },
+      {
+        "slug": "consciousness",
+        "title": "Consciousness"
       },
       {
         "slug": "eschatology-term",
@@ -4016,6 +4222,10 @@
       {
         "slug": "three-generations",
         "title": "Three Generations"
+      },
+      {
+        "slug": "three-great-crosses",
+        "title": "Three Great Crosses"
       }
     ],
     "verbatim": []
@@ -4061,6 +4271,10 @@
       }
     ],
     "mentioned": [
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
+      },
       {
         "slug": "perfection-term",
         "title": "Perfection"
@@ -5050,6 +5264,10 @@
         "title": "Conscience"
       },
       {
+        "slug": "consciousness",
+        "title": "Consciousness"
+      },
+      {
         "slug": "cosmos",
         "title": "Cosmos"
       },
@@ -5173,6 +5391,10 @@
       {
         "slug": "four-great-realms-of-heart",
         "title": "Four Great Realms of Heart"
+      },
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
       }
     ],
     "verbatim": []
@@ -5183,6 +5405,16 @@
       {
         "slug": "communism",
         "title": "Communism"
+      }
+    ],
+    "verbatim": []
+  },
+  "in-search-of-the-origin-of-the-universe": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "consciousness",
+        "title": "Consciousness"
       }
     ],
     "verbatim": []
@@ -5312,6 +5544,10 @@
         "title": "Cheon Hwa Gung"
       },
       {
+        "slug": "palace-of-heavenly-harmony",
+        "title": "Cheonhwagung"
+      },
+      {
         "slug": "d-day",
         "title": "D-Day"
       },
@@ -5334,6 +5570,10 @@
       {
         "slug": "gods-heart",
         "title": "God's Heart"
+      },
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
       },
       {
         "slug": "han",
@@ -5572,6 +5812,10 @@
         "title": "Absoluteness"
       },
       {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      },
+      {
         "slug": "completed-testament-age",
         "title": "Completed Testament Age"
       },
@@ -5602,6 +5846,10 @@
       {
         "slug": "human-history",
         "title": "Human History"
+      },
+      {
+        "slug": "il-shim-il-che-il-nyeom",
+        "title": "Il-shim · Il-che · Il-nyeom"
       },
       {
         "slug": "isaac-term",
@@ -5881,6 +6129,10 @@
         "title": "Boon Bong Wang"
       },
       {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      },
+      {
         "slug": "conscience",
         "title": "Conscience"
       },
@@ -6029,6 +6281,10 @@
         "title": "Three Generations"
       },
       {
+        "slug": "three-great-crosses",
+        "title": "Three Great Crosses"
+      },
+      {
         "slug": "truth",
         "title": "Truth"
       }
@@ -6136,6 +6392,10 @@
         "title": "God"
       },
       {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
+      },
+      {
         "slug": "goodness",
         "title": "Goodness"
       },
@@ -6160,6 +6420,10 @@
       {
         "slug": "cheon-il-guk",
         "title": "Cheon Il Guk"
+      },
+      {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
       },
       {
         "slug": "completed-testament-age",
@@ -6281,6 +6545,10 @@
         "title": "God's Dispensation"
       },
       {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
+      },
+      {
         "slug": "hell-term",
         "title": "Hell"
       },
@@ -6303,6 +6571,16 @@
       {
         "slug": "subject-and-object",
         "title": "Subject and Object"
+      }
+    ],
+    "verbatim": []
+  },
+  "kingdom-of-heaven-of-hope": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
       }
     ],
     "verbatim": []
@@ -6381,6 +6659,16 @@
       {
         "slug": "conscience",
         "title": "Conscience"
+      }
+    ],
+    "verbatim": []
+  },
+  "let-us-return-to-gods-side": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
       }
     ],
     "verbatim": []
@@ -6470,6 +6758,10 @@
         "title": "Ancestors"
       },
       {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      },
+      {
         "slug": "d-day",
         "title": "D-Day"
       },
@@ -6496,6 +6788,10 @@
       {
         "slug": "hell-term",
         "title": "Hell"
+      },
+      {
+        "slug": "il-shim-il-che-il-nyeom",
+        "title": "Il-shim · Il-che · Il-nyeom"
       },
       {
         "slug": "the-new-testament-age",
@@ -6550,6 +6846,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "consciousness",
+        "title": "Consciousness"
+      },
+      {
         "slug": "origin-division-union",
         "title": "Origin-Division-Union"
       },
@@ -6587,6 +6887,10 @@
   "love-of-a-united-mind-and-body": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "consciousness",
+        "title": "Consciousness"
+      },
       {
         "slug": "freedom-term",
         "title": "Freedom"
@@ -6706,6 +7010,10 @@
         "title": "Boon Bong Wang"
       },
       {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      },
+      {
         "slug": "eschatology-term",
         "title": "Eschatology"
       },
@@ -6720,6 +7028,10 @@
       {
         "slug": "gods-dispensation",
         "title": "God's Dispensation"
+      },
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
       },
       {
         "slug": "heavenly-dignity",
@@ -7173,6 +7485,10 @@
   "offering": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "consciousness",
+        "title": "Consciousness"
+      },
       {
         "slug": "three-great-kingships",
         "title": "Three Great Kingships"
@@ -7690,6 +8006,10 @@
         "title": "Ancestors"
       },
       {
+        "slug": "consciousness",
+        "title": "Consciousness"
+      },
+      {
         "slug": "evil",
         "title": "Evil"
       },
@@ -7774,6 +8094,16 @@
       {
         "slug": "restoration-through-indemnity-term",
         "title": "Restoration Through Indemnity"
+      }
+    ],
+    "verbatim": []
+  },
+  "proclamation-of-foundation-day": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
       }
     ],
     "verbatim": []
@@ -7920,6 +8250,10 @@
       {
         "slug": "human-history",
         "title": "Human History"
+      },
+      {
+        "slug": "il-shim-il-che-il-nyeom",
+        "title": "Il-shim · Il-che · Il-nyeom"
       },
       {
         "slug": "jeongseong",
@@ -8524,6 +8858,10 @@
         "title": "Conscience"
       },
       {
+        "slug": "consciousness",
+        "title": "Consciousness"
+      },
+      {
         "slug": "cosmos",
         "title": "Cosmos"
       },
@@ -8753,6 +9091,10 @@
         "title": "Three Generations"
       },
       {
+        "slug": "three-great-crosses",
+        "title": "Three Great Crosses"
+      },
+      {
         "slug": "three-great-kingships",
         "title": "Three Great Kingships"
       },
@@ -8890,6 +9232,16 @@
       {
         "slug": "righteousness-term",
         "title": "Righteousness"
+      }
+    ],
+    "verbatim": []
+  },
+  "sincerity-overcomes": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "consciousness",
+        "title": "Consciousness"
       }
     ],
     "verbatim": []
@@ -9428,6 +9780,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "il-shim-il-che-il-nyeom",
+        "title": "Il-shim · Il-che · Il-nyeom"
+      },
+      {
         "slug": "spirit-self",
         "title": "Spirit Self"
       }
@@ -9634,6 +9990,10 @@
     ],
     "mentioned": [
       {
+        "slug": "consciousness",
+        "title": "Consciousness"
+      },
+      {
         "slug": "wolli-kangron",
         "title": "Exposition of the Divine Principle"
       },
@@ -9671,6 +10031,10 @@
   "the-eight-stage-restoration-path": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "palace-of-heavenly-harmony",
+        "title": "Cheonhwagung"
+      },
       {
         "slug": "five-stages-of-the-blessing",
         "title": "Five Stages of the Blessing"
@@ -9851,6 +10215,14 @@
         "title": "Bible"
       },
       {
+        "slug": "palace-of-heavenly-harmony",
+        "title": "Cheonhwagung"
+      },
+      {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      },
+      {
         "slug": "communism",
         "title": "Communism"
       },
@@ -9937,6 +10309,10 @@
       {
         "slug": "human-history",
         "title": "Human History"
+      },
+      {
+        "slug": "il-shim-il-che-il-nyeom",
+        "title": "Il-shim · Il-che · Il-nyeom"
       },
       {
         "slug": "isaac-term",
@@ -10210,6 +10586,14 @@
         "title": "Cheon Il Guk"
       },
       {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      },
+      {
+        "slug": "consciousness",
+        "title": "Consciousness"
+      },
+      {
         "slug": "eschatology-term",
         "title": "Eschatology"
       },
@@ -10248,6 +10632,10 @@
       {
         "slug": "ideal-family-term",
         "title": "Ideal Family"
+      },
+      {
+        "slug": "il-shim-il-che-il-nyeom",
+        "title": "Il-shim · Il-che · Il-nyeom"
       },
       {
         "slug": "logos",
@@ -10928,7 +11316,12 @@
   },
   "the-mission-of-the-ambassadors-for-peace-in-the-revolutionary-era-after-the-coming-of-heaven": {
     "further_reading": [],
-    "mentioned": [],
+    "mentioned": [
+      {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      }
+    ],
     "verbatim": [
       {
         "slug": "han",
@@ -10989,6 +11382,10 @@
         "title": "Bible"
       },
       {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      },
+      {
         "slug": "completed-testament-age",
         "title": "Completed Testament Age"
       },
@@ -10997,12 +11394,20 @@
         "title": "Conscience"
       },
       {
+        "slug": "consciousness",
+        "title": "Consciousness"
+      },
+      {
         "slug": "cosmos",
         "title": "Cosmos"
       },
       {
         "slug": "family-federation-for-world-peace-and-unification",
         "title": "Family Federation for World Peace and Unification"
+      },
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
       },
       {
         "slug": "gyedae",
@@ -11093,6 +11498,10 @@
         "title": "Third Adam, Fourth Adam"
       },
       {
+        "slug": "three-great-crosses",
+        "title": "Three Great Crosses"
+      },
+      {
         "slug": "three-stages-of-growth",
         "title": "Three Stages of Growth"
       },
@@ -11126,12 +11535,20 @@
         "title": "Bible"
       },
       {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
+      },
+      {
         "slug": "completed-testament-age",
         "title": "Completed Testament Age"
       },
       {
         "slug": "conscience",
         "title": "Conscience"
+      },
+      {
+        "slug": "consciousness",
+        "title": "Consciousness"
       },
       {
         "slug": "cosmos",
@@ -11228,6 +11645,10 @@
       {
         "slug": "the-individual-embodiment-of-truth",
         "title": "The Individual Embodiment of Truth"
+      },
+      {
+        "slug": "three-great-crosses",
+        "title": "Three Great Crosses"
       },
       {
         "slug": "three-stages-of-growth",
@@ -11871,6 +12292,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "il-shim-il-che-il-nyeom",
+        "title": "Il-shim · Il-che · Il-nyeom"
+      },
+      {
         "slug": "origin-division-union",
         "title": "Origin-Division-Union"
       }
@@ -11917,6 +12342,16 @@
       {
         "slug": "jacob-term",
         "title": "Jacob"
+      }
+    ],
+    "verbatim": []
+  },
+  "the-restoration-of-our-true-gods-homeland": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "il-shim-il-che-il-nyeom",
+        "title": "Il-shim · Il-che · Il-nyeom"
       }
     ],
     "verbatim": []
@@ -12118,6 +12553,10 @@
       {
         "slug": "third-adam-fourth-adam",
         "title": "Third Adam, Fourth Adam"
+      },
+      {
+        "slug": "three-great-crosses",
+        "title": "Three Great Crosses"
       }
     ],
     "verbatim": []
@@ -12393,6 +12832,10 @@
       {
         "slug": "god-of-night",
         "title": "God of Night"
+      },
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
       },
       {
         "slug": "kingdom-of-heaven",
@@ -12715,7 +13158,12 @@
   },
   "the-way-of-indemnity-is-the-way-of-absolute-obedience-and-absolute-submission": {
     "further_reading": [],
-    "mentioned": [],
+    "mentioned": [
+      {
+        "slug": "il-shim-il-che-il-nyeom",
+        "title": "Il-shim · Il-che · Il-nyeom"
+      }
+    ],
     "verbatim": [
       {
         "slug": "indemnity",
@@ -12748,6 +13196,10 @@
       {
         "slug": "five-stages-of-the-blessing",
         "title": "Five Stages of the Blessing"
+      },
+      {
+        "slug": "il-shim-il-che-il-nyeom",
+        "title": "Il-shim · Il-che · Il-nyeom"
       },
       {
         "slug": "perfection-term",
@@ -12794,6 +13246,10 @@
       {
         "slug": "gods-heart",
         "title": "God's Heart"
+      },
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
       },
       {
         "slug": "subject-and-object",
@@ -12892,6 +13348,10 @@
       {
         "slug": "abraham-term",
         "title": "Abraham"
+      },
+      {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
       },
       {
         "slug": "d-day",
@@ -13510,6 +13970,10 @@
         "title": "Human History"
       },
       {
+        "slug": "il-shim-il-che-il-nyeom",
+        "title": "Il-shim · Il-che · Il-nyeom"
+      },
+      {
         "slug": "judgment",
         "title": "Judgment"
       },
@@ -13880,6 +14344,10 @@
         "title": "God's Dispensation"
       },
       {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
+      },
+      {
         "slug": "han",
         "title": "Han"
       },
@@ -14016,6 +14484,10 @@
         "title": "Three Generations"
       },
       {
+        "slug": "three-great-crosses",
+        "title": "Three Great Crosses"
+      },
+      {
         "slug": "tribal-messiah-term",
         "title": "Tribal Messiah"
       },
@@ -14050,6 +14522,10 @@
       }
     ],
     "mentioned": [
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
+      },
       {
         "slug": "perfection-term",
         "title": "Perfection"
@@ -14275,6 +14751,16 @@
       {
         "slug": "communism",
         "title": "Communism"
+      }
+    ],
+    "verbatim": []
+  },
+  "view-of-the-principle-of-the-providential-history": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "cheonjin-bumo",
+        "title": "Cheonjin Bumo"
       }
     ],
     "verbatim": []
