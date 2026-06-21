@@ -556,6 +556,11 @@
   ],
   "a-message-of-hope-for-humankind-as-we-welcome-spring": [
     {
+      "kind": "out",
+      "slug": "we-who-stand-on-gods-front-line",
+      "title": "We, Who Stand on God’s Front Line"
+    },
+    {
       "kind": "in",
       "slug": "i-hope-you-succeed-as-tribal-messiahs",
       "title": "I Hope You Succeed as Tribal Messiahs"
@@ -1569,6 +1574,11 @@
       "kind": "out",
       "slug": "love-forever",
       "title": "Love Forever"
+    },
+    {
+      "kind": "out",
+      "slug": "we-who-stand-on-gods-front-line",
+      "title": "We, Who Stand on God’s Front Line"
     },
     {
       "kind": "in",
@@ -3787,13 +3797,13 @@
     },
     {
       "kind": "out",
-      "slug": "unification-culture",
-      "title": "Unification Culture"
+      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
+      "title": "The Heart of Jesus Who Must Restore All Tasks"
     },
     {
       "kind": "out",
-      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
-      "title": "The Heart of Jesus Who Must Restore All Tasks"
+      "slug": "unification-culture",
+      "title": "Unification Culture"
     },
     {
       "kind": "in",
@@ -10884,13 +10894,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-sorrowful-heart-of-jesus",
-      "title": "The Sorrowful Heart of Jesus as He Went to the Mountain"
+      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
+      "title": "The Heart of Jesus Who Must Restore All Tasks"
     },
     {
       "kind": "in",
-      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
-      "title": "The Heart of Jesus Who Must Restore All Tasks"
+      "slug": "the-sorrowful-heart-of-jesus",
+      "title": "The Sorrowful Heart of Jesus as He Went to the Mountain"
     },
     {
       "kind": "in",
@@ -15059,6 +15069,11 @@
       "kind": "in",
       "slug": "blessed-family",
       "title": "Blessed Family"
+    },
+    {
+      "kind": "in",
+      "slug": "we-who-stand-on-gods-front-line",
+      "title": "We, Who Stand on God’s Front Line"
     }
   ],
   "ideal-home": [
@@ -20746,13 +20761,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-sorrowful-heart-of-jesus",
-      "title": "The Sorrowful Heart of Jesus as He Went to the Mountain"
+      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
+      "title": "The Heart of Jesus Who Must Restore All Tasks"
     },
     {
       "kind": "in",
-      "slug": "resurrected-kingdom-of-god",
-      "title": "Resurrected Kingdom of God"
+      "slug": "the-sorrowful-heart-of-jesus",
+      "title": "The Sorrowful Heart of Jesus as He Went to the Mountain"
     }
   ],
   "longing-for-eden": [
@@ -32180,13 +32195,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-ideal-world",
-      "title": "The Ideal World"
+      "slug": "human-life",
+      "title": "Human Life"
     },
     {
       "kind": "out",
-      "slug": "human-life",
-      "title": "Human Life"
+      "slug": "the-ideal-world",
+      "title": "The Ideal World"
     },
     {
       "kind": "out",
@@ -37091,13 +37106,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-ideal-world",
-      "title": "The Ideal World"
+      "slug": "human-life",
+      "title": "Human Life"
     },
     {
       "kind": "out",
-      "slug": "human-life",
-      "title": "Human Life"
+      "slug": "the-ideal-world",
+      "title": "The Ideal World"
     },
     {
       "kind": "out",
@@ -37287,6 +37302,11 @@
     },
     {
       "kind": "in",
+      "slug": "we-who-stand-on-gods-front-line",
+      "title": "We, Who Stand on God’s Front Line"
+    },
+    {
+      "kind": "in",
       "slug": "host-of-the-future",
       "title": "Host of the Future"
     },
@@ -37294,11 +37314,6 @@
       "kind": "in",
       "slug": "the-final-path-to-golgotha-that-we-must-go",
       "title": "The Final Path To Golgotha That We Must Go"
-    },
-    {
-      "kind": "in",
-      "slug": "childrens-day-1984",
-      "title": "Children’s Day 1984"
     }
   ],
   "the-heart-of-reunion": [
@@ -37972,13 +37987,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-ideal-world",
-      "title": "The Ideal World"
+      "slug": "human-life",
+      "title": "Human Life"
     },
     {
       "kind": "out",
-      "slug": "human-life",
-      "title": "Human Life"
+      "slug": "the-ideal-world",
+      "title": "The Ideal World"
     },
     {
       "kind": "out",
@@ -41328,13 +41343,13 @@
     },
     {
       "kind": "in",
-      "slug": "gods-providence-in-the-scriptures",
-      "title": "God's Providence in the Scriptures"
+      "slug": "the-providence-of-god-in-relation-to-the-human-viewpoint",
+      "title": "The Providence Of God In Relation To The Human Viewpoint"
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-god-in-relation-to-the-human-viewpoint",
-      "title": "The Providence Of God In Relation To The Human Viewpoint"
+      "slug": "gods-providence-in-the-scriptures",
+      "title": "God's Providence in the Scriptures"
     },
     {
       "kind": "in",
@@ -42438,6 +42453,11 @@
     },
     {
       "kind": "in",
+      "slug": "we-who-stand-on-gods-front-line",
+      "title": "We, Who Stand on God’s Front Line"
+    },
+    {
+      "kind": "in",
       "slug": "the-significance-of-victory-in-korea",
       "title": "The Significance Of Victory In Korea"
     },
@@ -42445,11 +42465,6 @@
       "kind": "in",
       "slug": "address-to-prayer-and-fast-participants",
       "title": "Address To Prayer And Fast Participants"
-    },
-    {
-      "kind": "in",
-      "slug": "the-harvest-season-for-gods-providence",
-      "title": "The Harvest Season For God's Providence"
     }
   ],
   "the-providence-of-restoration-to-complete-the-liberation-of-the-hearts": [
@@ -42502,13 +42517,13 @@
     },
     {
       "kind": "in",
-      "slug": "lineage-must-be-made-different",
-      "title": "Lineage must be made different"
+      "slug": "the-providence-of-god-in-relation-to-the-human-viewpoint",
+      "title": "The Providence Of God In Relation To The Human Viewpoint"
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-god-in-relation-to-the-human-viewpoint",
-      "title": "The Providence Of God In Relation To The Human Viewpoint"
+      "slug": "lineage-must-be-made-different",
+      "title": "Lineage must be made different"
     },
     {
       "kind": "in",
@@ -47601,6 +47616,11 @@
       "kind": "out",
       "slug": "history-of-unification-church-part",
       "title": "History Of Unification Church"
+    },
+    {
+      "kind": "out",
+      "slug": "we-who-stand-on-gods-front-line",
+      "title": "We, Who Stand on God’s Front Line"
     }
   ],
   "things-found-most-important-in-leading-a-life-of-faith": [
@@ -47773,6 +47793,11 @@
     }
   ],
   "this-proclamation-is-a-limitless-source-of-life-energy-and-inspiration": [
+    {
+      "kind": "out",
+      "slug": "way-of-life",
+      "title": "Way Of Life"
+    },
     {
       "kind": "out",
       "slug": "the-central-figure-and-the-transitional-period",
@@ -49817,6 +49842,11 @@
       "kind": "out",
       "slug": "a-life-like-a-lighthouse",
       "title": "A Life Like a Lighthouse"
+    },
+    {
+      "kind": "out",
+      "slug": "we-who-stand-on-gods-front-line",
+      "title": "We, Who Stand on God’s Front Line"
     }
   ],
   "true-father-rev-sun-myung-moon-1000-day-memorial-celebration": [
@@ -53991,6 +54021,63 @@
       "title": "The New Family Pledge"
     }
   ],
+  "we-who-stand-on-gods-front-line": [
+    {
+      "kind": "out",
+      "slug": "let-us-know-the-heart-of-god",
+      "title": "Let Us Know The Heart Of God"
+    },
+    {
+      "kind": "out",
+      "slug": "human-life",
+      "title": "Human Life"
+    },
+    {
+      "kind": "out",
+      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
+      "title": "The Heart of Jesus Who Must Restore All Tasks"
+    },
+    {
+      "kind": "out",
+      "slug": "the-providence-of-god-in-relation-to-the-human-viewpoint",
+      "title": "The Providence Of God In Relation To The Human Viewpoint"
+    },
+    {
+      "kind": "out",
+      "slug": "ideal-family-and-ideal-world",
+      "title": "Ideal Family And Ideal World"
+    },
+    {
+      "kind": "in",
+      "slug": "visualizing-the-kingdom-of-god",
+      "title": "Visualizing the Kingdom of God"
+    },
+    {
+      "kind": "in",
+      "slug": "a-message-of-hope-for-humankind-as-we-welcome-spring",
+      "title": "A Message of Hope for Humankind as We Welcome Spring"
+    },
+    {
+      "kind": "in",
+      "slug": "american-clergy-leadership-conference-key-clergy-present",
+      "title": "American Clergy Leadership Conference Key Clergy Present"
+    },
+    {
+      "kind": "in",
+      "slug": "there-must-be-an-axis",
+      "title": "There Must Be an Axis"
+    },
+    {
+      "kind": "in",
+      "slug": "true-father-on-gods-textbook-and-the-path-of-absolute-faith",
+      "title": "True Father on God's Textbook and the Path of Absolute Faith"
+    },
+    {
+      "kind": "in",
+      "slug": "work-in-silence-without-a-word",
+      "title": "Work in Silence, Without a Word"
+    }
+  ],
   "wecome-back-true-parents-true-parents-return-to-america": [
     {
       "kind": "out",
@@ -56046,6 +56133,13 @@
       "kind": "in",
       "slug": "father-we-welcome-you",
       "title": "Oh, Father! We Welcome You"
+    }
+  ],
+  "work-in-silence-without-a-word": [
+    {
+      "kind": "out",
+      "slug": "we-who-stand-on-gods-front-line",
+      "title": "We, Who Stand on God’s Front Line"
     }
   ],
   "world-day": [
