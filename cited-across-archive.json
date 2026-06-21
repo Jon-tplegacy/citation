@@ -1715,13 +1715,13 @@
   "blessed-family-traditions": [
     {
       "corpus": "Sermon",
-      "slug": "the-meaning-of-the-holy-wine-ceremony",
-      "title": "The Meaning of the Holy Wine Ceremony"
+      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
+      "title": "The Heart of Jesus Who Must Restore All Tasks"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
-      "title": "The Heart of Jesus Who Must Restore All Tasks"
+      "slug": "the-meaning-of-the-holy-wine-ceremony",
+      "title": "The Meaning of the Holy Wine Ceremony"
     },
     {
       "corpus": "Sermon",
@@ -11876,13 +11876,13 @@
     },
     {
       "corpus": "CSG",
-      "slug": "the-3-6-million-couples",
-      "title": "The 3.6 Million Couples"
+      "slug": "the-exemplary-family-life-of-faith",
+      "title": "The Exemplary Family Life of Faith"
     },
     {
       "corpus": "CSG",
-      "slug": "the-exemplary-family-life-of-faith",
-      "title": "The Exemplary Family Life of Faith"
+      "slug": "the-3-6-million-couples",
+      "title": "The 3.6 Million Couples"
     },
     {
       "corpus": "CSG",
@@ -18080,6 +18080,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "we-who-stand-on-gods-front-line",
+      "title": "We, Who Stand on God’s Front Line"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "our-portion-of-responsibility-and-the-subject-world",
       "title": "Our Portion Of Responsibility And The Subject World"
     },
@@ -18102,11 +18107,6 @@
       "corpus": "Sermon",
       "slug": "establish-a-third-homeland",
       "title": "Establish a third Homeland"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "our-activity-from-now-on",
-      "title": "Our Activity From Now On"
     }
   ],
   "our-hope": [
@@ -25184,13 +25184,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-completed-testament-era-and-me",
-      "title": "The Completed Testament Era And Me"
+      "slug": "we-who-stand-on-gods-front-line",
+      "title": "We, Who Stand on God’s Front Line"
     },
     {
       "corpus": "Sermon",
-      "slug": "core-love-and-indemnity",
-      "title": "Core Love And Indemnity"
+      "slug": "the-completed-testament-era-and-me",
+      "title": "The Completed Testament Era And Me"
     }
   ],
   "the-birth-of-a-new-providence": [
@@ -27136,6 +27136,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "we-who-stand-on-gods-front-line",
+      "title": "We, Who Stand on God’s Front Line"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "new-family-given-by-god",
       "title": "New Family Given By God"
     },
@@ -27148,11 +27153,6 @@
       "corpus": "Sermon",
       "slug": "let-us-have-an-attachment-that-heaven-shares",
       "title": "Let Us Have an Attachment That Heaven Shares"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "challenge-and-victory",
-      "title": "Challenge and Victory"
     }
   ],
   "the-existence-of-god": [
@@ -30687,6 +30687,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "we-who-stand-on-gods-front-line",
+      "title": "We, Who Stand on God’s Front Line"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "members-who-will-live-in-gods-family",
       "title": "Members Who Will Live in God's Family"
     },
@@ -30694,11 +30699,6 @@
       "corpus": "Sermon",
       "slug": "our-responsibility-in-becoming-children-of-true-parents",
       "title": "Our Responsibility In Becoming Children Of True Parents"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "let-us-find-our-true-self",
-      "title": "Let Us Find Our True Self"
     }
   ],
   "the-last-frontline": [
@@ -36866,6 +36866,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "we-who-stand-on-gods-front-line",
+      "title": "We, Who Stand on God’s Front Line"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "let-us-go-over-the-mountain-with-hope",
       "title": "Let Us Go Over the Mountain with Hope"
     },
@@ -36888,11 +36893,6 @@
       "corpus": "Sermon",
       "slug": "unification-of-my-country",
       "title": "Unification of My Country"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "young-generation",
-      "title": "Young Generation"
     }
   ],
   "the-restoration-of-the-nation-and-world": [
@@ -37760,13 +37760,13 @@
     },
     {
       "corpus": "PHG",
-      "slug": "the-way-to-world-peace",
-      "title": "The Way to World Peace"
+      "slug": "our-homeland-for-the-sake-of-the-world",
+      "title": "Our Homeland for the Sake of the World"
     },
     {
       "corpus": "PHG",
-      "slug": "our-homeland-for-the-sake-of-the-world",
-      "title": "Our Homeland for the Sake of the World"
+      "slug": "the-way-to-world-peace",
+      "title": "The Way to World Peace"
     },
     {
       "corpus": "PHG",
@@ -44463,6 +44463,38 @@
       "title": "For The Future"
     }
   ],
+  "we-who-stand-on-gods-front-line": [
+    {
+      "corpus": "CBG",
+      "slug": "mobilization-of-blessed-families",
+      "title": "Mobilization of Blessed Families"
+    },
+    {
+      "corpus": "CBG",
+      "slug": "pyongyang",
+      "title": "Pyongyang"
+    },
+    {
+      "corpus": "CBG",
+      "slug": "providential-background",
+      "title": "Background"
+    },
+    {
+      "corpus": "CBG",
+      "slug": "blessed-families-and-the-education-of-future-leaders",
+      "title": "Blessed Families and the Education of Future Leaders"
+    },
+    {
+      "corpus": "CBG",
+      "slug": "gathering-lost-family-members",
+      "title": "Gathering Lost Family Members"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "the-spirit-world-and-the-heavenly-kingdom",
+      "title": "The Restoration of Our Homeland through True Love"
+    }
+  ],
   "what-causes-the-transformation-in-adolescence": [
     {
       "corpus": "Sermon",
@@ -44913,6 +44945,11 @@
       "corpus": "Sermon",
       "slug": "who-goes-the-way-of-indemnity",
       "title": "Who Goes The Way Of Indemnity?"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "we-who-stand-on-gods-front-line",
+      "title": "We, Who Stand on God’s Front Line"
     },
     {
       "corpus": "Sermon",
