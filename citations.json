@@ -491,6 +491,14 @@
         "title": "Sangdae"
       },
       {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      },
+      {
         "slug": "sin-term",
         "title": "Sin"
       },
@@ -741,10 +749,6 @@
         "title": "Holy Wine Ceremony"
       },
       {
-        "slug": "righteousness-term",
-        "title": "Righteousness"
-      },
-      {
         "slug": "sin-term",
         "title": "Sin"
       },
@@ -974,6 +978,10 @@
       {
         "slug": "restoration-through-indemnity-term",
         "title": "Restoration Through Indemnity"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
       },
       {
         "slug": "sin-term",
@@ -1303,6 +1311,16 @@
     ],
     "verbatim": []
   },
+  "buddha-world-scripture": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      }
+    ],
+    "verbatim": []
+  },
   "buddhism": {
     "further_reading": [],
     "mentioned": [
@@ -1377,6 +1395,10 @@
       {
         "slug": "religion",
         "title": "Religion"
+      },
+      {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
       },
       {
         "slug": "subject-and-object",
@@ -1932,6 +1954,10 @@
       {
         "slug": "wonggu",
         "title": "Wonggu"
+      },
+      {
+        "slug": "zero-point",
+        "title": "Zero Point"
       }
     ],
     "verbatim": []
@@ -2159,6 +2185,10 @@
       {
         "slug": "second-israel-term",
         "title": "Second Israel"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
       },
       {
         "slug": "sin-term",
@@ -2576,6 +2606,14 @@
         "title": "Providence of Restoration"
       },
       {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      },
+      {
+        "slug": "sincerity",
+        "title": "Sincerity"
+      },
+      {
         "slug": "three-generations",
         "title": "Three Generations"
       },
@@ -2596,6 +2634,10 @@
       {
         "slug": "habituality",
         "title": "Habituality"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
       }
     ],
     "verbatim": []
@@ -2659,12 +2701,24 @@
         "title": "Consciousness"
       },
       {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      },
+      {
         "slug": "sumgisineun-hananim",
         "title": "Sumgisineun Hananim"
       },
       {
         "slug": "three-great-subject-partners-principle",
         "title": "Three Great Subject Partners Principle"
+      },
+      {
+        "slug": "zero-point",
+        "title": "Zero Point"
       }
     ],
     "verbatim": []
@@ -2777,6 +2831,10 @@
       {
         "slug": "eschatology-term",
         "title": "Eschatology"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
       },
       {
         "slug": "universal-peace-federation",
@@ -2929,6 +2987,10 @@
       {
         "slug": "sin-term",
         "title": "Sin"
+      },
+      {
+        "slug": "sincerity",
+        "title": "Sincerity"
       }
     ],
     "verbatim": []
@@ -3029,6 +3091,18 @@
       {
         "slug": "religion",
         "title": "Religion"
+      },
+      {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      },
+      {
+        "slug": "sincerity",
+        "title": "Sincerity"
       },
       {
         "slug": "the-last-days",
@@ -3139,6 +3213,16 @@
       }
     ]
   },
+  "eternity": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "sincerity",
+        "title": "Sincerity"
+      }
+    ],
+    "verbatim": []
+  },
   "ethics": {
     "further_reading": [
       {
@@ -3150,6 +3234,10 @@
       {
         "slug": "righteousness-term",
         "title": "Righteousness"
+      },
+      {
+        "slug": "sincerity",
+        "title": "Sincerity"
       }
     ],
     "verbatim": []
@@ -3751,6 +3839,10 @@
       {
         "slug": "wonggu",
         "title": "Wonggu"
+      },
+      {
+        "slug": "zero-point",
+        "title": "Zero Point"
       }
     ],
     "verbatim": []
@@ -3828,6 +3920,18 @@
       {
         "slug": "religion",
         "title": "Religion"
+      },
+      {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      },
+      {
+        "slug": "sincerity",
+        "title": "Sincerity"
       },
       {
         "slug": "spirit-world-term",
@@ -4093,6 +4197,10 @@
       {
         "slug": "three-generations",
         "title": "Three Generations"
+      },
+      {
+        "slug": "truth",
+        "title": "Truth"
       }
     ],
     "verbatim": []
@@ -4270,6 +4378,10 @@
         "title": "Satan / Lucifer"
       },
       {
+        "slug": "sincerity",
+        "title": "Sincerity"
+      },
+      {
         "slug": "spirit-world-term",
         "title": "Spirit World"
       },
@@ -4314,6 +4426,16 @@
         "title": "Lineage"
       }
     ]
+  },
+  "gods-strategy-and-satans-strategy": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      }
+    ],
+    "verbatim": []
   },
   "gods-true-nation": {
     "further_reading": [],
@@ -4368,6 +4490,10 @@
         "title": "Bible"
       },
       {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      },
+      {
         "slug": "the-three-great-blessings",
         "title": "The Three Great Blessings"
       }
@@ -4385,6 +4511,10 @@
       {
         "slug": "isaac-term",
         "title": "Isaac"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
       },
       {
         "slug": "the-beginning-and-end-are-the-same",
@@ -4481,6 +4611,10 @@
       {
         "slug": "fallen-nature",
         "title": "Fallen Nature"
+      },
+      {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
       },
       {
         "slug": "true-person",
@@ -4596,8 +4730,16 @@
         "title": "Hoon Dok Hae"
       },
       {
+        "slug": "sincerity",
+        "title": "Sincerity"
+      },
+      {
         "slug": "wonggu",
         "title": "Wonggu"
+      },
+      {
+        "slug": "zero-point",
+        "title": "Zero Point"
       }
     ],
     "verbatim": []
@@ -4645,6 +4787,16 @@
       {
         "slug": "three-great-kingships",
         "title": "Three Great Kingships"
+      }
+    ],
+    "verbatim": []
+  },
+  "heavens-side-and-satans-side": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "zero-point",
+        "title": "Zero Point"
       }
     ],
     "verbatim": []
@@ -5090,6 +5242,10 @@
       {
         "slug": "satan-lucifer",
         "title": "Satan / Lucifer"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
       },
       {
         "slug": "sin-term",
@@ -5606,10 +5762,6 @@
         "title": "Resurrection"
       },
       {
-        "slug": "righteousness-term",
-        "title": "Righteousness"
-      },
-      {
         "slug": "salvation-history",
         "title": "Salvation History"
       },
@@ -5704,6 +5856,10 @@
         "title": "Sin"
       },
       {
+        "slug": "sincerity",
+        "title": "Sincerity"
+      },
+      {
         "slug": "sumgisineun-hananim",
         "title": "Sumgisineun Hananim"
       },
@@ -5718,6 +5874,10 @@
       {
         "slug": "three-stages-of-growth",
         "title": "Three Stages of Growth"
+      },
+      {
+        "slug": "zero-point",
+        "title": "Zero Point"
       }
     ],
     "verbatim": []
@@ -5976,6 +6136,14 @@
         "title": "Second Israel"
       },
       {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      },
+      {
+        "slug": "sincerity",
+        "title": "Sincerity"
+      },
+      {
         "slug": "the-last-days",
         "title": "The Last Days"
       },
@@ -6102,6 +6270,10 @@
       {
         "slug": "the-beginning-and-end-are-the-same",
         "title": "The Beginning and End Are the Same"
+      },
+      {
+        "slug": "zero-point",
+        "title": "Zero Point"
       }
     ],
     "verbatim": []
@@ -6119,10 +6291,6 @@
       {
         "slug": "heavenly-affection",
         "title": "Heavenly Affection"
-      },
-      {
-        "slug": "righteousness-term",
-        "title": "Righteousness"
       },
       {
         "slug": "shimjeong",
@@ -6191,12 +6359,24 @@
         "title": "Restoration Through Indemnity"
       },
       {
+        "slug": "righteousness-term",
+        "title": "Righteousness"
+      },
+      {
         "slug": "satan-lucifer",
         "title": "Satan / Lucifer"
       },
       {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      },
+      {
         "slug": "shimcheong",
         "title": "Shimcheong"
+      },
+      {
+        "slug": "sincerity",
+        "title": "Sincerity"
       },
       {
         "slug": "three-great-kingships",
@@ -6574,6 +6754,14 @@
         "title": "Second Israel"
       },
       {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      },
+      {
         "slug": "the-old-testament-age",
         "title": "The Old Testament Age"
       },
@@ -6906,8 +7094,26 @@
         "title": "Il-shim · Il-che · Il-nyeom"
       },
       {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      },
+      {
         "slug": "the-new-testament-age",
         "title": "The New Testament Age"
+      }
+    ],
+    "verbatim": []
+  },
+  "live-by-setting-the-standard-of-true-love": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
       }
     ],
     "verbatim": []
@@ -6950,6 +7156,14 @@
       {
         "slug": "heavenly-fortune",
         "title": "Heavenly Fortune"
+      },
+      {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      },
+      {
+        "slug": "sincerity",
+        "title": "Sincerity"
       }
     ],
     "verbatim": []
@@ -7010,6 +7224,10 @@
       {
         "slug": "heavenly-order-and-human-order",
         "title": "Heavenly Order and Human Order"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
       }
     ],
     "verbatim": []
@@ -7240,6 +7458,10 @@
       {
         "slug": "han",
         "title": "Han"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
       }
     ],
     "verbatim": []
@@ -7715,10 +7937,6 @@
         "title": "Resurrection"
       },
       {
-        "slug": "righteousness-term",
-        "title": "Righteousness"
-      },
-      {
         "slug": "salvation-history",
         "title": "Salvation History"
       },
@@ -7779,6 +7997,10 @@
       {
         "slug": "messiah",
         "title": "Messiah"
+      },
+      {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
       },
       {
         "slug": "sin-term",
@@ -8142,8 +8364,16 @@
         "title": "Religion"
       },
       {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      },
+      {
         "slug": "sin-term",
         "title": "Sin"
+      },
+      {
+        "slug": "sincerity",
+        "title": "Sincerity"
       },
       {
         "slug": "spirit-world-term",
@@ -8440,6 +8670,10 @@
       {
         "slug": "the-eight-stage-restoration-path",
         "title": "The Eight-Stage Restoration Path"
+      },
+      {
+        "slug": "zero-point",
+        "title": "Zero Point"
       }
     ],
     "verbatim": []
@@ -8541,6 +8775,16 @@
       }
     ],
     "mentioned": [],
+    "verbatim": []
+  },
+  "restoration-and-blessing": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      }
+    ],
     "verbatim": []
   },
   "restoration-in-the-old-testament": {
@@ -8836,7 +9080,12 @@
         "title": "The Fall"
       }
     ],
-    "mentioned": [],
+    "mentioned": [
+      {
+        "slug": "zero-point",
+        "title": "Zero Point"
+      }
+    ],
     "verbatim": []
   },
   "satan-lucifer": {
@@ -9280,7 +9529,12 @@
         "title": "The Last Days"
       }
     ],
-    "mentioned": [],
+    "mentioned": [
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      }
+    ],
     "verbatim": [
       {
         "slug": "the-three-great-blessings",
@@ -9293,16 +9547,16 @@
       {
         "slug": "ancestors",
         "title": "Ancestors"
-      },
-      {
-        "slug": "righteousness-term",
-        "title": "Righteousness"
       }
     ],
     "mentioned": [
       {
         "slug": "original-sin",
         "title": "Original Sin"
+      },
+      {
+        "slug": "righteousness-term",
+        "title": "Righteousness"
       },
       {
         "slug": "three-generations",
@@ -9356,12 +9610,48 @@
     ],
     "verbatim": []
   },
-  "sincerity-overcomes": {
+  "sincerity": {
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "blessed-family-term",
+        "title": "Blessed Family"
+      },
+      {
         "slug": "consciousness",
         "title": "Consciousness"
+      },
+      {
+        "slug": "human-affection",
+        "title": "Human Affection"
+      },
+      {
+        "slug": "ideal-family-term",
+        "title": "Ideal Family"
+      },
+      {
+        "slug": "jeongseong",
+        "title": "Jeongseong"
+      },
+      {
+        "slug": "prayer-term",
+        "title": "Prayer"
+      },
+      {
+        "slug": "resurrection-term",
+        "title": "Resurrection"
+      },
+      {
+        "slug": "righteousness-term",
+        "title": "Righteousness"
+      },
+      {
+        "slug": "three-stages-of-growth",
+        "title": "Three Stages of Growth"
+      },
+      {
+        "slug": "truth",
+        "title": "Truth"
       }
     ],
     "verbatim": []
@@ -9390,6 +9680,10 @@
       {
         "slug": "human-history",
         "title": "Human History"
+      },
+      {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
       },
       {
         "slug": "the-eight-stage-restoration-path",
@@ -9445,6 +9739,10 @@
         "title": "Hell"
       },
       {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      },
+      {
         "slug": "the-fall-term",
         "title": "The Fall"
       },
@@ -9455,6 +9753,10 @@
       {
         "slug": "three-great-kingships",
         "title": "Three Great Kingships"
+      },
+      {
+        "slug": "zero-point",
+        "title": "Zero Point"
       }
     ],
     "verbatim": []
@@ -9597,6 +9899,10 @@
         "title": "Satan / Lucifer"
       },
       {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      },
+      {
         "slug": "spirit-self",
         "title": "Spirit Self"
       },
@@ -9641,6 +9947,10 @@
       {
         "slug": "sangdae",
         "title": "Sangdae"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
       }
     ],
     "verbatim": []
@@ -9918,6 +10228,10 @@
       {
         "slug": "il-shim-il-che-il-nyeom",
         "title": "Il-shim · Il-che · Il-nyeom"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
       },
       {
         "slug": "spirit-self",
@@ -10295,10 +10609,6 @@
         "title": "Religion"
       },
       {
-        "slug": "righteousness-term",
-        "title": "Righteousness"
-      },
-      {
         "slug": "sin-term",
         "title": "Sin"
       },
@@ -10553,6 +10863,14 @@
         "title": "Satan / Lucifer"
       },
       {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      },
+      {
         "slug": "sin-term",
         "title": "Sin"
       },
@@ -10603,6 +10921,10 @@
       {
         "slug": "truth",
         "title": "Truth"
+      },
+      {
+        "slug": "zero-point",
+        "title": "Zero Point"
       }
     ],
     "verbatim": []
@@ -10614,7 +10936,12 @@
         "title": "The Fall"
       }
     ],
-    "mentioned": [],
+    "mentioned": [
+      {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      }
+    ],
     "verbatim": []
   },
   "the-family-is-rooted-in-absolute-sexual-ethics-which-is-the-model-for-gods-absoluteness-peace-and-ideal-and-the-global-kingdom": {
@@ -10974,6 +11301,16 @@
     "mentioned": [],
     "verbatim": []
   },
+  "the-great-power-of-love-and-forgiveness": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      }
+    ],
+    "verbatim": []
+  },
   "the-heart-of-heaven-in-relation-to-elijah": {
     "further_reading": [],
     "mentioned": [
@@ -11164,6 +11501,26 @@
       {
         "slug": "religion",
         "title": "Religion"
+      }
+    ],
+    "verbatim": []
+  },
+  "the-individual-embodiment-of-truth": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      }
+    ],
+    "verbatim": []
+  },
+  "the-key-to-your-spiritual-life": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
       }
     ],
     "verbatim": []
@@ -12221,6 +12578,16 @@
     ],
     "verbatim": []
   },
+  "the-providence-of-salvation-of-returning-to-god": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "zero-point",
+        "title": "Zero Point"
+      }
+    ],
+    "verbatim": []
+  },
   "the-providence-to-lay-the-foundation-for-restoration": {
     "further_reading": [],
     "mentioned": [
@@ -12471,6 +12838,10 @@
       {
         "slug": "origin-division-union",
         "title": "Origin-Division-Union"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
       }
     ],
     "verbatim": []
@@ -12940,6 +13311,16 @@
       }
     ]
   },
+  "the-temple-of-god": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      }
+    ],
+    "verbatim": []
+  },
   "the-ten-commandments": {
     "further_reading": [],
     "mentioned": [
@@ -13017,6 +13398,10 @@
       {
         "slug": "religion",
         "title": "Religion"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
       },
       {
         "slug": "spirit-world-term",
@@ -13281,6 +13666,16 @@
     ],
     "verbatim": []
   },
+  "the-value-of-blessed-families": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "sincerity",
+        "title": "Sincerity"
+      }
+    ],
+    "verbatim": []
+  },
   "the-value-of-knowing-the-messiah": {
     "further_reading": [
       {
@@ -13381,6 +13776,10 @@
       {
         "slug": "perfection-term",
         "title": "Perfection"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
       },
       {
         "slug": "the-fall-term",
@@ -14187,6 +14586,10 @@
       {
         "slug": "truth",
         "title": "Truth"
+      },
+      {
+        "slug": "zero-point",
+        "title": "Zero Point"
       }
     ],
     "verbatim": []
@@ -14627,6 +15030,14 @@
         "title": "Restoration Through Indemnity"
       },
       {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      },
+      {
         "slug": "shimjeong",
         "title": "Shimjeong"
       },
@@ -14843,6 +15254,10 @@
       {
         "slug": "religion",
         "title": "Religion"
+      },
+      {
+        "slug": "self-awareness",
+        "title": "Self-Awareness"
       }
     ],
     "verbatim": []
