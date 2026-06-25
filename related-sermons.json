@@ -1515,13 +1515,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "jesus-christ-the-pride-of-god",
+      "title": "Jesus Christ, The Pride of God"
     },
     {
       "kind": "out",
@@ -1663,13 +1663,13 @@
     },
     {
       "kind": "out",
-      "slug": "true-sons-and-daughters-who-have-loyalty",
-      "title": "True Sons and Daughters Who Have Loyalty During Times of Great Difficulty"
+      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
+      "title": "The Heart of Jesus Who Must Restore All Tasks"
     },
     {
       "kind": "out",
-      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
-      "title": "The Heart of Jesus Who Must Restore All Tasks"
+      "slug": "true-sons-and-daughters-who-have-loyalty",
+      "title": "True Sons and Daughters Who Have Loyalty During Times of Great Difficulty"
     },
     {
       "kind": "out",
@@ -2122,6 +2122,48 @@
       "title": "Who Will Eliminate the Debt of 6,000 Years?"
     }
   ],
+  "become-a-victorious-lord-of-dominion": [
+    {
+      "kind": "out",
+      "slug": "history-of-unification-church-part",
+      "title": "History Of Unification Church"
+    },
+    {
+      "kind": "out",
+      "slug": "the-blessing",
+      "title": "The Blessing"
+    },
+    {
+      "kind": "out",
+      "slug": "happy-unification-church-members",
+      "title": "Happy Unification Church Members"
+    },
+    {
+      "kind": "out",
+      "slug": "heavens-sorrowful-heart",
+      "title": "Heaven's Sorrowful Heart"
+    },
+    {
+      "kind": "out",
+      "slug": "the-standard-of-determination",
+      "title": "The Standard of Determination in the Course of Restoration"
+    },
+    {
+      "kind": "out",
+      "slug": "experience-the-sorrow-of-god",
+      "title": "Let Us Experience the Sorrow of God"
+    },
+    {
+      "kind": "in",
+      "slug": "world-of-gods-dominion",
+      "title": "Let Us Claim Back the World of God's Dominion and Offer It to Him"
+    },
+    {
+      "kind": "in",
+      "slug": "searching-for-the-one-day-of-love",
+      "title": "The Whole Universe is Searching for the One Day of Love"
+    }
+  ],
   "become-filial-sons-patriots-saints-and-divine-sons": [
     {
       "kind": "out",
@@ -2166,6 +2208,28 @@
       "kind": "out",
       "slug": "centered-on-love-heaven-and-earth-become-one",
       "title": "Centered on Love, Heaven and Earth Become One"
+    }
+  ],
+  "becoming-a-public-i": [
+    {
+      "kind": "out",
+      "slug": "human-life",
+      "title": "Human Life"
+    },
+    {
+      "kind": "out",
+      "slug": "experience-the-sorrow-of-god",
+      "title": "Let Us Experience the Sorrow of God"
+    },
+    {
+      "kind": "out",
+      "slug": "crossroads-of-life-and-death",
+      "title": "Crossroads Of Life and Death"
+    },
+    {
+      "kind": "out",
+      "slug": "the-deep-desire-of-our-original-nature",
+      "title": "The Deep Desire Of Our Original Nature"
     }
   ],
   "becoming-a-responsible-person": [
@@ -2814,13 +2878,13 @@
     },
     {
       "kind": "out",
-      "slug": "fathers-life-in-the-spiritual-world-and-our-lives-of-faith",
-      "title": "Father’s Life in the Spiritual World and Our Lives of Faith"
+      "slug": "the-history-of-restoration-is-so-complicated",
+      "title": "The history of restoration is so complicated"
     },
     {
       "kind": "out",
-      "slug": "the-history-of-restoration-is-so-complicated",
-      "title": "The history of restoration is so complicated"
+      "slug": "fathers-life-in-the-spiritual-world-and-our-lives-of-faith",
+      "title": "Father’s Life in the Spiritual World and Our Lives of Faith"
     },
     {
       "kind": "in",
@@ -3446,8 +3510,8 @@
     },
     {
       "kind": "out",
-      "slug": "the-day-of-victory-over-resentment",
-      "title": "The Day Of Victory Over Resentment"
+      "slug": "the-path-of-restoration",
+      "title": "The Path of Restoration"
     },
     {
       "kind": "in",
@@ -3631,6 +3695,11 @@
       "kind": "out",
       "slug": "god-is-the-owner-of-all-beings-and-historical-events",
       "title": "God is the Owner of All Beings and Historical Events"
+    },
+    {
+      "kind": "out",
+      "slug": "let-us-become-gods-representatives",
+      "title": "Let Us Become God’s Representatives"
     },
     {
       "kind": "out",
@@ -4101,13 +4170,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
     },
     {
       "kind": "out",
-      "slug": "let-us-return-to-gods-side",
-      "title": "Let Us Return To God's Side"
+      "slug": "jesus-christ-the-pride-of-god",
+      "title": "Jesus Christ, The Pride of God"
     },
     {
       "kind": "out",
@@ -4540,13 +4609,13 @@
     },
     {
       "kind": "in",
-      "slug": "jesus-is-the-hero-of-the-universal-revolution",
-      "title": "Jesus Is the Hero of the Universal Revolution"
+      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
+      "title": "The Heart of Jesus Who Must Restore All Tasks"
     },
     {
       "kind": "in",
-      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
-      "title": "The Heart of Jesus Who Must Restore All Tasks"
+      "slug": "jesus-is-the-hero-of-the-universal-revolution",
+      "title": "Jesus Is the Hero of the Universal Revolution"
     },
     {
       "kind": "in",
@@ -5967,13 +6036,13 @@
     },
     {
       "kind": "in",
-      "slug": "god-and-my-home",
-      "title": "God and My Home"
+      "slug": "the-deep-desire-of-our-original-nature",
+      "title": "The Deep Desire Of Our Original Nature"
     },
     {
       "kind": "in",
-      "slug": "the-deep-desire-of-our-original-nature",
-      "title": "The Deep Desire Of Our Original Nature"
+      "slug": "god-and-my-home",
+      "title": "God and My Home"
     },
     {
       "kind": "in",
@@ -6904,6 +6973,11 @@
     },
     {
       "kind": "in",
+      "slug": "the-standard-of-determination",
+      "title": "The Standard of Determination in the Course of Restoration"
+    },
+    {
+      "kind": "in",
       "slug": "our-tradition",
       "title": "Our Tradition"
     },
@@ -6916,11 +6990,6 @@
       "kind": "in",
       "slug": "the-day-of-victory-of-love",
       "title": "The Day Of Victory Of Love"
-    },
-    {
-      "kind": "in",
-      "slug": "god-is-the-origin-of-peace",
-      "title": "God Is the Origin of Peace"
     }
   ],
   "eternal-ideal-of-god": [
@@ -7198,6 +7267,11 @@
       "title": "Following The Cosmic True Love Way"
     },
     {
+      "kind": "out",
+      "slug": "let-us-become-gods-representatives",
+      "title": "Let Us Become God’s Representatives"
+    },
+    {
       "kind": "in",
       "slug": "god-and-humanity-should-live-together",
       "title": "God and Humanity Should Live Together"
@@ -7219,13 +7293,13 @@
     },
     {
       "kind": "in",
-      "slug": "jesus-whom-god-wanted-to-find",
-      "title": "Jesus, Whom God Wanted To Find"
+      "slug": "sorrow-and-tears",
+      "title": "Sorrow and Tears"
     },
     {
       "kind": "in",
-      "slug": "sorrow-and-tears",
-      "title": "Sorrow and Tears"
+      "slug": "jesus-whom-god-wanted-to-find",
+      "title": "Jesus, Whom God Wanted To Find"
     },
     {
       "kind": "in",
@@ -7256,13 +7330,13 @@
     },
     {
       "kind": "out",
-      "slug": "true-sons-and-daughters-who-have-loyalty",
-      "title": "True Sons and Daughters Who Have Loyalty During Times of Great Difficulty"
+      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
+      "title": "The Heart of Jesus Who Must Restore All Tasks"
     },
     {
       "kind": "out",
-      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
-      "title": "The Heart of Jesus Who Must Restore All Tasks"
+      "slug": "true-sons-and-daughters-who-have-loyalty",
+      "title": "True Sons and Daughters Who Have Loyalty During Times of Great Difficulty"
     },
     {
       "kind": "out",
@@ -8024,13 +8098,13 @@
     },
     {
       "kind": "in",
-      "slug": "god-is-our-king-and-true-parent",
-      "title": "God Is Our King And True Parent"
+      "slug": "experience-the-sorrow-of-god",
+      "title": "Let Us Experience the Sorrow of God"
     },
     {
       "kind": "in",
-      "slug": "experience-the-sorrow-of-god",
-      "title": "Let Us Experience the Sorrow of God"
+      "slug": "god-is-our-king-and-true-parent",
+      "title": "God Is Our King And True Parent"
     },
     {
       "kind": "in",
@@ -9142,13 +9216,13 @@
   "god-and-humanity-should-live-together": [
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
     },
     {
       "kind": "out",
-      "slug": "let-us-return-to-gods-side",
-      "title": "Let Us Return To God's Side"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
@@ -10086,6 +10160,11 @@
     },
     {
       "kind": "in",
+      "slug": "the-path-of-restoration",
+      "title": "The Path of Restoration"
+    },
+    {
+      "kind": "in",
       "slug": "harvest-of-goodness-heaven-desires",
       "title": "Let Us Be the Harvest of Goodness Heaven Desires"
     },
@@ -10098,11 +10177,6 @@
       "kind": "in",
       "slug": "analysis-of-the-present-time-and-the-blessing",
       "title": "Analysis of the Present Time and the Blessing"
-    },
-    {
-      "kind": "in",
-      "slug": "eternal-ideal-of-god",
-      "title": "Let Us Claim Back the Eternal Ideal of God"
     }
   ],
   "god-would-like-to-abolish-hell": [
@@ -10207,13 +10281,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
     },
     {
       "kind": "out",
-      "slug": "let-us-return-to-gods-side",
-      "title": "Let Us Return To God's Side"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
@@ -10261,13 +10335,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
     },
     {
       "kind": "out",
-      "slug": "let-us-return-to-gods-side",
-      "title": "Let Us Return To God's Side"
+      "slug": "jesus-christ-the-pride-of-god",
+      "title": "Jesus Christ, The Pride of God"
     },
     {
       "kind": "out",
@@ -11454,13 +11528,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "jesus-christ-the-pride-of-god",
+      "title": "Jesus Christ, The Pride of God"
     },
     {
       "kind": "out",
@@ -12609,23 +12683,23 @@
     },
     {
       "kind": "in",
-      "slug": "the-heart-of-heaven-in-relation-to-elijah",
-      "title": "The Heart of Heaven in Relation to Elijah"
-    },
-    {
-      "kind": "in",
       "slug": "experience-the-sorrow-of-god",
       "title": "Let Us Experience the Sorrow of God"
     },
     {
       "kind": "in",
-      "slug": "world-of-gods-dominion",
-      "title": "Let Us Claim Back the World of God's Dominion and Offer It to Him"
+      "slug": "the-heart-of-heaven-in-relation-to-elijah",
+      "title": "The Heart of Heaven in Relation to Elijah"
     },
     {
       "kind": "in",
       "slug": "sorrow-and-tears",
       "title": "Sorrow and Tears"
+    },
+    {
+      "kind": "in",
+      "slug": "world-of-gods-dominion",
+      "title": "Let Us Claim Back the World of God's Dominion and Offer It to Him"
     }
   ],
   "heavy-burden": [
@@ -12723,8 +12797,8 @@
     },
     {
       "kind": "out",
-      "slug": "the-heart-of-heaven-in-relation-to-elijah",
-      "title": "The Heart of Heaven in Relation to Elijah"
+      "slug": "experience-the-sorrow-of-god",
+      "title": "Let Us Experience the Sorrow of God"
     },
     {
       "kind": "in",
@@ -14594,8 +14668,8 @@
     },
     {
       "kind": "out",
-      "slug": "the-law-of-indemnity",
-      "title": "The Law Of Indemnity"
+      "slug": "eternal-happiness",
+      "title": "Eternal Happiness"
     },
     {
       "kind": "in",
@@ -15962,13 +16036,13 @@
     },
     {
       "kind": "out",
-      "slug": "my-life-of-faith",
-      "title": "My Life Of Faith"
+      "slug": "the-history-of-restoration-is-so-complicated",
+      "title": "The history of restoration is so complicated"
     },
     {
       "kind": "out",
-      "slug": "the-history-of-restoration-is-so-complicated",
-      "title": "The history of restoration is so complicated"
+      "slug": "my-life-of-faith",
+      "title": "My Life Of Faith"
     },
     {
       "kind": "out",
@@ -16797,6 +16871,28 @@
       "kind": "in",
       "slug": "true-member-of-jesus-family",
       "title": "Let Us Become a True Member of Jesus' Family"
+    }
+  ],
+  "jesus-who-was-to-be-pitied": [
+    {
+      "kind": "out",
+      "slug": "history-of-unification-church-part",
+      "title": "History Of Unification Church"
+    },
+    {
+      "kind": "out",
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
+    },
+    {
+      "kind": "out",
+      "slug": "eternal-happiness",
+      "title": "Eternal Happiness"
+    },
+    {
+      "kind": "out",
+      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
+      "title": "The Heart of Jesus Who Must Restore All Tasks"
     }
   ],
   "jesus-whom-god-wanted-to-find": [
@@ -17988,6 +18084,48 @@
       "title": "Toward 2013 and the God Constitution"
     }
   ],
+  "let-us-become-gods-representatives": [
+    {
+      "kind": "out",
+      "slug": "history-of-unification-church-part",
+      "title": "History Of Unification Church"
+    },
+    {
+      "kind": "out",
+      "slug": "the-blessing",
+      "title": "The Blessing"
+    },
+    {
+      "kind": "out",
+      "slug": "the-standard-of-determination",
+      "title": "The Standard of Determination in the Course of Restoration"
+    },
+    {
+      "kind": "in",
+      "slug": "change-of-blood-lineage-the-real-experience",
+      "title": "Change Of Blood Lineage; The Real Experience Of Salvation By The Messiah"
+    },
+    {
+      "kind": "in",
+      "slug": "experience-the-sorrow-of-god",
+      "title": "Let Us Experience the Sorrow of God"
+    },
+    {
+      "kind": "in",
+      "slug": "rise-to-a-position-of-perfection",
+      "title": "Rise to a position of perfection"
+    },
+    {
+      "kind": "in",
+      "slug": "the-place-where-you-meet-god",
+      "title": "The Place Where You Meet God"
+    },
+    {
+      "kind": "in",
+      "slug": "total-indemnity",
+      "title": "Total Indemnity"
+    }
+  ],
   "let-us-become-people-who-pay-back-our-debts": [
     {
       "kind": "out",
@@ -18154,13 +18292,13 @@
     },
     {
       "kind": "out",
-      "slug": "resurrection",
-      "title": "Resurrection"
+      "slug": "sorrow-and-tears",
+      "title": "Sorrow and Tears"
     },
     {
       "kind": "out",
-      "slug": "sorrow-and-tears",
-      "title": "Sorrow and Tears"
+      "slug": "resurrection",
+      "title": "Resurrection"
     },
     {
       "kind": "out",
@@ -21149,13 +21287,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-age-of-new-dispensation",
-      "title": "The Age of New Dispensation"
+      "slug": "experience-the-sorrow-of-god",
+      "title": "Let Us Experience the Sorrow of God"
     },
     {
       "kind": "out",
-      "slug": "experience-the-sorrow-of-god",
-      "title": "Let Us Experience the Sorrow of God"
+      "slug": "the-age-of-new-dispensation",
+      "title": "The Age of New Dispensation"
     },
     {
       "kind": "out",
@@ -23627,13 +23765,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
     },
     {
       "kind": "out",
-      "slug": "let-us-return-to-gods-side",
-      "title": "Let Us Return To God's Side"
+      "slug": "jesus-christ-the-pride-of-god",
+      "title": "Jesus Christ, The Pride of God"
     },
     {
       "kind": "out",
@@ -24067,13 +24205,13 @@
     },
     {
       "kind": "in",
-      "slug": "human-relationships",
-      "title": "Human Relationships"
+      "slug": "the-way-to-true-happiness",
+      "title": "The Way To True Happiness"
     },
     {
       "kind": "in",
-      "slug": "the-way-to-true-happiness",
-      "title": "The Way To True Happiness"
+      "slug": "human-relationships",
+      "title": "Human Relationships"
     },
     {
       "kind": "in",
@@ -24520,13 +24658,13 @@
     },
     {
       "kind": "out",
-      "slug": "relationship-between-men-and-women",
-      "title": "Relationship Between Men And Women"
+      "slug": "the-central-figure-and-the-transitional-period",
+      "title": "The Central Figure And The Transitional Period"
     },
     {
       "kind": "out",
-      "slug": "the-central-figure-and-the-transitional-period",
-      "title": "The Central Figure And The Transitional Period"
+      "slug": "relationship-between-men-and-women",
+      "title": "Relationship Between Men And Women"
     },
     {
       "kind": "out",
@@ -24701,13 +24839,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-sorrowful-heart-of-jesus",
-      "title": "The Sorrowful Heart of Jesus as He Went to the Mountain"
+      "slug": "the-standard-of-determination",
+      "title": "The Standard of Determination in the Course of Restoration"
     },
     {
       "kind": "in",
-      "slug": "the-standard-of-determination",
-      "title": "The Standard of Determination in the Course of Restoration"
+      "slug": "the-sorrowful-heart-of-jesus",
+      "title": "The Sorrowful Heart of Jesus as He Went to the Mountain"
     },
     {
       "kind": "in",
@@ -25208,6 +25346,11 @@
     },
     {
       "kind": "in",
+      "slug": "crossroads-of-life-and-death",
+      "title": "Crossroads Of Life and Death"
+    },
+    {
+      "kind": "in",
       "slug": "glory-of-the-resurrection-to-god",
       "title": "Like Jesus, Let Us Return the Glory of the Resurrection to God"
     },
@@ -25220,11 +25363,6 @@
       "kind": "in",
       "slug": "the-realm-of-resurrection",
       "title": "The Realm of Resurrection"
-    },
-    {
-      "kind": "in",
-      "slug": "crossroads-of-life-and-death",
-      "title": "Crossroads Of Life and Death"
     }
   ],
   "our-fatherland": [
@@ -26166,6 +26304,38 @@
       "kind": "in",
       "slug": "god-who-wanted-to-be-proud",
       "title": "Let Us Understand God, Who Wanted to be Proud"
+    }
+  ],
+  "our-resolve": [
+    {
+      "kind": "out",
+      "slug": "how-god-exists",
+      "title": "How God Exists"
+    },
+    {
+      "kind": "out",
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
+    },
+    {
+      "kind": "out",
+      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
+      "title": "The Heart of Jesus Who Must Restore All Tasks"
+    },
+    {
+      "kind": "out",
+      "slug": "sorrow-and-tears",
+      "title": "Sorrow and Tears"
+    },
+    {
+      "kind": "out",
+      "slug": "fight-on-using-your-conscience-as-your-teacher",
+      "title": "Fight On Using Your Conscience As Your Teacher"
+    },
+    {
+      "kind": "in",
+      "slug": "visualizing-the-kingdom-of-god",
+      "title": "Visualizing the Kingdom of God"
     }
   ],
   "our-responsibilities": [
@@ -28239,13 +28409,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "jesus-christ-the-pride-of-god",
+      "title": "Jesus Christ, The Pride of God"
     },
     {
       "kind": "out",
@@ -29542,6 +29712,11 @@
     },
     {
       "kind": "out",
+      "slug": "the-path-of-restoration",
+      "title": "The Path of Restoration"
+    },
+    {
+      "kind": "out",
       "slug": "the-restoration-of-heart",
       "title": "The Restoration Of Heart"
     },
@@ -30070,8 +30245,8 @@
     },
     {
       "kind": "out",
-      "slug": "why-we-go-tuna-fishing",
-      "title": "Why We Go Tuna Fishing"
+      "slug": "sorrow-and-tears",
+      "title": "Sorrow and Tears"
     }
   ],
   "rev-sun-myung-moons-teachings-on-meditation": [
@@ -30096,6 +30271,11 @@
       "kind": "out",
       "slug": "the-history-of-restoration-is-so-complicated",
       "title": "The history of restoration is so complicated"
+    },
+    {
+      "kind": "out",
+      "slug": "let-us-become-gods-representatives",
+      "title": "Let Us Become God’s Representatives"
     },
     {
       "kind": "out",
@@ -30398,8 +30578,8 @@
     },
     {
       "kind": "out",
-      "slug": "eyes-once-more-and-behold-the-sky",
-      "title": "Let Us Open Our Eyes Once More and Behold the Sky"
+      "slug": "become-a-victorious-lord-of-dominion",
+      "title": "Become a Victorious Lord of Dominion"
     },
     {
       "kind": "in",
@@ -30870,13 +31050,13 @@
     },
     {
       "kind": "in",
-      "slug": "heavens-side-and-satans-side",
-      "title": "Heaven's Side And Satan's Side"
+      "slug": "true-family",
+      "title": "True Family"
     },
     {
       "kind": "in",
-      "slug": "true-family",
-      "title": "True Family"
+      "slug": "heavens-side-and-satans-side",
+      "title": "Heaven's Side And Satan's Side"
     },
     {
       "kind": "in",
@@ -33069,13 +33249,13 @@
     },
     {
       "kind": "out",
-      "slug": "christianity-in-crisis",
-      "title": "Christianity in Crisis"
+      "slug": "sorrow-and-tears",
+      "title": "Sorrow and Tears"
     },
     {
       "kind": "out",
-      "slug": "sorrow-and-tears",
-      "title": "Sorrow and Tears"
+      "slug": "christianity-in-crisis",
+      "title": "Christianity in Crisis"
     },
     {
       "kind": "in",
@@ -33794,13 +33974,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
     },
     {
       "kind": "out",
-      "slug": "let-us-return-to-gods-side",
-      "title": "Let Us Return To God's Side"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "in",
@@ -34524,13 +34704,13 @@
     },
     {
       "kind": "in",
-      "slug": "restoration-and-blessing",
-      "title": "Restoration And Blessing"
+      "slug": "sorrow-and-tears",
+      "title": "Sorrow and Tears"
     },
     {
       "kind": "in",
-      "slug": "sorrow-and-tears",
-      "title": "Sorrow and Tears"
+      "slug": "restoration-and-blessing",
+      "title": "Restoration And Blessing"
     },
     {
       "kind": "in",
@@ -34801,23 +34981,23 @@
     },
     {
       "kind": "out",
-      "slug": "the-law-of-indemnity",
-      "title": "The Law Of Indemnity"
-    },
-    {
-      "kind": "out",
       "slug": "eternal-happiness",
       "title": "Eternal Happiness"
     },
     {
       "kind": "out",
-      "slug": "relationship-between-men-and-women",
-      "title": "Relationship Between Men And Women"
+      "slug": "the-law-of-indemnity",
+      "title": "The Law Of Indemnity"
     },
     {
       "kind": "out",
       "slug": "the-central-figure-and-the-transitional-period",
       "title": "The Central Figure And The Transitional Period"
+    },
+    {
+      "kind": "out",
+      "slug": "relationship-between-men-and-women",
+      "title": "Relationship Between Men And Women"
     },
     {
       "kind": "out",
@@ -35026,6 +35206,11 @@
       "kind": "in",
       "slug": "total-completion-of-the-ideal",
       "title": "Total Completion Of The Ideal"
+    },
+    {
+      "kind": "in",
+      "slug": "becoming-a-public-i",
+      "title": "Becoming a Public \"I\""
     }
   ],
   "the-desire-of-all-things": [
@@ -35232,8 +35417,8 @@
     },
     {
       "kind": "out",
-      "slug": "absolute-love-cannot-be-created",
-      "title": "Absolute love cannot be created"
+      "slug": "experience-the-sorrow-of-god",
+      "title": "Let Us Experience the Sorrow of God"
     },
     {
       "kind": "in",
@@ -35975,13 +36160,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-realm-of-resurrection",
-      "title": "The Realm of Resurrection"
+      "slug": "crossroads-of-life-and-death",
+      "title": "Crossroads Of Life and Death"
     },
     {
       "kind": "out",
-      "slug": "crossroads-of-life-and-death",
-      "title": "Crossroads Of Life and Death"
+      "slug": "the-realm-of-resurrection",
+      "title": "The Realm of Resurrection"
     },
     {
       "kind": "in",
@@ -36203,6 +36388,11 @@
       "kind": "out",
       "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
       "title": "The Heart of Jesus Who Must Restore All Tasks"
+    },
+    {
+      "kind": "out",
+      "slug": "the-path-of-restoration",
+      "title": "The Path of Restoration"
     },
     {
       "kind": "in",
@@ -39421,13 +39611,13 @@
     },
     {
       "kind": "out",
-      "slug": "human-relationships",
-      "title": "Human Relationships"
+      "slug": "the-way-to-true-happiness",
+      "title": "The Way To True Happiness"
     },
     {
       "kind": "out",
-      "slug": "the-way-to-true-happiness",
-      "title": "The Way To True Happiness"
+      "slug": "human-relationships",
+      "title": "Human Relationships"
     },
     {
       "kind": "out",
@@ -40710,6 +40900,11 @@
     },
     {
       "kind": "out",
+      "slug": "the-path-of-restoration",
+      "title": "The Path of Restoration"
+    },
+    {
+      "kind": "out",
       "slug": "the-people-chosen-for-the-restoration",
       "title": "The People Chosen for the Restoration of the Kingdom of Heaven"
     },
@@ -40799,6 +40994,73 @@
       "kind": "in",
       "slug": "eyes-once-more-and-behold-the-sky",
       "title": "Let Us Open Our Eyes Once More and Behold the Sky"
+    }
+  ],
+  "the-path-of-restoration": [
+    {
+      "kind": "out",
+      "slug": "how-god-exists",
+      "title": "How God Exists"
+    },
+    {
+      "kind": "out",
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
+    },
+    {
+      "kind": "out",
+      "slug": "the-central-figure-and-the-transitional-period",
+      "title": "The Central Figure And The Transitional Period"
+    },
+    {
+      "kind": "out",
+      "slug": "the-history-of-restoration-is-so-complicated",
+      "title": "The history of restoration is so complicated"
+    },
+    {
+      "kind": "out",
+      "slug": "god-wishes-to-bond-with-you-as-father-and-child",
+      "title": "God Wishes to Bond with You as Father and Child"
+    },
+    {
+      "kind": "out",
+      "slug": "experience-the-sorrow-of-god",
+      "title": "Let Us Experience the Sorrow of God"
+    },
+    {
+      "kind": "out",
+      "slug": "who-is-the-owner",
+      "title": "Who is the owner?"
+    },
+    {
+      "kind": "in",
+      "slug": "restoration-of-true-sonship",
+      "title": "Restoration Of True Sonship"
+    },
+    {
+      "kind": "in",
+      "slug": "the-path-of-abel",
+      "title": "The Path Of Abel"
+    },
+    {
+      "kind": "in",
+      "slug": "the-true-path-of-restoration",
+      "title": "The True Path Of Restoration"
+    },
+    {
+      "kind": "in",
+      "slug": "ceremony-for-the-total-dissolution-of-resentment",
+      "title": "Ceremony for the Total Dissolution of Resentment"
+    },
+    {
+      "kind": "in",
+      "slug": "the-path-of-indemnity-that-we-must-go",
+      "title": "The Path Of Indemnity That We Must Go"
+    },
+    {
+      "kind": "in",
+      "slug": "the-final-path-to-golgotha-that-we-must-go",
+      "title": "The Final Path To Golgotha That We Must Go"
     }
   ],
   "the-path-of-resurrection-that-everyone-must-walk": [
@@ -41313,13 +41575,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
     },
     {
       "kind": "out",
-      "slug": "let-us-return-to-gods-side",
-      "title": "Let Us Return To God's Side"
+      "slug": "jesus-christ-the-pride-of-god",
+      "title": "Jesus Christ, The Pride of God"
     },
     {
       "kind": "out",
@@ -41452,13 +41714,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-price-of-the-dispensation",
-      "title": "The Price Of The Dispensation"
+      "slug": "heavens-sorrowful-heart",
+      "title": "Heaven's Sorrowful Heart"
     },
     {
       "kind": "out",
-      "slug": "heavens-sorrowful-heart",
-      "title": "Heaven's Sorrowful Heart"
+      "slug": "the-price-of-the-dispensation",
+      "title": "The Price Of The Dispensation"
     },
     {
       "kind": "in",
@@ -41496,6 +41758,43 @@
       "title": "The Children's Day We Have Been Longing For"
     }
   ],
+  "the-place-we-truly-wish-to-go": [
+    {
+      "kind": "out",
+      "slug": "let-us-know-the-heart-of-god",
+      "title": "Let Us Know The Heart Of God"
+    },
+    {
+      "kind": "out",
+      "slug": "how-god-exists",
+      "title": "How God Exists"
+    },
+    {
+      "kind": "out",
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
+    },
+    {
+      "kind": "out",
+      "slug": "the-ideal-world",
+      "title": "The Ideal World"
+    },
+    {
+      "kind": "out",
+      "slug": "the-way-to-true-happiness",
+      "title": "The Way To True Happiness"
+    },
+    {
+      "kind": "out",
+      "slug": "true-family",
+      "title": "True Family"
+    },
+    {
+      "kind": "out",
+      "slug": "sorrow-and-tears",
+      "title": "Sorrow and Tears"
+    }
+  ],
   "the-place-where-you-meet-god": [
     {
       "kind": "out",
@@ -41506,6 +41805,11 @@
       "kind": "out",
       "slug": "where-god-and-man-meet",
       "title": "Where God And Man Meet"
+    },
+    {
+      "kind": "out",
+      "slug": "let-us-become-gods-representatives",
+      "title": "Let Us Become God’s Representatives"
     },
     {
       "kind": "in",
@@ -41724,13 +42028,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-conference-for-the-unity-of-science",
-      "title": "The Conference for the Unity of Science"
+      "slug": "the-standard-of-determination",
+      "title": "The Standard of Determination in the Course of Restoration"
     },
     {
       "kind": "out",
-      "slug": "the-standard-of-determination",
-      "title": "The Standard of Determination in the Course of Restoration"
+      "slug": "the-conference-for-the-unity-of-science",
+      "title": "The Conference for the Unity of Science"
     },
     {
       "kind": "in",
@@ -41756,13 +42060,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
     },
     {
       "kind": "out",
-      "slug": "let-us-return-to-gods-side",
-      "title": "Let Us Return To God's Side"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
@@ -42777,13 +43081,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-will-of-god-and-individual-perfection",
-      "title": "The Will of God and Individual Perfection"
+      "slug": "sorrow-and-tears",
+      "title": "Sorrow and Tears"
     },
     {
       "kind": "in",
-      "slug": "to-the-crusade",
-      "title": "To the Crusade"
+      "slug": "the-will-of-god-and-individual-perfection",
+      "title": "The Will of God and Individual Perfection"
     }
   ],
   "the-rally-of-hope-comemmorating": [
@@ -44424,6 +44728,11 @@
   "the-standard-of-determination": [
     {
       "kind": "out",
+      "slug": "eternal-happiness",
+      "title": "Eternal Happiness"
+    },
+    {
+      "kind": "out",
       "slug": "our-ancestors-are-looking-upon-us",
       "title": "Our Ancestors Are Looking Upon Us"
     },
@@ -45375,13 +45684,13 @@
     },
     {
       "kind": "in",
-      "slug": "human-relationships",
-      "title": "Human Relationships"
+      "slug": "the-way-to-true-happiness",
+      "title": "The Way To True Happiness"
     },
     {
       "kind": "in",
-      "slug": "the-way-to-true-happiness",
-      "title": "The Way To True Happiness"
+      "slug": "human-relationships",
+      "title": "Human Relationships"
     },
     {
       "kind": "in",
@@ -45447,13 +45756,13 @@
     },
     {
       "kind": "in",
-      "slug": "jesus-is-the-hero-of-the-universal-revolution",
-      "title": "Jesus Is the Hero of the Universal Revolution"
+      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
+      "title": "The Heart of Jesus Who Must Restore All Tasks"
     },
     {
       "kind": "in",
-      "slug": "the-heart-of-jesus-who-must-restore-all-tasks",
-      "title": "The Heart of Jesus Who Must Restore All Tasks"
+      "slug": "jesus-is-the-hero-of-the-universal-revolution",
+      "title": "Jesus Is the Hero of the Universal Revolution"
     },
     {
       "kind": "in",
@@ -46244,13 +46553,13 @@
     },
     {
       "kind": "out",
-      "slug": "my-life-of-faith",
-      "title": "My Life Of Faith"
+      "slug": "the-history-of-restoration-is-so-complicated",
+      "title": "The history of restoration is so complicated"
     },
     {
       "kind": "out",
-      "slug": "the-history-of-restoration-is-so-complicated",
-      "title": "The history of restoration is so complicated"
+      "slug": "my-life-of-faith",
+      "title": "My Life Of Faith"
     },
     {
       "kind": "out",
@@ -46743,13 +47052,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-center-of-responsibility-and-indemnity",
-      "title": "The Center Of Responsibility And Indemnity"
+      "slug": "the-deep-desire-of-our-original-nature",
+      "title": "The Deep Desire Of Our Original Nature"
     },
     {
       "kind": "in",
-      "slug": "the-deep-desire-of-our-original-nature",
-      "title": "The Deep Desire Of Our Original Nature"
+      "slug": "the-center-of-responsibility-and-indemnity",
+      "title": "The Center Of Responsibility And Indemnity"
     },
     {
       "kind": "in",
@@ -47550,13 +47859,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-course-of-life-and-restoration-by-indemnification",
-      "title": "The Course of Life and Restoration By Indemnification"
+      "slug": "fight-on-using-your-conscience-as-your-teacher",
+      "title": "Fight On Using Your Conscience As Your Teacher"
     },
     {
       "kind": "out",
-      "slug": "fight-on-using-your-conscience-as-your-teacher",
-      "title": "Fight On Using Your Conscience As Your Teacher"
+      "slug": "the-course-of-life-and-restoration-by-indemnification",
+      "title": "The Course of Life and Restoration By Indemnification"
     },
     {
       "kind": "out",
@@ -48999,13 +49308,13 @@
     },
     {
       "kind": "out",
-      "slug": "let-us-be-the-people-who-attend-god",
-      "title": "Let Us Be the People Who Attend God"
+      "slug": "who-is-the-owner",
+      "title": "Who is the owner?"
     },
     {
       "kind": "out",
-      "slug": "who-is-the-owner",
-      "title": "Who is the owner?"
+      "slug": "let-us-be-the-people-who-attend-god",
+      "title": "Let Us Be the People Who Attend God"
     },
     {
       "kind": "in",
@@ -49958,13 +50267,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
     },
     {
       "kind": "out",
-      "slug": "let-us-return-to-gods-side",
-      "title": "Let Us Return To God's Side"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
@@ -50148,13 +50457,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
     },
     {
       "kind": "out",
-      "slug": "let-us-return-to-gods-side",
-      "title": "Let Us Return To God's Side"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
@@ -51451,13 +51760,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "jesus-christ-the-pride-of-god",
+      "title": "Jesus Christ, The Pride of God"
     },
     {
       "kind": "in",
@@ -52996,8 +53305,8 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
     },
     {
       "kind": "out",
@@ -53006,8 +53315,8 @@
     },
     {
       "kind": "out",
-      "slug": "let-us-return-to-gods-side",
-      "title": "Let Us Return To God's Side"
+      "slug": "jesus-christ-the-pride-of-god",
+      "title": "Jesus Christ, The Pride of God"
     },
     {
       "kind": "out",
@@ -54692,13 +55001,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-tradition-of-the-unification-church",
-      "title": "The Tradition of the Unification Church"
+      "slug": "sorrow-and-tears",
+      "title": "Sorrow and Tears"
     },
     {
       "kind": "in",
-      "slug": "sorrow-and-tears",
-      "title": "Sorrow and Tears"
+      "slug": "the-tradition-of-the-unification-church",
+      "title": "The Tradition of the Unification Church"
     },
     {
       "kind": "in",
@@ -55068,13 +55377,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "let-us-return-to-gods-side",
+      "title": "Let Us Return To God's Side"
     },
     {
       "kind": "out",
-      "slug": "let-us-return-to-gods-side",
-      "title": "Let Us Return To God's Side"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
@@ -55464,6 +55773,11 @@
     },
     {
       "kind": "in",
+      "slug": "the-path-of-restoration",
+      "title": "The Path of Restoration"
+    },
+    {
+      "kind": "in",
       "slug": "toward-2013-and-the-god-constitution",
       "title": "Toward 2013 and the God Constitution"
     }
@@ -55523,13 +55837,13 @@
     },
     {
       "kind": "out",
-      "slug": "human-relationships",
-      "title": "Human Relationships"
+      "slug": "the-way-to-true-happiness",
+      "title": "The Way To True Happiness"
     },
     {
       "kind": "out",
-      "slug": "the-way-to-true-happiness",
-      "title": "The Way To True Happiness"
+      "slug": "human-relationships",
+      "title": "Human Relationships"
     },
     {
       "kind": "out",
