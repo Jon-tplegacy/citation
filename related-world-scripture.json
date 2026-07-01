@@ -3445,13 +3445,13 @@
     },
     {
       "kind": "out",
-      "slug": "self-control",
-      "title": "Self-Control"
+      "slug": "universal-salvation",
+      "title": "Universal Salvation"
     },
     {
       "kind": "out",
-      "slug": "universal-salvation",
-      "title": "Universal Salvation"
+      "slug": "self-control",
+      "title": "Self-Control"
     },
     {
       "kind": "in",
@@ -7739,13 +7739,13 @@
     },
     {
       "kind": "out",
-      "slug": "self-control",
-      "title": "Self-Control"
+      "slug": "good-and-evil",
+      "title": "Good and Evil"
     },
     {
       "kind": "out",
-      "slug": "good-and-evil",
-      "title": "Good and Evil"
+      "slug": "self-control",
+      "title": "Self-Control"
     },
     {
       "kind": "out",
@@ -11425,13 +11425,13 @@
     },
     {
       "kind": "out",
-      "slug": "self-control",
-      "title": "Self-Control"
+      "slug": "reconciliation-and-peacemaking",
+      "title": "Reconciliation and Peacemaking"
     },
     {
       "kind": "out",
-      "slug": "reconciliation-and-peacemaking",
-      "title": "Reconciliation and Peacemaking"
+      "slug": "assurance",
+      "title": "Assurance"
     },
     {
       "kind": "in",
