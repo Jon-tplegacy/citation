@@ -170,6 +170,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
+      {
         "slug": "d-day",
         "title": "D-Day"
       },
@@ -250,6 +254,36 @@
       {
         "slug": "twelve-stages",
         "title": "Twelve Stages"
+      }
+    ],
+    "verbatim": []
+  },
+  "absolute-self-denial": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
+        "slug": "indemnity",
+        "title": "Indemnity"
+      },
+      {
+        "slug": "self-control-term",
+        "title": "Self-control"
+      },
+      {
+        "slug": "true-person",
+        "title": "True Person"
+      },
+      {
+        "slug": "zero-point",
+        "title": "Zero Point"
       }
     ],
     "verbatim": []
@@ -880,6 +914,10 @@
         "title": "Cosmos"
       },
       {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
         "slug": "era-of-registration",
         "title": "Era of Registration"
       },
@@ -1030,6 +1068,10 @@
       {
         "slug": "true-love-term",
         "title": "True Love"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
       },
       {
         "slug": "unification-movement",
@@ -1315,8 +1357,16 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
         "slug": "self-awareness",
         "title": "Self-Awareness"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
       }
     ],
     "verbatim": []
@@ -1343,6 +1393,10 @@
       {
         "slug": "doctrine-and-dogma",
         "title": "Doctrine and Dogma"
+      },
+      {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
       },
       {
         "slug": "fallen-nature",
@@ -1689,6 +1743,10 @@
         "title": "Death"
       },
       {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
         "slug": "han",
         "title": "Han"
       },
@@ -1719,6 +1777,10 @@
       {
         "slug": "third-adam-fourth-adam",
         "title": "Third Adam, Fourth Adam"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
       }
     ],
     "verbatim": []
@@ -1794,6 +1856,14 @@
       {
         "slug": "dispensational-time-identity",
         "title": "Dispensational Time-Identity"
+      },
+      {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
       },
       {
         "slug": "eschatology-term",
@@ -1952,6 +2022,10 @@
         "title": "Twelve Stages"
       },
       {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
+      },
+      {
         "slug": "wonggu",
         "title": "Wonggu"
       },
@@ -2073,6 +2147,10 @@
       {
         "slug": "doctrine-and-dogma",
         "title": "Doctrine and Dogma"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
       },
       {
         "slug": "evil",
@@ -2235,8 +2313,16 @@
         "title": "Trinity"
       },
       {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
         "slug": "unification-movement",
         "title": "Unification Movement"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       }
     ],
     "verbatim": []
@@ -2302,6 +2388,10 @@
       {
         "slug": "d-day",
         "title": "D-Day"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
       },
       {
         "slug": "eschatology-term",
@@ -2520,6 +2610,10 @@
         "title": "Trinity"
       },
       {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
         "slug": "true-person",
         "title": "True Person"
       },
@@ -2560,6 +2654,14 @@
       {
         "slug": "doctrine-and-dogma",
         "title": "Doctrine and Dogma"
+      },
+      {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
       },
       {
         "slug": "fallen-nature",
@@ -2622,8 +2724,16 @@
         "title": "Three Great Subject Partners Principle"
       },
       {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
         "slug": "true-person",
         "title": "True Person"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       }
     ],
     "verbatim": []
@@ -2632,12 +2742,24 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
+      {
         "slug": "habituality",
         "title": "Habituality"
       },
       {
+        "slug": "self-control-term",
+        "title": "Self-control"
+      },
+      {
         "slug": "self-dominion",
         "title": "Self-dominion"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
       }
     ],
     "verbatim": []
@@ -2703,6 +2825,10 @@
       {
         "slug": "self-awareness",
         "title": "Self-Awareness"
+      },
+      {
+        "slug": "self-control-term",
+        "title": "Self-control"
       },
       {
         "slug": "self-dominion",
@@ -2897,6 +3023,10 @@
     ],
     "mentioned": [
       {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
         "slug": "eternal-life-term",
         "title": "Eternal Life"
       },
@@ -3049,6 +3179,10 @@
     ],
     "mentioned": [
       {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
+      {
         "slug": "absolute-sexual-ethics",
         "title": "Absolute Sexual Ethics"
       },
@@ -3063,6 +3197,14 @@
       {
         "slug": "death",
         "title": "Death"
+      },
+      {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
       },
       {
         "slug": "habituality",
@@ -3097,6 +3239,10 @@
         "title": "Self-Awareness"
       },
       {
+        "slug": "self-control-term",
+        "title": "Self-control"
+      },
+      {
         "slug": "self-dominion",
         "title": "Self-dominion"
       },
@@ -3107,6 +3253,10 @@
       {
         "slug": "the-last-days",
         "title": "The Last Days"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       },
       {
         "slug": "wonggu",
@@ -3128,6 +3278,52 @@
         "title": "Headwing Philosophy"
       }
     ]
+  },
+  "engrafting": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "conscience",
+        "title": "Conscience"
+      },
+      {
+        "slug": "eternal-life-term",
+        "title": "Eternal Life"
+      },
+      {
+        "slug": "perfection-term",
+        "title": "Perfection"
+      },
+      {
+        "slug": "rebirth",
+        "title": "Rebirth"
+      },
+      {
+        "slug": "restoration-through-indemnity-term",
+        "title": "Restoration Through Indemnity"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      },
+      {
+        "slug": "spirit-self",
+        "title": "Spirit Self"
+      },
+      {
+        "slug": "the-four-position-foundation",
+        "title": "The Four-Position Foundation"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
+        "slug": "true-parents-term",
+        "title": "True Parents"
+      }
+    ],
+    "verbatim": []
   },
   "enlightenment": {
     "further_reading": [],
@@ -3254,6 +3450,10 @@
         "title": "Origin-Division-Union"
       },
       {
+        "slug": "self-control-term",
+        "title": "Self-control"
+      },
+      {
         "slug": "the-beginning-and-end-are-the-same",
         "title": "The Beginning and End Are the Same"
       }
@@ -3338,6 +3538,10 @@
   "faith-term": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
       {
         "slug": "il-shim-il-che-il-nyeom",
         "title": "Il-shim · Il-che · Il-nyeom"
@@ -3629,6 +3833,10 @@
       {
         "slug": "three-great-kingships",
         "title": "Three Great Kingships"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       }
     ],
     "verbatim": []
@@ -3870,6 +4078,10 @@
     ],
     "mentioned": [
       {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
+      {
         "slug": "cheonjin-bumo",
         "title": "Cheonjin Bumo"
       },
@@ -3926,6 +4138,10 @@
         "title": "Self-Awareness"
       },
       {
+        "slug": "self-control-term",
+        "title": "Self-control"
+      },
+      {
         "slug": "self-dominion",
         "title": "Self-dominion"
       },
@@ -3940,6 +4156,10 @@
       {
         "slug": "the-individual-embodiment-of-truth",
         "title": "The Individual Embodiment of Truth"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       },
       {
         "slug": "wonggu",
@@ -4431,6 +4651,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
         "slug": "self-awareness",
         "title": "Self-Awareness"
       }
@@ -4478,6 +4702,10 @@
       {
         "slug": "the-last-days",
         "title": "The Last Days"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       }
     ],
     "verbatim": []
@@ -4569,6 +4797,10 @@
       {
         "slug": "the-beginning-and-end-are-the-same",
         "title": "The Beginning and End Are the Same"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       }
     ],
     "verbatim": []
@@ -4795,6 +5027,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
+      },
+      {
         "slug": "zero-point",
         "title": "Zero Point"
       }
@@ -4893,6 +5129,10 @@
       {
         "slug": "conscience",
         "title": "Conscience"
+      },
+      {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
       },
       {
         "slug": "eschatology-term",
@@ -5784,6 +6024,10 @@
     ],
     "mentioned": [
       {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
+      {
         "slug": "ancestors",
         "title": "Ancestors"
       },
@@ -5802,6 +6046,10 @@
       {
         "slug": "death",
         "title": "Death"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
       },
       {
         "slug": "five-stages-of-the-blessing",
@@ -6056,6 +6304,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
+      {
         "slug": "absolute-sexual-ethics",
         "title": "Absolute Sexual Ethics"
       },
@@ -6074,6 +6326,10 @@
       {
         "slug": "doctrine-and-dogma",
         "title": "Doctrine and Dogma"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
       },
       {
         "slug": "era-of-registration",
@@ -6156,8 +6412,16 @@
         "title": "Trinity"
       },
       {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
         "slug": "unification-movement",
         "title": "Unification Movement"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       }
     ],
     "verbatim": []
@@ -6230,6 +6494,10 @@
       {
         "slug": "salvation-history",
         "title": "Salvation History"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
       }
     ],
     "verbatim": []
@@ -6367,6 +6635,10 @@
         "title": "Satan / Lucifer"
       },
       {
+        "slug": "self-control-term",
+        "title": "Self-control"
+      },
+      {
         "slug": "self-dominion",
         "title": "Self-dominion"
       },
@@ -6397,6 +6669,10 @@
         "title": "Abraham"
       },
       {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
+      {
         "slug": "bible",
         "title": "Bible"
       },
@@ -6415,6 +6691,10 @@
       {
         "slug": "d-day",
         "title": "D-Day"
+      },
+      {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
       },
       {
         "slug": "eschatology-term",
@@ -6563,6 +6843,10 @@
       {
         "slug": "three-great-crosses",
         "title": "Three Great Crosses"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
       },
       {
         "slug": "truth",
@@ -6714,6 +6998,10 @@
         "title": "Death"
       },
       {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
         "slug": "evil",
         "title": "Evil"
       },
@@ -6774,8 +7062,16 @@
         "title": "Trinity"
       },
       {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
         "slug": "unification-movement",
         "title": "Unification Movement"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       }
     ],
     "verbatim": []
@@ -6819,6 +7115,10 @@
       {
         "slug": "d-day",
         "title": "D-Day"
+      },
+      {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
       },
       {
         "slug": "era-of-registration",
@@ -6965,6 +7265,26 @@
     ],
     "verbatim": []
   },
+  "lets-leave-a-true-lineage": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      }
+    ],
+    "verbatim": []
+  },
+  "liberation-and-my-ownership": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      }
+    ],
+    "verbatim": []
+  },
   "liberation-and-victory-through-the-completion-of-restoration-through-indemnity": {
     "further_reading": [
       {
@@ -7046,6 +7366,10 @@
     ],
     "mentioned": [
       {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
+      {
         "slug": "ancestors",
         "title": "Ancestors"
       },
@@ -7056,6 +7380,14 @@
       {
         "slug": "d-day",
         "title": "D-Day"
+      },
+      {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
       },
       {
         "slug": "era-of-registration",
@@ -7104,6 +7436,14 @@
       {
         "slug": "the-new-testament-age",
         "title": "The New Testament Age"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       }
     ],
     "verbatim": []
@@ -7121,6 +7461,10 @@
   "living-for-the-sake-of-others": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
       {
         "slug": "blessed-family-term",
         "title": "Blessed Family"
@@ -7156,6 +7500,10 @@
       {
         "slug": "heavenly-fortune",
         "title": "Heavenly Fortune"
+      },
+      {
+        "slug": "indemnity",
+        "title": "Indemnity"
       },
       {
         "slug": "self-awareness",
@@ -7344,6 +7692,14 @@
         "title": "Cheonjin Bumo"
       },
       {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
         "slug": "eschatology-term",
         "title": "Eschatology"
       },
@@ -7438,6 +7794,14 @@
       {
         "slug": "the-second-advent",
         "title": "The Second Advent"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       }
     ],
     "verbatim": []
@@ -7634,6 +7998,10 @@
         "title": "Three Great Subject Partners Principle"
       },
       {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
         "slug": "true-person",
         "title": "True Person"
       }
@@ -7824,6 +8192,10 @@
         "title": "Consciousness"
       },
       {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
         "slug": "three-great-kingships",
         "title": "Three Great Kingships"
       }
@@ -7844,8 +8216,22 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
         "slug": "true-parents-term",
         "title": "True Parents"
+      }
+    ],
+    "verbatim": []
+  },
+  "opening-the-age-of-cheon-il-guk": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
       }
     ],
     "verbatim": []
@@ -8017,6 +8403,10 @@
       {
         "slug": "the-three-great-blessings",
         "title": "The Three Great Blessings"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       }
     ],
     "verbatim": []
@@ -8084,6 +8474,16 @@
       }
     ],
     "mentioned": [],
+    "verbatim": []
+  },
+  "our-standard-of-devotion": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "self-control-term",
+        "title": "Self-control"
+      }
+    ],
     "verbatim": []
   },
   "our-way-to-perfection-through-true-parents": {
@@ -8264,6 +8664,10 @@
     ],
     "mentioned": [
       {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
+      {
         "slug": "conscience",
         "title": "Conscience"
       },
@@ -8362,6 +8766,10 @@
       {
         "slug": "religion",
         "title": "Religion"
+      },
+      {
+        "slug": "self-control-term",
+        "title": "Self-control"
       },
       {
         "slug": "self-dominion",
@@ -8566,6 +8974,10 @@
     ],
     "mentioned": [
       {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
+      {
         "slug": "ahn-shil-il",
         "title": "Ahn Shil Il"
       },
@@ -8650,8 +9062,16 @@
         "title": "True Love"
       },
       {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
         "slug": "true-person",
         "title": "True Person"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       }
     ],
     "verbatim": []
@@ -8659,6 +9079,10 @@
   "re-creation": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
       {
         "slug": "human-history",
         "title": "Human History"
@@ -8713,6 +9137,10 @@
     ],
     "mentioned": [
       {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
         "slug": "wolli-kangron",
         "title": "Exposition of the Divine Principle"
       },
@@ -8723,6 +9151,14 @@
       {
         "slug": "spirit-self",
         "title": "Spirit Self"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       }
     ],
     "verbatim": []
@@ -8765,6 +9201,16 @@
       }
     ],
     "mentioned": [],
+    "verbatim": []
+  },
+  "religion": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      }
+    ],
     "verbatim": []
   },
   "responsibility-of-the-tribal-messiah": {
@@ -8823,6 +9269,10 @@
       {
         "slug": "only-begotten-son",
         "title": "Only Begotten Son"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       }
     ],
     "verbatim": []
@@ -8994,6 +9444,10 @@
         "title": "Eschatology"
       },
       {
+        "slug": "ethics",
+        "title": "Ethics"
+      },
+      {
         "slug": "sumgisineun-hananim",
         "title": "Sumgisineun Hananim"
       }
@@ -9104,6 +9558,10 @@
         "title": "D-Day"
       },
       {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
         "slug": "evil",
         "title": "Evil"
       },
@@ -9156,6 +9614,10 @@
         "title": "Rebirth"
       },
       {
+        "slug": "self-control-term",
+        "title": "Self-control"
+      },
+      {
         "slug": "sin-term",
         "title": "Sin"
       },
@@ -9170,6 +9632,14 @@
       {
         "slug": "the-fall-term",
         "title": "The Fall"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       }
     ],
     "verbatim": []
@@ -9188,6 +9658,44 @@
       {
         "slug": "unification-movement",
         "title": "Unification Movement"
+      }
+    ],
+    "verbatim": []
+  },
+  "self-control-term": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "ethics",
+        "title": "Ethics"
+      },
+      {
+        "slug": "habituality",
+        "title": "Habituality"
+      },
+      {
+        "slug": "self-dominion",
+        "title": "Self-dominion"
+      }
+    ],
+    "verbatim": []
+  },
+  "self-dominion": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "self-control-term",
+        "title": "Self-control"
+      }
+    ],
+    "verbatim": []
+  },
+  "selfish-desires-and-fallen-nature": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "self-control-term",
+        "title": "Self-control"
       }
     ],
     "verbatim": []
@@ -9723,6 +10231,10 @@
         "title": "Cosmos"
       },
       {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
         "slug": "era-of-registration",
         "title": "Era of Registration"
       },
@@ -10222,6 +10734,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
         "slug": "fallen-nature",
         "title": "Fallen Nature"
       },
@@ -10274,6 +10790,16 @@
       }
     ]
   },
+  "the-completion-of-gods-will-and-the-right-of-the-elder-son-parents-and-king-through-indemnity": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      }
+    ],
+    "verbatim": []
+  },
   "the-completion-of-home-church": {
     "further_reading": [],
     "mentioned": [
@@ -10287,6 +10813,10 @@
   "the-core-of-absolute-faith-absolute-love-and-absolute-obedience": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
       {
         "slug": "jeongo-jeongchak",
         "title": "High Noon Settlement"
@@ -10427,6 +10957,10 @@
       {
         "slug": "trinity",
         "title": "Trinity"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
       }
     ],
     "verbatim": []
@@ -10699,6 +11233,14 @@
         "title": "Dialectical Materialism"
       },
       {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
         "slug": "eschatology-term",
         "title": "Eschatology"
       },
@@ -10867,6 +11409,10 @@
         "title": "Self-Awareness"
       },
       {
+        "slug": "self-control-term",
+        "title": "Self-control"
+      },
+      {
         "slug": "self-dominion",
         "title": "Self-dominion"
       },
@@ -10921,6 +11467,10 @@
       {
         "slug": "truth",
         "title": "Truth"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       },
       {
         "slug": "zero-point",
@@ -11077,6 +11627,10 @@
       {
         "slug": "consciousness",
         "title": "Consciousness"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
       },
       {
         "slug": "eschatology-term",
@@ -11547,6 +12101,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
         "slug": "wolli-kangron",
         "title": "Exposition of the Divine Principle"
       },
@@ -11685,6 +12243,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
         "slug": "marriage-of-the-lamb",
         "title": "Marriage of the Lamb"
       }
@@ -11727,6 +12289,10 @@
       {
         "slug": "blessing-ceremony",
         "title": "Blessing Ceremony"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
       },
       {
         "slug": "holy-spirit-term",
@@ -11921,6 +12487,10 @@
         "title": "Cosmos"
       },
       {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
         "slug": "fallen-nature",
         "title": "Fallen Nature"
       },
@@ -12029,8 +12599,16 @@
         "title": "Three Stages of Growth"
       },
       {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
         "slug": "twelve-stages",
         "title": "Twelve Stages"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
       },
       {
         "slug": "wonggu",
@@ -12080,6 +12658,10 @@
       {
         "slug": "cosmos",
         "title": "Cosmos"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
       },
       {
         "slug": "fallen-nature",
@@ -12582,6 +13164,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
+      {
         "slug": "zero-point",
         "title": "Zero Point"
       }
@@ -12798,6 +13384,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
         "slug": "holy-spirit-term",
         "title": "Holy Spirit"
       }
@@ -12838,6 +13428,10 @@
       {
         "slug": "origin-division-union",
         "title": "Origin-Division-Union"
+      },
+      {
+        "slug": "self-control-term",
+        "title": "Self-control"
       },
       {
         "slug": "self-dominion",
@@ -12896,6 +13490,16 @@
       {
         "slug": "il-shim-il-che-il-nyeom",
         "title": "Il-shim · Il-che · Il-nyeom"
+      }
+    ],
+    "verbatim": []
+  },
+  "the-restoration-of-sovereignty-and-true-parents": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
       }
     ],
     "verbatim": []
@@ -12980,6 +13584,16 @@
     ],
     "verbatim": []
   },
+  "the-root-of-peace-is-in-true-love": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      }
+    ],
+    "verbatim": []
+  },
   "the-root-of-sin": {
     "further_reading": [
       {
@@ -13033,6 +13647,10 @@
       {
         "slug": "d-day",
         "title": "D-Day"
+      },
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
       },
       {
         "slug": "eschatology-term",
@@ -13101,6 +13719,10 @@
       {
         "slug": "three-great-crosses",
         "title": "Three Great Crosses"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
       }
     ],
     "verbatim": []
@@ -13310,6 +13932,16 @@
         "title": "Truth"
       }
     ]
+  },
+  "the-standard-of-determination": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      }
+    ],
+    "verbatim": []
   },
   "the-temple-of-god": {
     "further_reading": [],
@@ -13934,6 +14566,10 @@
         "title": "D-Day"
       },
       {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
         "slug": "four-great-realms-of-heart",
         "title": "Four Great Realms of Heart"
       },
@@ -13960,6 +14596,10 @@
       {
         "slug": "three-great-kingships",
         "title": "Three Great Kingships"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
       }
     ],
     "verbatim": []
@@ -14568,6 +15208,10 @@
         "title": "Predestination"
       },
       {
+        "slug": "self-control-term",
+        "title": "Self-control"
+      },
+      {
         "slug": "subject-and-object",
         "title": "Subject and Object"
       },
@@ -14635,6 +15279,28 @@
         "title": "Restoration Through Indemnity"
       }
     ]
+  },
+  "true-olive-tree": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
+        "slug": "lineage",
+        "title": "Lineage"
+      },
+      {
+        "slug": "messiah",
+        "title": "Messiah"
+      },
+      {
+        "slug": "wild-olive-tree",
+        "title": "Wild Olive Tree"
+      }
+    ],
+    "verbatim": []
   },
   "true-parents": {
     "further_reading": [
@@ -14886,6 +15552,10 @@
         "title": "D-Day"
       },
       {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
         "slug": "eschatology-term",
         "title": "Eschatology"
       },
@@ -15082,6 +15752,10 @@
         "title": "Tribal Messiah"
       },
       {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
         "slug": "true-person",
         "title": "True Person"
       },
@@ -15189,6 +15863,24 @@
     ],
     "verbatim": []
   },
+  "unification-church": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "abraham-term",
+        "title": "Abraham"
+      },
+      {
+        "slug": "adam-and-eve-term",
+        "title": "Adam and Eve"
+      },
+      {
+        "slug": "blessing-ceremony",
+        "title": "Blessing Ceremony"
+      }
+    ],
+    "verbatim": []
+  },
   "unification-movement": {
     "further_reading": [],
     "mentioned": [
@@ -15258,6 +15950,16 @@
       {
         "slug": "self-awareness",
         "title": "Self-Awareness"
+      }
+    ],
+    "verbatim": []
+  },
+  "united-with-your-standard-of-heart": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
       }
     ],
     "verbatim": []
@@ -15453,6 +16155,24 @@
     "mentioned": [],
     "verbatim": []
   },
+  "wild-olive-tree": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "engrafting",
+        "title": "Engrafting"
+      },
+      {
+        "slug": "the-fall-term",
+        "title": "The Fall"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      }
+    ],
+    "verbatim": []
+  },
   "witnessing-and-pastoral-care": {
     "further_reading": [],
     "mentioned": [
@@ -15517,6 +16237,20 @@
       {
         "slug": "the-new-testament-age",
         "title": "The New Testament Age"
+      }
+    ],
+    "verbatim": []
+  },
+  "zero-point": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "absolute-self-denial",
+        "title": "Absolute Self-Denial"
+      },
+      {
+        "slug": "self-control-term",
+        "title": "Self-control"
       }
     ],
     "verbatim": []
