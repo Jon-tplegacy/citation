@@ -302,6 +302,16 @@
     ],
     "verbatim": []
   },
+  "absolute-values-and-the-new-cultural-revolution": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "destination",
+        "title": "Destination"
+      }
+    ],
+    "verbatim": []
+  },
   "absoluteness": {
     "further_reading": [],
     "mentioned": [
@@ -326,6 +336,10 @@
       {
         "slug": "dialectical-materialism",
         "title": "Dialectical Materialism"
+      },
+      {
+        "slug": "loyalty",
+        "title": "Loyalty"
       },
       {
         "slug": "origin-division-union",
@@ -982,6 +996,10 @@
         "title": "Logos"
       },
       {
+        "slug": "loyalty",
+        "title": "Loyalty"
+      },
+      {
         "slug": "messiah",
         "title": "Messiah"
       },
@@ -996,6 +1014,10 @@
       {
         "slug": "parentism",
         "title": "Parentism"
+      },
+      {
+        "slug": "patience",
+        "title": "Patience"
       },
       {
         "slug": "perfection-term",
@@ -1361,6 +1383,10 @@
         "title": "Elite Soldier"
       },
       {
+        "slug": "patience",
+        "title": "Patience"
+      },
+      {
         "slug": "self-awareness",
         "title": "Self-Awareness"
       },
@@ -1437,6 +1463,10 @@
       {
         "slug": "parentism",
         "title": "Parentism"
+      },
+      {
+        "slug": "patience",
+        "title": "Patience"
       },
       {
         "slug": "portion-of-responsibility",
@@ -1938,6 +1968,10 @@
         "title": "Kingdom of Heaven"
       },
       {
+        "slug": "loyalty",
+        "title": "Loyalty"
+      },
+      {
         "slug": "origin-division-union",
         "title": "Origin-Division-Union"
       },
@@ -1952,6 +1986,10 @@
       {
         "slug": "parentism",
         "title": "Parentism"
+      },
+      {
+        "slug": "patience",
+        "title": "Patience"
       },
       {
         "slug": "restoration-through-indemnity-term",
@@ -2245,6 +2283,10 @@
         "title": "Parentism"
       },
       {
+        "slug": "patience",
+        "title": "Patience"
+      },
+      {
         "slug": "portion-of-responsibility",
         "title": "Portion of Responsibility"
       },
@@ -2341,6 +2383,32 @@
       {
         "slug": "satan-lucifer",
         "title": "Satan / Lucifer"
+      }
+    ],
+    "verbatim": []
+  },
+  "complete-restoration": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "d-day",
+        "title": "D-Day"
+      },
+      {
+        "slug": "death",
+        "title": "Death"
+      },
+      {
+        "slug": "holy-wine-ceremony",
+        "title": "Holy Wine Ceremony"
+      },
+      {
+        "slug": "jesus",
+        "title": "Jesus"
+      },
+      {
+        "slug": "perfection-term",
+        "title": "Perfection"
       }
     ],
     "verbatim": []
@@ -2692,6 +2760,10 @@
         "title": "Living for the Sake of Others"
       },
       {
+        "slug": "loyalty",
+        "title": "Loyalty"
+      },
+      {
         "slug": "marriage-of-the-lamb",
         "title": "Marriage of the Lamb"
       },
@@ -2746,6 +2818,10 @@
         "title": "Absolute Self-Denial"
       },
       {
+        "slug": "connection-of-the-heart",
+        "title": "Connection of the Heart"
+      },
+      {
         "slug": "habituality",
         "title": "Habituality"
       },
@@ -2770,6 +2846,10 @@
       {
         "slug": "absolute-sexual-ethics",
         "title": "Absolute Sexual Ethics"
+      },
+      {
+        "slug": "connection-of-the-heart",
+        "title": "Connection of the Heart"
       },
       {
         "slug": "ethics",
@@ -2955,8 +3035,16 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "destination",
+        "title": "Destination"
+      },
+      {
         "slug": "eschatology-term",
         "title": "Eschatology"
+      },
+      {
+        "slug": "loyalty",
+        "title": "Loyalty"
       },
       {
         "slug": "self-dominion",
@@ -3022,6 +3110,10 @@
       }
     ],
     "mentioned": [
+      {
+        "slug": "destination",
+        "title": "Destination"
+      },
       {
         "slug": "elite-soldier",
         "title": "Elite Soldier"
@@ -3095,6 +3187,28 @@
     ],
     "verbatim": []
   },
+  "destination": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "home-church",
+        "title": "Home Church"
+      },
+      {
+        "slug": "indemnity",
+        "title": "Indemnity"
+      },
+      {
+        "slug": "kingdom-of-heaven",
+        "title": "Kingdom of Heaven"
+      },
+      {
+        "slug": "spirit-world-term",
+        "title": "Spirit World"
+      }
+    ],
+    "verbatim": []
+  },
   "devotion": {
     "further_reading": [],
     "mentioned": [
@@ -3109,6 +3223,10 @@
       {
         "slug": "habituality",
         "title": "Habituality"
+      },
+      {
+        "slug": "loyalty",
+        "title": "Loyalty"
       },
       {
         "slug": "righteousness-term",
@@ -3191,12 +3309,20 @@
         "title": "Communism"
       },
       {
+        "slug": "connection-of-the-heart",
+        "title": "Connection of the Heart"
+      },
+      {
         "slug": "consciousness",
         "title": "Consciousness"
       },
       {
         "slug": "death",
         "title": "Death"
+      },
+      {
+        "slug": "destination",
+        "title": "Destination"
       },
       {
         "slug": "elite-soldier",
@@ -3219,8 +3345,16 @@
         "title": "Logos"
       },
       {
+        "slug": "loyalty",
+        "title": "Loyalty"
+      },
+      {
         "slug": "marriage-of-the-lamb",
         "title": "Marriage of the Lamb"
+      },
+      {
+        "slug": "patience",
+        "title": "Patience"
       },
       {
         "slug": "perfection-term",
@@ -3768,6 +3902,16 @@
     ],
     "verbatim": []
   },
+  "filial-children-of-god-are-patriots-who-strive-to-liberate-his-heart": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "loyalty",
+        "title": "Loyalty"
+      }
+    ],
+    "verbatim": []
+  },
   "filial-piety": {
     "further_reading": [],
     "mentioned": [
@@ -3821,6 +3965,10 @@
       {
         "slug": "isaac-term",
         "title": "Isaac"
+      },
+      {
+        "slug": "loyalty",
+        "title": "Loyalty"
       },
       {
         "slug": "parentism",
@@ -3910,6 +4058,10 @@
         "title": "Cheon Il Guk"
       },
       {
+        "slug": "connection-of-the-heart",
+        "title": "Connection of the Heart"
+      },
+      {
         "slug": "god",
         "title": "God"
       },
@@ -3981,6 +4133,10 @@
         "title": "Communism"
       },
       {
+        "slug": "connection-of-the-heart",
+        "title": "Connection of the Heart"
+      },
+      {
         "slug": "consciousness",
         "title": "Consciousness"
       },
@@ -4011,6 +4167,10 @@
       {
         "slug": "living-for-the-sake-of-others",
         "title": "Living for the Sake of Others"
+      },
+      {
+        "slug": "loyalty",
+        "title": "Loyalty"
       },
       {
         "slug": "origin-division-union",
@@ -4086,6 +4246,10 @@
         "title": "Cheonjin Bumo"
       },
       {
+        "slug": "destination",
+        "title": "Destination"
+      },
+      {
         "slug": "eternal-life-term",
         "title": "Eternal Life"
       },
@@ -4124,6 +4288,10 @@
       {
         "slug": "origin-division-union",
         "title": "Origin-Division-Union"
+      },
+      {
+        "slug": "patience",
+        "title": "Patience"
       },
       {
         "slug": "re-creation",
@@ -4514,6 +4682,10 @@
         "title": "Consciousness"
       },
       {
+        "slug": "destination",
+        "title": "Destination"
+      },
+      {
         "slug": "eschatology-term",
         "title": "Eschatology"
       },
@@ -4647,6 +4819,16 @@
       }
     ]
   },
+  "gods-providential-view-of-history": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "destination",
+        "title": "Destination"
+      }
+    ],
+    "verbatim": []
+  },
   "gods-strategy-and-satans-strategy": {
     "further_reading": [],
     "mentioned": [
@@ -4683,6 +4865,10 @@
       }
     ],
     "mentioned": [
+      {
+        "slug": "destination",
+        "title": "Destination"
+      },
       {
         "slug": "fallen-nature",
         "title": "Fallen Nature"
@@ -5039,7 +5225,12 @@
   },
   "heavens-sorrowful-heart": {
     "further_reading": [],
-    "mentioned": [],
+    "mentioned": [
+      {
+        "slug": "connection-of-the-heart",
+        "title": "Connection of the Heart"
+      }
+    ],
     "verbatim": [
       {
         "slug": "han",
@@ -5448,6 +5639,10 @@
         "title": "Parentism"
       },
       {
+        "slug": "patience",
+        "title": "Patience"
+      },
+      {
         "slug": "portion-of-responsibility",
         "title": "Portion of Responsibility"
       },
@@ -5542,6 +5737,16 @@
       {
         "slug": "truth",
         "title": "Truth"
+      }
+    ],
+    "verbatim": []
+  },
+  "hope": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "patience",
+        "title": "Patience"
       }
     ],
     "verbatim": []
@@ -5713,6 +5918,10 @@
   "human-life": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "destination",
+        "title": "Destination"
+      },
       {
         "slug": "religion",
         "title": "Religion"
@@ -6607,6 +6816,10 @@
         "title": "Offering"
       },
       {
+        "slug": "patience",
+        "title": "Patience"
+      },
+      {
         "slug": "prayer-term",
         "title": "Prayer"
       },
@@ -6775,6 +6988,10 @@
       {
         "slug": "only-begotten-son",
         "title": "Only Begotten Son"
+      },
+      {
+        "slug": "patience",
+        "title": "Patience"
       },
       {
         "slug": "perfection-term",
@@ -6952,6 +7169,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "connection-of-the-heart",
+        "title": "Connection of the Heart"
+      },
+      {
         "slug": "god",
         "title": "God"
       },
@@ -6962,6 +7183,10 @@
       {
         "slug": "goodness",
         "title": "Goodness"
+      },
+      {
+        "slug": "patience",
+        "title": "Patience"
       },
       {
         "slug": "perfection-term",
@@ -7115,6 +7340,10 @@
       {
         "slug": "d-day",
         "title": "D-Day"
+      },
+      {
+        "slug": "destination",
+        "title": "Destination"
       },
       {
         "slug": "elite-soldier",
@@ -7548,6 +7777,16 @@
       }
     ]
   },
+  "love-among-brothers-and-sisters": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "connection-of-the-heart",
+        "title": "Connection of the Heart"
+      }
+    ],
+    "verbatim": []
+  },
   "love-and-beauty-good-evil": {
     "further_reading": [],
     "mentioned": [
@@ -7576,6 +7815,20 @@
       {
         "slug": "self-dominion",
         "title": "Self-dominion"
+      }
+    ],
+    "verbatim": []
+  },
+  "loyalty": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "human-affection",
+        "title": "Human Affection"
+      },
+      {
+        "slug": "sincerity",
+        "title": "Sincerity"
       }
     ],
     "verbatim": []
@@ -7754,6 +8007,10 @@
       {
         "slug": "only-begotten-son",
         "title": "Only Begotten Son"
+      },
+      {
+        "slug": "patience",
+        "title": "Patience"
       },
       {
         "slug": "portion-of-responsibility",
@@ -8004,6 +8261,16 @@
       {
         "slug": "true-person",
         "title": "True Person"
+      }
+    ],
+    "verbatim": []
+  },
+  "my-life-of-faith": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "patience",
+        "title": "Patience"
       }
     ],
     "verbatim": []
@@ -8480,6 +8747,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "patience",
+        "title": "Patience"
+      },
+      {
         "slug": "self-control-term",
         "title": "Self-control"
       }
@@ -8553,6 +8824,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "connection-of-the-heart",
+        "title": "Connection of the Heart"
+      },
+      {
         "slug": "ethics",
         "title": "Ethics"
       },
@@ -8605,6 +8880,34 @@
     ],
     "verbatim": []
   },
+  "patience": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "habituality",
+        "title": "Habituality"
+      },
+      {
+        "slug": "han",
+        "title": "Han"
+      },
+      {
+        "slug": "righteousness-term",
+        "title": "Righteousness"
+      }
+    ],
+    "verbatim": []
+  },
+  "patriotism-and-public-service": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "loyalty",
+        "title": "Loyalty"
+      }
+    ],
+    "verbatim": []
+  },
   "perfected-adam-jesus": {
     "further_reading": [],
     "mentioned": [],
@@ -8634,6 +8937,16 @@
         "title": "God's Love"
       }
     ]
+  },
+  "perfection-term": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "destination",
+        "title": "Destination"
+      }
+    ],
+    "verbatim": []
   },
   "persecution": {
     "further_reading": [],
@@ -8698,6 +9011,10 @@
       {
         "slug": "kingdom-of-heaven",
         "title": "Kingdom of Heaven"
+      },
+      {
+        "slug": "patience",
+        "title": "Patience"
       },
       {
         "slug": "perfection-term",
@@ -9034,6 +9351,10 @@
         "title": "Original Sin"
       },
       {
+        "slug": "patience",
+        "title": "Patience"
+      },
+      {
         "slug": "salvation-history",
         "title": "Salvation History"
       },
@@ -9072,6 +9393,16 @@
       {
         "slug": "wild-olive-tree",
         "title": "Wild Olive Tree"
+      }
+    ],
+    "verbatim": []
+  },
+  "purpose-of-creation": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "destination",
+        "title": "Destination"
       }
     ],
     "verbatim": []
@@ -9266,6 +9597,10 @@
   "restoration-of-true-sonship": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "loyalty",
+        "title": "Loyalty"
+      },
       {
         "slug": "only-begotten-son",
         "title": "Only Begotten Son"
@@ -9644,6 +9979,16 @@
     ],
     "verbatim": []
   },
+  "search-of-the-original-homeland": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "destination",
+        "title": "Destination"
+      }
+    ],
+    "verbatim": []
+  },
   "second-israel-term": {
     "further_reading": [],
     "mentioned": [
@@ -9686,6 +10031,16 @@
       {
         "slug": "self-control-term",
         "title": "Self-control"
+      }
+    ],
+    "verbatim": []
+  },
+  "self-sacrifice": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "loyalty",
+        "title": "Loyalty"
       }
     ],
     "verbatim": []
@@ -9876,6 +10231,10 @@
       {
         "slug": "completed-testament-age",
         "title": "Completed Testament Age"
+      },
+      {
+        "slug": "connection-of-the-heart",
+        "title": "Connection of the Heart"
       },
       {
         "slug": "four-great-realms-of-heart",
@@ -10371,6 +10730,10 @@
         "title": "D-Day"
       },
       {
+        "slug": "destination",
+        "title": "Destination"
+      },
+      {
         "slug": "eschatology-term",
         "title": "Eschatology"
       },
@@ -10437,6 +10800,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "connection-of-the-heart",
+        "title": "Connection of the Heart"
+      },
+      {
         "slug": "dialectical-materialism",
         "title": "Dialectical Materialism"
       },
@@ -10480,6 +10847,10 @@
   "suffering": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "connection-of-the-heart",
+        "title": "Connection of the Heart"
+      },
       {
         "slug": "god",
         "title": "God"
@@ -10635,7 +11006,12 @@
         "title": "Salvation History"
       }
     ],
-    "mentioned": [],
+    "mentioned": [
+      {
+        "slug": "loyalty",
+        "title": "Loyalty"
+      }
+    ],
     "verbatim": [
       {
         "slug": "gods-dispensation",
@@ -10885,6 +11261,10 @@
         "title": "D-Day"
       },
       {
+        "slug": "destination",
+        "title": "Destination"
+      },
+      {
         "slug": "god",
         "title": "God"
       },
@@ -11050,6 +11430,16 @@
       {
         "slug": "re-creation",
         "title": "Re-creation"
+      }
+    ],
+    "verbatim": []
+  },
+  "the-essence-of-the-teachings-of-the-family-federation": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "loyalty",
+        "title": "Loyalty"
       }
     ],
     "verbatim": []
@@ -11227,6 +11617,10 @@
       {
         "slug": "coronation-of-gods-kingship",
         "title": "Coronation of God’s Kingship"
+      },
+      {
+        "slug": "destination",
+        "title": "Destination"
       },
       {
         "slug": "dialectical-materialism",
@@ -11629,6 +12023,10 @@
         "title": "Consciousness"
       },
       {
+        "slug": "destination",
+        "title": "Destination"
+      },
+      {
         "slug": "engrafting",
         "title": "Engrafting"
       },
@@ -11663,6 +12061,10 @@
       {
         "slug": "holy-spirit-term",
         "title": "Holy Spirit"
+      },
+      {
+        "slug": "holy-wine-ceremony",
+        "title": "Holy Wine Ceremony"
       },
       {
         "slug": "home-church",
@@ -11871,6 +12273,16 @@
       {
         "slug": "resurrection-term",
         "title": "Resurrection"
+      }
+    ],
+    "verbatim": []
+  },
+  "the-history-of-restoration-and-the-day-of-all-things": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "restoration-through-indemnity-term",
+        "title": "Restoration Through Indemnity"
       }
     ],
     "verbatim": []
@@ -12487,6 +12899,10 @@
         "title": "Cosmos"
       },
       {
+        "slug": "destination",
+        "title": "Destination"
+      },
+      {
         "slug": "engrafting",
         "title": "Engrafting"
       },
@@ -12541,6 +12957,10 @@
       {
         "slug": "pacific-rim",
         "title": "Pacific Rim"
+      },
+      {
+        "slug": "patience",
+        "title": "Patience"
       },
       {
         "slug": "portion-of-responsibility",
@@ -13264,6 +13684,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "destination",
+        "title": "Destination"
+      },
+      {
         "slug": "wolli-kangron",
         "title": "Exposition of the Divine Principle"
       },
@@ -13939,6 +14363,10 @@
       {
         "slug": "elite-soldier",
         "title": "Elite Soldier"
+      },
+      {
+        "slug": "patience",
+        "title": "Patience"
       }
     ],
     "verbatim": []
@@ -14010,6 +14438,10 @@
       {
         "slug": "cheon-hwa-gung",
         "title": "Cheon Hwa Gung"
+      },
+      {
+        "slug": "destination",
+        "title": "Destination"
       },
       {
         "slug": "wolli-kangron",
@@ -14642,6 +15074,16 @@
     ],
     "verbatim": []
   },
+  "through-this-history-of-sorrow": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "connection-of-the-heart",
+        "title": "Connection of the Heart"
+      }
+    ],
+    "verbatim": []
+  },
   "tong-ban-kyok-pa": {
     "further_reading": [],
     "mentioned": [
@@ -14987,6 +15429,10 @@
     ],
     "mentioned": [
       {
+        "slug": "connection-of-the-heart",
+        "title": "Connection of the Heart"
+      },
+      {
         "slug": "ethics",
         "title": "Ethics"
       },
@@ -15142,6 +15588,10 @@
       {
         "slug": "death",
         "title": "Death"
+      },
+      {
+        "slug": "destination",
+        "title": "Destination"
       },
       {
         "slug": "eternal-life-term",
@@ -15552,6 +16002,10 @@
         "title": "D-Day"
       },
       {
+        "slug": "destination",
+        "title": "Destination"
+      },
+      {
         "slug": "engrafting",
         "title": "Engrafting"
       },
@@ -15646,6 +16100,10 @@
       {
         "slug": "logos",
         "title": "Logos"
+      },
+      {
+        "slug": "loyalty",
+        "title": "Loyalty"
       },
       {
         "slug": "mansei",
@@ -15877,6 +16335,10 @@
       {
         "slug": "blessing-ceremony",
         "title": "Blessing Ceremony"
+      },
+      {
+        "slug": "destination",
+        "title": "Destination"
       }
     ],
     "verbatim": []
@@ -15942,6 +16404,10 @@
       {
         "slug": "dialectical-materialism",
         "title": "Dialectical Materialism"
+      },
+      {
+        "slug": "loyalty",
+        "title": "Loyalty"
       },
       {
         "slug": "religion",
