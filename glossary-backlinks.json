@@ -189,6 +189,11 @@
   ],
   "adam-and-eve-term": [
     {
+      "corpus": "PHG",
+      "slug": "the-messiah-and-true-parents",
+      "title": "The Messiah And True Parents"
+    },
+    {
       "corpus": "CSG",
       "slug": "the-providence-of-the-cheon-ii-guk-era",
       "title": "The Absolute Object of God's Love"
@@ -234,6 +239,28 @@
       "title": "The Savior Has Come"
     }
   ],
+  "ancestor-liberation": [
+    {
+      "corpus": "CBG",
+      "slug": "the-salvation-and-liberation-of-the-spirit-world",
+      "title": "The Salvation and Liberation of the Spirit World"
+    },
+    {
+      "corpus": "CBG",
+      "slug": "ancestor-blessings",
+      "title": "Ancestor Blessings"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "the-returning-resurrection-of-people-in-the-spirit-world",
+      "title": "The Returning Resurrection of People in the Spirit World"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "true-love-between-man-and-woman-and-true-marriage",
+      "title": "True Family and the Works of the Spirit World"
+    }
+  ],
   "ancestors": [
     {
       "corpus": "CBG",
@@ -272,6 +299,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "becoming-a-public-i",
       "title": "Becoming a Public \"I\""
     },
@@ -279,11 +311,108 @@
       "corpus": "Sermon",
       "slug": "the-consciousness-of-purpose-in-all-beings-and-the-one-world",
       "title": "The Consciousness of Purpose in All Beings and the One World"
+    }
+  ],
+  "axis": [
+    {
+      "corpus": "PHG",
+      "slug": "the-messiah-and-true-parents",
+      "title": "The Messiah And True Parents"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "the-kingdom-of-heaven-who-will-enter-it-and-how-will-they-get-there",
+      "title": "The Kingdom of Heaven: Who Will Enter It, and How Will They Get There?"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "absolute-values-and-a-reassessment-of-the-contemporary-world",
+      "title": "Absolute Values and a Reassessment of the Contemporary World"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "the-youth-culture-must-become-a-pure-love-movement",
+      "title": "The Youth Culture Must Become a Pure Love Movement"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "declaring-the-era-of-the-peace-kingdom",
+      "title": "Declaring The Era Of The Peace Kingdom"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "subject-and-object-partners-comprise-the-universe",
+      "title": "Subject and Object Partners Comprise the Universe"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "ideal-couples-and-the-parent-child-relationship",
+      "title": "Parents' Love for Their Children Is Absolute"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "love-is-the-root-of-the-universe",
+      "title": "Love Is the Root of the Universe"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "world-peace-through-religion",
+      "title": "World Peace through Religion"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "our-position-in-the-created-world",
+      "title": "The Reality of the Spirit World and Its Laws"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "coming-of-age-and-the-love-between-man-and-woman",
+      "title": "Man Owns Woman and Woman Owns Man"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "explanation-of-family-pledge-number-three",
+      "title": "Explanation of Family Pledge Number Three"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "the-great-commandment",
+      "title": "The Great Commandment"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-father-who-would-become-one-with-us",
-      "title": "The Father Who Would Become One With Us"
+      "slug": "the-official-course-of-true-love-and-heavenly-fate",
+      "title": "The Official Course Of True Love And Heavenly Fate"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "creation-and-building-of-the-kingdom-of-heaven",
+      "title": "Creation And Building Of The Kingdom Of Heaven"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "pinnacle-of-the-heavenly-universe",
+      "title": "Pinnacle Of The Heavenly Universe"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "from-the-realm-of-death-to-the-realm-of-life",
+      "title": "From the Realm of Death to the Realm of Life"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "true-parents-and-the-realm-of-resurrection",
+      "title": "True Parents And The Realm Of Resurrection"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "coronation-for-the-authority-of-the-liberation-of-god-the-king-of-kings",
+      "title": "Coronation for the Authority of the Liberation of God, the King of Kings"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-truthful-family-is-the-homeland-of-all-perfection",
+      "title": "The Truthful Family Is The Homeland Of All Perfection"
     }
   ],
   "bering-strait-tunnel": [
@@ -396,18 +525,18 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-history-of-restoration-and-the-day-of-all-things",
-      "title": "The History of Restoration and the Day of All Things"
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
     },
     {
       "corpus": "Sermon",
-      "slug": "let-us-have-an-attachment-that-heaven-shares",
-      "title": "Let Us Have an Attachment That Heaven Shares"
+      "slug": "in-order-to-obtain-the-true-seed",
+      "title": "In Order to Obtain the True Seed"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-self-that-must-go-forward",
-      "title": "The Self That Must Go Forward"
+      "slug": "let-us-remember-the-age-of-attendance",
+      "title": "Let Us Remember: The Age of Attendance"
     }
   ],
   "blessed-family-term": [
@@ -564,13 +693,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-history-of-restoration-and-the-day-of-all-things",
-      "title": "The History of Restoration and the Day of All Things"
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
     },
     {
       "corpus": "Sermon",
-      "slug": "become-a-victorious-lord-of-dominion",
-      "title": "Become a Victorious Lord of Dominion"
+      "slug": "let-us-remember-the-age-of-attendance",
+      "title": "Let Us Remember: The Age of Attendance"
     }
   ],
   "cheon-hwa-gung": [
@@ -739,18 +868,18 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "let-us-remember-the-age-of-attendance",
+      "title": "Let Us Remember: The Age of Attendance"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-history-of-restoration-and-the-day-of-all-things",
       "title": "The History of Restoration and the Day of All Things"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-direction-of-providence",
-      "title": "The Direction of Providence"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-end-of-jesus-and-our-resolve",
-      "title": "The End of Jesus and Our Resolve"
     }
   ],
   "completed-testament-age": [
@@ -766,13 +895,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "become-a-victorious-lord-of-dominion",
-      "title": "Become a Victorious Lord of Dominion"
+      "slug": "the-path-of-restoration-we-must-go-again",
+      "title": "The Path of Restoration We Must Go Again"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-path-of-restoration-we-must-go-again",
-      "title": "The Path of Restoration We Must Go Again"
+      "slug": "become-a-victorious-lord-of-dominion",
+      "title": "Become a Victorious Lord of Dominion"
     },
     {
       "corpus": "Sermon",
@@ -880,6 +1009,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-history-of-restoration-and-the-day-of-all-things",
       "title": "The History of Restoration and the Day of All Things"
     },
@@ -887,11 +1021,6 @@
       "corpus": "Sermon",
       "slug": "strengthen-the-power-of-your-conscience",
       "title": "Strengthen the Power of your Conscience"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "a-man-must-live-for-something-greater-than-himself",
-      "title": "A Man Must Live For Something Greater Than Himself"
     }
   ],
   "consciousness": [
@@ -1001,13 +1130,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "pinnacle-of-the-heavenly-universe",
-      "title": "Pinnacle Of The Heavenly Universe"
+      "slug": "in-order-to-obtain-the-true-seed",
+      "title": "In Order to Obtain the True Seed"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-history-of-restoration-and-the-day-of-all-things",
-      "title": "The History of Restoration and the Day of All Things"
+      "slug": "pinnacle-of-the-heavenly-universe",
+      "title": "Pinnacle Of The Heavenly Universe"
     }
   ],
   "d-day": [
@@ -1055,6 +1184,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "let-us-remember-the-age-of-attendance",
+      "title": "Let Us Remember: The Age of Attendance"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-history-of-restoration-and-the-day-of-all-things",
       "title": "The History of Restoration and the Day of All Things"
     },
@@ -1062,11 +1196,6 @@
       "corpus": "Sermon",
       "slug": "let-us-have-an-attachment-that-heaven-shares",
       "title": "Let Us Have an Attachment That Heaven Shares"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-self-that-must-go-forward",
-      "title": "The Self That Must Go Forward"
     }
   ],
   "destination": [
@@ -1966,6 +2095,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-unified-world-all-people-desire",
+      "title": "The Unified World All People Desire"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "what-is-the-greatest-hope-of-gods-blessing",
       "title": "What Is the Greatest Hope of God's Blessing"
     },
@@ -1976,18 +2110,13 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-offering-of-devotion",
+      "title": "The Offering of Devotion"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "become-workers-for-the-restoration-of-the-nation",
       "title": "Become Workers for the Restoration of the Nation"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "let-us-set-out-anew",
-      "title": "Let Us Set Out Anew"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "organization-unity-and-action",
-      "title": "Organization, Unity, and Action"
     }
   ],
   "four-great-realms-of-heart": [
@@ -2195,8 +2324,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-history-of-restoration-and-the-day-of-all-things",
-      "title": "The History of Restoration and the Day of All Things"
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
     }
   ],
   "gods-hope-term": [
@@ -2237,13 +2366,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "become-a-victorious-lord-of-dominion",
-      "title": "Become a Victorious Lord of Dominion"
+      "slug": "the-path-of-restoration-we-must-go-again",
+      "title": "The Path of Restoration We Must Go Again"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-path-of-restoration-we-must-go-again",
-      "title": "The Path of Restoration We Must Go Again"
+      "slug": "become-a-victorious-lord-of-dominion",
+      "title": "Become a Victorious Lord of Dominion"
     },
     {
       "corpus": "Sermon",
@@ -2257,8 +2386,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "jesus-who-stood-in-the-cosmos",
-      "title": "Jesus, Who Stood in the Cosmos"
+      "slug": "the-offering-of-devotion",
+      "title": "The Offering of Devotion"
     }
   ],
   "gods-love": [
@@ -2299,13 +2428,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "what-a-family-member-is",
-      "title": "What a Family Member Is"
+      "slug": "the-unified-world-all-people-desire",
+      "title": "The Unified World All People Desire"
     },
     {
       "corpus": "Sermon",
-      "slug": "what-is-the-greatest-hope-of-gods-blessing",
-      "title": "What Is the Greatest Hope of God's Blessing"
+      "slug": "what-a-family-member-is",
+      "title": "What a Family Member Is"
     }
   ],
   "gods-will": [
@@ -2316,13 +2445,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "complete-restoration",
-      "title": "Complete Restoration"
+      "slug": "the-standard-of-determination",
+      "title": "The Standard of Determination in the Course of Restoration"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-standard-of-determination",
-      "title": "The Standard of Determination in the Course of Restoration"
+      "slug": "complete-restoration",
+      "title": "Complete Restoration"
     },
     {
       "corpus": "Sermon",
@@ -2527,23 +2656,23 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-history-of-restoration-and-the-day-of-all-things",
       "title": "The History of Restoration and the Day of All Things"
     },
     {
       "corpus": "Sermon",
+      "slug": "our-attitude-toward-the-enemy",
+      "title": "Our Attitude Toward the Enemy"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-self-that-must-go-forward",
       "title": "The Self That Must Go Forward"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-suffering-of-jesus-upon-the-cross",
-      "title": "The Suffering of Jesus upon the Cross"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "become-a-victorious-lord-of-dominion",
-      "title": "Become a Victorious Lord of Dominion"
     }
   ],
   "headwing-philosophy": [
@@ -2785,6 +2914,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-history-of-restoration-and-the-day-of-all-things",
       "title": "The History of Restoration and the Day of All Things"
     },
@@ -2792,11 +2926,6 @@
       "corpus": "Sermon",
       "slug": "dedication-ceremony-of-the-ocean-cheonjeong-palace-hotel-on-geomun-island",
       "title": "Dedication Ceremony of the Ocean Cheonjeong Palace Hotel on Geomun Island"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "older-brother-had-received-the-blessing",
-      "title": "Everything Would Have Gone Smoothly According To Plan If The Older Brother Had Received The Blessing"
     }
   ],
   "heavenly-order-and-human-order": [
@@ -2894,6 +3023,16 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "preparation-to-greet-the-new-seven-year-course",
+      "title": "Preparation to Greet the New Seven-Year Course"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "jesus-who-stood-in-the-cosmos",
       "title": "Jesus, Who Stood in the Cosmos"
     },
@@ -2901,16 +3040,6 @@
       "corpus": "Sermon",
       "slug": "let-us-become-those-who-live-together-with-gods-love",
       "title": "Let Us Become Those Who Live Together with God's Love"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "let-us-have-an-attachment-of-heart-in-which-heaven-abides-together-with-us",
-      "title": "Let Us Have an Attachment of Heart in Which Heaven Abides Together with Us"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "let-us-seek-the-center-and-become-one",
-      "title": "Let Us Seek the Center and Become One"
     }
   ],
   "holy-spirit-term": [
@@ -3080,6 +3209,118 @@
       "title": "The Place We Truly Wish to Go"
     }
   ],
+  "husband-and-wife": [
+    {
+      "corpus": "CBG",
+      "slug": "salvation-and-the-liberation-of-god",
+      "title": "Salvation and the Liberation of God"
+    },
+    {
+      "corpus": "CBG",
+      "slug": "the-lord-and-his-bride",
+      "title": "The Lord and His Bride"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "the-messiah-and-true-parents",
+      "title": "The Messiah And True Parents"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "gods-true-love-and-restoring-his-relationship-with-heaven-earth-and-humankind",
+      "title": "God’s True Love and Restoring His Relationship with Heaven, Earth, and Humankind"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "world-peace-and-the-role-of-women-ii",
+      "title": "World Peace and the Role of Women II"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "ideal-parent-child-and-sibling-relationships",
+      "title": "The Original Relationship of Husband and Wife"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "family-harmony-makes-all-go-well",
+      "title": "Men and Women Harmonize in Love"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "gods-laws-of-love-centering-on-the-family",
+      "title": "God's Laws Of Love Centering On The Family"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "the-significance-of-the-blessing-groups",
+      "title": "God's Blessing Allows You to Inherit Love and Joy"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "what-is-a-family",
+      "title": "The Family Is the Final Standard for Completing the Cosmos-centered Ideology"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "inheriting-the-true-parents-realm-of-victory",
+      "title": "Jesus and the True Parents"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "life-of-owners-of-cheon-il-guk",
+      "title": "Life of Owners of Cheon Il Guk"
+    },
+    {
+      "corpus": "DP",
+      "slug": "the-period-during-which-the-commandment-was-necessary",
+      "title": "The Period During Which the Commandment Was Necessary"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "true-love",
+      "title": "True Love"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "conjugal-love",
+      "title": "Conjugal Love"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "restoration-of-true-sonship",
+      "title": "Restoration Of True Sonship"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-mind-body-problem",
+      "title": "The Mind-Body Problem"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "your-responsibility-is-enormous",
+      "title": "Your Responsibility is Enormous"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-three-family-kingships",
+      "title": "The Three Family Kingships"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "gods-true-love-and-the-liberation-of-the-relationship-of-heaven-and-earth-and-humankind",
+      "title": "God's True Love And The Liberation Of The Relationship Of Heaven And Earth And Humankind"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "environment-and-evolution",
+      "title": "Environment and Evolution"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-completed-testament-era-and-me",
+      "title": "The Completed Testament Era And Me"
+    }
+  ],
   "hyeongsang": [
     {
       "corpus": "Sermon",
@@ -3169,13 +3410,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "restoration-of-true-sonship",
-      "title": "Restoration Of True Sonship"
+      "slug": "unification-church",
+      "title": "Unification Church"
     },
     {
       "corpus": "Sermon",
-      "slug": "unification-church",
-      "title": "Unification Church"
+      "slug": "restoration-of-true-sonship",
+      "title": "Restoration Of True Sonship"
     },
     {
       "corpus": "Sermon",
@@ -3236,13 +3477,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-history-of-restoration-and-the-day-of-all-things",
-      "title": "The History of Restoration and the Day of All Things"
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-suffering-of-jesus-upon-the-cross",
-      "title": "The Suffering of Jesus upon the Cross"
+      "slug": "let-us-remember-the-age-of-attendance",
+      "title": "Let Us Remember: The Age of Attendance"
     }
   ],
   "jacob-term": [
@@ -3379,6 +3620,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "let-us-remember-the-age-of-attendance",
+      "title": "Let Us Remember: The Age of Attendance"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-history-of-restoration-and-the-day-of-all-things",
       "title": "The History of Restoration and the Day of All Things"
     },
@@ -3394,13 +3640,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "what-a-family-member-is",
-      "title": "What a Family Member Is"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "what-is-the-greatest-hope-of-gods-blessing",
-      "title": "What Is the Greatest Hope of God's Blessing"
+      "slug": "the-unified-world-all-people-desire",
+      "title": "The Unified World All People Desire"
     }
   ],
   "john-the-baptist-term": [
@@ -3441,18 +3682,18 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "let-us-remember-the-age-of-attendance",
+      "title": "Let Us Remember: The Age of Attendance"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-history-of-restoration-and-the-day-of-all-things",
       "title": "The History of Restoration and the Day of All Things"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-suffering-of-jesus-upon-the-cross",
-      "title": "The Suffering of Jesus upon the Cross"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "become-a-victorious-lord-of-dominion",
-      "title": "Become a Victorious Lord of Dominion"
     }
   ],
   "judgment": [
@@ -3535,8 +3776,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-history-of-restoration-and-the-day-of-all-things",
-      "title": "The History of Restoration and the Day of All Things"
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
     }
   ],
   "lineage": [
@@ -3738,8 +3979,23 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-unified-world-all-people-desire",
+      "title": "The Unified World All People Desire"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "what-a-family-member-is",
       "title": "What a Family Member Is"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "preparation-to-greet-the-new-seven-year-course",
+      "title": "Preparation to Greet the New Seven-Year Course"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-offering-of-devotion",
+      "title": "The Offering of Devotion"
     },
     {
       "corpus": "Sermon",
@@ -3757,6 +4013,11 @@
       "corpus": "Sermon",
       "slug": "what-is-the-greatest-hope-of-gods-blessing",
       "title": "What Is the Greatest Hope of God's Blessing"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-offering-of-devotion",
+      "title": "The Offering of Devotion"
     },
     {
       "corpus": "Sermon",
@@ -3802,13 +4063,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "new-morning-of-glory",
-      "title": "New Morning of Glory"
+      "slug": "history-and-our-responsibility",
+      "title": "History and Our Responsibility"
     },
     {
       "corpus": "Sermon",
-      "slug": "history-and-our-responsibility",
-      "title": "History and Our Responsibility"
+      "slug": "new-morning-of-glory",
+      "title": "New Morning of Glory"
     }
   ],
   "messiah": [
@@ -3891,13 +4152,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-history-of-restoration-and-the-day-of-all-things",
-      "title": "The History of Restoration and the Day of All Things"
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-self-that-must-go-forward",
-      "title": "The Self That Must Go Forward"
+      "slug": "let-us-remember-the-age-of-attendance",
+      "title": "Let Us Remember: The Age of Attendance"
     }
   ],
   "noah-term": [
@@ -3943,8 +4204,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-history-of-restoration-and-the-day-of-all-things",
-      "title": "The History of Restoration and the Day of All Things"
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
     }
   ],
   "offering": [
@@ -4067,6 +4328,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-path-of-restoration-we-must-go-again",
+      "title": "The Path of Restoration We Must Go Again"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-suffering-of-jesus-upon-the-cross",
       "title": "The Suffering of Jesus upon the Cross"
     },
@@ -4079,11 +4345,6 @@
       "corpus": "Sermon",
       "slug": "jesus-and-the-second-coming",
       "title": "Jesus and the Second Coming"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-path-of-restoration-we-must-go-again",
-      "title": "The Path of Restoration We Must Go Again"
     }
   ],
   "origin-division-union": [
@@ -4351,8 +4612,18 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "in-search-of-the-original-homeland",
+      "title": "In Search of the Original Homeland"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-debt-we-owe-the-past-and-liberation",
       "title": "The Debt We Owe the Past and Liberation"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-unification-church-is-a-church-of-indemnity",
+      "title": "The Unification Church Is a Church of Indemnity"
     }
   ],
   "prayer-term": [
@@ -4447,8 +4718,18 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-self-that-must-go-forward",
-      "title": "The Self That Must Go Forward"
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "in-order-to-obtain-the-true-seed",
+      "title": "In Order to Obtain the True Seed"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "our-attitude-toward-the-enemy",
+      "title": "Our Attitude Toward the Enemy"
     },
     {
       "corpus": "Sermon",
@@ -4457,18 +4738,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-direction-of-providence",
-      "title": "The Direction of Providence"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "become-workers-for-the-restoration-of-the-nation",
-      "title": "Become Workers for the Restoration of the Nation"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "let-us-set-out-anew",
-      "title": "Let Us Set Out Anew"
+      "slug": "the-self-that-must-go-forward",
+      "title": "The Self That Must Go Forward"
     }
   ],
   "re-creation": [
@@ -4608,6 +4879,16 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "in-order-to-obtain-the-true-seed",
+      "title": "In Order to Obtain the True Seed"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-history-of-restoration-and-the-day-of-all-things",
       "title": "The History of Restoration and the Day of All Things"
     },
@@ -4618,18 +4899,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-end-of-jesus-and-our-resolve",
-      "title": "The End of Jesus and Our Resolve"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "korea-must-welcome-the-god-who-comes-seeking-the-world",
-      "title": "Korea Must Welcome the God Who Comes Seeking the World"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "let-us-set-out-anew",
-      "title": "Let Us Set Out Anew"
+      "slug": "our-attitude-toward-the-enemy",
+      "title": "Our Attitude Toward the Enemy"
     }
   ],
   "restoration-of-motherhood": [
@@ -4692,6 +4963,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "liberation-and-victory-through-the-completion-of-restoration-through-indemnity",
       "title": "Liberation and Victory through the Completion of Restoration through Indemnity"
     },
@@ -4699,11 +4975,6 @@
       "corpus": "Sermon",
       "slug": "the-history-of-restoration-and-the-day-of-all-things",
       "title": "The History of Restoration and the Day of All Things"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-father-and-his-kingdom",
-      "title": "The Father and His Kingdom"
     }
   ],
   "resurrection-term": [
@@ -4729,6 +5000,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-self-that-must-go-forward",
       "title": "The Self That Must Go Forward"
     },
@@ -4736,11 +5012,6 @@
       "corpus": "Sermon",
       "slug": "what-a-family-member-is",
       "title": "What a Family Member Is"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-root-of-the-universe-and-the-value-of-the-human-being",
-      "title": "The Root of the Universe and the Value of the Human Being"
     }
   ],
   "righteousness-term": [
@@ -4776,6 +5047,16 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-unified-world-all-people-desire",
+      "title": "The Unified World All People Desire"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-offering-of-devotion",
+      "title": "The Offering of Devotion"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "become-workers-for-the-restoration-of-the-nation",
       "title": "Become Workers for the Restoration of the Nation"
     },
@@ -4783,16 +5064,113 @@
       "corpus": "Sermon",
       "slug": "let-us-set-out-anew",
       "title": "Let Us Set Out Anew"
+    }
+  ],
+  "sacrifice-term": [
+    {
+      "corpus": "CBG",
+      "slug": "the-ascension-of-heung-jin-moon",
+      "title": "The Ascension of Heung-Jin Moon"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "parents-love",
+      "title": "Parental Love"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "parental-love-sacrifices-everything",
+      "title": "Parental Love Sacrifices Everything"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "the-original-homeland-only-welcomes-those-people-who-lived-for-god",
+      "title": "The original homeland only welcomes those people who lived for God"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "true-parents-and-the-nation",
+      "title": "True Parents and the Nation"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "genuine-loyalty-and-filial-piety-demands-the-cost-of-your-life",
+      "title": "Genuine Loyalty and Filial Piety Demands the Cost of Your Life"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "true-parents-who-have-fully-achieved-the-will",
+      "title": "God, the Vertical Parent, True Parents, the Horizontal Parent"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "christianity",
+      "title": "Christianity"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "persecution",
+      "title": "Persecution"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "tradition",
+      "title": "Tradition"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "devotion",
+      "title": "Devotion"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "sacrificial-love",
+      "title": "Sacrificial Love"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "self-sacrifice",
+      "title": "Self-Sacrifice"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "reconciliation-and-peacemaking",
+      "title": "Reconciliation and Peacemaking"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-fathers-bitter-resentment-toward-the-enemy-the-cosmic-battle-within-you",
-      "title": "The Father's Bitter Resentment Toward the Enemy: The Cosmic Battle Within You"
+      "slug": "gods-strategy-and-satans-strategy",
+      "title": "God's Strategy and Satan's Strategy"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-lost-sheep-and-the-father-finding-the-way-back-home",
-      "title": "The Lost Sheep and the Father: Finding the Way Back Home"
+      "slug": "living-sacrifice",
+      "title": "Living Sacrifice"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "to-become-a-living-sacrifice",
+      "title": "To Become A Living Sacrifice"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "why-we-have-to-go-through-hardships",
+      "title": "Why We Have to Go Through Hardships"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "sacrifice-is-the-shortest-way-to-heaven",
+      "title": "Sacrifice Is The Shortest Way To Heaven"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "declaration-of-the-return-of-the-cosmos-to-god",
+      "title": "Declaration of the Return of the Cosmos to God"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "pledge-service-for-true-parents-birthday",
+      "title": "Pledge service for True Parents' birthday"
     }
   ],
   "salvation-history": [
@@ -4957,8 +5335,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-history-of-restoration-and-the-day-of-all-things",
-      "title": "The History of Restoration and the Day of All Things"
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
     }
   ],
   "second-israel-term": [
@@ -5242,13 +5620,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "longing-for-eden",
-      "title": "Longing for Eden"
+      "slug": "jesus-who-is-to-establish-heavens-love",
+      "title": "Jesus Who Is To Establish Heaven's Love"
     },
     {
       "corpus": "Sermon",
-      "slug": "jesus-who-is-to-establish-heavens-love",
-      "title": "Jesus Who Is To Establish Heaven's Love"
+      "slug": "longing-for-eden",
+      "title": "Longing for Eden"
     },
     {
       "corpus": "Sermon",
@@ -5311,13 +5689,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "true-parents-of-heaven-earth-and-humankind",
-      "title": "Convention to Proclaim the Word that Firmly Establishes the True Parents of Heaven, Earth, and Humankind"
+      "slug": "lets-fulfill-the-responsibility-of-the-third-creators",
+      "title": "Let's Fulfill the Responsibility of the Third Creators"
     },
     {
       "corpus": "Sermon",
-      "slug": "lets-fulfill-the-responsibility-of-the-third-creators",
-      "title": "Let's Fulfill the Responsibility of the Third Creators"
+      "slug": "true-parents-of-heaven-earth-and-humankind",
+      "title": "Convention to Proclaim the Word that Firmly Establishes the True Parents of Heaven, Earth, and Humankind"
     },
     {
       "corpus": "Sermon",
@@ -5579,8 +5957,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-suffering-of-jesus-upon-the-cross",
-      "title": "The Suffering of Jesus upon the Cross"
+      "slug": "the-path-of-restoration-we-must-go-again",
+      "title": "The Path of Restoration We Must Go Again"
     }
   ],
   "spirit-self": [
@@ -5663,6 +6041,16 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "in-order-to-obtain-the-true-seed",
+      "title": "In Order to Obtain the True Seed"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-history-of-restoration-and-the-day-of-all-things",
       "title": "The History of Restoration and the Day of All Things"
     },
@@ -5673,18 +6061,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "become-workers-for-the-restoration-of-the-nation",
-      "title": "Become Workers for the Restoration of the Nation"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "let-us-set-out-anew",
-      "title": "Let Us Set Out Anew"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-debt-we-owe-the-past-and-liberation",
-      "title": "The Debt We Owe the Past and Liberation"
+      "slug": "the-unified-world-all-people-desire",
+      "title": "The Unified World All People Desire"
     }
   ],
   "subject-and-object": [
@@ -5850,6 +6228,11 @@
   ],
   "the-fall-term": [
     {
+      "corpus": "PHG",
+      "slug": "the-messiah-and-true-parents",
+      "title": "The Messiah And True Parents"
+    },
+    {
       "corpus": "Sermon",
       "slug": "unification-church",
       "title": "Unification Church"
@@ -5999,6 +6382,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-history-of-restoration-and-the-day-of-all-things",
       "title": "The History of Restoration and the Day of All Things"
     },
@@ -6011,11 +6399,6 @@
       "corpus": "Sermon",
       "slug": "let-us-have-an-attachment-that-heaven-shares",
       "title": "Let Us Have an Attachment That Heaven Shares"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "become-a-victorious-lord-of-dominion",
-      "title": "Become a Victorious Lord of Dominion"
     }
   ],
   "the-old-testament-age": [
@@ -6056,6 +6439,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-path-of-restoration-we-must-go-again",
+      "title": "The Path of Restoration We Must Go Again"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-self-that-must-go-forward",
       "title": "The Self That Must Go Forward"
     },
@@ -6063,11 +6451,6 @@
       "corpus": "Sermon",
       "slug": "become-a-victorious-lord-of-dominion",
       "title": "Become a Victorious Lord of Dominion"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-parent-in-the-north-and-the-parent-in-the-south",
-      "title": "The parent in the North and the parent in the South"
     }
   ],
   "the-second-advent": [
@@ -6447,13 +6830,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "this-years-motto",
-      "title": "This Year's Motto"
+      "slug": "in-search-of-the-original-homeland",
+      "title": "In Search of the Original Homeland"
     },
     {
       "corpus": "Sermon",
-      "slug": "what-kind-of-being-am-i",
-      "title": "What Kind of Being Am I"
+      "slug": "this-years-motto",
+      "title": "This Year's Motto"
     }
   ],
   "tong-ban-kyok-pa": [
@@ -6548,6 +6931,11 @@
     }
   ],
   "true-love-term": [
+    {
+      "corpus": "Sermon",
+      "slug": "in-search-of-the-original-homeland",
+      "title": "In Search of the Original Homeland"
+    },
     {
       "corpus": "Sermon",
       "slug": "in-search-of-the-true-foundation",
@@ -6848,13 +7236,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-self-that-must-go-forward",
-      "title": "The Self That Must Go Forward"
+      "slug": "let-us-remember-the-age-of-attendance",
+      "title": "Let Us Remember: The Age of Attendance"
     },
     {
       "corpus": "Sermon",
-      "slug": "become-a-victorious-lord-of-dominion",
-      "title": "Become a Victorious Lord of Dominion"
+      "slug": "the-self-that-must-go-forward",
+      "title": "The Self That Must Go Forward"
     }
   ],
   "twelve-stages": [
