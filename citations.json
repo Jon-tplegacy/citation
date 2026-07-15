@@ -33,7 +33,12 @@
   },
   "a-life-of-accomplishment": {
     "further_reading": [],
-    "mentioned": [],
+    "mentioned": [
+      {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      }
+    ],
     "verbatim": [
       {
         "slug": "indemnity",
@@ -419,6 +424,10 @@
         "title": "Ancestors"
       },
       {
+        "slug": "axis",
+        "title": "Axis"
+      },
+      {
         "slug": "palace-of-heavenly-harmony",
         "title": "Cheonhwagung"
       },
@@ -485,6 +494,10 @@
       {
         "slug": "human-history",
         "title": "Human History"
+      },
+      {
+        "slug": "husband-and-wife",
+        "title": "Husband and wife"
       },
       {
         "slug": "kingdom-of-heaven",
@@ -680,9 +693,59 @@
     ],
     "verbatim": []
   },
+  "ancestor-liberation": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "ancestors",
+        "title": "Ancestors"
+      },
+      {
+        "slug": "death",
+        "title": "Death"
+      },
+      {
+        "slug": "eternal-life-term",
+        "title": "Eternal Life"
+      },
+      {
+        "slug": "hell-term",
+        "title": "Hell"
+      },
+      {
+        "slug": "judgment",
+        "title": "Judgment"
+      },
+      {
+        "slug": "resurrection-term",
+        "title": "Resurrection"
+      },
+      {
+        "slug": "sin-term",
+        "title": "Sin"
+      },
+      {
+        "slug": "spirit-self",
+        "title": "Spirit Self"
+      },
+      {
+        "slug": "spirit-world-term",
+        "title": "Spirit World"
+      },
+      {
+        "slug": "three-generations",
+        "title": "Three Generations"
+      }
+    ],
+    "verbatim": []
+  },
   "ancestors": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
       {
         "slug": "boon-bong-wang",
         "title": "Boon Bong Wang"
@@ -694,6 +757,48 @@
       {
         "slug": "judgment",
         "title": "Judgment"
+      }
+    ],
+    "verbatim": []
+  },
+  "axis": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "cheon-il-guk",
+        "title": "Cheon Il Guk"
+      },
+      {
+        "slug": "eternal-life-term",
+        "title": "Eternal Life"
+      },
+      {
+        "slug": "five-stages-of-the-blessing",
+        "title": "Five Stages of the Blessing"
+      },
+      {
+        "slug": "godism",
+        "title": "Godism"
+      },
+      {
+        "slug": "jeongo-jeongchak",
+        "title": "High Noon Settlement"
+      },
+      {
+        "slug": "three-generations",
+        "title": "Three Generations"
+      },
+      {
+        "slug": "true-parents-term",
+        "title": "True Parents"
+      },
+      {
+        "slug": "true-person",
+        "title": "True Person"
+      },
+      {
+        "slug": "twelve-stages",
+        "title": "Twelve Stages"
       }
     ],
     "verbatim": []
@@ -900,6 +1005,10 @@
     ],
     "mentioned": [
       {
+        "slug": "axis",
+        "title": "Axis"
+      },
+      {
         "slug": "boon-bong-wang",
         "title": "Boon Bong Wang"
       },
@@ -966,6 +1075,10 @@
       {
         "slug": "home-church",
         "title": "Home Church"
+      },
+      {
+        "slug": "husband-and-wife",
+        "title": "Husband and wife"
       },
       {
         "slug": "hyeongsang",
@@ -1038,6 +1151,10 @@
       {
         "slug": "restoration-through-indemnity-term",
         "title": "Restoration Through Indemnity"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       },
       {
         "slug": "self-dominion",
@@ -1481,6 +1598,10 @@
         "title": "Religion"
       },
       {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
+      },
+      {
         "slug": "self-awareness",
         "title": "Self-Awareness"
       },
@@ -1852,6 +1973,10 @@
         "title": "Absolute Sexual Ethics"
       },
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
         "slug": "blessed-family-term",
         "title": "Blessed Family"
       },
@@ -1956,6 +2081,10 @@
         "title": "Human Affection"
       },
       {
+        "slug": "husband-and-wife",
+        "title": "Husband and wife"
+      },
+      {
         "slug": "ideal-family-term",
         "title": "Ideal Family"
       },
@@ -1998,6 +2127,10 @@
       {
         "slug": "righteousness-term",
         "title": "Righteousness"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       },
       {
         "slug": "sangdae",
@@ -2297,6 +2430,10 @@
       {
         "slug": "religion",
         "title": "Religion"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       },
       {
         "slug": "salvation-history",
@@ -2622,6 +2759,10 @@
         "title": "Righteousness"
       },
       {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
+      },
+      {
         "slug": "salvation-history",
         "title": "Salvation History"
       },
@@ -2756,6 +2897,10 @@
         "title": "Human History"
       },
       {
+        "slug": "husband-and-wife",
+        "title": "Husband and wife"
+      },
+      {
         "slug": "living-for-the-sake-of-others",
         "title": "Living for the Sake of Others"
       },
@@ -2846,6 +2991,10 @@
       {
         "slug": "absolute-sexual-ethics",
         "title": "Absolute Sexual Ethics"
+      },
+      {
+        "slug": "axis",
+        "title": "Axis"
       },
       {
         "slug": "connection-of-the-heart",
@@ -3111,6 +3260,10 @@
     ],
     "mentioned": [
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
         "slug": "destination",
         "title": "Destination"
       },
@@ -3213,6 +3366,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
         "slug": "cheon-hwa-gung",
         "title": "Cheon Hwa Gung"
       },
@@ -3305,6 +3462,14 @@
         "title": "Absolute Sexual Ethics"
       },
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
+        "slug": "axis",
+        "title": "Axis"
+      },
+      {
         "slug": "communism",
         "title": "Communism"
       },
@@ -3367,6 +3532,10 @@
       {
         "slug": "religion",
         "title": "Religion"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       },
       {
         "slug": "self-awareness",
@@ -3673,6 +3842,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
         "slug": "engrafting",
         "title": "Engrafting"
       },
@@ -3943,6 +4116,10 @@
         "title": "Abraham"
       },
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
         "slug": "ancestors",
         "title": "Ancestors"
       },
@@ -4129,6 +4306,10 @@
     ],
     "mentioned": [
       {
+        "slug": "axis",
+        "title": "Axis"
+      },
+      {
         "slug": "communism",
         "title": "Communism"
       },
@@ -4242,6 +4423,10 @@
         "title": "Absolute Self-Denial"
       },
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
         "slug": "cheonjin-bumo",
         "title": "Cheonjin Bumo"
       },
@@ -4300,6 +4485,10 @@
       {
         "slug": "religion",
         "title": "Religion"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       },
       {
         "slug": "self-awareness",
@@ -4670,6 +4859,10 @@
         "title": "Absolute Sexual Ethics"
       },
       {
+        "slug": "axis",
+        "title": "Axis"
+      },
+      {
         "slug": "communism",
         "title": "Communism"
       },
@@ -4866,6 +5059,10 @@
     ],
     "mentioned": [
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
         "slug": "destination",
         "title": "Destination"
       },
@@ -4977,6 +5174,10 @@
         "title": "Original Value"
       },
       {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
+      },
+      {
         "slug": "spirit-self",
         "title": "Spirit Self"
       },
@@ -5044,6 +5245,10 @@
   "han": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
       {
         "slug": "gods-heart",
         "title": "God's Heart"
@@ -5483,6 +5688,10 @@
       }
     ],
     "mentioned": [
+      {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
       {
         "slug": "era-of-registration",
         "title": "Era of Registration"
@@ -5949,6 +6158,20 @@
     ],
     "verbatim": []
   },
+  "husband-and-wife": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "blessed-family-term",
+        "title": "Blessed Family"
+      },
+      {
+        "slug": "ideal-family-term",
+        "title": "Ideal Family"
+      }
+    ],
+    "verbatim": []
+  },
   "hyeongsang": {
     "further_reading": [],
     "mentioned": [
@@ -6096,6 +6319,10 @@
       {
         "slug": "gods-hope-term",
         "title": "God’s Hope"
+      },
+      {
+        "slug": "husband-and-wife",
+        "title": "Husband and wife"
       }
     ],
     "verbatim": []
@@ -6179,10 +6406,6 @@
         "title": "Home Church"
       },
       {
-        "slug": "ideal-family-term",
-        "title": "Ideal Family"
-      },
-      {
         "slug": "jacob-term",
         "title": "Jacob"
       },
@@ -6235,6 +6458,10 @@
       {
         "slug": "absolute-self-denial",
         "title": "Absolute Self-Denial"
+      },
+      {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
       },
       {
         "slug": "ancestors",
@@ -6303,6 +6530,10 @@
       {
         "slug": "restoration-through-indemnity-term",
         "title": "Restoration Through Indemnity"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       },
       {
         "slug": "satan-lucifer",
@@ -6525,6 +6756,10 @@
         "title": "Absoluteness"
       },
       {
+        "slug": "axis",
+        "title": "Axis"
+      },
+      {
         "slug": "cheonjin-bumo",
         "title": "Cheonjin Bumo"
       },
@@ -6595,6 +6830,10 @@
       {
         "slug": "portion-of-responsibility",
         "title": "Portion of Responsibility"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       },
       {
         "slug": "second-israel-term",
@@ -6776,6 +7015,10 @@
     ],
     "mentioned": [
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
         "slug": "cheon-il-guk",
         "title": "Cheon Il Guk"
       },
@@ -6842,6 +7085,10 @@
       {
         "slug": "righteousness-term",
         "title": "Righteousness"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       },
       {
         "slug": "satan-lucifer",
@@ -7191,6 +7438,10 @@
       {
         "slug": "perfection-term",
         "title": "Perfection"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       }
     ],
     "verbatim": []
@@ -7261,6 +7512,10 @@
       {
         "slug": "offering",
         "title": "Offering"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       },
       {
         "slug": "second-israel-term",
@@ -7374,6 +7629,10 @@
         "title": "Hell"
       },
       {
+        "slug": "husband-and-wife",
+        "title": "Husband and wife"
+      },
+      {
         "slug": "lineage",
         "title": "Lineage"
       },
@@ -7431,6 +7690,10 @@
   "korean-unification-and-world-peace": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "axis",
+        "title": "Axis"
+      },
       {
         "slug": "four-great-realms-of-heart",
         "title": "Four Great Realms of Heart"
@@ -7510,6 +7773,10 @@
       {
         "slug": "absolute-self-denial",
         "title": "Absolute Self-Denial"
+      },
+      {
+        "slug": "husband-and-wife",
+        "title": "Husband and wife"
       }
     ],
     "verbatim": []
@@ -7651,6 +7918,10 @@
         "title": "Hell"
       },
       {
+        "slug": "husband-and-wife",
+        "title": "Husband and wife"
+      },
+      {
         "slug": "il-shim-il-che-il-nyeom",
         "title": "Il-shim · Il-che · Il-nyeom"
       },
@@ -7733,6 +8004,10 @@
       {
         "slug": "indemnity",
         "title": "Indemnity"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       },
       {
         "slug": "self-awareness",
@@ -8463,8 +8738,22 @@
         "title": "Elite Soldier"
       },
       {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
+      },
+      {
         "slug": "three-great-kingships",
         "title": "Three Great Kingships"
+      }
+    ],
+    "verbatim": []
+  },
+  "offerings-and-tithes": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "sin-term",
+        "title": "Sin"
       }
     ],
     "verbatim": []
@@ -8707,6 +8996,10 @@
     ],
     "mentioned": [
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
         "slug": "only-begotten-son",
         "title": "Only Begotten Son"
       }
@@ -8944,6 +9237,10 @@
       {
         "slug": "destination",
         "title": "Destination"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       }
     ],
     "verbatim": []
@@ -9056,6 +9353,10 @@
   "prayer-term": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
       {
         "slug": "ancestors",
         "title": "Ancestors"
@@ -9261,10 +9562,6 @@
         "title": "Headwing Philosophy"
       },
       {
-        "slug": "ideal-family-term",
-        "title": "Ideal Family"
-      },
-      {
         "slug": "indemnity",
         "title": "Indemnity"
       },
@@ -9421,6 +9718,10 @@
       {
         "slug": "restoration-of-motherhood",
         "title": "Restoration of Motherhood"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       },
       {
         "slug": "the-eight-stage-restoration-path",
@@ -9663,6 +9964,10 @@
         "title": "Restoration of Motherhood"
       },
       {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
+      },
+      {
         "slug": "third-adam-fourth-adam",
         "title": "Third Adam, Fourth Adam"
       }
@@ -9795,6 +10100,28 @@
       {
         "slug": "god-of-night",
         "title": "God of Night"
+      }
+    ],
+    "verbatim": []
+  },
+  "sacrifice-term": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "completed-testament-age",
+        "title": "Completed Testament Age"
+      },
+      {
+        "slug": "elite-soldier",
+        "title": "Elite Soldier"
+      },
+      {
+        "slug": "filial-piety-term",
+        "title": "Filial Piety"
+      },
+      {
+        "slug": "offering",
+        "title": "Offering"
       }
     ],
     "verbatim": []
@@ -10225,6 +10552,10 @@
         "title": "Absoluteness"
       },
       {
+        "slug": "axis",
+        "title": "Axis"
+      },
+      {
         "slug": "cheon-il-guk",
         "title": "Cheon Il Guk"
       },
@@ -10481,6 +10812,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
         "slug": "blessed-family-term",
         "title": "Blessed Family"
       },
@@ -10511,6 +10846,10 @@
       {
         "slug": "righteousness-term",
         "title": "Righteousness"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       },
       {
         "slug": "three-stages-of-growth",
@@ -10636,6 +10975,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "axis",
+        "title": "Axis"
+      },
+      {
         "slug": "spirit-world-term",
         "title": "Spirit World"
       },
@@ -10714,8 +11057,16 @@
     ],
     "mentioned": [
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
         "slug": "ancestors",
         "title": "Ancestors"
+      },
+      {
+        "slug": "axis",
+        "title": "Axis"
       },
       {
         "slug": "boon-bong-wang",
@@ -10800,6 +11151,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "axis",
+        "title": "Axis"
+      },
+      {
         "slug": "connection-of-the-heart",
         "title": "Connection of the Heart"
       },
@@ -10864,6 +11219,16 @@
       {
         "slug": "sumgisineun-hananim",
         "title": "Sumgisineun Hananim"
+      }
+    ],
+    "verbatim": []
+  },
+  "teachings-on-purity": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "husband-and-wife",
+        "title": "Husband and wife"
       }
     ],
     "verbatim": []
@@ -11289,6 +11654,10 @@
         "title": "Human History"
       },
       {
+        "slug": "husband-and-wife",
+        "title": "Husband and wife"
+      },
+      {
         "slug": "logos",
         "title": "Logos"
       },
@@ -11366,6 +11735,10 @@
         "title": "Exposition of the Divine Principle"
       },
       {
+        "slug": "husband-and-wife",
+        "title": "Husband and wife"
+      },
+      {
         "slug": "origin-division-union",
         "title": "Origin-Division-Union"
       },
@@ -11382,12 +11755,7 @@
     ]
   },
   "the-education-of-children": {
-    "further_reading": [
-      {
-        "slug": "ideal-family-term",
-        "title": "Ideal Family"
-      }
-    ],
+    "further_reading": [],
     "mentioned": [
       {
         "slug": "blessed-family-term",
@@ -11587,8 +11955,16 @@
         "title": "Absolute Sexual Ethics"
       },
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
         "slug": "ancestors",
         "title": "Ancestors"
+      },
+      {
+        "slug": "axis",
+        "title": "Axis"
       },
       {
         "slug": "bering-strait-tunnel",
@@ -11715,6 +12091,10 @@
         "title": "Human History"
       },
       {
+        "slug": "husband-and-wife",
+        "title": "Husband and wife"
+      },
+      {
         "slug": "il-shim-il-che-il-nyeom",
         "title": "Il-shim · Il-che · Il-nyeom"
       },
@@ -11793,6 +12173,10 @@
       {
         "slug": "restoration-through-indemnity-term",
         "title": "Restoration Through Indemnity"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       },
       {
         "slug": "satan-lucifer",
@@ -12597,12 +12981,7 @@
     "verbatim": []
   },
   "the-life-of-the-blessed-family": {
-    "further_reading": [
-      {
-        "slug": "ideal-family-term",
-        "title": "Ideal Family"
-      }
-    ],
+    "further_reading": [],
     "mentioned": [
       {
         "slug": "blessed-family-term",
@@ -12624,6 +13003,16 @@
         "title": "Messiah"
       }
     ]
+  },
+  "the-love-of-husband-and-wife": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "husband-and-wife",
+        "title": "Husband and wife"
+      }
+    ],
+    "verbatim": []
   },
   "the-manifestation-of-gods-dual-characteristics": {
     "further_reading": [],
@@ -12983,6 +13372,10 @@
         "title": "Restoration Through Indemnity"
       },
       {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
+      },
+      {
         "slug": "second-israel-term",
         "title": "Second Israel"
       },
@@ -13043,6 +13436,16 @@
       {
         "slug": "dispensational-time-identity",
         "title": "Dispensational Time-Identity"
+      }
+    ],
+    "verbatim": []
+  },
+  "the-offering-of-devotion": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "jeongo-jeongchak",
+        "title": "High Noon Settlement"
       }
     ],
     "verbatim": []
@@ -13158,6 +13561,10 @@
       {
         "slug": "restoration-through-indemnity-term",
         "title": "Restoration Through Indemnity"
+      },
+      {
+        "slug": "sacrifice-term",
+        "title": "Sacrifice"
       },
       {
         "slug": "second-israel-term",
@@ -13609,10 +14016,6 @@
       {
         "slug": "blessing-ceremony",
         "title": "Blessing Ceremony"
-      },
-      {
-        "slug": "ideal-family-term",
-        "title": "Ideal Family"
       }
     ],
     "mentioned": [
@@ -13966,6 +14369,16 @@
       {
         "slug": "matching",
         "title": "Matching"
+      }
+    ],
+    "verbatim": []
+  },
+  "the-returning-resurrection-of-people-in-the-spirit-world": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
       }
     ],
     "verbatim": []
@@ -14666,6 +15079,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
         "slug": "ancestors",
         "title": "Ancestors"
       }
@@ -14733,6 +15150,10 @@
   "the-value-of-blessed-families": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
       {
         "slug": "sincerity",
         "title": "Sincerity"
@@ -15244,6 +15665,10 @@
     ],
     "mentioned": [
       {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
         "slug": "ancestors",
         "title": "Ancestors"
       },
@@ -15325,6 +15750,10 @@
   "tribal-messiahship": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
       {
         "slug": "eschatology-term",
         "title": "Eschatology"
@@ -15421,12 +15850,7 @@
     "verbatim": []
   },
   "true-husband-and-wife": {
-    "further_reading": [
-      {
-        "slug": "ideal-family-term",
-        "title": "Ideal Family"
-      }
-    ],
+    "further_reading": [],
     "mentioned": [
       {
         "slug": "connection-of-the-heart",
@@ -15524,8 +15948,16 @@
     ],
     "mentioned": [
       {
+        "slug": "axis",
+        "title": "Axis"
+      },
+      {
         "slug": "filial-piety-term",
         "title": "Filial Piety"
+      },
+      {
+        "slug": "husband-and-wife",
+        "title": "Husband and wife"
       },
       {
         "slug": "righteousness-term",
@@ -15839,16 +16271,6 @@
     ],
     "verbatim": []
   },
-  "true-parents-and-children": {
-    "further_reading": [
-      {
-        "slug": "ideal-family-term",
-        "title": "Ideal Family"
-      }
-    ],
-    "mentioned": [],
-    "verbatim": []
-  },
   "true-parents-and-the-completed-testament-age": {
     "further_reading": [],
     "mentioned": [
@@ -15940,10 +16362,6 @@
         "title": "Hyeongsang"
       },
       {
-        "slug": "ideal-family-term",
-        "title": "Ideal Family"
-      },
-      {
         "slug": "predestination-term",
         "title": "Predestination"
       },
@@ -15972,6 +16390,14 @@
       {
         "slug": "adam-and-eve-term",
         "title": "Adam and Eve"
+      },
+      {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
+        "slug": "axis",
+        "title": "Axis"
       },
       {
         "slug": "blessed-family-term",
@@ -16398,6 +16824,10 @@
     ],
     "mentioned": [
       {
+        "slug": "axis",
+        "title": "Axis"
+      },
+      {
         "slug": "communism",
         "title": "Communism"
       },
@@ -16619,6 +17049,16 @@
       }
     ],
     "mentioned": [],
+    "verbatim": []
+  },
+  "why-is-the-seven-year-course-necessary": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "the-eight-stage-restoration-path",
+        "title": "The Eight-Stage Restoration Path"
+      }
+    ],
     "verbatim": []
   },
   "wild-olive-tree": {
