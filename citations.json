@@ -428,6 +428,10 @@
         "title": "Axis"
       },
       {
+        "slug": "captivity",
+        "title": "Captivity"
+      },
+      {
         "slug": "palace-of-heavenly-harmony",
         "title": "Cheonhwagung"
       },
@@ -598,6 +602,10 @@
       {
         "slug": "three-stages-of-growth",
         "title": "Three Stages of Growth"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -829,6 +837,16 @@
     ],
     "verbatim": []
   },
+  "become-filial-sons-patriots-saints-and-divine-sons": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "saint",
+        "title": "Saint"
+      }
+    ],
+    "verbatim": []
+  },
   "becoming-an-offering": {
     "further_reading": [],
     "mentioned": [
@@ -921,7 +939,7 @@
       },
       {
         "slug": "ahn-shil-il",
-        "title": "Ahn Shil Il"
+        "title": "Ahn ShiI Il"
       },
       {
         "slug": "d-day",
@@ -1157,6 +1175,10 @@
         "title": "Sacrifice"
       },
       {
+        "slug": "saint",
+        "title": "Saint"
+      },
+      {
         "slug": "self-dominion",
         "title": "Self-dominion"
       },
@@ -1283,7 +1305,7 @@
       },
       {
         "slug": "ahn-shil-il",
-        "title": "Ahn Shil Il"
+        "title": "Ahn ShiI Il"
       },
       {
         "slug": "blessed-family-term",
@@ -1464,6 +1486,10 @@
       {
         "slug": "universal-peace-federation",
         "title": "Universal Peace Federation"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -1810,6 +1836,10 @@
       {
         "slug": "unification-movement",
         "title": "Unification Movement"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -1819,7 +1849,7 @@
     "mentioned": [
       {
         "slug": "ahn-shil-il",
-        "title": "Ahn Shil Il"
+        "title": "Ahn ShiI Il"
       },
       {
         "slug": "heavenly-calendar",
@@ -1837,6 +1867,24 @@
         "title": "Messiah"
       }
     ]
+  },
+  "captivity": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "han",
+        "title": "Han"
+      },
+      {
+        "slug": "messiah",
+        "title": "Messiah"
+      },
+      {
+        "slug": "the-fall-term",
+        "title": "The Fall"
+      }
+    ],
+    "verbatim": []
   },
   "causa-and-aula": {
     "further_reading": [],
@@ -1983,6 +2031,10 @@
       {
         "slug": "boon-bong-wang",
         "title": "Boon Bong Wang"
+      },
+      {
+        "slug": "captivity",
+        "title": "Captivity"
       },
       {
         "slug": "palace-of-heavenly-harmony",
@@ -2564,7 +2616,7 @@
       },
       {
         "slug": "ahn-shil-il",
-        "title": "Ahn Shil Il"
+        "title": "Ahn ShiI Il"
       },
       {
         "slug": "ancestors",
@@ -2795,6 +2847,10 @@
         "title": "The Individual Embodiment of Truth"
       },
       {
+        "slug": "the-life-of-attendance",
+        "title": "The Life of Attendance"
+      },
+      {
         "slug": "the-new-testament-age",
         "title": "The New Testament Age"
       },
@@ -2837,6 +2893,10 @@
       {
         "slug": "unification-movement",
         "title": "Unification Movement"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       },
       {
         "slug": "wonggu",
@@ -2933,6 +2993,10 @@
         "title": "Sincerity"
       },
       {
+        "slug": "the-life-of-attendance",
+        "title": "The Life of Attendance"
+      },
+      {
         "slug": "three-generations",
         "title": "Three Generations"
       },
@@ -2971,6 +3035,10 @@
         "title": "Habituality"
       },
       {
+        "slug": "saint",
+        "title": "Saint"
+      },
+      {
         "slug": "self-control-term",
         "title": "Self-control"
       },
@@ -2981,6 +3049,10 @@
       {
         "slug": "true-olive-tree",
         "title": "True Olive Tree"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -3066,6 +3138,10 @@
       {
         "slug": "sumgisineun-hananim",
         "title": "Sumgisineun Hananim"
+      },
+      {
+        "slug": "the-life-of-attendance",
+        "title": "The Life of Attendance"
       },
       {
         "slug": "three-great-subject-partners-principle",
@@ -3302,6 +3378,10 @@
       {
         "slug": "spirit-self",
         "title": "Spirit Self"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -3470,6 +3550,10 @@
         "title": "Axis"
       },
       {
+        "slug": "captivity",
+        "title": "Captivity"
+      },
+      {
         "slug": "communism",
         "title": "Communism"
       },
@@ -3538,6 +3622,10 @@
         "title": "Sacrifice"
       },
       {
+        "slug": "saint",
+        "title": "Saint"
+      },
+      {
         "slug": "self-awareness",
         "title": "Self-Awareness"
       },
@@ -3558,8 +3646,16 @@
         "title": "The Last Days"
       },
       {
+        "slug": "theory-of-the-original-substance",
+        "title": "Theory of the Original Substance"
+      },
+      {
         "slug": "wild-olive-tree",
         "title": "Wild Olive Tree"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       },
       {
         "slug": "wonggu",
@@ -3698,6 +3794,10 @@
       {
         "slug": "living-for-the-sake-of-others",
         "title": "Living for the Sake of Others"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -3782,6 +3882,10 @@
     ],
     "mentioned": [
       {
+        "slug": "captivity",
+        "title": "Captivity"
+      },
+      {
         "slug": "dispensational-time-identity",
         "title": "Dispensational Time-Identity"
       }
@@ -3835,7 +3939,12 @@
         "title": "Conscience"
       }
     ],
-    "mentioned": [],
+    "mentioned": [
+      {
+        "slug": "the-life-of-attendance",
+        "title": "The Life of Attendance"
+      }
+    ],
     "verbatim": []
   },
   "faith-term": {
@@ -4026,7 +4135,7 @@
     "mentioned": [
       {
         "slug": "ahn-shil-il",
-        "title": "Ahn Shil Il"
+        "title": "Ahn ShiI Il"
       },
       {
         "slug": "blessed-family-term",
@@ -4224,7 +4333,7 @@
     "mentioned": [
       {
         "slug": "ahn-shil-il",
-        "title": "Ahn Shil Il"
+        "title": "Ahn ShiI Il"
       },
       {
         "slug": "blessed-family-term",
@@ -4396,6 +4505,16 @@
     ],
     "verbatim": []
   },
+  "giving-and-receiving": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "theory-of-the-original-substance",
+        "title": "Theory of the Original Substance"
+      }
+    ],
+    "verbatim": []
+  },
   "giving-sermons-that-move-hearts": {
     "further_reading": [],
     "mentioned": [
@@ -4425,6 +4544,10 @@
       {
         "slug": "ancestor-liberation",
         "title": "Ancestor Liberation"
+      },
+      {
+        "slug": "captivity",
+        "title": "Captivity"
       },
       {
         "slug": "cheonjin-bumo",
@@ -5093,6 +5216,16 @@
     ],
     "verbatim": []
   },
+  "gods-wish-and-our-wish": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "gods-hope-term",
+        "title": "God’s Hope"
+      }
+    ],
+    "verbatim": []
+  },
   "gods-work-of-salvation-is-the-providence-of-restoration": {
     "further_reading": [],
     "mentioned": [
@@ -5486,7 +5619,7 @@
     "further_reading": [
       {
         "slug": "ahn-shil-il",
-        "title": "Ahn Shil Il"
+        "title": "Ahn ShiI Il"
       },
       {
         "slug": "heavenly-calendar",
@@ -5656,6 +5789,10 @@
       {
         "slug": "unification-movement",
         "title": "Unification Movement"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -5699,6 +5836,10 @@
       {
         "slug": "kingdom-of-heaven",
         "title": "Kingdom of Heaven"
+      },
+      {
+        "slug": "the-life-of-attendance",
+        "title": "The Life of Attendance"
       },
       {
         "slug": "tribal-messiah-term",
@@ -6218,6 +6359,10 @@
       {
         "slug": "the-individual-embodiment-of-truth",
         "title": "The Individual Embodiment of Truth"
+      },
+      {
+        "slug": "theory-of-the-original-substance",
+        "title": "Theory of the Original Substance"
       }
     ],
     "verbatim": []
@@ -6468,6 +6613,10 @@
         "title": "Ancestors"
       },
       {
+        "slug": "captivity",
+        "title": "Captivity"
+      },
+      {
         "slug": "cheon-hwa-gung",
         "title": "Cheon Hwa Gung"
       },
@@ -6562,6 +6711,10 @@
       {
         "slug": "three-stages-of-growth",
         "title": "Three Stages of Growth"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       },
       {
         "slug": "zero-point",
@@ -6836,6 +6989,10 @@
         "title": "Sacrifice"
       },
       {
+        "slug": "saint",
+        "title": "Saint"
+      },
+      {
         "slug": "second-israel-term",
         "title": "Second Israel"
       },
@@ -6850,6 +7007,10 @@
       {
         "slug": "the-last-days",
         "title": "The Last Days"
+      },
+      {
+        "slug": "the-life-of-attendance",
+        "title": "The Life of Attendance"
       },
       {
         "slug": "three-generations",
@@ -6946,6 +7107,20 @@
       {
         "slug": "true-olive-tree",
         "title": "True Olive Tree"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
+      }
+    ],
+    "verbatim": []
+  },
+  "jacob-esau": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -6964,6 +7139,10 @@
       {
         "slug": "restoration-of-motherhood",
         "title": "Restoration of Motherhood"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -7277,6 +7456,10 @@
         "title": "Righteousness"
       },
       {
+        "slug": "saint",
+        "title": "Saint"
+      },
+      {
         "slug": "second-israel-term",
         "title": "Second Israel"
       },
@@ -7340,6 +7523,16 @@
     "verbatim": []
   },
   "jesus-death-on-the-cross": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "jesus",
+        "title": "Jesus"
+      }
+    ],
+    "verbatim": []
+  },
+  "jesus-sorrow": {
     "further_reading": [],
     "mentioned": [
       {
@@ -7518,6 +7711,10 @@
         "title": "Sacrifice"
       },
       {
+        "slug": "saint",
+        "title": "Saint"
+      },
+      {
         "slug": "second-israel-term",
         "title": "Second Israel"
       },
@@ -7528,6 +7725,10 @@
       {
         "slug": "self-dominion",
         "title": "Self-dominion"
+      },
+      {
+        "slug": "the-life-of-attendance",
+        "title": "The Life of Attendance"
       },
       {
         "slug": "the-old-testament-age",
@@ -7552,6 +7753,10 @@
       {
         "slug": "wild-olive-tree",
         "title": "Wild Olive Tree"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -7743,6 +7948,16 @@
       {
         "slug": "conscience",
         "title": "Conscience"
+      }
+    ],
+    "verbatim": []
+  },
+  "let-us-comfort-heaven": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "righteousness-term",
+        "title": "Righteousness"
       }
     ],
     "verbatim": []
@@ -7944,6 +8159,10 @@
       {
         "slug": "wild-olive-tree",
         "title": "Wild Olive Tree"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -8034,6 +8253,10 @@
       {
         "slug": "theology",
         "title": "Theology"
+      },
+      {
+        "slug": "theory-of-the-original-substance",
+        "title": "Theory of the Original Substance"
       },
       {
         "slug": "true-parents-term",
@@ -8216,6 +8439,10 @@
         "title": "Boon Bong Wang"
       },
       {
+        "slug": "captivity",
+        "title": "Captivity"
+      },
+      {
         "slug": "cheonjin-bumo",
         "title": "Cheonjin Bumo"
       },
@@ -8334,6 +8561,10 @@
       {
         "slug": "wild-olive-tree",
         "title": "Wild Olive Tree"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -8518,6 +8749,10 @@
         "title": "God's Dispensation"
       },
       {
+        "slug": "saint",
+        "title": "Saint"
+      },
+      {
         "slug": "salvation-history",
         "title": "Salvation History"
       },
@@ -8536,6 +8771,10 @@
       {
         "slug": "true-person",
         "title": "True Person"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -8726,6 +8965,16 @@
     ],
     "verbatim": []
   },
+  "obedience-and-submission": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "the-life-of-attendance",
+        "title": "The Life of Attendance"
+      }
+    ],
+    "verbatim": []
+  },
   "offering": {
     "further_reading": [],
     "mentioned": [
@@ -8778,6 +9027,10 @@
       {
         "slug": "true-parents-term",
         "title": "True Parents"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -9340,6 +9593,16 @@
     ],
     "verbatim": []
   },
+  "prayer": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "saint",
+        "title": "Saint"
+      }
+    ],
+    "verbatim": []
+  },
   "prayer-in-the-name-of-true-parents": {
     "further_reading": [],
     "mentioned": [
@@ -9593,7 +9856,7 @@
       },
       {
         "slug": "ahn-shil-il",
-        "title": "Ahn Shil Il"
+        "title": "Ahn ShiI Il"
       },
       {
         "slug": "communism",
@@ -9791,6 +10054,10 @@
       {
         "slug": "wild-olive-tree",
         "title": "Wild Olive Tree"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -9841,6 +10108,10 @@
       {
         "slug": "absolute-self-denial",
         "title": "Absolute Self-Denial"
+      },
+      {
+        "slug": "saint",
+        "title": "Saint"
       }
     ],
     "verbatim": []
@@ -9970,6 +10241,10 @@
       {
         "slug": "third-adam-fourth-adam",
         "title": "Third Adam, Fourth Adam"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -10019,7 +10294,7 @@
     "mentioned": [
       {
         "slug": "ahn-shil-il",
-        "title": "Ahn Shil Il"
+        "title": "Ahn ShiI Il"
       },
       {
         "slug": "john-the-baptist-term",
@@ -10036,6 +10311,10 @@
       {
         "slug": "the-new-testament-age",
         "title": "The New Testament Age"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -10090,6 +10369,10 @@
       {
         "slug": "sumgisineun-hananim",
         "title": "Sumgisineun Hananim"
+      },
+      {
+        "slug": "the-life-of-attendance",
+        "title": "The Life of Attendance"
       }
     ],
     "verbatim": []
@@ -10122,6 +10405,16 @@
       {
         "slug": "offering",
         "title": "Offering"
+      }
+    ],
+    "verbatim": []
+  },
+  "saint": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "john-the-baptist-term",
+        "title": "John the Baptist"
       }
     ],
     "verbatim": []
@@ -10302,6 +10595,10 @@
       {
         "slug": "wild-olive-tree",
         "title": "Wild Olive Tree"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -10441,6 +10738,10 @@
       {
         "slug": "the-individual-embodiment-of-truth",
         "title": "The Individual Embodiment of Truth"
+      },
+      {
+        "slug": "theory-of-the-original-substance",
+        "title": "Theory of the Original Substance"
       }
     ],
     "verbatim": []
@@ -10786,6 +11087,10 @@
         "title": "Ancestors"
       },
       {
+        "slug": "captivity",
+        "title": "Captivity"
+      },
+      {
         "slug": "eschatology-term",
         "title": "Eschatology"
       },
@@ -10904,6 +11209,16 @@
       {
         "slug": "prayer-term",
         "title": "Prayer"
+      }
+    ],
+    "verbatim": []
+  },
+  "sovereign-and-omnipotent": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "captivity",
+        "title": "Captivity"
       }
     ],
     "verbatim": []
@@ -11497,6 +11812,16 @@
     ],
     "verbatim": []
   },
+  "the-center-of-the-universe": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "saint",
+        "title": "Saint"
+      }
+    ],
+    "verbatim": []
+  },
   "the-characteristics-of-true-love": {
     "further_reading": [],
     "mentioned": [],
@@ -11617,6 +11942,10 @@
   "the-creator": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "captivity",
+        "title": "Captivity"
+      },
       {
         "slug": "coronation-of-gods-kingship",
         "title": "Coronation of God’s Kingship"
@@ -11745,6 +12074,10 @@
       {
         "slug": "shimjeong",
         "title": "Shimjeong"
+      },
+      {
+        "slug": "theory-of-the-original-substance",
+        "title": "Theory of the Original Substance"
       }
     ],
     "verbatim": [
@@ -11818,6 +12151,10 @@
       {
         "slug": "fallen-nature",
         "title": "Fallen Nature"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -11973,6 +12310,10 @@
       {
         "slug": "bible",
         "title": "Bible"
+      },
+      {
+        "slug": "captivity",
+        "title": "Captivity"
       },
       {
         "slug": "palace-of-heavenly-harmony",
@@ -12227,6 +12568,10 @@
         "title": "The Last Days"
       },
       {
+        "slug": "the-life-of-attendance",
+        "title": "The Life of Attendance"
+      },
+      {
         "slug": "the-old-testament-age",
         "title": "The Old Testament Age"
       },
@@ -12249,6 +12594,10 @@
       {
         "slug": "wild-olive-tree",
         "title": "Wild Olive Tree"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       },
       {
         "slug": "zero-point",
@@ -12628,7 +12977,12 @@
         "title": "Truth"
       }
     ],
-    "mentioned": [],
+    "mentioned": [
+      {
+        "slug": "theory-of-the-original-substance",
+        "title": "Theory of the Original Substance"
+      }
+    ],
     "verbatim": []
   },
   "the-god-of-true-love": {
@@ -12952,6 +13306,10 @@
       {
         "slug": "judgment",
         "title": "Judgment"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -12976,6 +13334,16 @@
       {
         "slug": "restoration-through-indemnity-term",
         "title": "Restoration Through Indemnity"
+      }
+    ],
+    "verbatim": []
+  },
+  "the-life-of-attendance": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "sincerity",
+        "title": "Sincerity"
       }
     ],
     "verbatim": []
@@ -13032,6 +13400,10 @@
       {
         "slug": "sangdae",
         "title": "Sangdae"
+      },
+      {
+        "slug": "theory-of-the-original-substance",
+        "title": "Theory of the Original Substance"
       },
       {
         "slug": "trinity",
@@ -13400,6 +13772,10 @@
         "title": "The Individual Embodiment of Truth"
       },
       {
+        "slug": "the-life-of-attendance",
+        "title": "The Life of Attendance"
+      },
+      {
         "slug": "third-adam-fourth-adam",
         "title": "Third Adam, Fourth Adam"
       },
@@ -13585,6 +13961,10 @@
       {
         "slug": "the-individual-embodiment-of-truth",
         "title": "The Individual Embodiment of Truth"
+      },
+      {
+        "slug": "the-life-of-attendance",
+        "title": "The Life of Attendance"
       },
       {
         "slug": "three-great-crosses",
@@ -14560,6 +14940,10 @@
       {
         "slug": "true-olive-tree",
         "title": "True Olive Tree"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -15297,6 +15681,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "captivity",
+        "title": "Captivity"
+      },
+      {
         "slug": "doctrine-and-dogma",
         "title": "Doctrine and Dogma"
       },
@@ -15453,6 +15841,10 @@
       {
         "slug": "true-olive-tree",
         "title": "True Olive Tree"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -15529,6 +15921,20 @@
       {
         "slug": "habituality",
         "title": "Habituality"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
+      }
+    ],
+    "verbatim": []
+  },
+  "training-the-body": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -16192,7 +16598,7 @@
       },
       {
         "slug": "ahn-shil-il",
-        "title": "Ahn Shil Il"
+        "title": "Ahn ShiI Il"
       },
       {
         "slug": "eschatology-term",
@@ -16612,6 +17018,10 @@
         "title": "The Last Days"
       },
       {
+        "slug": "the-life-of-attendance",
+        "title": "The Life of Attendance"
+      },
+      {
         "slug": "the-new-testament-age",
         "title": "The New Testament Age"
       },
@@ -16622,6 +17032,10 @@
       {
         "slug": "theology",
         "title": "Theology"
+      },
+      {
+        "slug": "theory-of-the-original-substance",
+        "title": "Theory of the Original Substance"
       },
       {
         "slug": "three-generations",
@@ -16654,6 +17068,10 @@
       {
         "slug": "unification-movement",
         "title": "Unification Movement"
+      },
+      {
+        "slug": "womb-restoration",
+        "title": "Womb Restoration"
       }
     ],
     "verbatim": []
@@ -16846,6 +17264,10 @@
       {
         "slug": "self-awareness",
         "title": "Self-Awareness"
+      },
+      {
+        "slug": "theory-of-the-original-substance",
+        "title": "Theory of the Original Substance"
       }
     ],
     "verbatim": []
