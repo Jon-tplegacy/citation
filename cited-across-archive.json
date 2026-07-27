@@ -1718,8 +1718,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "we-who-have-been-called-to-do-gods-work",
-      "title": "We Who Have Been Called To Do God's Work"
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
     }
   ],
   "blessed-family-traditions": [
@@ -2683,13 +2683,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "restoration-and-blessing",
-      "title": "Restoration And Blessing"
+      "slug": "gods-toil-for-the-providence-of-restoration",
+      "title": "God’s Toil for the Providence of Restoration"
     },
     {
       "corpus": "Sermon",
-      "slug": "gods-toil-for-the-providence-of-restoration",
-      "title": "God’s Toil for the Providence of Restoration"
+      "slug": "restoration-and-blessing",
+      "title": "Restoration And Blessing"
     }
   ],
   "childrens-day-1990": [
@@ -5730,13 +5730,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-core-of-absolute-faith-absolute-love-and-absolute-obedience",
-      "title": "The Core of Absolute Faith, Absolute Love and Absolute Obedience"
+      "slug": "unification-church",
+      "title": "Unification Church"
     },
     {
       "corpus": "Sermon",
-      "slug": "unification-church",
-      "title": "Unification Church"
+      "slug": "the-core-of-absolute-faith-absolute-love-and-absolute-obedience",
+      "title": "The Core of Absolute Faith, Absolute Love and Absolute Obedience"
     },
     {
       "corpus": "Sermon",
@@ -7854,13 +7854,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "all-things-depend-on-us",
-      "title": "All Things Depend On Us"
+      "slug": "the-history-of-restoration-and-the-day-of-all-things",
+      "title": "The History of Restoration and the Day of All Things"
     },
     {
       "corpus": "Sermon",
-      "slug": "host-of-the-future",
-      "title": "Host of the Future"
+      "slug": "all-things-depend-on-us",
+      "title": "All Things Depend On Us"
     }
   ],
   "gods-hope-for-man": [
@@ -8735,13 +8735,13 @@
   "gods-will-through-adam-and-eve": [
     {
       "corpus": "Sermon",
-      "slug": "true-family",
-      "title": "True Family"
+      "slug": "victorious-sons-and-daughters",
+      "title": "Victorious Sons and Daughters"
     },
     {
       "corpus": "Sermon",
-      "slug": "victorious-sons-and-daughters",
-      "title": "Victorious Sons and Daughters"
+      "slug": "true-family",
+      "title": "True Family"
     },
     {
       "corpus": "Sermon",
@@ -11021,13 +11021,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "our-desire",
-      "title": "Children of the Heavenly Father"
+      "slug": "unification-church",
+      "title": "Unification Church"
     },
     {
       "corpus": "Sermon",
-      "slug": "unification-church",
-      "title": "Unification Church"
+      "slug": "our-desire",
+      "title": "Children of the Heavenly Father"
     },
     {
       "corpus": "Sermon",
@@ -11260,18 +11260,23 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "let-us-comfort-heaven",
-      "title": "Let Us Comfort Heaven"
-    },
-    {
-      "corpus": "Sermon",
       "slug": "the-history-of-restoration-and-the-day-of-all-things",
       "title": "The History of Restoration and the Day of All Things"
     },
     {
       "corpus": "Sermon",
+      "slug": "let-us-comfort-heaven",
+      "title": "Let Us Comfort Heaven"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "foundation-day-for-the-nation-of-the-unified-world",
       "title": "The True Foundation Day For The Nation Of The Unified World"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "a-new-awakening",
+      "title": "A New Awakening"
     },
     {
       "corpus": "Sermon",
@@ -11282,11 +11287,6 @@
       "corpus": "Sermon",
       "slug": "world-day",
       "title": "World Day"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "53rd-anniversary-of-liberation-from-the-prison",
-      "title": "53rd Anniversary of Liberation from the Prison in North Korea, and the 3rd Anniversary of Liberation of the Spirit World"
     }
   ],
   "hypocrisy": [
@@ -18455,6 +18455,11 @@
       "corpus": "Messages of Peace",
       "slug": "the-mission-of-the-clan-messiah-in-the-revolutionary-era-after-the-coming-of-heaven",
       "title": "The Mission of the Clan Messiah in the Revolutionary Era After the Coming of Heaven"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "a-new-awakening",
+      "title": "A New Awakening"
     }
   ],
   "our-life-of-faith-and-the-providence-of-restoration": [
@@ -19405,13 +19410,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "let-us-inherit-the-realm-of-victory-of-our-true-parents",
-      "title": "Let Us Inherit The Realm Of Victory Of Our True Parents"
+      "slug": "gods-toil-for-the-providence-of-restoration",
+      "title": "God’s Toil for the Providence of Restoration"
     },
     {
       "corpus": "Sermon",
-      "slug": "restoration-and-blessing",
-      "title": "Restoration And Blessing"
+      "slug": "let-us-inherit-the-realm-of-victory-of-our-true-parents",
+      "title": "Let Us Inherit The Realm Of Victory Of Our True Parents"
     }
   ],
   "parents-day-and-me": [
@@ -22565,13 +22570,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "true-family",
-      "title": "True Family"
+      "slug": "victorious-sons-and-daughters",
+      "title": "Victorious Sons and Daughters"
     },
     {
       "corpus": "Sermon",
-      "slug": "victorious-sons-and-daughters",
-      "title": "Victorious Sons and Daughters"
+      "slug": "true-family",
+      "title": "True Family"
     },
     {
       "corpus": "Sermon",
@@ -24797,13 +24802,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "restoration-and-blessing",
-      "title": "Restoration And Blessing"
+      "slug": "gods-toil-for-the-providence-of-restoration",
+      "title": "God’s Toil for the Providence of Restoration"
     },
     {
       "corpus": "Sermon",
-      "slug": "gods-toil-for-the-providence-of-restoration",
-      "title": "God’s Toil for the Providence of Restoration"
+      "slug": "restoration-and-blessing",
+      "title": "Restoration And Blessing"
     },
     {
       "corpus": "Sermon",
@@ -28756,13 +28761,18 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "let-us-comfort-heaven",
-      "title": "Let Us Comfort Heaven"
+      "slug": "let-us-continue-the-total-advance",
+      "title": "Let Us Continue the Total Advance"
     },
     {
       "corpus": "Sermon",
       "slug": "the-history-of-restoration-and-the-day-of-all-things",
       "title": "The History of Restoration and the Day of All Things"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "let-us-comfort-heaven",
+      "title": "Let Us Comfort Heaven"
     },
     {
       "corpus": "Sermon",
@@ -28773,11 +28783,6 @@
       "corpus": "Sermon",
       "slug": "the-world-age-and-our-mission",
       "title": "The World Age And Our Mission"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "preparation-to-greet-the-new-seven-year-course",
-      "title": "Preparation to Greet the New Seven-Year Course"
     }
   ],
   "the-goal-of-the-providence-of-restoration": [
@@ -30397,6 +30402,28 @@
       "corpus": "CSG",
       "slug": "parents-love",
       "title": "Parental Love"
+    }
+  ],
+  "the-inner-self-where-heaven-can-be-present": [
+    {
+      "corpus": "PHG",
+      "slug": "the-true-owners-in-establishing-the-kingdom-of-peace-and-unity-in-heaven-and-on-earth",
+      "title": "The True Owners in Establishing the Kingdom of Peace and Unity in Heaven and on Earth I"
+    },
+    {
+      "corpus": "PHG",
+      "slug": "the-true-family-and-i",
+      "title": "The True Family and I"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "the-immortal-soul",
+      "title": "The Immortal Soul"
+    },
+    {
+      "corpus": "Messages of Peace",
+      "slug": "the-family-is-rooted-in-absolute-sexual-ethics-which-is-the-model-for-gods-absoluteness-peace-and-ideal-and-the-global-kingdom",
+      "title": "The Family is Rooted in Absolute Sexual Ethics, Which is the Model for God’s Absoluteness, Peace, and Ideal, and the Global Kingdom"
     }
   ],
   "the-internal-significance-of-the-fall": [
@@ -34867,6 +34894,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-inner-self-where-heaven-can-be-present",
+      "title": "The Inner Self Where Heaven Can Be Present"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "proclamation-ssang-ship-jeol-and-entering-the-age-of-the-4th-adam",
       "title": "Proclamation Ssang Ship Jeol and entering the Age of the 4th Adam"
     }
@@ -35544,6 +35576,11 @@
       "corpus": "Sermon",
       "slug": "the-purpose-of-salvation",
       "title": "The Purpose of Salvation"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "let-us-continue-the-total-advance",
+      "title": "Let Us Continue the Total Advance"
     },
     {
       "corpus": "Sermon",
@@ -40957,13 +40994,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-meaning-of-the-day-of-victory-of-love",
-      "title": "The Meaning Of The Day Of Victory Of Love"
+      "slug": "the-history-of-restoration-and-the-day-of-all-things",
+      "title": "The History of Restoration and the Day of All Things"
     },
     {
       "corpus": "Sermon",
-      "slug": "gods-homeland-and-the-peace-kingdom-are-built-on-the-foundation",
-      "title": "God's Homeland And The Peace Kingdom Are Built On The Foundation Of The Realm Of His Liberation And Release"
+      "slug": "the-meaning-of-the-day-of-victory-of-love",
+      "title": "The Meaning Of The Day Of Victory Of Love"
     }
   ],
   "the-unity-of-the-world-and-humankinds-responsibility": [
@@ -41460,11 +41497,6 @@
       "corpus": "CBG",
       "slug": "salvation-and-the-liberation-of-god",
       "title": "Salvation and the Liberation of God"
-    },
-    {
-      "corpus": "CBG",
-      "slug": "the-life-of-cheon-il-guk-citizens",
-      "title": "The Life of Cheon Il Guk Citizens"
     },
     {
       "corpus": "CBG",
@@ -44674,6 +44706,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "before-and-after-the-blessing",
       "title": "Before and After the Blessing"
     },
@@ -44681,11 +44718,6 @@
       "corpus": "Sermon",
       "slug": "new-family-and-the-completed-testament",
       "title": "New Family And The Completed Testament"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "why-is-the-seven-year-course-necessary",
-      "title": "Why Is the Seven-Year Course Necessary?"
     },
     {
       "corpus": "Sermon",
