@@ -207,6 +207,11 @@
   "a-life-of-accomplishment": [
     {
       "corpus": "Sermon",
+      "slug": "the-road-of-indemnity-we-must-go",
+      "title": "The Road of Indemnity We Must Go"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "about-myself",
       "title": "About Myself"
     },
@@ -222,13 +227,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-protagonists-of-history",
-      "title": "The Protagonists of History"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "what-we-must-accomplish-from-now",
-      "title": "What We Must Accomplish from Now"
+      "slug": "the-victorious-unified-front",
+      "title": "The Victorious Unified Front"
     },
     {
       "corpus": "Sermon",
@@ -237,8 +237,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "true-parents-day-from-the-historical-point-of-view",
-      "title": "True Parents Day From The Historical Point Of View"
+      "slug": "the-protagonists-of-history",
+      "title": "The Protagonists of History"
     }
   ],
   "a-life-of-attendance": [
@@ -336,13 +336,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
-      "title": "Jesus' View of Life for the Sake of the Restoration"
+      "slug": "jesus-who-looks-back",
+      "title": "Jesus Who Looks Back On Walking the Path of His Fate"
     },
     {
       "corpus": "Sermon",
-      "slug": "jesus-who-looks-back",
-      "title": "Jesus Who Looks Back On Walking the Path of His Fate"
+      "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
+      "title": "Jesus' View of Life for the Sake of the Restoration"
     },
     {
       "corpus": "Sermon",
@@ -732,13 +732,13 @@
     },
     {
       "corpus": "CSG",
-      "slug": "the-return-to-the-hometown",
-      "title": "The 124 Couples"
+      "slug": "the-goal-of-restoration-is-adams-family",
+      "title": "The Goal of Restoration is Adam's Family"
     },
     {
       "corpus": "CSG",
-      "slug": "the-goal-of-restoration-is-adams-family",
-      "title": "The Goal of Restoration is Adam's Family"
+      "slug": "the-return-to-the-hometown",
+      "title": "The 124 Couples"
     },
     {
       "corpus": "DP",
@@ -752,13 +752,13 @@
     },
     {
       "corpus": "DP",
-      "slug": "the-last-days-and-the-new-truth",
-      "title": "The Last Days and the New Truth"
+      "slug": "the-providence-of-restoration-in-abrahams-family",
+      "title": "The Providence of Restoration in Abraham’s Family"
     },
     {
       "corpus": "DP",
-      "slug": "the-providence-of-restoration-in-abrahams-family",
-      "title": "The Providence of Restoration in Abraham’s Family"
+      "slug": "the-last-days-and-the-new-truth",
+      "title": "The Last Days and the New Truth"
     },
     {
       "corpus": "DP",
@@ -1487,6 +1487,18 @@
       "title": "Crossroads Of Life and Death"
     }
   ],
+  "becoming-a-responsible-person": [
+    {
+      "corpus": "CSG",
+      "slug": "the-purpose-and-goal-of-a-life-of-faith",
+      "title": "The Foundation of Faith and the Foundation of Substance"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "organizational-expansion-of-tong-ban-activities",
+      "title": "Organizational Expansion of Tong-ban Activities"
+    }
+  ],
   "becoming-an-offering": [
     {
       "corpus": "PHG",
@@ -1624,6 +1636,11 @@
       "corpus": "Sermon",
       "slug": "significance-of-the-training-session",
       "title": "Three Stages of Judgment"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "person-of-faith-who-grasps-through-experience",
+      "title": "A Person of Faith Who Grasps Through Experience"
     },
     {
       "corpus": "Sermon",
@@ -2049,13 +2066,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "heavenly-tradition",
-      "title": "Heavenly Tradition"
+      "slug": "unification-church",
+      "title": "Unification Church"
     },
     {
       "corpus": "Sermon",
-      "slug": "unification-church",
-      "title": "Unification Church"
+      "slug": "heavenly-tradition",
+      "title": "Heavenly Tradition"
     },
     {
       "corpus": "Sermon",
@@ -2678,6 +2695,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-meaning-of-the-holy-wine-ceremony",
       "title": "The Meaning of the Holy Wine Ceremony"
     },
@@ -2685,11 +2707,6 @@
       "corpus": "Sermon",
       "slug": "on-the-restoration-of-the-firstborn",
       "title": "On the Restoration of the Firstborn"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "why-is-the-seven-year-course-necessary",
-      "title": "Why Is the Seven-Year Course Necessary?"
     }
   ],
   "childrens-day-1990": [
@@ -3001,6 +3018,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "unification-church",
+      "title": "Unification Church"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "heavenly-tradition",
       "title": "Heavenly Tradition"
     },
@@ -3008,11 +3030,6 @@
       "corpus": "Sermon",
       "slug": "the-spirit-world-and-physical-world",
       "title": "The Spirit World And Physical World"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "unification-church",
-      "title": "Unification Church"
     },
     {
       "corpus": "Sermon",
@@ -3226,6 +3243,16 @@
   "completion-of-the-providence-of-restoration": [
     {
       "corpus": "Sermon",
+      "slug": "the-betrayer-and-heaven",
+      "title": "The Betrayer and Heaven"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-victorious-unified-front",
+      "title": "The Victorious Unified Front"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-arrival-of-the-era-of-the-fourth-adams-realm",
       "title": "The Arrival of the Era of the Fourth Adam's Realm"
     },
@@ -3248,16 +3275,6 @@
       "corpus": "Sermon",
       "slug": "the-incarnation-of-jesus-a-pioneer",
       "title": "The Incarnation of Jesus, A Pioneer"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-self-that-must-go-forward",
-      "title": "The Self That Must Go Forward"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "gods-day-1986-midnight-speech",
-      "title": "God's Day 1986 Midnight Speech"
     }
   ],
   "conditions-of-devotion-and-guidance-on-faith": [
@@ -3482,13 +3499,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-spirit-world-and-physical-world",
-      "title": "The Spirit World And Physical World"
+      "slug": "unification-church",
+      "title": "Unification Church"
     },
     {
       "corpus": "Sermon",
-      "slug": "unification-church",
-      "title": "Unification Church"
+      "slug": "the-spirit-world-and-physical-world",
+      "title": "The Spirit World And Physical World"
     },
     {
       "corpus": "Sermon",
@@ -3668,13 +3685,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "let-us-inherit-the-realm-of-victory-of-our-true-parents",
-      "title": "Let Us Inherit The Realm Of Victory Of Our True Parents"
+      "slug": "true-family-and-i",
+      "title": "True Family and I"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-basis-of-good-and-evil",
-      "title": "The Basis Of Good And Evil"
+      "slug": "let-us-inherit-the-realm-of-victory-of-our-true-parents",
+      "title": "Let Us Inherit The Realm Of Victory Of Our True Parents"
     }
   ],
   "course-of-life": [
@@ -3710,13 +3727,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
-      "title": "Jesus' View of Life for the Sake of the Restoration"
+      "slug": "jesus-who-looks-back",
+      "title": "Jesus Who Looks Back On Walking the Path of His Fate"
     },
     {
       "corpus": "Sermon",
-      "slug": "jesus-who-looks-back",
-      "title": "Jesus Who Looks Back On Walking the Path of His Fate"
+      "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
+      "title": "Jesus' View of Life for the Sake of the Restoration"
     },
     {
       "corpus": "Sermon",
@@ -3919,6 +3936,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-meaning-of-the-holy-wine-ceremony",
       "title": "The Meaning of the Holy Wine Ceremony"
     },
@@ -3926,11 +3948,6 @@
       "corpus": "Sermon",
       "slug": "on-the-restoration-of-the-firstborn",
       "title": "On the Restoration of the Firstborn"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "why-is-the-seven-year-course-necessary",
-      "title": "Why Is the Seven-Year Course Necessary?"
     }
   ],
   "day-of-all-things-1984": [
@@ -4279,6 +4296,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "complete-restoration",
       "title": "Complete Restoration"
     },
@@ -4289,18 +4311,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "why-is-the-seven-year-course-necessary",
-      "title": "Why Is the Seven-Year Course Necessary?"
+      "slug": "gods-toil-for-the-providence-of-restoration",
+      "title": "God’s Toil for the Providence of Restoration"
     },
     {
       "corpus": "Sermon",
       "slug": "the-ones-who-can-receive-gods-love",
       "title": "The Ones Who Can Receive God's Love"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "gods-toil-for-the-providence-of-restoration",
-      "title": "God’s Toil for the Providence of Restoration"
     }
   ],
   "dialogue-and-harmony-among-civilizations": [
@@ -4677,6 +4694,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "unification-church-heavenly-law",
+      "title": "Unification Church And Heavenly Law"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "find-your-true-self",
       "title": "Find Your True Self"
     },
@@ -4684,11 +4706,6 @@
       "corpus": "Sermon",
       "slug": "historical-debt-and-the-liberation-of-ourselves",
       "title": "Historical Debt And The Liberation Of Ourselves"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "unification-church-heavenly-law",
-      "title": "Unification Church And Heavenly Law"
     },
     {
       "corpus": "Sermon",
@@ -5530,6 +5547,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "becoming-a-responsible-person",
+      "title": "Becoming A Responsible Person"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "generation-record-of-the-true-parents-love",
       "title": "Generation Record Of The True Parents' Love"
     },
@@ -5542,11 +5564,6 @@
       "corpus": "Sermon",
       "slug": "the-realm-of-existence",
       "title": "The Realm Of Existence"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "becoming-a-responsible-person",
-      "title": "Becoming A Responsible Person"
     },
     {
       "corpus": "Sermon",
@@ -7692,6 +7709,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-betrayer-and-heaven",
+      "title": "The Betrayer and Heaven"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "christianity-in-crisis",
       "title": "Christianity in Crisis"
     },
@@ -7699,11 +7721,6 @@
       "corpus": "Sermon",
       "slug": "god-and-the-building-of-the-kingdom-of-god",
       "title": "God and the Building of the Kingdom of God"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "territory-of-goodness",
-      "title": "Territory Of Goodness"
     }
   ],
   "gods-homeland-and-the-peace-kingdom": [
@@ -8745,13 +8762,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "victorious-sons-and-daughters",
-      "title": "Victorious Sons and Daughters"
+      "slug": "true-family",
+      "title": "True Family"
     },
     {
       "corpus": "Sermon",
-      "slug": "true-family",
-      "title": "True Family"
+      "slug": "victorious-sons-and-daughters",
+      "title": "Victorious Sons and Daughters"
     },
     {
       "corpus": "Sermon",
@@ -8998,8 +9015,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "gods-hope-for-man",
-      "title": "God's Hope for Man"
+      "slug": "gods-toil-for-the-providence-of-restoration",
+      "title": "God’s Toil for the Providence of Restoration"
     }
   ],
   "good-and-evil": [
@@ -9560,13 +9577,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-spirit-world-and-physical-world",
-      "title": "The Spirit World And Physical World"
+      "slug": "unification-church",
+      "title": "Unification Church"
     },
     {
       "corpus": "Sermon",
-      "slug": "unification-church",
-      "title": "Unification Church"
+      "slug": "the-spirit-world-and-physical-world",
+      "title": "The Spirit World And Physical World"
     },
     {
       "corpus": "Sermon",
@@ -11016,13 +11033,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "heavenly-tradition",
-      "title": "Heavenly Tradition"
+      "slug": "unification-church",
+      "title": "Unification Church"
     },
     {
       "corpus": "Sermon",
-      "slug": "unification-church",
-      "title": "Unification Church"
+      "slug": "heavenly-tradition",
+      "title": "Heavenly Tradition"
     },
     {
       "corpus": "Sermon",
@@ -13100,8 +13117,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-heart-of-heaven-in-relation-to-elijah",
-      "title": "The Heart of Heaven in Relation to Elijah"
+      "slug": "jesus-sorrow",
+      "title": "Jesus’ Sorrow"
     }
   ],
   "jacobs-course-and-our-life-in-faith": [
@@ -13220,8 +13237,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "living-sacrifice",
-      "title": "Living Sacrifice"
+      "slug": "change-of-blood-lineage",
+      "title": "Change Of Blood Lineage"
     }
   ],
   "jesus-is-the-hero-of-the-universal-revolution": [
@@ -13335,11 +13352,6 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-victorious-day",
-      "title": "The Victorious Day"
-    },
-    {
-      "corpus": "Sermon",
       "slug": "the-mission-of-our-life",
       "title": "The Mission Of Our Life"
     },
@@ -13347,6 +13359,11 @@
       "corpus": "Sermon",
       "slug": "the-present-situation-centering-upon-the-will-of-god",
       "title": "The Present Situation, Centering Upon The Will Of God"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "the-victorious-day",
+      "title": "The Victorious Day"
     },
     {
       "corpus": "Sermon",
@@ -13463,13 +13480,13 @@
     },
     {
       "corpus": "CSG",
-      "slug": "the-return-to-the-hometown",
-      "title": "The 124 Couples"
+      "slug": "the-goal-of-restoration-is-adams-family",
+      "title": "The Goal of Restoration is Adam's Family"
     },
     {
       "corpus": "CSG",
-      "slug": "the-goal-of-restoration-is-adams-family",
-      "title": "The Goal of Restoration is Adam's Family"
+      "slug": "the-return-to-the-hometown",
+      "title": "The 124 Couples"
     },
     {
       "corpus": "CSG",
@@ -16032,8 +16049,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "original-world-and-present-world",
-      "title": "Original World And Present World"
+      "slug": "the-betrayer-and-heaven",
+      "title": "The Betrayer and Heaven"
     }
   ],
   "mainstream-of-the-dispensation-of-god": [
@@ -16177,13 +16194,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "who-will-become-the-friend-of-golgotha",
-      "title": "Who Will Become the Friend of Golgotha?"
+      "slug": "harvest-of-goodness-heaven-desires",
+      "title": "Let Us Be the Harvest of Goodness Heaven Desires"
     },
     {
       "corpus": "Sermon",
-      "slug": "harvest-of-goodness-heaven-desires",
-      "title": "Let Us Be the Harvest of Goodness Heaven Desires"
+      "slug": "who-will-become-the-friend-of-golgotha",
+      "title": "Who Will Become the Friend of Golgotha?"
     }
   ],
   "may-our-homeland-shine-forth": [
@@ -18616,8 +18633,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "what-kind-of-day-is-the-true-childrens-day",
-      "title": "What Kind of Day Is the True Children's Day"
+      "slug": "the-rugged-road-we-must-go",
+      "title": "The Rugged Road We Must Go"
     }
   ],
   "our-mission-in-the-last-days-of-providential-history": [
@@ -19061,18 +19078,23 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-victorious-unified-front",
+      "title": "The Victorious Unified Front"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "ceremony-for-the-total-dissolution-of-resentment",
       "title": "Ceremony for the Total Dissolution of Resentment"
     },
     {
       "corpus": "Sermon",
-      "slug": "true-parents-and-our-responsibility",
-      "title": "True Parents and Our Responsibility"
+      "slug": "the-boundary-line",
+      "title": "The Boundary Line"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-boundary-line",
-      "title": "The Boundary Line"
+      "slug": "true-parents-and-our-responsibility",
+      "title": "True Parents and Our Responsibility"
     }
   ],
   "owner-of-cheon-il-guk-and-the-family-pledge": [
@@ -19548,6 +19570,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-meaning-of-the-holy-wine-ceremony",
       "title": "The Meaning of the Holy Wine Ceremony"
     },
@@ -19555,11 +19582,6 @@
       "corpus": "Sermon",
       "slug": "on-the-restoration-of-the-firstborn",
       "title": "On the Restoration of the Firstborn"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "why-is-the-seven-year-course-necessary",
-      "title": "Why Is the Seven-Year Course Necessary?"
     },
     {
       "corpus": "Sermon",
@@ -20058,6 +20080,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-betrayer-and-heaven",
+      "title": "The Betrayer and Heaven"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "let-us-inherit-the-realm-of-victory-of-our-true-parents",
       "title": "Let Us Inherit The Realm Of Victory Of Our True Parents"
     },
@@ -20065,11 +20092,6 @@
       "corpus": "Sermon",
       "slug": "let-us-thank-god",
       "title": "Let Us Thank God"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "history-and-our-responsibility",
-      "title": "History and Our Responsibility"
     }
   ],
   "peace-in-the-family": [
@@ -20427,13 +20449,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "our-family-and-the-dispensation",
-      "title": "Our Family and the Dispensation"
+      "slug": "jesus-sorrow",
+      "title": "Jesus’ Sorrow"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-heart-of-heaven-in-relation-to-elijah",
-      "title": "The Heart of Heaven in Relation to Elijah"
+      "slug": "our-family-and-the-dispensation",
+      "title": "Our Family and the Dispensation"
     }
   ],
   "perseverance-and-contemplation": [
@@ -20503,6 +20525,18 @@
       "corpus": "Sermon",
       "slug": "the-role-of-the-island-nations-in-the-21st-century",
       "title": "The Role of the Island Nations in the 21st Century"
+    }
+  ],
+  "person-of-faith-who-grasps-through-experience": [
+    {
+      "corpus": "CBG",
+      "slug": "true-fathers-childhood-and-youth",
+      "title": "True Father's Childhood and Youth"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "gods-sorrow-and-the-providence-of-restoration",
+      "title": "God's Grief and Shock at Losing His Son and Daughter"
     }
   ],
   "personal-salvation-and-collective-salvation": [
@@ -20588,6 +20622,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-betrayer-and-heaven",
+      "title": "The Betrayer and Heaven"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "new-family-given-by-god",
       "title": "New Family Given By God"
     },
@@ -20610,11 +20649,6 @@
       "corpus": "Sermon",
       "slug": "become-workers-for-the-restoration-of-the-nation",
       "title": "Become Workers for the Restoration of the Nation"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "please-teach-me-about-prayer",
-      "title": "Please Teach Me About Prayer"
     }
   ],
   "predestination": [
@@ -20777,13 +20811,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "creation-and-building-of-the-kingdom-of-heaven",
-      "title": "Creation And Building Of The Kingdom Of Heaven"
+      "slug": "the-day-of-victory-of-love",
+      "title": "The Day Of Victory Of Love"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-day-of-victory-of-love",
-      "title": "The Day Of Victory Of Love"
+      "slug": "creation-and-building-of-the-kingdom-of-heaven",
+      "title": "Creation And Building Of The Kingdom Of Heaven"
     },
     {
       "corpus": "Sermon",
@@ -21598,6 +21632,11 @@
       "corpus": "Sermon",
       "slug": "the-last-frontline",
       "title": "The Last Frontline"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "our-value-yesterday-and-today",
+      "title": "Our Value Yesterday and Today"
     }
   ],
   "religious-coalition-and-world-peace": [
@@ -22064,13 +22103,13 @@
     },
     {
       "corpus": "CSG",
-      "slug": "the-goal-of-training",
-      "title": "The Discovery of the Portion of Responsibility and its Significance"
+      "slug": "our-way-to-perfection-through-true-parents",
+      "title": "The Eight-Stage Indemnity Course and the Ceremony of the Settlement of the Eight Stages"
     },
     {
       "corpus": "CSG",
-      "slug": "our-way-to-perfection-through-true-parents",
-      "title": "The Eight-Stage Indemnity Course and the Ceremony of the Settlement of the Eight Stages"
+      "slug": "the-goal-of-training",
+      "title": "The Discovery of the Portion of Responsibility and its Significance"
     },
     {
       "corpus": "CSG",
@@ -22245,13 +22284,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "new-heaven-and-new-earth-centering-on-our-pledge",
-      "title": "New Heaven And New Earth Centering On Our Pledge"
+      "slug": "becoming-a-responsible-person",
+      "title": "Becoming A Responsible Person"
     },
     {
       "corpus": "Sermon",
-      "slug": "becoming-a-responsible-person",
-      "title": "Becoming A Responsible Person"
+      "slug": "new-heaven-and-new-earth-centering-on-our-pledge",
+      "title": "New Heaven And New Earth Centering On Our Pledge"
     },
     {
       "corpus": "Sermon",
@@ -22740,13 +22779,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "victorious-sons-and-daughters",
-      "title": "Victorious Sons and Daughters"
+      "slug": "true-family",
+      "title": "True Family"
     },
     {
       "corpus": "Sermon",
-      "slug": "true-family",
-      "title": "True Family"
+      "slug": "victorious-sons-and-daughters",
+      "title": "Victorious Sons and Daughters"
     },
     {
       "corpus": "Sermon",
@@ -22809,13 +22848,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "living-sacrifice",
-      "title": "Living Sacrifice"
+      "slug": "history-of-the-providence-through-restoration-by-indemnity",
+      "title": "History Of The Providence Through Restoration By Indemnity"
     },
     {
       "corpus": "Sermon",
-      "slug": "history-of-the-providence-through-restoration-by-indemnity",
-      "title": "History Of The Providence Through Restoration By Indemnity"
+      "slug": "living-sacrifice",
+      "title": "Living Sacrifice"
     },
     {
       "corpus": "Sermon",
@@ -23438,23 +23477,23 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "happiness-and-love",
+      "title": "Happiness and Love"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "harvest-the-victory",
       "title": "Harvest The Victory"
     },
     {
       "corpus": "Sermon",
+      "slug": "the-front-line-of-restoration",
+      "title": "The Front Line of Restoration"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-most-miserable-event-in-hung-nam-prison",
       "title": "The Most Miserable Event In Hungnam Prison"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "good-and-evil-and-the-rise-and-fall-of-fortunes",
-      "title": "Good and Evil, and the Rise and Fall of Fortunes"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "happiness-and-love",
-      "title": "Happiness and Love"
     }
   ],
   "sermons-must-bestow-grace-and-inspiration": [
@@ -24989,6 +25028,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-true-path-of-restoration",
+      "title": "The True Path Of Restoration"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "a-family-life-of-faith-educates-the-children",
       "title": "A Family Life Of Faith Educates The Children"
     },
@@ -24996,11 +25040,6 @@
       "corpus": "Sermon",
       "slug": "on-the-restoration-of-the-firstborn",
       "title": "On the Restoration of the Firstborn"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-true-path-of-restoration",
-      "title": "The True Path Of Restoration"
     },
     {
       "corpus": "Sermon",
@@ -25278,13 +25317,13 @@
     },
     {
       "corpus": "DP",
-      "slug": "the-last-days-and-the-new-truth",
-      "title": "The Last Days and the New Truth"
+      "slug": "the-providence-of-restoration-in-abrahams-family",
+      "title": "The Providence of Restoration in Abraham’s Family"
     },
     {
       "corpus": "DP",
-      "slug": "the-providence-of-restoration-in-abrahams-family",
-      "title": "The Providence of Restoration in Abraham’s Family"
+      "slug": "the-last-days-and-the-new-truth",
+      "title": "The Last Days and the New Truth"
     },
     {
       "corpus": "World Scripture",
@@ -25901,13 +25940,13 @@
     },
     {
       "corpus": "PHG",
-      "slug": "our-course-of-life",
-      "title": "Our Course of Life"
+      "slug": "blessed-families-and-the-ideal-world",
+      "title": "Blessed Families and the Ideal World"
     },
     {
       "corpus": "PHG",
-      "slug": "blessed-families-and-the-ideal-world",
-      "title": "Blessed Families and the Ideal World"
+      "slug": "our-course-of-life",
+      "title": "Our Course of Life"
     },
     {
       "corpus": "World Scripture",
@@ -26199,8 +26238,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-seed-and-root-of-true-love-is-the-blessed-family",
-      "title": "The Seed And Root Of True Love Is The Blessed Family"
+      "slug": "gods-wish-and-our-wish",
+      "title": "God’s Wish and Our Wish"
     }
   ],
   "the-completion-of-home-church": [
@@ -26606,13 +26645,13 @@
     },
     {
       "corpus": "CSG",
-      "slug": "organizations-for-world-peace",
-      "title": "The Settlement of the Victorious Domain of True Parents"
+      "slug": "our-way-to-perfection-through-true-parents",
+      "title": "The Eight-Stage Indemnity Course and the Ceremony of the Settlement of the Eight Stages"
     },
     {
       "corpus": "CSG",
-      "slug": "our-way-to-perfection-through-true-parents",
-      "title": "The Eight-Stage Indemnity Course and the Ceremony of the Settlement of the Eight Stages"
+      "slug": "organizations-for-world-peace",
+      "title": "The Settlement of the Victorious Domain of True Parents"
     },
     {
       "corpus": "CSG",
@@ -26727,6 +26766,11 @@
     },
     {
       "corpus": "CSG",
+      "slug": "the-goal-of-restoration-is-adams-family",
+      "title": "The Goal of Restoration is Adam's Family"
+    },
+    {
+      "corpus": "CSG",
       "slug": "the-oneness-of-god-and-humankind-and-the-perfection-of-the-ideal-of-love",
       "title": "The Oneness of God and Humankind, and the Perfection of the Ideal of Love"
     },
@@ -26734,11 +26778,6 @@
       "corpus": "CSG",
       "slug": "love-is-the-root-of-the-universe",
       "title": "Love Is the Root of the Universe"
-    },
-    {
-      "corpus": "CSG",
-      "slug": "the-goal-of-restoration-is-adams-family",
-      "title": "The Goal of Restoration is Adam's Family"
     },
     {
       "corpus": "DP",
@@ -26865,13 +26904,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "crossroads-of-life-and-death",
-      "title": "Crossroads Of Life and Death"
+      "slug": "the-true-path-of-restoration",
+      "title": "The True Path Of Restoration"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-true-path-of-restoration",
-      "title": "The True Path Of Restoration"
+      "slug": "crossroads-of-life-and-death",
+      "title": "Crossroads Of Life and Death"
     },
     {
       "corpus": "Sermon",
@@ -27316,6 +27355,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-betrayer-and-heaven",
+      "title": "The Betrayer and Heaven"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "gods-hope-for-man",
       "title": "God's Hope for Man"
     },
@@ -27328,11 +27372,6 @@
       "corpus": "Sermon",
       "slug": "declaration-of-the-realm-of-the-cosmic-sabbath-for-the-parents-of-heaven-and-earth",
       "title": "Declaration of the Realm of the Cosmic Sabbath for the Parents of Heaven and Earth"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-unification-philosophy-of-personality",
-      "title": "The Unification Philosophy of Personality"
     }
   ],
   "the-dual-structure-of-human-beings": [
@@ -27496,13 +27535,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-family",
-      "title": "The Family"
+      "slug": "true-family-and-i",
+      "title": "True Family and I"
     },
     {
       "corpus": "Sermon",
-      "slug": "true-family-and-i",
-      "title": "True Family and I"
+      "slug": "the-family",
+      "title": "The Family"
     },
     {
       "corpus": "Sermon",
@@ -29052,6 +29091,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-betrayer-and-heaven",
+      "title": "The Betrayer and Heaven"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "gods-wish-and-our-wish",
       "title": "God’s Wish and Our Wish"
     },
@@ -29062,6 +29106,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-victorious-unified-front",
+      "title": "The Victorious Unified Front"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "our-responsibility",
       "title": "Our Responsibility"
     },
@@ -29069,16 +29118,6 @@
       "corpus": "Sermon",
       "slug": "let-us-continue-the-total-advance",
       "title": "Let Us Continue the Total Advance"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-history-of-restoration-and-the-day-of-all-things",
-      "title": "The History of Restoration and the Day of All Things"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "let-us-comfort-heaven",
-      "title": "Let Us Comfort Heaven"
     }
   ],
   "the-goal-of-the-providence-of-restoration": [
@@ -29123,13 +29162,13 @@
     },
     {
       "corpus": "CBG",
-      "slug": "the-spirit-world-and-true-parents",
-      "title": "The Spirit World and True Parents"
+      "slug": "seodaemun-prison",
+      "title": "Seodaemun Prison"
     },
     {
       "corpus": "CBG",
-      "slug": "seodaemun-prison",
-      "title": "Seodaemun Prison"
+      "slug": "the-spirit-world-and-true-parents",
+      "title": "The Spirit World and True Parents"
     },
     {
       "corpus": "CBG",
@@ -29243,8 +29282,8 @@
     },
     {
       "corpus": "World Scripture",
-      "slug": "omniscient-and-omnipresent",
-      "title": "Omniscient and Omnipresent"
+      "slug": "devotion",
+      "title": "Devotion"
     },
     {
       "corpus": "Messages of Peace",
@@ -29395,11 +29434,6 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "one-will-have-been-realized",
-      "title": "God's Power Is Revealed Where One Heart and One Will Have Been Realized"
-    },
-    {
-      "corpus": "Sermon",
       "slug": "gods-possession-and-our-possession",
       "title": "God's Possession and Our Possession"
     },
@@ -29412,6 +29446,11 @@
       "corpus": "Sermon",
       "slug": "jesus-whom-god-wanted-to-find",
       "title": "Jesus, Whom God Wanted To Find"
+    },
+    {
+      "corpus": "Sermon",
+      "slug": "longing-for-eden",
+      "title": "Longing for Eden"
     }
   ],
   "the-god-of-the-old-testament-age": [
@@ -29646,13 +29685,13 @@
     },
     {
       "corpus": "World Scripture",
-      "slug": "the-devil-and-his-activities",
-      "title": "The Devil and His Activities"
+      "slug": "the-image-of-god",
+      "title": "The Image of God"
     },
     {
       "corpus": "World Scripture",
-      "slug": "the-image-of-god",
-      "title": "The Image of God"
+      "slug": "the-devil-and-his-activities",
+      "title": "The Devil and His Activities"
     },
     {
       "corpus": "World Scripture",
@@ -31208,13 +31247,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-true-pattern-of-family-life",
-      "title": "The True Pattern Of Family Life"
+      "slug": "the-betrayer-and-heaven",
+      "title": "The Betrayer and Heaven"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-turning-point-of-history",
-      "title": "The Turning Point of History"
+      "slug": "the-true-pattern-of-family-life",
+      "title": "The True Pattern Of Family Life"
     }
   ],
   "the-kingdom-of-heaven-is-possible-only-through-true-parents": [
@@ -32126,13 +32165,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "let-us-thank-god",
-      "title": "Let Us Thank God"
+      "slug": "true-family-and-i",
+      "title": "True Family and I"
     },
     {
       "corpus": "Sermon",
-      "slug": "true-family-and-i",
-      "title": "True Family and I"
+      "slug": "let-us-thank-god",
+      "title": "Let Us Thank God"
     }
   ],
   "the-love-of-man-and-woman-in-the-original-creation": [
@@ -32247,13 +32286,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "19th-parents-day",
-      "title": "19th Parents Day"
+      "slug": "becoming-a-responsible-person",
+      "title": "Becoming A Responsible Person"
     },
     {
       "corpus": "Sermon",
-      "slug": "becoming-a-responsible-person",
-      "title": "Becoming A Responsible Person"
+      "slug": "19th-parents-day",
+      "title": "19th Parents Day"
     },
     {
       "corpus": "Sermon",
@@ -32462,13 +32501,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "living-sacrifice",
-      "title": "Living Sacrifice"
+      "slug": "human-death",
+      "title": "Human Death"
     },
     {
       "corpus": "Sermon",
-      "slug": "human-death",
-      "title": "Human Death"
+      "slug": "living-sacrifice",
+      "title": "Living Sacrifice"
     }
   ],
   "the-meaning-of-education": [
@@ -32824,13 +32863,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "heavenly-tradition",
-      "title": "Heavenly Tradition"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "heavenly-tradition",
+      "title": "Heavenly Tradition"
     },
     {
       "corpus": "Sermon",
@@ -33511,13 +33550,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "sunday-morning-speech",
-      "title": "Live for the Sake of Others"
+      "slug": "on-jesus-family",
+      "title": "On Jesus' Family"
     },
     {
       "corpus": "Sermon",
-      "slug": "on-jesus-family",
-      "title": "On Jesus' Family"
+      "slug": "sunday-morning-speech",
+      "title": "Live for the Sake of Others"
     }
   ],
   "the-new-future-of-humankind": [
@@ -33701,13 +33740,13 @@
     },
     {
       "corpus": "PHG",
-      "slug": "role-of-unified-science-moral-orientation-world",
-      "title": "The Role of Unified Science in the Moral Orientation of the World"
+      "slug": "blessed-families-and-the-ideal-world",
+      "title": "Blessed Families and the Ideal World"
     },
     {
       "corpus": "PHG",
-      "slug": "blessed-families-and-the-ideal-world",
-      "title": "Blessed Families and the Ideal World"
+      "slug": "role-of-unified-science-moral-orientation-world",
+      "title": "The Role of Unified Science in the Moral Orientation of the World"
     },
     {
       "corpus": "PHG",
@@ -35176,13 +35215,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-two-worlds-of-good-and-evil",
-      "title": "The Two Worlds Of Good And Evil"
+      "slug": "the-day-of-victory-of-love",
+      "title": "The Day Of Victory Of Love"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-day-of-victory-of-love",
-      "title": "The Day Of Victory Of Love"
+      "slug": "the-two-worlds-of-good-and-evil",
+      "title": "The Two Worlds Of Good And Evil"
     },
     {
       "corpus": "Sermon",
@@ -35709,13 +35748,13 @@
     },
     {
       "corpus": "DP",
-      "slug": "the-third-world-war",
-      "title": "The Third World War"
+      "slug": "the-providence-of-restoration-in-abrahams-family",
+      "title": "The Providence of Restoration in Abraham’s Family"
     },
     {
       "corpus": "DP",
-      "slug": "the-providence-of-restoration-in-abrahams-family",
-      "title": "The Providence of Restoration in Abraham’s Family"
+      "slug": "the-third-world-war",
+      "title": "The Third World War"
     },
     {
       "corpus": "DP",
@@ -35863,6 +35902,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-betrayer-and-heaven",
+      "title": "The Betrayer and Heaven"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "gods-wish-and-our-wish",
       "title": "God’s Wish and Our Wish"
     },
@@ -35880,11 +35924,6 @@
       "corpus": "Sermon",
       "slug": "the-self-that-must-go-forward",
       "title": "The Self That Must Go Forward"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-suffering-of-jesus-upon-the-cross",
-      "title": "The Suffering of Jesus upon the Cross"
     }
   ],
   "the-providence-of-restoration-in-adams-family": [
@@ -35952,6 +35991,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-betrayer-and-heaven",
+      "title": "The Betrayer and Heaven"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-family",
       "title": "The Family"
     },
@@ -35959,11 +36003,6 @@
       "corpus": "Sermon",
       "slug": "gods-wish-and-our-wish",
       "title": "God’s Wish and Our Wish"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "the-purpose-of-salvation",
-      "title": "The Purpose of Salvation"
     }
   ],
   "the-providence-of-restoration-under-the-leadership-of-jesus": [
@@ -36383,6 +36422,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "complete-restoration",
       "title": "Complete Restoration"
     },
@@ -36390,11 +36434,6 @@
       "corpus": "Sermon",
       "slug": "the-path-of-restoration",
       "title": "The Path of Restoration"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "why-is-the-seven-year-course-necessary",
-      "title": "Why Is the Seven-Year Course Necessary?"
     },
     {
       "corpus": "Sermon",
@@ -36497,13 +36536,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-pinnacle-of-suffering",
-      "title": "The Pinnacle of Suffering"
+      "slug": "the-day-of-victory-of-love",
+      "title": "The Day Of Victory Of Love"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-day-of-victory-of-love",
-      "title": "The Day Of Victory Of Love"
+      "slug": "the-pinnacle-of-suffering",
+      "title": "The Pinnacle of Suffering"
     },
     {
       "corpus": "Sermon",
@@ -37122,6 +37161,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "the-betrayer-and-heaven",
+      "title": "The Betrayer and Heaven"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "mainstream-thought-of-the-dispensational-history",
       "title": "The Unification Church And The Mainstream Thought of the Dispensational History"
     },
@@ -37306,13 +37350,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "unification-church",
+      "title": "Unification Church"
     },
     {
       "corpus": "Sermon",
-      "slug": "unification-church",
-      "title": "Unification Church"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "corpus": "Sermon",
@@ -37586,13 +37630,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "creation-and-building-of-the-kingdom-of-heaven",
-      "title": "Creation And Building Of The Kingdom Of Heaven"
+      "slug": "the-day-of-victory-of-love",
+      "title": "The Day Of Victory Of Love"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-day-of-victory-of-love",
-      "title": "The Day Of Victory Of Love"
+      "slug": "creation-and-building-of-the-kingdom-of-heaven",
+      "title": "Creation And Building Of The Kingdom Of Heaven"
     }
   ],
   "the-relationship-between-grandparents-and-grandchildren": [
@@ -37836,6 +37880,18 @@
       "corpus": "PHG",
       "slug": "a-providential-view-of-the-pacific-rim-era-in-light-of-gods",
       "title": "A Providential View of the Pacific Rim Era in Light of God's Will The United States and the Future Direction of the United Nations and the World"
+    }
+  ],
+  "the-responsible-person-heaven-desires": [
+    {
+      "corpus": "CBG",
+      "slug": "global-unification-leadership",
+      "title": "Global Unification Leadership"
+    },
+    {
+      "corpus": "World Scripture",
+      "slug": "government-for-the-people",
+      "title": "Government for the People"
     }
   ],
   "the-restoration-of-a-people": [
@@ -38142,8 +38198,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-25th-year-of-the-unification-church",
-      "title": "The 25th Year of the Unification Church"
+      "slug": "my-purpose-and-conviction",
+      "title": "My Purpose and Conviction"
     }
   ],
   "the-returning-resurrection-of-people-in-the-spirit-world": [
@@ -38296,13 +38352,13 @@
     },
     {
       "corpus": "World Scripture",
-      "slug": "good-deeds",
-      "title": "Good Deeds"
+      "slug": "prayer",
+      "title": "Prayer"
     },
     {
       "corpus": "World Scripture",
-      "slug": "prayer",
-      "title": "Prayer"
+      "slug": "good-deeds",
+      "title": "Good Deeds"
     }
   ],
   "the-role-of-continental-nations-in-the-twenty-first-century": [
@@ -38769,13 +38825,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "change-of-blood-lineage",
-      "title": "Change Of Blood Lineage"
+      "slug": "history-of-the-providence-through-restoration-by-indemnity",
+      "title": "History Of The Providence Through Restoration By Indemnity"
     },
     {
       "corpus": "Sermon",
-      "slug": "history-of-the-providence-through-restoration-by-indemnity",
-      "title": "History Of The Providence Through Restoration By Indemnity"
+      "slug": "change-of-blood-lineage",
+      "title": "Change Of Blood Lineage"
     },
     {
       "corpus": "Sermon",
@@ -40606,13 +40662,13 @@
     },
     {
       "corpus": "PHG",
-      "slug": "bequeathing-the-tradition-of-true-love",
-      "title": "Bequeathing the Tradition of True Love"
+      "slug": "gods-homeland-and-one-world",
+      "title": "God’s Homeland and One World"
     },
     {
       "corpus": "PHG",
-      "slug": "gods-homeland-and-one-world",
-      "title": "God’s Homeland and One World"
+      "slug": "bequeathing-the-tradition-of-true-love",
+      "title": "Bequeathing the Tradition of True Love"
     },
     {
       "corpus": "World Scripture",
@@ -40626,13 +40682,13 @@
     },
     {
       "corpus": "World Scripture",
-      "slug": "moses-world-scripture",
-      "title": "Moses"
+      "slug": "joy",
+      "title": "Joy"
     },
     {
       "corpus": "World Scripture",
-      "slug": "joy",
-      "title": "Joy"
+      "slug": "moses-world-scripture",
+      "title": "Moses"
     },
     {
       "corpus": "World Scripture",
@@ -40711,13 +40767,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "way-of-life",
-      "title": "Way Of Life"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "way-of-life",
+      "title": "Way Of Life"
     }
   ],
   "the-true-meaning-of-the-saying-all-goes-well-if-there-is-true-harmony-in-the-family": [
@@ -40822,6 +40878,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "harvest-of-goodness-heaven-desires",
+      "title": "Let Us Be the Harvest of Goodness Heaven Desires"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "gods-homeland-and-the-peace-kingdom-are-built-on-the-foundation",
       "title": "God's Homeland And The Peace Kingdom Are Built On The Foundation Of The Realm Of His Liberation And Release"
     },
@@ -40829,11 +40890,6 @@
       "corpus": "Sermon",
       "slug": "ceremony-for-gods-kingship",
       "title": "Homeland, Parents, and Eldest Son - 1st Anniversary of the Enthronement Ceremony for God's Kingship"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "harvest-of-goodness-heaven-desires",
-      "title": "Let Us Be the Harvest of Goodness Heaven Desires"
     }
   ],
   "the-true-parents-of-heaven-earth-and-humankind": [
@@ -41616,6 +41672,28 @@
       "title": "Jacob"
     }
   ],
+  "the-victorious-unified-front": [
+    {
+      "corpus": "PHG",
+      "slug": "unification-thought-as-the-basis-of-a-new-cultural-revolution",
+      "title": "Unification Thought as the Basis of a New Cultural Revolution"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "one-family-under-god",
+      "title": "The Development of Home Church Activities"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "now-is-the-time-for-the-unification-of-north-south-east-and-west",
+      "title": "Now is the Time for the Unification of North, South, East, and West"
+    },
+    {
+      "corpus": "CSG",
+      "slug": "japans-mission-as-the-eve-nation",
+      "title": "Japan's Mission as the Eve Nation"
+    }
+  ],
   "the-victory-of-home-church": [
     {
       "corpus": "World Scripture",
@@ -41996,13 +42074,13 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "creation-and-building-of-the-kingdom-of-heaven",
-      "title": "Creation And Building Of The Kingdom Of Heaven"
+      "slug": "the-day-of-victory-of-love",
+      "title": "The Day Of Victory Of Love"
     },
     {
       "corpus": "Sermon",
-      "slug": "the-day-of-victory-of-love",
-      "title": "The Day Of Victory Of Love"
+      "slug": "creation-and-building-of-the-kingdom-of-heaven",
+      "title": "Creation And Building Of The Kingdom Of Heaven"
     },
     {
       "corpus": "Sermon",
@@ -42125,13 +42203,13 @@
     },
     {
       "corpus": "PHG",
-      "slug": "bequeathing-the-tradition-of-true-love",
-      "title": "Bequeathing the Tradition of True Love"
+      "slug": "gods-homeland-and-one-world",
+      "title": "God’s Homeland and One World"
     },
     {
       "corpus": "PHG",
-      "slug": "gods-homeland-and-one-world",
-      "title": "God’s Homeland and One World"
+      "slug": "bequeathing-the-tradition-of-true-love",
+      "title": "Bequeathing the Tradition of True Love"
     },
     {
       "corpus": "CSG",
@@ -42876,6 +42954,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "why-is-the-seven-year-course-necessary",
+      "title": "Why Is the Seven-Year Course Necessary?"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "the-age-of-new-dispensation",
       "title": "The Age of New Dispensation"
     },
@@ -42883,11 +42966,6 @@
       "corpus": "Sermon",
       "slug": "our-tradition",
       "title": "Our Tradition"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "resurrected-kingdom-of-god",
-      "title": "Resurrected Kingdom of God"
     }
   ],
   "training-the-body": [
@@ -43405,6 +43483,11 @@
     },
     {
       "corpus": "Sermon",
+      "slug": "true-family-and-i",
+      "title": "True Family and I"
+    },
+    {
+      "corpus": "Sermon",
       "slug": "jesus-who-is-to-establish-heavens-love",
       "title": "Jesus Who Is To Establish Heaven's Love"
     },
@@ -43412,11 +43495,6 @@
       "corpus": "Sermon",
       "slug": "longing-for-eden",
       "title": "Longing for Eden"
-    },
-    {
-      "corpus": "Sermon",
-      "slug": "true-family-and-i",
-      "title": "True Family and I"
     },
     {
       "corpus": "Sermon",
@@ -45384,8 +45462,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "the-liberation-of-heaven-and-earth",
-      "title": "The Liberation Of Heaven And Earth"
+      "slug": "the-true-path-of-restoration",
+      "title": "The True Path Of Restoration"
     }
   ],
   "wanting-to-live-in-the-kingdom-of-heaven": [
@@ -46446,8 +46524,8 @@
     },
     {
       "corpus": "Sermon",
-      "slug": "true-sons-god-wants",
-      "title": "Let Us Become the True Sons God Wants"
+      "slug": "jesus-who-looks-back",
+      "title": "Jesus Who Looks Back On Walking the Path of His Fate"
     }
   ],
   "women-will-play-a-leading-role": [
