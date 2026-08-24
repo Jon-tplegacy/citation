@@ -1,9 +1,11 @@
 """
-Build related index for the Pyeong Hwa Gyeong + Chambumo Gyeong corpus
+Build related index for the Pyeong Hwa Gyeong corpus
 based on direct intra-segment links.
 
 Segment:
-  - phg-cbg → pyeong-hwa-gyeong + chambumo-gyeong (merged corpus)
+  - phg-cbg → pyeong-hwa-gyeong only
+    (chambumo-gyeong was removed from this segment; the segment key and the
+     output filename are kept unchanged for template/CDN compatibility)
 
 For each post in the segment, computes related posts grouped by link type:
   - bi  : bidirectional (both posts cite each other) — strongest signal
@@ -38,7 +40,7 @@ if not API_KEY:
 
 # Each segment: (list of tags to merge, output filename)
 SEGMENTS = {
-    "phg-cbg": (["pyeong-hwa-gyeong", "chambumo-gyeong"], "related-phg-cbg.json"),
+    "phg-cbg": (["pyeong-hwa-gyeong"], "related-phg-cbg.json"),
 }
 
 PER_KIND_LIMIT = 7   # max items shown per type (bi / out / in), independently
