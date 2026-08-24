@@ -914,10 +914,6 @@
         "title": "Ancestors"
       },
       {
-        "slug": "completed-testament-age",
-        "title": "Completed Testament Age"
-      },
-      {
         "slug": "family-federation-for-world-peace-and-unification",
         "title": "Family Federation for World Peace and Unification"
       },
@@ -1031,10 +1027,6 @@
   "blessed-family-term": {
     "further_reading": [
       {
-        "slug": "blessing-ceremony",
-        "title": "Blessing Ceremony"
-      },
-      {
         "slug": "holy-spirit-term",
         "title": "Holy Spirit"
       }
@@ -1063,6 +1055,10 @@
       {
         "slug": "cheonjin-bumo",
         "title": "Cheonjin Bumo"
+      },
+      {
+        "slug": "christianity-term",
+        "title": "Christianity"
       },
       {
         "slug": "conscience",
@@ -1714,10 +1710,6 @@
   "cain-and-abel": {
     "further_reading": [
       {
-        "slug": "completed-testament-age",
-        "title": "Completed Testament Age"
-      },
-      {
         "slug": "godism",
         "title": "Godism"
       },
@@ -2013,10 +2005,6 @@
   "cheon-il-guk": {
     "further_reading": [
       {
-        "slug": "blessing-ceremony",
-        "title": "Blessing Ceremony"
-      },
-      {
         "slug": "family-federation-for-world-peace-and-unification",
         "title": "Family Federation for World Peace and Unification"
       },
@@ -2069,6 +2057,10 @@
       {
         "slug": "cheonjin-bumo",
         "title": "Cheonjin Bumo"
+      },
+      {
+        "slug": "christianity-term",
+        "title": "Christianity"
       },
       {
         "slug": "completed-testament-age",
@@ -2358,24 +2350,12 @@
         "title": "Ancestors"
       },
       {
-        "slug": "bible",
-        "title": "Bible"
-      },
-      {
         "slug": "blessed-family-term",
         "title": "Blessed Family"
       },
       {
-        "slug": "cheon-il-guk",
-        "title": "Cheon Il Guk"
-      },
-      {
         "slug": "communism",
         "title": "Communism"
-      },
-      {
-        "slug": "completed-testament-age",
-        "title": "Completed Testament Age"
       },
       {
         "slug": "consciousness",
@@ -2384,10 +2364,6 @@
       {
         "slug": "cosmos",
         "title": "Cosmos"
-      },
-      {
-        "slug": "death",
-        "title": "Death"
       },
       {
         "slug": "dispensational-time-identity",
@@ -2482,10 +2458,6 @@
         "title": "Noah"
       },
       {
-        "slug": "only-begotten-son",
-        "title": "Only Begotten Son"
-      },
-      {
         "slug": "original-value",
         "title": "Original Value"
       },
@@ -2550,10 +2522,6 @@
         "title": "The Old Testament Age"
       },
       {
-        "slug": "the-second-advent",
-        "title": "The Second Advent"
-      },
-      {
         "slug": "three-generations",
         "title": "Three Generations"
       },
@@ -2570,16 +2538,126 @@
         "title": "Trinity"
       },
       {
-        "slug": "true-olive-tree",
-        "title": "True Olive Tree"
-      },
-      {
         "slug": "unification-movement",
         "title": "Unification Movement"
       },
       {
         "slug": "wild-olive-tree",
         "title": "Wild Olive Tree"
+      }
+    ],
+    "verbatim": []
+  },
+  "christianity-term": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "all-existence-is-for-my-sake",
+        "title": "All Existence Is for My Sake"
+      },
+      {
+        "slug": "ancestor-liberation",
+        "title": "Ancestor Liberation"
+      },
+      {
+        "slug": "axis",
+        "title": "Axis"
+      },
+      {
+        "slug": "bible",
+        "title": "Bible"
+      },
+      {
+        "slug": "blessed-family-term",
+        "title": "Blessed Family"
+      },
+      {
+        "slug": "captivity",
+        "title": "Captivity"
+      },
+      {
+        "slug": "cheon-il-guk",
+        "title": "Cheon Il Guk"
+      },
+      {
+        "slug": "completed-testament-age",
+        "title": "Completed Testament Age"
+      },
+      {
+        "slug": "death",
+        "title": "Death"
+      },
+      {
+        "slug": "dispensational-time-identity",
+        "title": "Dispensational Time-Identity"
+      },
+      {
+        "slug": "family-federation-for-world-peace-and-unification",
+        "title": "Family Federation for World Peace and Unification"
+      },
+      {
+        "slug": "god",
+        "title": "God"
+      },
+      {
+        "slug": "gods-dispensation",
+        "title": "God's Dispensation"
+      },
+      {
+        "slug": "holy-spirit-term",
+        "title": "Holy Spirit"
+      },
+      {
+        "slug": "jesus",
+        "title": "Jesus"
+      },
+      {
+        "slug": "kingdom-of-heaven",
+        "title": "Kingdom of Heaven"
+      },
+      {
+        "slug": "marriage-of-the-lamb",
+        "title": "Marriage of the Lamb"
+      },
+      {
+        "slug": "messiah",
+        "title": "Messiah"
+      },
+      {
+        "slug": "only-begotten-son",
+        "title": "Only Begotten Son"
+      },
+      {
+        "slug": "resurrection-term",
+        "title": "Resurrection"
+      },
+      {
+        "slug": "righteousness-term",
+        "title": "Righteousness"
+      },
+      {
+        "slug": "second-israel-term",
+        "title": "Second Israel"
+      },
+      {
+        "slug": "the-new-testament-age",
+        "title": "The New Testament Age"
+      },
+      {
+        "slug": "the-second-advent",
+        "title": "The Second Advent"
+      },
+      {
+        "slug": "trinity",
+        "title": "Trinity"
+      },
+      {
+        "slug": "true-olive-tree",
+        "title": "True Olive Tree"
+      },
+      {
+        "slug": "unification-movement",
+        "title": "Unification Movement"
       }
     ],
     "verbatim": []
@@ -2663,6 +2741,10 @@
       {
         "slug": "cheonjin-bumo",
         "title": "Cheonjin Bumo"
+      },
+      {
+        "slug": "christianity-term",
+        "title": "Christianity"
       },
       {
         "slug": "conscience",
@@ -3642,6 +3724,10 @@
         "title": "Captivity"
       },
       {
+        "slug": "christianity-term",
+        "title": "Christianity"
+      },
+      {
         "slug": "communism",
         "title": "Communism"
       },
@@ -4359,6 +4445,10 @@
         "title": "Bible"
       },
       {
+        "slug": "christianity-term",
+        "title": "Christianity"
+      },
+      {
         "slug": "ethics",
         "title": "Ethics"
       },
@@ -4426,16 +4516,8 @@
     "further_reading": [],
     "mentioned": [
       {
-        "slug": "d-day",
-        "title": "D-Day"
-      },
-      {
         "slug": "heavenly-calendar",
         "title": "Heavenly Calendar"
-      },
-      {
-        "slug": "the-eight-stage-restoration-path",
-        "title": "The Eight-Stage Restoration Path"
       }
     ],
     "verbatim": []
@@ -4678,6 +4760,10 @@
       {
         "slug": "cheonjin-bumo",
         "title": "Cheonjin Bumo"
+      },
+      {
+        "slug": "christianity-term",
+        "title": "Christianity"
       },
       {
         "slug": "desire",
@@ -5346,6 +5432,10 @@
         "title": "Ancestor Liberation"
       },
       {
+        "slug": "christianity-term",
+        "title": "Christianity"
+      },
+      {
         "slug": "destination",
         "title": "Destination"
       },
@@ -5994,14 +6084,6 @@
         "title": "Blessed Family"
       },
       {
-        "slug": "blessing-ceremony",
-        "title": "Blessing Ceremony"
-      },
-      {
-        "slug": "completed-testament-age",
-        "title": "Completed Testament Age"
-      },
-      {
         "slug": "ethics",
         "title": "Ethics"
       },
@@ -6277,6 +6359,16 @@
       {
         "slug": "truth",
         "title": "Truth"
+      }
+    ],
+    "verbatim": []
+  },
+  "hoon-dok-hae-and-home-church-activities": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "christianity-term",
+        "title": "Christianity"
       }
     ],
     "verbatim": []
@@ -6707,10 +6799,6 @@
       {
         "slug": "blessed-family-term",
         "title": "Blessed Family"
-      },
-      {
-        "slug": "blessing-ceremony",
-        "title": "Blessing Ceremony"
       },
       {
         "slug": "cain-and-abel-term",
@@ -7520,6 +7608,10 @@
       {
         "slug": "cheonjin-bumo",
         "title": "Cheonjin Bumo"
+      },
+      {
+        "slug": "christianity-term",
+        "title": "Christianity"
       },
       {
         "slug": "conscience",
@@ -8628,10 +8720,6 @@
         "title": "Blessed Family"
       },
       {
-        "slug": "blessing-ceremony",
-        "title": "Blessing Ceremony"
-      },
-      {
         "slug": "holy-spirit-term",
         "title": "Holy Spirit"
       }
@@ -8681,6 +8769,10 @@
       {
         "slug": "cheonjin-bumo",
         "title": "Cheonjin Bumo"
+      },
+      {
+        "slug": "christianity-term",
+        "title": "Christianity"
       },
       {
         "slug": "elite-soldier",
@@ -9386,10 +9478,6 @@
         "title": "Absolute Sexual Ethics"
       },
       {
-        "slug": "blessing-ceremony",
-        "title": "Blessing Ceremony"
-      },
-      {
         "slug": "cain-and-abel-term",
         "title": "Cain and Abel"
       },
@@ -9828,6 +9916,16 @@
       {
         "slug": "restoration-through-indemnity-term",
         "title": "Restoration Through Indemnity"
+      }
+    ],
+    "verbatim": []
+  },
+  "persecution-home": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "christianity-term",
+        "title": "Christianity"
       }
     ],
     "verbatim": []
@@ -10639,6 +10737,10 @@
         "title": "Ahn ShiI Il"
       },
       {
+        "slug": "christianity-term",
+        "title": "Christianity"
+      },
+      {
         "slug": "john-the-baptist-term",
         "title": "John the Baptist"
       },
@@ -10969,6 +11071,10 @@
       {
         "slug": "blessed-family-term",
         "title": "Blessed Family"
+      },
+      {
+        "slug": "christianity-term",
+        "title": "Christianity"
       },
       {
         "slug": "the-second-advent",
@@ -11742,6 +11848,10 @@
       {
         "slug": "boon-bong-wang",
         "title": "Boon Bong Wang"
+      },
+      {
+        "slug": "christianity-term",
+        "title": "Christianity"
       },
       {
         "slug": "cosmos",
@@ -12716,6 +12826,10 @@
         "title": "Cheonjin Bumo"
       },
       {
+        "slug": "christianity-term",
+        "title": "Christianity"
+      },
+      {
         "slug": "communism",
         "title": "Communism"
       },
@@ -13130,10 +13244,6 @@
         "title": "Blessed Family"
       },
       {
-        "slug": "blessing-ceremony",
-        "title": "Blessing Ceremony"
-      },
-      {
         "slug": "human-affection",
         "title": "Human Affection"
       },
@@ -13397,16 +13507,6 @@
       }
     ],
     "mentioned": [],
-    "verbatim": []
-  },
-  "the-great-power-of-love-and-forgiveness": {
-    "further_reading": [],
-    "mentioned": [
-      {
-        "slug": "self-dominion",
-        "title": "Self-dominion"
-      }
-    ],
     "verbatim": []
   },
   "the-heart-of-heaven-in-relation-to-elijah": {
@@ -13834,6 +13934,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "christianity-term",
+        "title": "Christianity"
+      },
+      {
         "slug": "elite-soldier",
         "title": "Elite Soldier"
       },
@@ -14062,6 +14166,10 @@
         "title": "Cheonjin Bumo"
       },
       {
+        "slug": "christianity-term",
+        "title": "Christianity"
+      },
+      {
         "slug": "completed-testament-age",
         "title": "Completed Testament Age"
       },
@@ -14259,6 +14367,10 @@
       {
         "slug": "cheonjin-bumo",
         "title": "Cheonjin Bumo"
+      },
+      {
+        "slug": "christianity-term",
+        "title": "Christianity"
       },
       {
         "slug": "completed-testament-age",
@@ -14663,16 +14775,6 @@
       }
     ],
     "mentioned": [],
-    "verbatim": []
-  },
-  "the-proclamation-of-cheon-il-guk-and-the-declaration": {
-    "further_reading": [],
-    "mentioned": [
-      {
-        "slug": "the-beginning-and-end-are-the-same",
-        "title": "The Beginning and End Are the Same"
-      }
-    ],
     "verbatim": []
   },
   "the-proclamation-of-true-parents-and-kingship": {
@@ -15294,6 +15396,10 @@
         "title": "Bible"
       },
       {
+        "slug": "christianity-term",
+        "title": "Christianity"
+      },
+      {
         "slug": "communism",
         "title": "Communism"
       },
@@ -15387,6 +15493,10 @@
   "the-second-coming-of-jesus-and-the-true-parents": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "christianity-term",
+        "title": "Christianity"
+      },
       {
         "slug": "noah-term",
         "title": "Noah"
@@ -16452,10 +16562,6 @@
         "title": "Cain and Abel"
       },
       {
-        "slug": "completed-testament-age",
-        "title": "Completed Testament Age"
-      },
-      {
         "slug": "gyedae",
         "title": "Gyedae"
       },
@@ -16562,10 +16668,6 @@
   },
   "tribal-messiah-term": {
     "further_reading": [
-      {
-        "slug": "blessing-ceremony",
-        "title": "Blessing Ceremony"
-      },
       {
         "slug": "boon-bong-wang",
         "title": "Boon Bong Wang"
@@ -17069,29 +17171,6 @@
       }
     ]
   },
-  "true-mothers-benediction-at-the-cosmic-holy-blessing-ceremony": {
-    "further_reading": [],
-    "mentioned": [
-      {
-        "slug": "aju",
-        "title": "Aju!"
-      },
-      {
-        "slug": "blessing-ceremony",
-        "title": "Blessing Ceremony"
-      }
-    ],
-    "verbatim": [
-      {
-        "slug": "completed-testament-age",
-        "title": "Completed Testament Age"
-      },
-      {
-        "slug": "restoration-through-indemnity-term",
-        "title": "Restoration Through Indemnity"
-      }
-    ]
-  },
   "true-olive-tree": {
     "further_reading": [],
     "mentioned": [
@@ -17201,20 +17280,6 @@
     ],
     "verbatim": []
   },
-  "true-parents-and-the-completed-testament-age": {
-    "further_reading": [],
-    "mentioned": [
-      {
-        "slug": "god",
-        "title": "God"
-      },
-      {
-        "slug": "three-great-kingships",
-        "title": "Three Great Kingships"
-      }
-    ],
-    "verbatim": []
-  },
   "true-parents-day": {
     "further_reading": [],
     "mentioned": [
@@ -17232,6 +17297,10 @@
   "true-parents-holy-wedding": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "christianity-term",
+        "title": "Christianity"
+      },
       {
         "slug": "han",
         "title": "Han"
@@ -17269,12 +17338,18 @@
     ],
     "verbatim": []
   },
+  "true-parents-sunday": {
+    "further_reading": [],
+    "mentioned": [
+      {
+        "slug": "christianity-term",
+        "title": "Christianity"
+      }
+    ],
+    "verbatim": []
+  },
   "true-parents-term": {
     "further_reading": [
-      {
-        "slug": "blessing-ceremony",
-        "title": "Blessing Ceremony"
-      },
       {
         "slug": "cain-and-abel-term",
         "title": "Cain and Abel"
@@ -17705,6 +17780,10 @@
         "title": "Blessing Ceremony"
       },
       {
+        "slug": "christianity-term",
+        "title": "Christianity"
+      },
+      {
         "slug": "destination",
         "title": "Destination"
       }
@@ -17815,12 +17894,7 @@
     "verbatim": []
   },
   "universal-peace-federation": {
-    "further_reading": [
-      {
-        "slug": "completed-testament-age",
-        "title": "Completed Testament Age"
-      }
-    ],
+    "further_reading": [],
     "mentioned": [
       {
         "slug": "boon-bong-wang",
