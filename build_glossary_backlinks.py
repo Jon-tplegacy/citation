@@ -47,8 +47,8 @@ GLOSSARY_TAG = "glossary"
 
 # Source corpus: (tag slug, short display label). Order = precedence when a
 # source post carries several of these tags, and the order corpora are emitted.
+# Note: 'chambumo-gyeong' is deliberately excluded from the source corpus.
 CORPUS_TAGS = [
-    ("chambumo-gyeong",                                    "CBG"),
     ("pyeong-hwa-gyeong",                                  "PHG"),
     ("cheon-seong-gyeong",                                 "CSG"),
     ("exposition-of-the-divine-principle",                 "DP"),
@@ -58,23 +58,30 @@ CORPUS_TAGS = [
 ]
 CORPUS_ORDER = [label for _, label in CORPUS_TAGS]
 
+# Posts carrying any of these tags are dropped from the source corpus even if
+# they also carry one of the CORPUS_TAGS above.
+EXCLUDE_TAGS = {"chambumo-gyeong"}
+
 PER_CORPUS_LIMIT = 7   # max sources shown per corpus, per term
 
 
-def fetch_posts_by_tag(tag, fields="id,slug,title,html,url"):
+def fetch_posts_by_tag(tag, fields="id,slug,title,html,url", include_tags=False):
     """Paginate through Ghost Content API for posts with the given tag."""
     posts = []
     page = 1
     while True:
+        params = {
+            "key": API_KEY,
+            "filter": f"tag:{tag}",
+            "limit": "50",
+            "page": str(page),
+            "fields": fields,
+        }
+        if include_tags:
+            params["include"] = "tags"
         r = requests.get(
             f"{GHOST_URL}/ghost/api/content/posts/",
-            params={
-                "key": API_KEY,
-                "filter": f"tag:{tag}",
-                "limit": "50",
-                "page": str(page),
-                "fields": fields,
-            },
+            params=params,
             timeout=30,
         )
         r.raise_for_status()
@@ -95,24 +102,37 @@ def fetch_glossary_targets():
     return targets
 
 
+def is_excluded(post):
+    """True if the post carries any tag listed in EXCLUDE_TAGS."""
+    return any(t.get("slug") in EXCLUDE_TAGS for t in post.get("tags", []))
+
+
 def fetch_corpus_sources():
     """
-    Fetch the source corpus across CORPUS_TAGS, dedupe by id, annotate each
-    post with `_corpus` = label of the first tag it appeared under.
+    Fetch the source corpus across CORPUS_TAGS, dedupe by id, drop posts
+    carrying an excluded tag, and annotate each post with `_corpus` = label of
+    the first tag it appeared under.
     """
     seen_ids = set()
     merged = []
     for tag, label in CORPUS_TAGS:
-        tag_posts = fetch_posts_by_tag(tag)
+        tag_posts = fetch_posts_by_tag(tag, include_tags=True)
         new_count = 0
+        skipped = 0
         for p in tag_posts:
             pid = p.get("id")
-            if pid and pid not in seen_ids:
-                seen_ids.add(pid)
-                p["_corpus"] = label
-                merged.append(p)
-                new_count += 1
-        print(f"    tag '{tag}' [{label}]: {len(tag_posts)} posts ({new_count} new after dedup)", flush=True)
+            if not pid or pid in seen_ids:
+                continue
+            seen_ids.add(pid)
+            if is_excluded(p):
+                skipped += 1
+                continue
+            p["_corpus"] = label
+            merged.append(p)
+            new_count += 1
+        note = f" ({new_count} new after dedup"
+        note += f", {skipped} excluded)" if skipped else ")"
+        print(f"    tag '{tag}' [{label}]: {len(tag_posts)} posts{note}", flush=True)
     return merged
 
 
