@@ -48,18 +48,13 @@
   "a-truly-peaceful-world": [
     {
       "kind": "in",
-      "slug": "with-heartfelt-love-and-thanks",
-      "title": "With Heartfelt Love and Thanks"
-    },
-    {
-      "kind": "in",
       "slug": "the-foundation-of-the-future-world",
       "title": "The Foundation of the Future World"
     },
     {
       "kind": "in",
-      "slug": "let-us-build-a-world-of-peace",
-      "title": "Let Us Build A World Of Peace Through Living For The Sake Of Others"
+      "slug": "with-heartfelt-love-and-thanks",
+      "title": "With Heartfelt Love and Thanks"
     },
     {
       "kind": "in",
@@ -70,11 +65,6 @@
       "kind": "in",
       "slug": "true-knowledge-true-family-and-world-peace-2",
       "title": "True Knowledge, True Family, and World Peace"
-    },
-    {
-      "kind": "in",
-      "slug": "the-direction-for-the-world-and-the-united-nations",
-      "title": "The Direction for the World and the United Nations"
     }
   ],
   "a-world-of-living-for-the-sake-of-others": [
@@ -90,11 +80,6 @@
     },
     {
       "kind": "in",
-      "slug": "path-to-realize-gods-homeland-and-the-peace-kingdom",
-      "title": "Fifty Years on the Providential Path to Realize God’s Homeland and the Peace Kingdom"
-    },
-    {
-      "kind": "in",
       "slug": "the-ideal-world-for-god-and-humankind",
       "title": "The Ideal World for God and Humankind"
     },
@@ -105,11 +90,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-root-of-peace-is-in-true-love",
-      "title": "The Root of Peace Is in True Love"
-    },
-    {
-      "kind": "in",
       "slug": "address-at-the-groundbreaking-ceremony-of-the-times-aerospace-industrial-complex",
       "title": "Address at the Groundbreaking Ceremony of the Times Aerospace Industrial Complex"
     },
@@ -117,6 +97,16 @@
       "kind": "in",
       "slug": "god-and-a-united-world-of-peace",
       "title": "God and a United World of Peace"
+    },
+    {
+      "kind": "in",
+      "slug": "let-us-build-a-world-of-peace",
+      "title": "Let Us Build A World Of Peace Through Living For The Sake Of Others"
+    },
+    {
+      "kind": "in",
+      "slug": "the-harmonization-of-values-and-the-liberation-and-complete",
+      "title": "The Harmonization Of Values, And The Liberation And Complete Settlement Of The Realm Transcending Religions And Nations From The Providential Perspective"
     }
   ],
   "absolute-value-perspective": [
@@ -144,13 +134,18 @@
   "absolute-values-and-a-reassessment-of-contemporary": [
     {
       "kind": "out",
+      "slug": "absolute-value-perspective",
+      "title": "Absolute Value Perspective"
+    },
+    {
+      "kind": "out",
       "slug": "modern-science-and-our-view-of-moral-values",
       "title": "Modern Science and Our View of Moral Values"
     },
     {
       "kind": "out",
-      "slug": "absolute-value-perspective",
-      "title": "Absolute Value Perspective"
+      "slug": "harmony-among-the-sciences-and-the-search-for-absolute-values",
+      "title": "Harmony among the Sciences and the Search for Absolute Values"
     },
     {
       "kind": "out",
@@ -161,11 +156,6 @@
       "kind": "out",
       "slug": "god-and-the-limit-of-science",
       "title": "God and the Limit of Science"
-    },
-    {
-      "kind": "out",
-      "slug": "harmony-among-the-sciences-and-the-search-for-absolute-values",
-      "title": "Harmony among the Sciences and the Search for Absolute Values"
     }
   ],
   "absolute-values-and-a-reassessment-of-the-contemporary-world": [
@@ -191,16 +181,6 @@
     },
     {
       "kind": "in",
-      "slug": "world-peace-and-the-role-of-women-i",
-      "title": "World Peace and the Role of Women I"
-    },
-    {
-      "kind": "in",
-      "slug": "media-standards-and-journalistic-accountability",
-      "title": "Media Standards and Journalistic Accountability"
-    },
-    {
-      "kind": "in",
       "slug": "the-responsibility-of-the-media-in-a-divided-world",
       "title": "The Responsibility of the Media in a Divided World"
     },
@@ -208,11 +188,6 @@
       "kind": "in",
       "slug": "the-true-revolution-of-the-heart-and-the-opening-of-the-era",
       "title": "The True Revolution of the Heart and the Opening of the Era of True Liberation and Complete Freedom"
-    },
-    {
-      "kind": "in",
-      "slug": "the-youth-culture-must-become-a-pure-love-movement",
-      "title": "The Youth Culture Must Become a Pure Love Movement"
     },
     {
       "kind": "in",
@@ -270,11 +245,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-harmonization-of-values-and-the-liberation-and-complete",
-      "title": "The Harmonization Of Values, And The Liberation And Complete Settlement Of The Realm Transcending Religions And Nations From The Providential Perspective"
-    },
-    {
-      "kind": "in",
       "slug": "the-true-revolution-of-the-heart-and-the-opening-of-the-era",
       "title": "The True Revolution of the Heart and the Opening of the Era of True Liberation and Complete Freedom"
     },
@@ -282,18 +252,23 @@
       "kind": "in",
       "slug": "true-knowledge-true-family-and-world-peace-2",
       "title": "True Knowledge, True Family, and World Peace"
+    },
+    {
+      "kind": "in",
+      "slug": "leaping-forward-and-gaining-momentum",
+      "title": "Leaping Forward and Gaining Momentum"
     }
   ],
   "absolute-values-and-the-new-world-order": [
     {
       "kind": "in",
-      "slug": "establishing-a-world-of-moral-principles",
-      "title": "Establishing a World of Moral Principles"
+      "slug": "gods-strategy-for-victory",
+      "title": "God's Strategy for Victory"
     },
     {
       "kind": "in",
-      "slug": "gods-strategy-for-victory",
-      "title": "God's Strategy for Victory"
+      "slug": "establishing-a-world-of-moral-principles",
+      "title": "Establishing a World of Moral Principles"
     },
     {
       "kind": "in",
@@ -355,21 +330,16 @@
     },
     {
       "kind": "in",
-      "slug": "religions-mission-for-world-peace",
-      "title": "Religion’s Mission for World Peace"
+      "slug": "america-and-gods-will-washington-monument",
+      "title": "America and God’s Will"
     },
     {
       "kind": "in",
-      "slug": "america-and-gods-will-washington-monument",
-      "title": "America and God’s Will"
+      "slug": "religions-mission-for-world-peace",
+      "title": "Religion’s Mission for World Peace"
     }
   ],
   "becoming-leaders-in-building-a-world-of-peace": [
-    {
-      "kind": "in",
-      "slug": "congratulatory-address-for-the-world",
-      "title": "Congratulatory Address for the World"
-    },
     {
       "kind": "in",
       "slug": "the-kingdom-of-heaven-who-will-enter-it-and-how-will-they-get-there",
@@ -393,13 +363,6 @@
       "kind": "in",
       "slug": "the-root-of-peace-is-in-true-love",
       "title": "The Root of Peace Is in True Love"
-    }
-  ],
-  "challenges-and-possibilities-for-world-peace": [
-    {
-      "kind": "in",
-      "slug": "the-role-of-island-nations-in-the-twenty-first-century",
-      "title": "The Role of Island Nations in the Twenty-First Century"
     }
   ],
   "cheon-il-guk-is-the-ideal-heavenly-kingdom-of-eternal-peace": [
@@ -427,33 +390,6 @@
       "kind": "in",
       "slug": "the-path-of-humanity-and-the-united-states-in-the-era-of-the-peace-kingdom",
       "title": "The Path Of Humanity And The United States In The Era Of The Peace Kingdom"
-    }
-  ],
-  "congratulatory-address-for-the-world": [
-    {
-      "kind": "out",
-      "slug": "the-new-future-of-humankind",
-      "title": "The New Future of Humankind"
-    },
-    {
-      "kind": "out",
-      "slug": "establishing-a-world-of-moral-principles",
-      "title": "Establishing a World of Moral Principles"
-    },
-    {
-      "kind": "out",
-      "slug": "unification-thought-as-the-basis-of-a-new-cultural-revolution",
-      "title": "Unification Thought as the Basis of a New Cultural Revolution"
-    },
-    {
-      "kind": "out",
-      "slug": "becoming-leaders-in-building-a-world-of-peace",
-      "title": "Becoming Leaders in Building a World of Peace"
-    },
-    {
-      "kind": "out",
-      "slug": "leaders-in-a-world-of-peace",
-      "title": "Let Us Become Leaders in a World of Peace"
     }
   ],
   "declaring-the-era-of-the-peace-kingdom": [
@@ -517,13 +453,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-way-to-world-peace",
-      "title": "The Way to World Peace"
+      "slug": "america-and-gods-will-washington-monument",
+      "title": "America and God’s Will"
     },
     {
       "kind": "in",
-      "slug": "america-and-gods-will-washington-monument",
-      "title": "America and God’s Will"
+      "slug": "the-way-to-world-peace",
+      "title": "The Way to World Peace"
     },
     {
       "kind": "in",
@@ -556,11 +492,6 @@
       "kind": "in",
       "slug": "dialogue-and-harmony-among-civilizations",
       "title": "Dialogue and Harmony among Civilizations"
-    },
-    {
-      "kind": "in",
-      "slug": "congratulatory-address-for-the-world",
-      "title": "Congratulatory Address for the World"
     },
     {
       "kind": "in",
@@ -617,18 +548,8 @@
     },
     {
       "kind": "in",
-      "slug": "mission-of-the-media-in-the-twenty-first-century",
-      "title": "The Mission of the Media in the Twenty-First Century"
-    },
-    {
-      "kind": "in",
       "slug": "problems-confronting-society-and-the-responsibility-of-the-media",
       "title": "Problems Confronting Society and the Responsibility of the Media"
-    },
-    {
-      "kind": "in",
-      "slug": "the-significance-of-the-inauguration-of-the-sun-moon-peace-cup",
-      "title": "The Significance of the Inauguration of the Sun Moon Peace Cup"
     }
   ],
   "god-and-a-united-world-of-peace": [
@@ -636,11 +557,6 @@
       "kind": "out",
       "slug": "a-world-of-living-for-the-sake-of-others",
       "title": "A World of Living for the Sake of Others"
-    },
-    {
-      "kind": "out",
-      "slug": "gods-homeland-and-the-peace-kingdom-realm",
-      "title": "God’s Homeland and the Peace Kingdom Are Built on the Foundation of the Realm of His Liberation and Complete Freedom"
     },
     {
       "kind": "out",
@@ -676,11 +592,6 @@
     },
     {
       "kind": "in",
-      "slug": "media-standards-and-journalistic-accountability",
-      "title": "Media Standards and Journalistic Accountability"
-    },
-    {
-      "kind": "in",
       "slug": "absolute-values-and-a-reassessment-of-contemporary",
       "title": "Absolute Values and a Reassessment of Contemporary"
     }
@@ -706,29 +617,14 @@
   ],
   "god-women-and-world-peace": [
     {
-      "kind": "out",
-      "slug": "the-new-future-of-christianity",
-      "title": "The New Future of Christianity"
-    },
-    {
-      "kind": "in",
-      "slug": "leaders-in-a-world-of-peace",
-      "title": "Let Us Become Leaders in a World of Peace"
-    },
-    {
-      "kind": "in",
-      "slug": "the-role-of-women-in-the-era-after-the-coming-of-heaven",
-      "title": "The Role of Women in the Era after the Coming of Heaven and the Mission of the Women’s Federation for World Peace"
-    },
-    {
       "kind": "in",
       "slug": "world-peace-and-the-role-of-women-ii",
       "title": "World Peace and the Role of Women II"
     },
     {
       "kind": "in",
-      "slug": "the-appearance-of-true-parents-and-the-ideal-family",
-      "title": "The Appearance of True Parents and the Ideal Family"
+      "slug": "leaders-in-a-world-of-peace",
+      "title": "Let Us Become Leaders in a World of Peace"
     },
     {
       "kind": "in",
@@ -743,11 +639,6 @@
   ],
   "gods-homeland-and-one-world": [
     {
-      "kind": "out",
-      "slug": "with-heartfelt-love-and-thanks",
-      "title": "With Heartfelt Love and Thanks"
-    },
-    {
       "kind": "in",
       "slug": "a-world-of-living-for-the-sake-of-others",
       "title": "A World of Living for the Sake of Others"
@@ -761,11 +652,6 @@
   "gods-homeland-and-the-peace-kingdom": [
     {
       "kind": "in",
-      "slug": "path-to-realize-gods-homeland-and-the-peace-kingdom",
-      "title": "Fifty Years on the Providential Path to Realize God’s Homeland and the Peace Kingdom"
-    },
-    {
-      "kind": "in",
       "slug": "the-way-to-world-peace",
       "title": "The Way to World Peace"
     },
@@ -773,13 +659,6 @@
       "kind": "in",
       "slug": "the-holy-marriage-blessing-is-the-way-to-unite-the-virtues-of-heaven",
       "title": "The Holy Marriage Blessing Is the Way to Unite the Virtues of Heaven and Earth and Harmonize the Cosmos"
-    }
-  ],
-  "gods-homeland-and-the-peace-kingdom-realm": [
-    {
-      "kind": "in",
-      "slug": "god-and-a-united-world-of-peace",
-      "title": "God and a United World of Peace"
     }
   ],
   "gods-hope-for-america": [
@@ -802,21 +681,11 @@
     },
     {
       "kind": "in",
-      "slug": "path-to-realize-gods-homeland-and-the-peace-kingdom",
-      "title": "Fifty Years on the Providential Path to Realize God’s Homeland and the Peace Kingdom"
-    },
-    {
-      "kind": "in",
       "slug": "the-foundation-of-the-future-world",
       "title": "The Foundation of the Future World"
     }
   ],
   "gods-kingdom-of-peace-is-the-eternal-home-of-our-blessed-families": [
-    {
-      "kind": "in",
-      "slug": "the-ideal-world-for-god-and-humankind",
-      "title": "The Ideal World for God and Humankind"
-    },
     {
       "kind": "in",
       "slug": "the-mission-of-the-ambassadors-for-peace-in-the-revolutionary-era-after-the-coming-of-heaven",
@@ -885,8 +754,8 @@
     },
     {
       "kind": "in",
-      "slug": "the-cosmos-is-our-hometown-and-our-homeland",
-      "title": "The Cosmos Is Our Hometown and Our Homeland"
+      "slug": "the-true-family-and-i",
+      "title": "The True Family and I"
     },
     {
       "kind": "in",
@@ -895,8 +764,8 @@
     },
     {
       "kind": "in",
-      "slug": "the-true-family-and-i",
-      "title": "The True Family and I"
+      "slug": "the-cosmos-is-our-hometown-and-our-homeland",
+      "title": "The Cosmos Is Our Hometown and Our Homeland"
     }
   ],
   "gods-true-love-and-restoring-his-relationship-with-heaven-earth-and-humankind": [
@@ -941,13 +810,13 @@
     },
     {
       "kind": "in",
-      "slug": "god-and-the-limit-of-science",
-      "title": "God and the Limit of Science"
+      "slug": "gods-strategy-for-victory",
+      "title": "God's Strategy for Victory"
     },
     {
       "kind": "in",
-      "slug": "gods-strategy-for-victory",
-      "title": "God's Strategy for Victory"
+      "slug": "god-and-the-limit-of-science",
+      "title": "God and the Limit of Science"
     },
     {
       "kind": "in",
@@ -1063,6 +932,11 @@
     },
     {
       "kind": "out",
+      "slug": "the-role-of-women-in-the-era-after-the-coming-of-heaven",
+      "title": "The Role of Women in the Era after the Coming of Heaven and the Mission of the Women’s Federation for World Peace"
+    },
+    {
+      "kind": "out",
       "slug": "the-unity-of-the-world-and-humankinds-responsibility",
       "title": "The Unity of the World and Humankind’s Responsibility"
     },
@@ -1073,23 +947,8 @@
     },
     {
       "kind": "out",
-      "slug": "the-role-of-women-in-the-era-after-the-coming-of-heaven",
-      "title": "The Role of Women in the Era after the Coming of Heaven and the Mission of the Women’s Federation for World Peace"
-    },
-    {
-      "kind": "out",
       "slug": "world-peace-and-the-role-of-women-ii",
       "title": "World Peace and the Role of Women II"
-    },
-    {
-      "kind": "in",
-      "slug": "let-us-open-a-new-era-of-civilization",
-      "title": "Let Us Open a New Era of Civilization"
-    },
-    {
-      "kind": "in",
-      "slug": "congratulatory-address-for-the-world",
-      "title": "Congratulatory Address for the World"
     }
   ],
   "leaping-forward-and-gaining-momentum": [
@@ -1146,13 +1005,13 @@
   "let-us-become-leading-figures-in-the-asia-pacific-era": [
     {
       "kind": "out",
-      "slug": "the-new-future-of-humankind",
-      "title": "The New Future of Humankind"
+      "slug": "education-based-on-godism",
+      "title": "Education Based on Godism"
     },
     {
       "kind": "out",
-      "slug": "education-based-on-godism",
-      "title": "Education Based on Godism"
+      "slug": "the-new-future-of-humankind",
+      "title": "The New Future of Humankind"
     },
     {
       "kind": "out",
@@ -1189,11 +1048,6 @@
       "title": "A World of Living for the Sake of Others"
     },
     {
-      "kind": "out",
-      "slug": "a-truly-peaceful-world",
-      "title": "A Truly Peaceful World"
-    },
-    {
       "kind": "in",
       "slug": "restoration-of-cain-and-abel",
       "title": "Complete and Perfect Restoration of Cain and Abel Brotherhood and the Ideal World of Creation"
@@ -1201,36 +1055,9 @@
   ],
   "let-us-open-a-new-era-of-civilization": [
     {
-      "kind": "out",
-      "slug": "the-inauguration-of-the-abel-womens-un",
-      "title": "Keynote Speech at the Inauguration of the Abel Women’s UN"
-    },
-    {
-      "kind": "out",
-      "slug": "leaders-in-a-world-of-peace",
-      "title": "Let Us Become Leaders in a World of Peace"
-    },
-    {
-      "kind": "out",
-      "slug": "the-root-of-peace-is-in-true-love",
-      "title": "The Root of Peace Is in True Love"
-    },
-    {
       "kind": "in",
       "slug": "the-ideal-home-and-world-peace",
       "title": "The Ideal Home and World Peace"
-    }
-  ],
-  "let-us-open-wide-the-era-of-world-peace": [
-    {
-      "kind": "out",
-      "slug": "religions-mission-for-world-peace",
-      "title": "Religion’s Mission for World Peace"
-    },
-    {
-      "kind": "out",
-      "slug": "the-role-of-peninsular-nations-in-the-twenty-first-century",
-      "title": "The Role of Peninsular Nations in the Twenty-First Century"
     }
   ],
   "liberation-of-gods-homeland": [
@@ -1275,18 +1102,13 @@
     },
     {
       "kind": "out",
-      "slug": "unification-thought-as-the-basis-of-a-new-cultural-revolution",
-      "title": "Unification Thought as the Basis of a New Cultural Revolution"
-    },
-    {
-      "kind": "out",
       "slug": "problems-confronting-society-and-the-responsibility-of-the-media",
       "title": "Problems Confronting Society and the Responsibility of the Media"
     },
     {
-      "kind": "in",
-      "slug": "media-standards-and-journalistic-accountability",
-      "title": "Media Standards and Journalistic Accountability"
+      "kind": "out",
+      "slug": "unification-thought-as-the-basis-of-a-new-cultural-revolution",
+      "title": "Unification Thought as the Basis of a New Cultural Revolution"
     },
     {
       "kind": "in",
@@ -1303,47 +1125,12 @@
   ],
   "media-standards-and-journalistic-accountability": [
     {
-      "kind": "out",
-      "slug": "absolute-values-and-a-reassessment-of-the-contemporary-world",
-      "title": "Absolute Values and a Reassessment of the Contemporary World"
-    },
-    {
-      "kind": "out",
-      "slug": "modern-science-and-our-view-of-moral-values",
-      "title": "Modern Science and Our View of Moral Values"
-    },
-    {
-      "kind": "out",
-      "slug": "true-love-and-the-unified-world",
-      "title": "True Love and the Unified World"
-    },
-    {
-      "kind": "out",
-      "slug": "god-and-the-limit-of-science",
-      "title": "God and the Limit of Science"
-    },
-    {
-      "kind": "out",
-      "slug": "media-credibility-and-social-responsibility",
-      "title": "Media Credibility and Social Responsibility"
-    },
-    {
       "kind": "in",
       "slug": "direction-for-the-media-in-the-new-millennium",
       "title": "A United Direction for the Media in the New Millennium"
     }
   ],
   "mission-of-the-media-in-the-twenty-first-century": [
-    {
-      "kind": "out",
-      "slug": "globalization-and-the-media-looking-to-the-twenty-first-century",
-      "title": "Globalization and the Media: Looking to the Twenty-first Century"
-    },
-    {
-      "kind": "in",
-      "slug": "religion-and-the-creation-of-world-peace",
-      "title": "Religion and the Creation of World Peace"
-    },
     {
       "kind": "in",
       "slug": "world-peace-and-the-role-of-women-ii",
@@ -1388,18 +1175,13 @@
     },
     {
       "kind": "in",
-      "slug": "media-credibility-and-social-responsibility",
-      "title": "Media Credibility and Social Responsibility"
-    },
-    {
-      "kind": "in",
       "slug": "professors-world-peace-academy-and-our-resolution",
       "title": "Professor's World Peace Academy and Our Resolution"
     },
     {
       "kind": "in",
-      "slug": "media-standards-and-journalistic-accountability",
-      "title": "Media Standards and Journalistic Accountability"
+      "slug": "media-credibility-and-social-responsibility",
+      "title": "Media Credibility and Social Responsibility"
     },
     {
       "kind": "in",
@@ -1420,11 +1202,6 @@
     },
     {
       "kind": "in",
-      "slug": "religions-mission-for-world-peace",
-      "title": "Religion’s Mission for World Peace"
-    },
-    {
-      "kind": "in",
       "slug": "todays-intellectuals-and-religion",
       "title": "Today’s Intellectuals and Religion"
     },
@@ -1440,6 +1217,11 @@
     },
     {
       "kind": "in",
+      "slug": "religions-mission-for-world-peace",
+      "title": "Religion’s Mission for World Peace"
+    },
+    {
+      "kind": "in",
       "slug": "bequeathing-the-tradition-of-true-love",
       "title": "Bequeathing the Tradition of True Love"
     },
@@ -1447,13 +1229,6 @@
       "kind": "in",
       "slug": "let-us-achieve-everlasting-harmony-among-religions",
       "title": "Let Us Achieve Everlasting Harmony among Religions"
-    }
-  ],
-  "opening-inheriting-and-fulfilling-the-era-of-the-victory-liberation": [
-    {
-      "kind": "in",
-      "slug": "the-role-of-women-in-the-era-after-the-coming-of-heaven",
-      "title": "The Role of Women in the Era after the Coming of Heaven and the Mission of the Women’s Federation for World Peace"
     }
   ],
   "opening-the-path-for-genuine-dialogue": [
@@ -1561,33 +1336,8 @@
   "path-to-realize-gods-homeland-and-the-peace-kingdom": [
     {
       "kind": "out",
-      "slug": "the-new-future-of-humankind",
-      "title": "The New Future of Humankind"
-    },
-    {
-      "kind": "out",
-      "slug": "a-world-of-living-for-the-sake-of-others",
-      "title": "A World of Living for the Sake of Others"
-    },
-    {
-      "kind": "out",
-      "slug": "gods-homeland-and-the-peace-kingdom",
-      "title": "God’s Homeland And The Peace Kingdom"
-    },
-    {
-      "kind": "out",
       "slug": "gods-true-love-and-restoring-his-relationship-with-heaven-earth-and-humankind",
       "title": "God’s True Love and Restoring His Relationship with Heaven, Earth, and Humankind"
-    },
-    {
-      "kind": "out",
-      "slug": "the-cosmos-is-our-hometown-and-our-homeland",
-      "title": "The Cosmos Is Our Hometown and Our Homeland"
-    },
-    {
-      "kind": "out",
-      "slug": "gods-hope-for-humanity",
-      "title": "God’s Hope for Humanity"
     },
     {
       "kind": "out",
@@ -1603,11 +1353,6 @@
       "kind": "in",
       "slug": "the-corporeal-world-and-the-incorporeal-world-section",
       "title": "The Corporeal World and the Incorporeal World Section"
-    },
-    {
-      "kind": "in",
-      "slug": "restoration-of-cain-and-abel",
-      "title": "Complete and Perfect Restoration of Cain and Abel Brotherhood and the Ideal World of Creation"
     }
   ],
   "problems-confronting-society-and-the-responsibility-of-the-media": [
@@ -1657,6 +1402,11 @@
     },
     {
       "kind": "out",
+      "slug": "true-love-and-the-world-of-unity",
+      "title": "True Love and the World of Unity"
+    },
+    {
+      "kind": "out",
       "slug": "with-heartfelt-love-and-thanks",
       "title": "With Heartfelt Love and Thanks"
     },
@@ -1664,11 +1414,6 @@
       "kind": "out",
       "slug": "the-root-of-peace-is-in-true-love",
       "title": "The Root of Peace Is in True Love"
-    },
-    {
-      "kind": "out",
-      "slug": "true-love-and-the-world-of-unity",
-      "title": "True Love and the World of Unity"
     }
   ],
   "realization-of-a-peaceful-world-through-the-ideal-of-true-families": [
@@ -1684,11 +1429,6 @@
     }
   ],
   "religion-and-the-creation-of-world-peace": [
-    {
-      "kind": "out",
-      "slug": "mission-of-the-media-in-the-twenty-first-century",
-      "title": "The Mission of the Media in the Twenty-First Century"
-    },
     {
       "kind": "in",
       "slug": "dialogue-and-alliance",
@@ -1707,11 +1447,6 @@
   ],
   "religion-and-the-ideal-world": [
     {
-      "kind": "out",
-      "slug": "the-true-owners-in-establishing-the-kingdom-of-peace-and-unity-in-heaven-and-on-earth",
-      "title": "The True Owners in Establishing the Kingdom of Peace and Unity in Heaven and on Earth I"
-    },
-    {
       "kind": "in",
       "slug": "the-fundamental-truth",
       "title": "The Fundamental Truth"
@@ -1720,11 +1455,6 @@
       "kind": "in",
       "slug": "let-us-bring-religious-harmony-for-the-sake-of-world-peace",
       "title": "Let Us Bring Religious Harmony for the Sake of World Peace"
-    },
-    {
-      "kind": "in",
-      "slug": "the-direction-for-the-world-and-the-united-nations",
-      "title": "The Direction for the World and the United Nations"
     }
   ],
   "religions-mission-for-world-peace": [
@@ -1742,11 +1472,6 @@
       "kind": "in",
       "slug": "family-is-the-central-model-for-the-kingdom-of-heaven",
       "title": "The Family is the Central Model for the Kingdom of Heaven Section"
-    },
-    {
-      "kind": "in",
-      "slug": "let-us-open-wide-the-era-of-world-peace",
-      "title": "Let Us Open Wide the Era of World Peace"
     }
   ],
   "restoration-of-cain-and-abel": [
@@ -1754,16 +1479,6 @@
       "kind": "out",
       "slug": "cheon-il-guk-is-the-ideal-heavenly-kingdom-of-eternal-peace",
       "title": "Cheon Il Guk is the Ideal Heavenly Kingdom of Eternal Peace"
-    },
-    {
-      "kind": "out",
-      "slug": "path-to-realize-gods-homeland-and-the-peace-kingdom",
-      "title": "Fifty Years on the Providential Path to Realize God’s Homeland and the Peace Kingdom"
-    },
-    {
-      "kind": "out",
-      "slug": "the-cosmos-is-our-hometown-and-our-homeland",
-      "title": "The Cosmos Is Our Hometown and Our Homeland"
     },
     {
       "kind": "out",
@@ -1786,23 +1501,23 @@
   "science-and-absolute-values": [
     {
       "kind": "in",
-      "slug": "god-and-the-limit-of-science",
-      "title": "God and the Limit of Science"
-    },
-    {
-      "kind": "in",
       "slug": "harmony-among-the-sciences-and-the-search-for-absolute-values",
       "title": "Harmony among the Sciences and the Search for Absolute Values"
     },
     {
       "kind": "in",
-      "slug": "media-credibility-and-social-responsibility",
-      "title": "Media Credibility and Social Responsibility"
+      "slug": "god-and-the-limit-of-science",
+      "title": "God and the Limit of Science"
     },
     {
       "kind": "in",
       "slug": "absolute-values-and-the-creation-of-a-new-world",
       "title": "Absolute Values and the Creation of a New World"
+    },
+    {
+      "kind": "in",
+      "slug": "media-credibility-and-social-responsibility",
+      "title": "Media Credibility and Social Responsibility"
     }
   ],
   "significance-of-the-founding-of-the-unification-church": [
@@ -1847,11 +1562,6 @@
     },
     {
       "kind": "out",
-      "slug": "god-women-and-world-peace",
-      "title": "God, Women, and World Peace"
-    },
-    {
-      "kind": "out",
       "slug": "the-messiah-and-true-parents",
       "title": "The Messiah And True Parents"
     }
@@ -1866,23 +1576,18 @@
   "the-coming-of-the-age-of-women": [
     {
       "kind": "in",
-      "slug": "the-unity-of-the-world-and-humankinds-responsibility",
-      "title": "The Unity of the World and Humankind’s Responsibility"
-    },
-    {
-      "kind": "in",
       "slug": "women-will-play-a-leading-role-in-the-ideal",
       "title": "Women Will Play a Leading Role in the Ideal World III"
     },
     {
       "kind": "in",
-      "slug": "the-inauguration-of-the-abel-womens-un",
-      "title": "Keynote Speech at the Inauguration of the Abel Women’s UN"
+      "slug": "the-unity-of-the-world-and-humankinds-responsibility",
+      "title": "The Unity of the World and Humankind’s Responsibility"
     },
     {
       "kind": "in",
-      "slug": "the-role-of-women-in-the-era-after-the-coming-of-heaven",
-      "title": "The Role of Women in the Era after the Coming of Heaven and the Mission of the Women’s Federation for World Peace"
+      "slug": "the-inauguration-of-the-abel-womens-un",
+      "title": "Keynote Speech at the Inauguration of the Abel Women’s UN"
     },
     {
       "kind": "in",
@@ -1930,16 +1635,6 @@
     },
     {
       "kind": "in",
-      "slug": "path-to-realize-gods-homeland-and-the-peace-kingdom",
-      "title": "Fifty Years on the Providential Path to Realize God’s Homeland and the Peace Kingdom"
-    },
-    {
-      "kind": "in",
-      "slug": "restoration-of-cain-and-abel",
-      "title": "Complete and Perfect Restoration of Cain and Abel Brotherhood and the Ideal World of Creation"
-    },
-    {
-      "kind": "in",
       "slug": "the-true-land-for-a-king",
       "title": "The True Land for a King"
     }
@@ -1971,34 +1666,7 @@
       "title": "God and a United World of Peace"
     }
   ],
-  "the-direction-for-the-world-and-the-united-nations": [
-    {
-      "kind": "out",
-      "slug": "the-new-future-of-humankind",
-      "title": "The New Future of Humankind"
-    },
-    {
-      "kind": "out",
-      "slug": "a-truly-peaceful-world",
-      "title": "A Truly Peaceful World"
-    },
-    {
-      "kind": "out",
-      "slug": "religion-and-the-ideal-world",
-      "title": "Religion and the Ideal World"
-    },
-    {
-      "kind": "out",
-      "slug": "world-peace-and-the-role-of-women-i",
-      "title": "World Peace and the Role of Women I"
-    }
-  ],
   "the-distribution-of-fifty-thousand-copies-of-fathers-autobiography": [
-    {
-      "kind": "out",
-      "slug": "the-new-future-of-humankind",
-      "title": "The New Future of Humankind"
-    },
     {
       "kind": "in",
       "slug": "speeches-given-during-an-official-visit-to-north-korea",
@@ -2077,23 +1745,23 @@
     },
     {
       "kind": "in",
-      "slug": "the-way-to-world-peace",
-      "title": "The Way to World Peace"
-    },
-    {
-      "kind": "in",
       "slug": "family-is-the-central-model-for-the-kingdom-of-heaven",
       "title": "The Family is the Central Model for the Kingdom of Heaven Section"
     },
     {
       "kind": "in",
-      "slug": "the-life-of-jesus-from-the-perspective-of-gods-will-and-gods-warning-to-the-present-age",
-      "title": "The Life of Jesus from the Perspective of God's Will and God's Warning to the Present Age"
+      "slug": "the-way-to-world-peace",
+      "title": "The Way to World Peace"
     },
     {
       "kind": "in",
       "slug": "the-holy-marriage-blessing-is-the-way-to-unite-the-virtues-of-heaven",
       "title": "The Holy Marriage Blessing Is the Way to Unite the Virtues of Heaven and Earth and Harmonize the Cosmos"
+    },
+    {
+      "kind": "in",
+      "slug": "the-life-of-jesus-from-the-perspective-of-gods-will-and-gods-warning-to-the-present-age",
+      "title": "The Life of Jesus from the Perspective of God's Will and God's Warning to the Present Age"
     }
   ],
   "the-harmonization-of-values-and-the-liberation-and-complete": [
@@ -2101,11 +1769,6 @@
       "kind": "out",
       "slug": "a-world-of-living-for-the-sake-of-others",
       "title": "A World of Living for the Sake of Others"
-    },
-    {
-      "kind": "out",
-      "slug": "absolute-values-and-the-new-cultural-revolution",
-      "title": "Absolute Values and The New Cultural Revolution"
     },
     {
       "kind": "in",
@@ -2181,11 +1844,6 @@
       "title": "The Messiah And True Parents"
     },
     {
-      "kind": "out",
-      "slug": "gods-kingdom-of-peace-is-the-eternal-home-of-our-blessed-families",
-      "title": "God's Kingdom Of Peace Is The Eternal Home Of Our Blessed Families"
-    },
-    {
       "kind": "in",
       "slug": "the-foundation-of-the-future-world",
       "title": "The Foundation of the Future World"
@@ -2214,11 +1872,6 @@
     },
     {
       "kind": "out",
-      "slug": "the-unity-of-the-world-and-humankinds-responsibility",
-      "title": "The Unity of the World and Humankind’s Responsibility"
-    },
-    {
-      "kind": "out",
       "slug": "women-will-play-a-leading-role-in-the-ideal",
       "title": "Women Will Play a Leading Role in the Ideal World III"
     },
@@ -2229,6 +1882,11 @@
     },
     {
       "kind": "out",
+      "slug": "the-unity-of-the-world-and-humankinds-responsibility",
+      "title": "The Unity of the World and Humankind’s Responsibility"
+    },
+    {
+      "kind": "out",
       "slug": "the-responsibility-of-the-media-in-a-divided-world",
       "title": "The Responsibility of the Media in a Divided World"
     },
@@ -2236,11 +1894,6 @@
       "kind": "in",
       "slug": "leaders-in-a-world-of-peace",
       "title": "Let Us Become Leaders in a World of Peace"
-    },
-    {
-      "kind": "in",
-      "slug": "let-us-open-a-new-era-of-civilization",
-      "title": "Let Us Open a New Era of Civilization"
     }
   ],
   "the-kingdom-of-heaven-who-will-enter-it-and-how-will-they-get-there": [
@@ -2275,11 +1928,6 @@
       "kind": "out",
       "slug": "understanding-life-and-death",
       "title": "Understanding Life and Death"
-    },
-    {
-      "kind": "in",
-      "slug": "the-role-of-women-in-the-era-after-the-coming-of-heaven",
-      "title": "The Role of Women in the Era after the Coming of Heaven and the Mission of the Women’s Federation for World Peace"
     }
   ],
   "the-messiah-and-true-parents": [
@@ -2371,23 +2019,8 @@
     },
     {
       "kind": "in",
-      "slug": "god-women-and-world-peace",
-      "title": "God, Women, and World Peace"
-    },
-    {
-      "kind": "in",
       "slug": "in-the-hope-that-you-will-participate-in-the-unification-movement",
       "title": "In the Hope that You Will Participate in the Unification Movement"
-    },
-    {
-      "kind": "in",
-      "slug": "globalization-and-the-media-looking-to-the-twenty-first-century",
-      "title": "Globalization and the Media: Looking to the Twenty-first Century"
-    },
-    {
-      "kind": "in",
-      "slug": "gods-hope-for-humanity",
-      "title": "God’s Hope for Humanity"
     },
     {
       "kind": "in",
@@ -2398,6 +2031,21 @@
       "kind": "in",
       "slug": "the-will-of-god-danbury",
       "title": "The Will of God -True Father’s release from prison in Danbury"
+    },
+    {
+      "kind": "in",
+      "slug": "true-love-and-the-world-of-unity",
+      "title": "True Love and the World of Unity"
+    },
+    {
+      "kind": "in",
+      "slug": "globalization-and-the-media-looking-to-the-twenty-first-century",
+      "title": "Globalization and the Media: Looking to the Twenty-first Century"
+    },
+    {
+      "kind": "in",
+      "slug": "gods-hope-for-humanity",
+      "title": "God’s Hope for Humanity"
     }
   ],
   "the-new-future-of-humankind": [
@@ -2413,16 +2061,6 @@
     },
     {
       "kind": "in",
-      "slug": "path-to-realize-gods-homeland-and-the-peace-kingdom",
-      "title": "Fifty Years on the Providential Path to Realize God’s Homeland and the Peace Kingdom"
-    },
-    {
-      "kind": "in",
-      "slug": "with-heartfelt-love-and-thanks",
-      "title": "With Heartfelt Love and Thanks"
-    },
-    {
-      "kind": "in",
       "slug": "women-will-play-a-leading-role-in-the-ideal",
       "title": "Women Will Play a Leading Role in the Ideal World III"
     },
@@ -2433,30 +2071,40 @@
     },
     {
       "kind": "in",
-      "slug": "the-role-of-island-nations-in-the-twenty-first-century",
-      "title": "The Role of Island Nations in the Twenty-First Century"
-    },
-    {
-      "kind": "in",
-      "slug": "the-distribution-of-fifty-thousand-copies-of-fathers-autobiography",
-      "title": "Event to Mark the Distribution of Fifty Thousand Copies of Father's Autobiography"
+      "slug": "with-heartfelt-love-and-thanks",
+      "title": "With Heartfelt Love and Thanks"
     },
     {
       "kind": "in",
       "slug": "owner-of-peace-owner-of-lineage",
       "title": "Owner of Peace, Owner of Lineage"
+    },
+    {
+      "kind": "in",
+      "slug": "the-nation-and-world-of-peace-sought-by-god-and-humanity",
+      "title": "The Nation and World of Peace Sought by God and Humanity"
+    },
+    {
+      "kind": "in",
+      "slug": "the-true-revolution-of-the-heart-and-the-opening-of-the-era",
+      "title": "The True Revolution of the Heart and the Opening of the Era of True Liberation and Complete Freedom"
+    },
+    {
+      "kind": "in",
+      "slug": "let-us-become-leading-figures-in-the-asia-pacific-era",
+      "title": "Let Us Become Leading Figures in the Asia-Pacific Era"
     }
   ],
   "the-original-vision-for-love-between-men-and-women": [
     {
       "kind": "out",
-      "slug": "with-heartfelt-love-and-thanks",
-      "title": "With Heartfelt Love and Thanks"
+      "slug": "the-true-family-movement-to-save-humankind",
+      "title": "The True Family Movement to Save Humankind"
     },
     {
       "kind": "out",
-      "slug": "the-true-family-movement-to-save-humankind",
-      "title": "The True Family Movement to Save Humankind"
+      "slug": "with-heartfelt-love-and-thanks",
+      "title": "With Heartfelt Love and Thanks"
     },
     {
       "kind": "out",
@@ -2489,13 +2137,6 @@
       "kind": "in",
       "slug": "everything-wants-true-love",
       "title": "Everything Wants True Love"
-    }
-  ],
-  "the-path-for-america-and-humanity-in-the-new-millennium": [
-    {
-      "kind": "out",
-      "slug": "the-new-future-of-christianity",
-      "title": "The New Future of Christianity"
     }
   ],
   "the-path-for-the-true-salvation-of-the-world-and-the-nation": [
@@ -2539,13 +2180,13 @@
     },
     {
       "kind": "out",
-      "slug": "media-credibility-and-social-responsibility",
-      "title": "Media Credibility and Social Responsibility"
+      "slug": "problems-confronting-society-and-the-responsibility-of-the-media",
+      "title": "Problems Confronting Society and the Responsibility of the Media"
     },
     {
       "kind": "out",
-      "slug": "problems-confronting-society-and-the-responsibility-of-the-media",
-      "title": "Problems Confronting Society and the Responsibility of the Media"
+      "slug": "media-credibility-and-social-responsibility",
+      "title": "Media Credibility and Social Responsibility"
     },
     {
       "kind": "in",
@@ -2616,42 +2257,12 @@
   ],
   "the-role-of-island-nations-in-the-twenty-first-century": [
     {
-      "kind": "out",
-      "slug": "the-new-future-of-humankind",
-      "title": "The New Future of Humankind"
-    },
-    {
-      "kind": "out",
-      "slug": "the-way-to-world-peace",
-      "title": "The Way to World Peace"
-    },
-    {
-      "kind": "out",
-      "slug": "challenges-and-possibilities-for-world-peace",
-      "title": "Challenges and Possibilities for World Peace"
-    },
-    {
-      "kind": "in",
-      "slug": "the-role-of-peninsular-nations-in-the-twenty-first-century",
-      "title": "The Role of Peninsular Nations in the Twenty-First Century"
-    },
-    {
       "kind": "in",
       "slug": "the-role-of-continental-nations-in-the-twenty-first-century",
       "title": "The Role of Continental Nations in the Twenty-First Century"
     }
   ],
   "the-role-of-peninsular-nations-in-the-twenty-first-century": [
-    {
-      "kind": "out",
-      "slug": "the-role-of-island-nations-in-the-twenty-first-century",
-      "title": "The Role of Island Nations in the Twenty-First Century"
-    },
-    {
-      "kind": "in",
-      "slug": "let-us-open-wide-the-era-of-world-peace",
-      "title": "Let Us Open Wide the Era of World Peace"
-    },
     {
       "kind": "in",
       "slug": "the-role-of-continental-nations-in-the-twenty-first-century",
@@ -2661,48 +2272,23 @@
   "the-role-of-women-in-the-era-after-the-coming-of-heaven": [
     {
       "kind": "out",
-      "slug": "god-women-and-world-peace",
-      "title": "God, Women, and World Peace"
-    },
-    {
-      "kind": "out",
       "slug": "cheon-il-guk-is-the-ideal-heavenly-kingdom-of-eternal-peace",
       "title": "Cheon Il Guk is the Ideal Heavenly Kingdom of Eternal Peace"
     },
     {
       "kind": "out",
-      "slug": "the-coming-of-the-age-of-women",
-      "title": "The Coming of the Age of Women"
-    },
-    {
-      "kind": "out",
-      "slug": "the-unity-of-the-world-and-humankinds-responsibility",
-      "title": "The Unity of the World and Humankind’s Responsibility"
-    },
-    {
-      "kind": "out",
-      "slug": "true-unification-and-one-world",
-      "title": "True Unification and One World"
-    },
-    {
-      "kind": "out",
-      "slug": "world-peace-and-the-role-of-women-ii",
-      "title": "World Peace and the Role of Women II"
-    },
-    {
-      "kind": "out",
-      "slug": "opening-inheriting-and-fulfilling-the-era-of-the-victory-liberation",
-      "title": "Opening, Inheriting and Fulfilling the Era of the Victory, Liberation and Completion of the True Parents of Heaven, Earth and Humankind"
-    },
-    {
-      "kind": "in",
-      "slug": "leaders-in-a-world-of-peace",
-      "title": "Let Us Become Leaders in a World of Peace"
+      "slug": "owner-of-peace-owner-of-lineage",
+      "title": "Owner of Peace, Owner of Lineage"
     },
     {
       "kind": "in",
       "slug": "owner-of-true-love-according-to-the-absolute-value-system",
       "title": "Determining the Owner of True Love According to the Absolute Value System of the True Ideal Family"
+    },
+    {
+      "kind": "in",
+      "slug": "leaders-in-a-world-of-peace",
+      "title": "Let Us Become Leaders in a World of Peace"
     }
   ],
   "the-root-of-peace-is-in-true-love": [
@@ -2718,21 +2304,11 @@
     },
     {
       "kind": "in",
-      "slug": "let-us-open-a-new-era-of-civilization",
-      "title": "Let Us Open a New Era of Civilization"
-    },
-    {
-      "kind": "in",
       "slug": "rally-for-the-unity-and-completed-settlement-of-the-parents",
       "title": "Rally for the Unity and Completed Settlement of the Parents of Heaven and Earth"
     }
   ],
   "the-significance-of-the-inauguration-of-the-sun-moon-peace-cup": [
-    {
-      "kind": "out",
-      "slug": "globalization-and-the-media-looking-to-the-twenty-first-century",
-      "title": "Globalization and the Media: Looking to the Twenty-first Century"
-    },
     {
       "kind": "in",
       "slug": "let-us-achieve-everlasting-harmony-among-religions",
@@ -2834,11 +2410,6 @@
     },
     {
       "kind": "in",
-      "slug": "religion-and-the-ideal-world",
-      "title": "Religion and the Ideal World"
-    },
-    {
-      "kind": "in",
       "slug": "dialogue-and-harmony-among-civilizations",
       "title": "Dialogue and Harmony among Civilizations"
     },
@@ -2866,13 +2437,13 @@
     },
     {
       "kind": "out",
-      "slug": "absolute-values-and-a-reassessment-of-the-contemporary-world",
-      "title": "Absolute Values and a Reassessment of the Contemporary World"
+      "slug": "the-messiah-and-true-parents",
+      "title": "The Messiah And True Parents"
     },
     {
       "kind": "out",
-      "slug": "the-messiah-and-true-parents",
-      "title": "The Messiah And True Parents"
+      "slug": "absolute-values-and-a-reassessment-of-the-contemporary-world",
+      "title": "Absolute Values and a Reassessment of the Contemporary World"
     },
     {
       "kind": "out",
@@ -2932,11 +2503,6 @@
       "kind": "in",
       "slug": "leaders-in-a-world-of-peace",
       "title": "Let Us Become Leaders in a World of Peace"
-    },
-    {
-      "kind": "in",
-      "slug": "the-role-of-women-in-the-era-after-the-coming-of-heaven",
-      "title": "The Role of Women in the Era after the Coming of Heaven and the Mission of the Women’s Federation for World Peace"
     }
   ],
   "the-value-and-significance-of-the-family-pledge": [
@@ -2964,11 +2530,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-role-of-island-nations-in-the-twenty-first-century",
-      "title": "The Role of Island Nations in the Twenty-First Century"
-    },
-    {
-      "kind": "in",
       "slug": "god-is-the-origin-of-peace",
       "title": "God Is the Origin of Peace"
     }
@@ -2993,13 +2554,6 @@
       "kind": "in",
       "slug": "our-homeland-for-the-sake-of-the-world",
       "title": "Our Homeland for the Sake of the World"
-    }
-  ],
-  "the-youth-culture-must-become-a-pure-love-movement": [
-    {
-      "kind": "out",
-      "slug": "absolute-values-and-a-reassessment-of-the-contemporary-world",
-      "title": "Absolute Values and a Reassessment of the Contemporary World"
     }
   ],
   "todays-intellectuals-and-religion": [
@@ -3037,13 +2591,13 @@
     },
     {
       "kind": "in",
-      "slug": "true-unification-and-one-world",
-      "title": "True Unification and One World"
+      "slug": "the-corporeal-world-and-the-incorporeal-world-section",
+      "title": "The Corporeal World and the Incorporeal World Section"
     },
     {
       "kind": "in",
-      "slug": "the-corporeal-world-and-the-incorporeal-world-section",
-      "title": "The Corporeal World and the Incorporeal World Section"
+      "slug": "true-unification-and-one-world",
+      "title": "True Unification and One World"
     },
     {
       "kind": "in",
@@ -3088,13 +2642,13 @@
     },
     {
       "kind": "out",
-      "slug": "unification-thought-as-the-basis-of-a-new-cultural-revolution",
-      "title": "Unification Thought as the Basis of a New Cultural Revolution"
+      "slug": "the-foundation-of-the-future-world",
+      "title": "The Foundation of the Future World"
     },
     {
       "kind": "out",
-      "slug": "the-foundation-of-the-future-world",
-      "title": "The Foundation of the Future World"
+      "slug": "unification-thought-as-the-basis-of-a-new-cultural-revolution",
+      "title": "Unification Thought as the Basis of a New Cultural Revolution"
     },
     {
       "kind": "in",
@@ -3105,11 +2659,6 @@
       "kind": "in",
       "slug": "media-credibility-and-social-responsibility",
       "title": "Media Credibility and Social Responsibility"
-    },
-    {
-      "kind": "in",
-      "slug": "media-standards-and-journalistic-accountability",
-      "title": "Media Standards and Journalistic Accountability"
     },
     {
       "kind": "in",
@@ -3186,11 +2735,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-role-of-women-in-the-era-after-the-coming-of-heaven",
-      "title": "The Role of Women in the Era after the Coming of Heaven and the Mission of the Women’s Federation for World Peace"
-    },
-    {
-      "kind": "in",
       "slug": "let-us-become-leading-figures-in-the-asia-pacific-era",
       "title": "Let Us Become Leading Figures in the Asia-Pacific Era"
     },
@@ -3208,13 +2752,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-life-of-jesus-from-the-perspective-of-gods-will-and-gods-warning-to-the-present-age",
-      "title": "The Life of Jesus from the Perspective of God's Will and God's Warning to the Present Age"
+      "slug": "the-course-of-life-for-the-princes-and-princesses-of-god",
+      "title": "The Course of Life for the Princes and Princesses of God"
     },
     {
       "kind": "in",
-      "slug": "the-course-of-life-for-the-princes-and-princesses-of-god",
-      "title": "The Course of Life for the Princes and Princesses of God"
+      "slug": "the-life-of-jesus-from-the-perspective-of-gods-will-and-gods-warning-to-the-present-age",
+      "title": "The Life of Jesus from the Perspective of God's Will and God's Warning to the Present Age"
     }
   ],
   "unification-thought-as-the-basis-of-a-new-cultural-revolution": [
@@ -3237,11 +2781,6 @@
       "kind": "in",
       "slug": "media-credibility-and-social-responsibility",
       "title": "Media Credibility and Social Responsibility"
-    },
-    {
-      "kind": "in",
-      "slug": "congratulatory-address-for-the-world",
-      "title": "Congratulatory Address for the World"
     }
   ],
   "with-heartfelt-love-and-thanks": [
@@ -3264,11 +2803,6 @@
       "kind": "in",
       "slug": "the-original-vision-for-love-between-men-and-women",
       "title": "The Original Vision for Love Between Men and Women"
-    },
-    {
-      "kind": "in",
-      "slug": "gods-homeland-and-one-world",
-      "title": "God’s Homeland and One World"
     },
     {
       "kind": "in",
@@ -3334,19 +2868,9 @@
   ],
   "world-peace-and-the-role-of-women-i": [
     {
-      "kind": "out",
-      "slug": "absolute-values-and-a-reassessment-of-the-contemporary-world",
-      "title": "Absolute Values and a Reassessment of the Contemporary World"
-    },
-    {
       "kind": "in",
       "slug": "let-us-become-leading-figures-in-the-asia-pacific-era",
       "title": "Let Us Become Leading Figures in the Asia-Pacific Era"
-    },
-    {
-      "kind": "in",
-      "slug": "the-direction-for-the-world-and-the-united-nations",
-      "title": "The Direction for the World and the United Nations"
     }
   ],
   "world-peace-and-the-role-of-women-ii": [
@@ -3357,23 +2881,18 @@
     },
     {
       "kind": "out",
-      "slug": "mission-of-the-media-in-the-twenty-first-century",
-      "title": "The Mission of the Media in the Twenty-First Century"
+      "slug": "women-will-play-a-leading-role-in-the-ideal",
+      "title": "Women Will Play a Leading Role in the Ideal World III"
     },
     {
       "kind": "out",
-      "slug": "women-will-play-a-leading-role-in-the-ideal",
-      "title": "Women Will Play a Leading Role in the Ideal World III"
+      "slug": "mission-of-the-media-in-the-twenty-first-century",
+      "title": "The Mission of the Media in the Twenty-First Century"
     },
     {
       "kind": "in",
       "slug": "leaders-in-a-world-of-peace",
       "title": "Let Us Become Leaders in a World of Peace"
-    },
-    {
-      "kind": "in",
-      "slug": "the-role-of-women-in-the-era-after-the-coming-of-heaven",
-      "title": "The Role of Women in the Era after the Coming of Heaven and the Mission of the Women’s Federation for World Peace"
     }
   ],
   "world-unity-and-the-reunification-of-south-and-north-korea-will-be-accomplished-by-true-love": [
