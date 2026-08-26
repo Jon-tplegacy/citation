@@ -9156,7 +9156,7 @@
   ],
   "the-identity-and-role-of-the-true-parents": [
     {
-      "kind": "bi",
+      "kind": "out",
       "slug": "the-three-great-subjects-principle-and-the-parent-centered-ideology",
       "title": "The Three Great Subjects Principle and the Parent-Centered Ideology"
     },
@@ -10672,13 +10672,6 @@
       "title": "God’s Model Ideal Family and Nation, and the Peace Kingdom"
     }
   ],
-  "the-original-homeland-only-welcomes-those-people-who-lived-for-god": [
-    {
-      "kind": "out",
-      "slug": "your-original-mind-is-the-teacher-and-closest-to-god",
-      "title": "Your Original Mind is the Teacher and Closest to God"
-    }
-  ],
   "the-original-true-family-is-established-in-the-unification-church": [
     {
       "kind": "out",
@@ -10820,13 +10813,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-identity-and-role-of-the-true-parents",
-      "title": "The Significance of the True Parents"
+      "slug": "the-authority-and-mission-of-the-true-parents",
+      "title": "The Authority and Mission of the True Parents"
     },
     {
       "kind": "out",
-      "slug": "the-authority-and-mission-of-the-true-parents",
-      "title": "The Authority and Mission of the True Parents"
+      "slug": "the-identity-and-role-of-the-true-parents",
+      "title": "The Significance of the True Parents"
     },
     {
       "kind": "out",
@@ -11036,11 +11029,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-three-great-subjects-principle-and-the-parent-centered-ideology",
-      "title": "The Three Great Subjects Principle and the Parent-Centered Ideology"
-    },
-    {
-      "kind": "in",
       "slug": "the-path-of-rebirth-and-restoration",
       "title": "What Is a True Parent?"
     },
@@ -11186,11 +11174,6 @@
   "the-proclamation-of-true-parents-and-kingship": [
     {
       "kind": "bi",
-      "slug": "the-three-great-subjects-principle-and-the-parent-centered-ideology",
-      "title": "The Three Great Subjects Principle and the Parent-Centered Ideology"
-    },
-    {
-      "kind": "bi",
       "slug": "the-position-of-the-true-parents",
       "title": "The Position of the True Parents"
     },
@@ -11208,6 +11191,11 @@
       "kind": "out",
       "slug": "the-significance-of-the-tribal-messiah",
       "title": "The Significance of the Tribal Messiah"
+    },
+    {
+      "kind": "out",
+      "slug": "the-three-great-subjects-principle-and-the-parent-centered-ideology",
+      "title": "The Three Great Subjects Principle and the Parent-Centered Ideology"
     },
     {
       "kind": "out",
@@ -12912,13 +12900,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-proclamation-of-true-parents-and-kingship",
-      "title": "The Proclamation of True Parents and Kingship"
+      "slug": "let-us-plant-our-true-heart-in-the-original-homeland",
+      "title": "Let Us Plant Our True Heart in the Original Homeland"
     },
     {
       "kind": "in",
-      "slug": "let-us-plant-our-true-heart-in-the-original-homeland",
-      "title": "Let Us Plant Our True Heart in the Original Homeland"
+      "slug": "the-proclamation-of-true-parents-and-kingship",
+      "title": "The Proclamation of True Parents and Kingship"
     },
     {
       "kind": "in",
@@ -13108,16 +13096,6 @@
   ],
   "the-three-great-subjects-principle-and-the-parent-centered-ideology": [
     {
-      "kind": "bi",
-      "slug": "the-identity-and-role-of-the-true-parents",
-      "title": "The Significance of the True Parents"
-    },
-    {
-      "kind": "bi",
-      "slug": "the-proclamation-of-true-parents-and-kingship",
-      "title": "The Proclamation of True Parents and Kingship"
-    },
-    {
       "kind": "out",
       "slug": "the-true-love-of-god",
       "title": "God's Love"
@@ -13128,9 +13106,9 @@
       "title": "Parental Love"
     },
     {
-      "kind": "out",
-      "slug": "the-position-of-the-true-parents",
-      "title": "The Position of the True Parents"
+      "kind": "in",
+      "slug": "the-identity-and-role-of-the-true-parents",
+      "title": "The Significance of the True Parents"
     },
     {
       "kind": "in",
@@ -13141,6 +13119,11 @@
       "kind": "in",
       "slug": "the-conditions-for-registration",
       "title": "The Conditions for Registration"
+    },
+    {
+      "kind": "in",
+      "slug": "the-proclamation-of-true-parents-and-kingship",
+      "title": "The Proclamation of True Parents and Kingship"
     },
     {
       "kind": "in",
@@ -13156,11 +13139,6 @@
       "kind": "in",
       "slug": "registration-in-the-spirit-world",
       "title": "Registration in the Spirit World"
-    },
-    {
-      "kind": "in",
-      "slug": "the-essence-of-the-teachings-of-the-family-federation",
-      "title": "The Essence of the Teachings of the Family Federation"
     }
   ],
   "the-three-requisites-of-cheon-il-guk": [
@@ -13672,11 +13650,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-proclamation-of-true-parents-and-kingship",
-      "title": "The Proclamation of True Parents and Kingship"
-    },
-    {
-      "kind": "in",
       "slug": "the-seven-great-jardim-declarations-and-the-establishment-of-the-new-eden",
       "title": "The Seven Great Jardim Declarations and the Establishment of the New Eden"
     },
@@ -13684,6 +13657,11 @@
       "kind": "in",
       "slug": "the-love-of-man-and-woman-in-the-original-creation",
       "title": "The Love of Man and Woman  in the Original Creation"
+    },
+    {
+      "kind": "in",
+      "slug": "the-proclamation-of-true-parents-and-kingship",
+      "title": "The Proclamation of True Parents and Kingship"
     },
     {
       "kind": "in",
@@ -15792,11 +15770,6 @@
       "kind": "out",
       "slug": "we-need-a-personal-god-with-whom-we-can-be-one",
       "title": "We need a personal God with whom we can be one"
-    },
-    {
-      "kind": "in",
-      "slug": "the-original-homeland-only-welcomes-those-people-who-lived-for-god",
-      "title": "The original homeland only welcomes those people who lived for God"
     }
   ]
 }
