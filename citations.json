@@ -185,6 +185,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
+      {
         "slug": "absolute-self-denial",
         "title": "Absolute Self-Denial"
       },
@@ -421,6 +425,10 @@
   "adam-and-eve-term": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
       {
         "slug": "abraham-term",
         "title": "Abraham"
@@ -1284,10 +1292,6 @@
         "title": "Indemnity"
       },
       {
-        "slug": "kingdom-of-heaven",
-        "title": "Kingdom of Heaven"
-      },
-      {
         "slug": "perfection-term",
         "title": "Perfection"
       },
@@ -1510,16 +1514,6 @@
         "title": "World Culture and Sports Festival"
       }
     ],
-    "verbatim": []
-  },
-  "books": {
-    "further_reading": [
-      {
-        "slug": "cheon-il-guk",
-        "title": "Cheon Il Guk"
-      }
-    ],
-    "mentioned": [],
     "verbatim": []
   },
   "boon-bong-wang": {
@@ -1779,12 +1773,20 @@
     ],
     "mentioned": [
       {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
+      {
         "slug": "blessed-family-term",
         "title": "Blessed Family"
       },
       {
         "slug": "boon-bong-wang",
         "title": "Boon Bong Wang"
+      },
+      {
+        "slug": "ehwa-university-and-yonsei-university",
+        "title": "Ewha Womans University Incident"
       },
       {
         "slug": "four-great-realms-of-heart",
@@ -1985,10 +1987,6 @@
   },
   "cheon-il-guk": {
     "further_reading": [
-      {
-        "slug": "gods-dispensation",
-        "title": "God's Dispensation"
-      },
       {
         "slug": "the-last-days",
         "title": "The Last Days"
@@ -2569,6 +2567,10 @@
         "title": "Dispensational Time-Identity"
       },
       {
+        "slug": "ehwa-university-and-yonsei-university",
+        "title": "Ewha Womans University Incident"
+      },
+      {
         "slug": "family-federation-for-world-peace-and-unification",
         "title": "Family Federation for World Peace and Unification"
       },
@@ -2707,6 +2709,10 @@
       }
     ],
     "mentioned": [
+      {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
       {
         "slug": "abraham-term",
         "title": "Abraham"
@@ -3697,6 +3703,10 @@
     ],
     "mentioned": [
       {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
+      {
         "slug": "absolute-self-denial",
         "title": "Absolute Self-Denial"
       },
@@ -3948,21 +3958,6 @@
       }
     ],
     "mentioned": [],
-    "verbatim": []
-  },
-  "establishment-of-the-cheon-il-guk-constitution": {
-    "further_reading": [
-      {
-        "slug": "cheon-il-guk",
-        "title": "Cheon Il Guk"
-      }
-    ],
-    "mentioned": [
-      {
-        "slug": "era-of-registration",
-        "title": "Era of Registration"
-      }
-    ],
     "verbatim": []
   },
   "eternal-life": {
@@ -4694,6 +4689,10 @@
         "title": "Trinity"
       },
       {
+        "slug": "unification-thought",
+        "title": "Unification Thought"
+      },
+      {
         "slug": "victory-over-communism",
         "title": "Victory over Communism"
       },
@@ -4944,6 +4943,10 @@
         "title": "Parentism"
       },
       {
+        "slug": "unification-thought",
+        "title": "Unification Thought"
+      },
+      {
         "slug": "victory-over-communism",
         "title": "Victory over Communism"
       }
@@ -5190,12 +5193,7 @@
     ]
   },
   "gods-kingdom-of-cheon-il-guk-that-attends-god-who-is-opening-the-eternal-and-unchanging-era-of-the-heavenly-calendar": {
-    "further_reading": [
-      {
-        "slug": "cheon-il-guk",
-        "title": "Cheon Il Guk"
-      }
-    ],
+    "further_reading": [],
     "mentioned": [
       {
         "slug": "five-stages-of-the-blessing",
@@ -5215,12 +5213,7 @@
     "verbatim": []
   },
   "gods-love": {
-    "further_reading": [
-      {
-        "slug": "truth",
-        "title": "Truth"
-      }
-    ],
+    "further_reading": [],
     "mentioned": [
       {
         "slug": "absolute-sexual-ethics",
@@ -5461,6 +5454,10 @@
       {
         "slug": "the-last-days",
         "title": "The Last Days"
+      },
+      {
+        "slug": "unification-thought",
+        "title": "Unification Thought"
       },
       {
         "slug": "wild-olive-tree",
@@ -6083,10 +6080,6 @@
         "title": "Blessed Family"
       },
       {
-        "slug": "ethics",
-        "title": "Ethics"
-      },
-      {
         "slug": "holy-spirit-term",
         "title": "Holy Spirit"
       },
@@ -6096,6 +6089,10 @@
       }
     ],
     "mentioned": [
+      {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
       {
         "slug": "ancestor-liberation",
         "title": "Ancestor Liberation"
@@ -6655,24 +6652,12 @@
   "ideal-family": {
     "further_reading": [
       {
-        "slug": "absolute-sexual-ethics",
-        "title": "Absolute Sexual Ethics"
-      },
-      {
-        "slug": "ethics",
-        "title": "Ethics"
-      },
-      {
         "slug": "four-great-realms-of-heart",
         "title": "Four Great Realms of Heart"
       },
       {
         "slug": "hyeongsang",
         "title": "Hyeongsang"
-      },
-      {
-        "slug": "kingdom-of-heaven",
-        "title": "Kingdom of Heaven"
       },
       {
         "slug": "lineage",
@@ -6810,10 +6795,6 @@
       {
         "slug": "freedom-term",
         "title": "Freedom"
-      },
-      {
-        "slug": "gods-dispensation",
-        "title": "God's Dispensation"
       },
       {
         "slug": "heavenly-affection",
@@ -7087,6 +7068,10 @@
   "isaac-term": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
       {
         "slug": "five-stages-of-the-blessing",
         "title": "Five Stages of the Blessing"
@@ -7399,6 +7384,10 @@
   "jacob-term": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
       {
         "slug": "five-stages-of-the-blessing",
         "title": "Five Stages of the Blessing"
@@ -8185,6 +8174,10 @@
         "title": "Communism"
       },
       {
+        "slug": "ehwa-university-and-yonsei-university",
+        "title": "Ewha Womans University Incident"
+      },
+      {
         "slug": "hoon-dok-hae",
         "title": "Hoon Dok Hae"
       },
@@ -8357,10 +8350,6 @@
   },
   "lineage": {
     "further_reading": [
-      {
-        "slug": "absolute-sexual-ethics",
-        "title": "Absolute Sexual Ethics"
-      },
       {
         "slug": "bible",
         "title": "Bible"
@@ -8948,6 +8937,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
+      {
         "slug": "d-day",
         "title": "D-Day"
       },
@@ -9197,6 +9190,10 @@
   "noah-term": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
       {
         "slug": "abraham-term",
         "title": "Abraham"
@@ -9475,10 +9472,6 @@
   "original-sin": {
     "further_reading": [
       {
-        "slug": "absolute-sexual-ethics",
-        "title": "Absolute Sexual Ethics"
-      },
-      {
         "slug": "cain-and-abel-term",
         "title": "Cain and Abel"
       },
@@ -9497,10 +9490,6 @@
       {
         "slug": "freedom-term",
         "title": "Freedom"
-      },
-      {
-        "slug": "gods-dispensation",
-        "title": "God's Dispensation"
       },
       {
         "slug": "gods-love",
@@ -10515,16 +10504,6 @@
       }
     ]
   },
-  "registration-and-settlement-in-cheon-il-guk": {
-    "further_reading": [
-      {
-        "slug": "cheon-il-guk",
-        "title": "Cheon Il Guk"
-      }
-    ],
-    "mentioned": [],
-    "verbatim": []
-  },
   "religion": {
     "further_reading": [],
     "mentioned": [
@@ -10907,16 +10886,6 @@
     ],
     "verbatim": []
   },
-  "sao-paulo-and-jardim-declarations": {
-    "further_reading": [],
-    "mentioned": [
-      {
-        "slug": "absolute-sexual-ethics",
-        "title": "Absolute Sexual Ethics"
-      }
-    ],
-    "verbatim": []
-  },
   "satan-and-fallen-humanity": {
     "further_reading": [
       {
@@ -10935,6 +10904,10 @@
   "satan-lucifer": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
       {
         "slug": "absolute-sexual-ethics",
         "title": "Absolute Sexual Ethics"
@@ -11266,10 +11239,6 @@
       {
         "slug": "eternal-life-term",
         "title": "Eternal Life"
-      },
-      {
-        "slug": "ethics",
-        "title": "Ethics"
       },
       {
         "slug": "jeongo-jeongchak",
@@ -11788,10 +11757,6 @@
         "title": "Judgment"
       },
       {
-        "slug": "kingdom-of-heaven",
-        "title": "Kingdom of Heaven"
-      },
-      {
         "slug": "the-last-days",
         "title": "The Last Days"
       },
@@ -12076,6 +12041,10 @@
       {
         "slug": "isaac-term",
         "title": "Isaac"
+      },
+      {
+        "slug": "jacob-term",
+        "title": "Jacob"
       },
       {
         "slug": "marriage-of-the-lamb",
@@ -12687,16 +12656,8 @@
         "title": "Conscience"
       },
       {
-        "slug": "ethics",
-        "title": "Ethics"
-      },
-      {
         "slug": "evil",
         "title": "Evil"
-      },
-      {
-        "slug": "gods-dispensation",
-        "title": "God's Dispensation"
       },
       {
         "slug": "gods-love",
@@ -12737,10 +12698,6 @@
       {
         "slug": "sin-term",
         "title": "Sin"
-      },
-      {
-        "slug": "truth",
-        "title": "Truth"
       }
     ],
     "mentioned": [
@@ -13398,6 +13355,10 @@
       {
         "slug": "cosmos",
         "title": "Cosmos"
+      },
+      {
+        "slug": "ehwa-university-and-yonsei-university",
+        "title": "Ewha Womans University Incident"
       },
       {
         "slug": "wolli-kangron",
@@ -14151,6 +14112,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
+      {
         "slug": "bible",
         "title": "Bible"
       },
@@ -14353,6 +14318,10 @@
       }
     ],
     "mentioned": [
+      {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
       {
         "slug": "bible",
         "title": "Bible"
@@ -14846,6 +14815,10 @@
     "further_reading": [],
     "mentioned": [
       {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
+      {
         "slug": "dispensational-time-identity",
         "title": "Dispensational Time-Identity"
       },
@@ -14859,6 +14832,10 @@
   "the-providence-of-restoration-in-noahs-family": {
     "further_reading": [],
     "mentioned": [
+      {
+        "slug": "the-36-couples",
+        "title": "36 couples"
+      },
       {
         "slug": "dispensational-time-identity",
         "title": "Dispensational Time-Identity"
@@ -15202,16 +15179,6 @@
     ],
     "verbatim": []
   },
-  "the-responsibility-of-the-tribal-messiah": {
-    "further_reading": [],
-    "mentioned": [
-      {
-        "slug": "jacob-term",
-        "title": "Jacob"
-      }
-    ],
-    "verbatim": []
-  },
   "the-responsible-person-heaven-desires": {
     "further_reading": [],
     "mentioned": [
@@ -15550,16 +15517,6 @@
     ],
     "verbatim": []
   },
-  "the-settlement-of-the-abel-un-and-completion-of-cheon-il-guk": {
-    "further_reading": [
-      {
-        "slug": "cheon-il-guk",
-        "title": "Cheon Il Guk"
-      }
-    ],
-    "mentioned": [],
-    "verbatim": []
-  },
   "the-seven-year-course-and-the-birth-of-true-children": {
     "further_reading": [],
     "mentioned": [
@@ -15762,10 +15719,6 @@
   "the-three-great-blessings": {
     "further_reading": [
       {
-        "slug": "ethics",
-        "title": "Ethics"
-      },
-      {
         "slug": "gods-will",
         "title": "God's Will"
       },
@@ -15834,6 +15787,10 @@
       {
         "slug": "true-person",
         "title": "True Person"
+      },
+      {
+        "slug": "unification-thought",
+        "title": "Unification Thought"
       }
     ],
     "verbatim": []
@@ -16120,16 +16077,6 @@
     "mentioned": [],
     "verbatim": []
   },
-  "the-value-of-the-cross-cultural-marriage-blessing": {
-    "further_reading": [
-      {
-        "slug": "absolute-sexual-ethics",
-        "title": "Absolute Sexual Ethics"
-      }
-    ],
-    "mentioned": [],
-    "verbatim": []
-  },
   "the-value-of-working-with-true-parents-while": {
     "further_reading": [],
     "mentioned": [
@@ -16349,10 +16296,6 @@
   },
   "three-generations": {
     "further_reading": [
-      {
-        "slug": "absolute-sexual-ethics",
-        "title": "Absolute Sexual Ethics"
-      },
       {
         "slug": "ancestors",
         "title": "Ancestors"
@@ -16881,20 +16824,12 @@
   "true-love": {
     "further_reading": [
       {
-        "slug": "absolute-sexual-ethics",
-        "title": "Absolute Sexual Ethics"
-      },
-      {
         "slug": "conscience",
         "title": "Conscience"
       },
       {
         "slug": "eternal-life-term",
         "title": "Eternal Life"
-      },
-      {
-        "slug": "ethics",
-        "title": "Ethics"
       },
       {
         "slug": "evil",
@@ -17175,10 +17110,6 @@
   "true-parents": {
     "further_reading": [
       {
-        "slug": "absolute-sexual-ethics",
-        "title": "Absolute Sexual Ethics"
-      },
-      {
         "slug": "ahn-shil-il",
         "title": "Ahn ShiI Il"
       },
@@ -17189,10 +17120,6 @@
       {
         "slug": "evil",
         "title": "Evil"
-      },
-      {
-        "slug": "gods-dispensation",
-        "title": "God's Dispensation"
       },
       {
         "slug": "goodness",
@@ -17213,10 +17140,6 @@
       {
         "slug": "jesus",
         "title": "Jesus"
-      },
-      {
-        "slug": "kingdom-of-heaven",
-        "title": "Kingdom of Heaven"
       },
       {
         "slug": "lineage",
@@ -17657,10 +17580,6 @@
   "true-person": {
     "further_reading": [
       {
-        "slug": "ethics",
-        "title": "Ethics"
-      },
-      {
         "slug": "gods-love",
         "title": "God's Love"
       }
@@ -17765,6 +17684,10 @@
       {
         "slug": "destination",
         "title": "Destination"
+      },
+      {
+        "slug": "unification-thought",
+        "title": "Unification Thought"
       }
     ],
     "verbatim": []
@@ -17824,8 +17747,16 @@
     ],
     "mentioned": [
       {
+        "slug": "ahn-shil-il",
+        "title": "Ahn ShiI Il"
+      },
+      {
         "slug": "axis",
         "title": "Axis"
+      },
+      {
+        "slug": "communism",
+        "title": "Communism"
       },
       {
         "slug": "desire",
@@ -17836,24 +17767,76 @@
         "title": "Dialectical Materialism"
       },
       {
+        "slug": "ethics",
+        "title": "Ethics"
+      },
+      {
+        "slug": "faith-term",
+        "title": "Faith"
+      },
+      {
+        "slug": "gods-dispensation",
+        "title": "God's Dispensation"
+      },
+      {
+        "slug": "godism",
+        "title": "Godism"
+      },
+      {
+        "slug": "human-history",
+        "title": "Human History"
+      },
+      {
+        "slug": "kingdom-of-heaven",
+        "title": "Kingdom of Heaven"
+      },
+      {
         "slug": "loyalty",
         "title": "Loyalty"
+      },
+      {
+        "slug": "messiah",
+        "title": "Messiah"
       },
       {
         "slug": "original-nature",
         "title": "Original Nature"
       },
       {
+        "slug": "perfection-term",
+        "title": "Perfection"
+      },
+      {
         "slug": "religion",
         "title": "Religion"
+      },
+      {
+        "slug": "satan-lucifer",
+        "title": "Satan / Lucifer"
       },
       {
         "slug": "self-awareness",
         "title": "Self-Awareness"
       },
       {
+        "slug": "subject-and-object",
+        "title": "Subject and Object"
+      },
+      {
         "slug": "theory-of-the-original-substance",
         "title": "Theory of the Original Substance"
+      },
+      {
+        "slug": "three-generations",
+        "title": "Three Generations"
+      },
+      {
+        "slug": "true-person",
+        "title": "True Person"
+      },
+      {
+        "slug": "truth",
+        "title": "Truth"
       }
     ],
     "verbatim": []
