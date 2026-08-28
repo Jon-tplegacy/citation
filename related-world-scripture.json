@@ -3046,13 +3046,13 @@
     },
     {
       "kind": "in",
-      "slug": "joseph-world-scripture",
-      "title": "Joseph"
+      "slug": "the-golden-rule",
+      "title": "The Golden Rule"
     },
     {
       "kind": "in",
-      "slug": "the-golden-rule",
-      "title": "The Golden Rule"
+      "slug": "the-search-for-knowledge",
+      "title": "The Search for Knowledge"
     }
   ],
   "freedom": [
@@ -5425,8 +5425,8 @@
     },
     {
       "kind": "in",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
+      "slug": "new-revelation",
+      "title": "New Revelation"
     }
   ],
   "joseph-world-scripture": [
@@ -5467,13 +5467,13 @@
     },
     {
       "kind": "out",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
+      "slug": "isaac-world-scripture",
+      "title": "Isaac"
     },
     {
       "kind": "out",
-      "slug": "isaac-world-scripture",
-      "title": "Isaac"
+      "slug": "perseverance-and-patience",
+      "title": "Perseverance and Patience"
     },
     {
       "kind": "in",
@@ -6538,13 +6538,13 @@
     },
     {
       "kind": "in",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
+      "slug": "new-revelation",
+      "title": "New Revelation"
     },
     {
       "kind": "in",
-      "slug": "new-revelation",
-      "title": "New Revelation"
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
     },
     {
       "kind": "in",
@@ -6739,8 +6739,8 @@
     },
     {
       "kind": "in",
-      "slug": "joseph-world-scripture",
-      "title": "Joseph"
+      "slug": "stewardship",
+      "title": "Stewardship"
     }
   ],
   "non-attachment-to-wealth-and-possessions": [
@@ -7357,13 +7357,13 @@
     },
     {
       "kind": "in",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
+      "slug": "shamanism-polytheism-and-animism",
+      "title": "Shamanism, Polytheism and Animism"
     },
     {
       "kind": "in",
-      "slug": "shamanism-polytheism-and-animism",
-      "title": "Shamanism, Polytheism and Animism"
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
     }
   ],
   "perseverance-and-patience": [
@@ -9515,13 +9515,13 @@
     },
     {
       "kind": "in",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
+      "slug": "freedom",
+      "title": "Freedom"
     },
     {
       "kind": "in",
-      "slug": "freedom",
-      "title": "Freedom"
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
     },
     {
       "kind": "in",
@@ -10115,13 +10115,13 @@
     },
     {
       "kind": "out",
-      "slug": "noah",
-      "title": "Noah"
+      "slug": "integrity",
+      "title": "Integrity"
     },
     {
       "kind": "out",
-      "slug": "integrity",
-      "title": "Integrity"
+      "slug": "noah",
+      "title": "Noah"
     },
     {
       "kind": "out",
@@ -10244,13 +10244,13 @@
     },
     {
       "kind": "in",
-      "slug": "noah",
-      "title": "Noah"
+      "slug": "healing",
+      "title": "Healing"
     },
     {
       "kind": "in",
-      "slug": "healing",
-      "title": "Healing"
+      "slug": "noah",
+      "title": "Noah"
     },
     {
       "kind": "in",
@@ -10735,13 +10735,13 @@
     },
     {
       "kind": "out",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
+      "slug": "living-for-others",
+      "title": "Living for Others"
     },
     {
       "kind": "out",
-      "slug": "living-for-others",
-      "title": "Living for Others"
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
     },
     {
       "kind": "in",
@@ -11492,11 +11492,6 @@
     },
     {
       "kind": "in",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
-    },
-    {
-      "kind": "in",
       "slug": "freedom",
       "title": "Freedom"
     },
@@ -11504,6 +11499,11 @@
       "kind": "in",
       "slug": "shamanism-polytheism-and-animism",
       "title": "Shamanism, Polytheism and Animism"
+    },
+    {
+      "kind": "in",
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
     },
     {
       "kind": "in",
@@ -12159,8 +12159,8 @@
     },
     {
       "kind": "out",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
+      "slug": "the-purpose-of-human-life",
+      "title": "The Purpose of Human Life"
     },
     {
       "kind": "in",

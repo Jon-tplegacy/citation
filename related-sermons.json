@@ -78,13 +78,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-true-heart-for-god",
-      "title": "Jesus' True Heart for God"
+      "slug": "on-jesus-family",
+      "title": "On Jesus' Family"
     },
     {
       "kind": "out",
-      "slug": "on-jesus-family",
-      "title": "On Jesus' Family"
+      "slug": "jesus-true-heart-for-god",
+      "title": "Jesus' True Heart for God"
     },
     {
       "kind": "out",
@@ -395,13 +395,13 @@
     },
     {
       "kind": "in",
-      "slug": "love-right-absolutism-42nd-true-parents-day",
-      "title": "Love - Right Absolutism (42nd True Parents' Day)"
+      "slug": "all-goes-well-if-there-is-true-harmony-in-the-family",
+      "title": "All Goes Well If There Is True Harmony In The Family"
     },
     {
       "kind": "in",
-      "slug": "all-goes-well-if-there-is-true-harmony-in-the-family",
-      "title": "All Goes Well If There Is True Harmony In The Family"
+      "slug": "rally-for-the-declaration-of-absolute-values-for-the-sake-of-harmony-and-unification",
+      "title": "Rally For The Declaration Of Absolute Values For The Sake Of Harmony And Unification"
     }
   ],
   "a-grudge-of-restoration": [
@@ -412,13 +412,13 @@
     },
     {
       "kind": "out",
-      "slug": "process-of-restoration",
-      "title": "Process Of Restoration"
+      "slug": "faith-which-should-be-examined-carefully",
+      "title": "The Path of Faith Which Should be Examined Carefully"
     },
     {
       "kind": "out",
-      "slug": "faith-which-should-be-examined-carefully",
-      "title": "The Path of Faith Which Should be Examined Carefully"
+      "slug": "process-of-restoration",
+      "title": "Process Of Restoration"
     },
     {
       "kind": "in",
@@ -968,11 +968,6 @@
     },
     {
       "kind": "out",
-      "slug": "mobilize-good-ancestors",
-      "title": "Mobilize good ancestors"
-    },
-    {
-      "kind": "out",
       "slug": "the-heart-of-heaven-in-relation-to-elijah",
       "title": "The Heart of Heaven in Relation to Elijah"
     }
@@ -1128,13 +1123,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-path-of-life-we-must-go",
-      "title": "The Path of Life We Must Go, Entertaining Hope"
+      "slug": "in-order-to-obtain-the-true-seed",
+      "title": "In Order to Obtain the True Seed"
     },
     {
       "kind": "out",
-      "slug": "in-order-to-obtain-the-true-seed",
-      "title": "In Order to Obtain the True Seed"
+      "slug": "the-path-of-life-we-must-go",
+      "title": "The Path of Life We Must Go, Entertaining Hope"
     },
     {
       "kind": "out",
@@ -1318,11 +1313,6 @@
       "kind": "out",
       "slug": "the-completion-of-our-responsibility",
       "title": "The Completion Of Our Responsibility"
-    },
-    {
-      "kind": "in",
-      "slug": "human-life",
-      "title": "Human Life"
     },
     {
       "kind": "in",
@@ -1745,18 +1735,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-ideal-world-of-subject-and-object",
-      "title": "The Ideal World of Subject and Object"
-    },
-    {
-      "kind": "out",
       "slug": "victorious-sons-and-daughters",
       "title": "Victorious Sons and Daughters"
     },
     {
       "kind": "out",
-      "slug": "the-forsaken-jesus",
-      "title": "The Forsaken Jesus"
+      "slug": "the-realm-of-heavenly-liberation",
+      "title": "The Realm Of Heavenly Liberation"
     }
   ],
   "be-a-valuable-individual": [
@@ -2088,13 +2073,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-day-of-victory-over-resentment",
-      "title": "The Day Of Victory Over Resentment"
+      "slug": "the-standard-bearer-of-tradition",
+      "title": "The Standard Bearer of Tradition"
     },
     {
       "kind": "out",
-      "slug": "the-standard-bearer-of-tradition",
-      "title": "The Standard Bearer of Tradition"
+      "slug": "the-day-of-victory-over-resentment",
+      "title": "The Day Of Victory Over Resentment"
     },
     {
       "kind": "out",
@@ -2150,13 +2135,13 @@
     },
     {
       "kind": "in",
-      "slug": "let-us-find-our-true-self",
-      "title": "Let Us Find Our True Self"
+      "slug": "persecution-and-blessing",
+      "title": "Persecution And Blessing"
     },
     {
       "kind": "in",
-      "slug": "persecution-and-blessing",
-      "title": "Persecution And Blessing"
+      "slug": "let-us-find-our-true-self",
+      "title": "Let Us Find Our True Self"
     },
     {
       "kind": "in",
@@ -2228,16 +2213,23 @@
       "title": "The Will Of God"
     }
   ],
+  "before-the-fathers-very-eyes": [
+    {
+      "kind": "out",
+      "slug": "separation-between-good-and-evil",
+      "title": "Separation between Good and Evil"
+    },
+    {
+      "kind": "out",
+      "slug": "good-and-evil-and-the-rise-and-fall-of-fortunes",
+      "title": "Good and Evil, and the Rise and Fall of Fortunes"
+    }
+  ],
   "believe-and-be-united-with-the-eight-textbooks-of-true-parents": [
     {
       "kind": "out",
       "slug": "let-us-go-over-the-boundary-line",
       "title": "Let Us Go Over The Boundary Line"
-    },
-    {
-      "kind": "in",
-      "slug": "pursuit-of-the-homeland",
-      "title": "Let Us Join in the Pursuit of the Homeland"
     }
   ],
   "beloved-children": [
@@ -2327,13 +2319,13 @@
     },
     {
       "kind": "out",
-      "slug": "mobilize-good-ancestors",
-      "title": "Mobilize good ancestors"
+      "slug": "the-problem-of-fallen-mankind",
+      "title": "The Problem of Fallen Mankind"
     },
     {
       "kind": "out",
-      "slug": "the-problem-of-fallen-mankind",
-      "title": "The Problem of Fallen Mankind"
+      "slug": "mobilize-good-ancestors",
+      "title": "Mobilize good ancestors"
     },
     {
       "kind": "out",
@@ -2351,11 +2343,6 @@
       "kind": "out",
       "slug": "heavens-side-and-satans-side",
       "title": "Heaven's Side And Satan's Side"
-    },
-    {
-      "kind": "out",
-      "slug": "jesus-who-is-to-establish-heavens-love",
-      "title": "Jesus Who Is To Establish Heaven's Love"
     }
   ],
   "blessed-families-and-true-tradition": [
@@ -2421,21 +2408,16 @@
     },
     {
       "kind": "in",
-      "slug": "what-kind-of-thought-do-you-have",
-      "title": "What Kind Of Thought Do You Have?"
+      "slug": "host-of-the-future",
+      "title": "Host of the Future"
     },
     {
       "kind": "in",
-      "slug": "host-of-the-future",
-      "title": "Host of the Future"
+      "slug": "the-solution-to-world-peace",
+      "title": "The Formula For World Peace"
     }
   ],
   "blessed-families-are-to-stand-for-high-priest-for-their-race-and-nation": [
-    {
-      "kind": "out",
-      "slug": "restoration-and-blessing",
-      "title": "Restoration And Blessing"
-    },
     {
       "kind": "in",
       "slug": "god-is-our-king-and-true-parent",
@@ -2755,13 +2737,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "way-of-life",
+      "title": "Way Of Life"
     },
     {
       "kind": "out",
-      "slug": "way-of-life",
-      "title": "Way Of Life"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
@@ -2852,11 +2834,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-significance-of-victory-in-korea",
-      "title": "The Significance Of Victory In Korea"
-    },
-    {
-      "kind": "in",
       "slug": "a-needed-man",
       "title": "A Needed Man"
     },
@@ -2864,6 +2841,11 @@
       "kind": "in",
       "slug": "the-necessity-for-the-day-of-victory-of-love",
       "title": "The Necessity For The Day Of Victory Of Love"
+    },
+    {
+      "kind": "in",
+      "slug": "let-us-repay-our-debts",
+      "title": "Let Us Repay Our Debts"
     }
   ],
   "called-to-be-messiahs": [
@@ -3061,16 +3043,6 @@
       "kind": "out",
       "slug": "my-21-year-course",
       "title": "My 21 Year Course"
-    },
-    {
-      "kind": "out",
-      "slug": "process-of-restoration",
-      "title": "Process Of Restoration"
-    },
-    {
-      "kind": "in",
-      "slug": "message-at-the-unification-ceremony",
-      "title": "Message At The Unification Ceremony"
     }
   ],
   "centering-upon-true-parents-let-us-see-it-through-to-the-end": [
@@ -3216,21 +3188,6 @@
       "title": "Total Indemnity"
     },
     {
-      "kind": "out",
-      "slug": "gods-fatherland-and-the-one-world",
-      "title": "God's Fatherland and the One World"
-    },
-    {
-      "kind": "out",
-      "slug": "the-path-of-life-we-must-go",
-      "title": "The Path of Life We Must Go, Entertaining Hope"
-    },
-    {
-      "kind": "out",
-      "slug": "who-was-i",
-      "title": "Who Was I?"
-    },
-    {
       "kind": "in",
       "slug": "the-value-of-blessed-families",
       "title": "The Value Of Blessed Families"
@@ -3256,13 +3213,13 @@
     },
     {
       "kind": "out",
-      "slug": "our-desire",
-      "title": "Children of the Heavenly Father"
+      "slug": "eternal-happiness",
+      "title": "Eternal Happiness"
     },
     {
       "kind": "out",
-      "slug": "eternal-happiness",
-      "title": "Eternal Happiness"
+      "slug": "our-desire",
+      "title": "Children of the Heavenly Father"
     },
     {
       "kind": "out",
@@ -3306,13 +3263,13 @@
     },
     {
       "kind": "in",
-      "slug": "our-future-path-of-advancement",
-      "title": "Our Future Path Of Advancement"
+      "slug": "true-parents-and-ourselves",
+      "title": "True Parents and Ourselves"
     },
     {
       "kind": "in",
-      "slug": "to-the-matching-candidates",
-      "title": "To The Matching Candidates"
+      "slug": "a-day-when-we-welcome-the-blessing",
+      "title": "A Day When We Welcome the Blessing"
     }
   ],
   "change-of-blood-lineage-the-real-experience": [
@@ -3363,13 +3320,18 @@
     },
     {
       "kind": "in",
-      "slug": "our-future-path-of-advancement",
-      "title": "Our Future Path Of Advancement"
+      "slug": "the-meaning-of-the-day-of-victory-of-love",
+      "title": "The Meaning Of The Day Of Victory Of Love"
     },
     {
       "kind": "in",
-      "slug": "the-coronation-ceremony-of-gods-kingship-completes-the-victory-of-heaven-and-earth",
-      "title": "The Coronation Ceremony Of God’s Kingship Completes The Victory Of Heaven And Earth"
+      "slug": "day-of-the-victory-of-love",
+      "title": "Day Of The Victory Of Love"
+    },
+    {
+      "kind": "in",
+      "slug": "parents-day-and-me",
+      "title": "Parents' Day and Me"
     },
     {
       "kind": "in",
@@ -3378,13 +3340,8 @@
     },
     {
       "kind": "in",
-      "slug": "the-meaning-of-the-day-of-victory-of-love",
-      "title": "The Meaning Of The Day Of Victory Of Love"
-    },
-    {
-      "kind": "in",
-      "slug": "day-of-the-victory-of-love",
-      "title": "Day Of The Victory Of Love"
+      "slug": "let-us-become-the-elite-troop-of-god",
+      "title": "Let Us Become the Elite Troop of God"
     }
   ],
   "chil-il-jeol-7-1-day-declaration-day-of-gods-eternal-blessing": [
@@ -3489,13 +3446,13 @@
     },
     {
       "kind": "out",
-      "slug": "god-is-the-origin-of-peace",
-      "title": "God Is the Origin of Peace"
+      "slug": "the-ideal-family-is-the-base-for-peace-and-unification",
+      "title": "The Ideal Family Is The Base For Peace And Unification"
     },
     {
       "kind": "out",
-      "slug": "the-ideal-family-is-the-base-for-peace-and-unification",
-      "title": "The Ideal Family Is The Base For Peace And Unification"
+      "slug": "god-is-the-origin-of-peace",
+      "title": "God Is the Origin of Peace"
     }
   ],
   "childrens-day-1983": [
@@ -3679,11 +3636,6 @@
     },
     {
       "kind": "in",
-      "slug": "new-morning-of-glory",
-      "title": "New Morning of Glory"
-    },
-    {
-      "kind": "in",
       "slug": "the-will-of-god-and-thanksgiving",
       "title": "The Will of God and Thanksgiving"
     },
@@ -3701,6 +3653,11 @@
       "kind": "in",
       "slug": "preparation-for-blessing",
       "title": "Preparation for Blessing"
+    },
+    {
+      "kind": "in",
+      "slug": "breaking-the-barrier",
+      "title": "Breaking the Barrier"
     }
   ],
   "christianity-is-the-religion-that-supervises-the-root-of-all-religions": [
@@ -3800,13 +3757,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
+      "slug": "the-purpose-of-the-messiah",
+      "title": "The Purpose of the Messiah"
     },
     {
       "kind": "out",
-      "slug": "the-purpose-of-the-messiah",
-      "title": "The Purpose of the Messiah"
+      "slug": "jesus-christ-the-pride-of-god",
+      "title": "Jesus Christ, The Pride of God"
     },
     {
       "kind": "out",
@@ -4162,11 +4119,6 @@
       "kind": "in",
       "slug": "our-god-given-responsibility",
       "title": "Our God-Given Responsibility"
-    },
-    {
-      "kind": "in",
-      "slug": "declaration-of-the-era-of-family-kingship",
-      "title": "Declaration of the Era of Family Kingship"
     }
   ],
   "creating-your-prayer": [
@@ -4258,11 +4210,6 @@
       "kind": "out",
       "slug": "the-responsibility-of-cain-and-abel",
       "title": "The Responsibility of Cain and Abel"
-    },
-    {
-      "kind": "out",
-      "slug": "my-life-of-faith",
-      "title": "My Life Of Faith"
     },
     {
       "kind": "out",
@@ -4437,13 +4384,13 @@
     },
     {
       "kind": "out",
-      "slug": "human-life",
-      "title": "Human Life"
+      "slug": "the-center-of-the-universe",
+      "title": "The Center of the Universe"
     },
     {
       "kind": "out",
-      "slug": "the-center-of-the-universe",
-      "title": "The Center of the Universe"
+      "slug": "human-life",
+      "title": "Human Life"
     },
     {
       "kind": "out",
@@ -4472,11 +4419,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-god",
-      "title": "The Providence of God and the Nature of the Adventure That Transcends Reality"
-    },
-    {
-      "kind": "in",
       "slug": "the-present-situation-centering-upon-the-will-of-god",
       "title": "The Present Situation, Centering Upon The Will Of God"
     },
@@ -4484,6 +4426,11 @@
       "kind": "in",
       "slug": "total-self-reevaluation",
       "title": "Total Self Reevaluation"
+    },
+    {
+      "kind": "in",
+      "slug": "the-providence-of-god",
+      "title": "The Providence of God and the Nature of the Adventure That Transcends Reality"
     }
   ],
   "cross-over-the-boundary": [
@@ -4685,8 +4632,8 @@
     },
     {
       "kind": "out",
-      "slug": "the-original-mind-and-physical-mind-conflict",
-      "title": "The original mind and physical mind conflict"
+      "slug": "the-meaning-of-the-holy-wine-ceremony",
+      "title": "The Meaning of the Holy Wine Ceremony"
     },
     {
       "kind": "in",
@@ -4852,11 +4799,6 @@
       "kind": "in",
       "slug": "true-self-and-safe-settlement-of-the-family",
       "title": "Perfection Of The True Self And Safe Settlement Of The Family"
-    },
-    {
-      "kind": "in",
-      "slug": "pledge-that-my-family-is-a-representative-family",
-      "title": "Let Us Realize And Pledge That My Family Is A Representative Family"
     }
   ],
   "day-of-resolution-of-victory": [
@@ -5007,11 +4949,6 @@
   ],
   "day-of-victory-of-love-ceremony": [
     {
-      "kind": "out",
-      "slug": "first-gods-day-let-us-make-a-full-advance",
-      "title": "First God’s Day - Let Us Make A Full Advance"
-    },
-    {
       "kind": "in",
       "slug": "day-of-the-victory-of-love",
       "title": "Day Of The Victory Of Love"
@@ -5045,13 +4982,13 @@
     },
     {
       "kind": "out",
-      "slug": "let-us-analyze-ourselves",
-      "title": "Let Us Analyze Ourselves"
+      "slug": "bearing-fruits-of-the-world-of-faith-and-strength",
+      "title": "Bearing Fruits Of The World Of Faith And Strength"
     },
     {
       "kind": "out",
-      "slug": "bearing-fruits-of-the-world-of-faith-and-strength",
-      "title": "Bearing Fruits Of The World Of Faith And Strength"
+      "slug": "let-us-analyze-ourselves",
+      "title": "Let Us Analyze Ourselves"
     },
     {
       "kind": "out",
@@ -5171,13 +5108,13 @@
     },
     {
       "kind": "out",
-      "slug": "our-desire",
-      "title": "Children of the Heavenly Father"
+      "slug": "eternal-happiness",
+      "title": "Eternal Happiness"
     },
     {
       "kind": "out",
-      "slug": "eternal-happiness",
-      "title": "Eternal Happiness"
+      "slug": "our-desire",
+      "title": "Children of the Heavenly Father"
     },
     {
       "kind": "in",
@@ -5198,18 +5135,8 @@
   "declaration-of-the-era-of-family-kingship": [
     {
       "kind": "out",
-      "slug": "jesus-true-heart-for-god",
-      "title": "Jesus' True Heart for God"
-    },
-    {
-      "kind": "out",
       "slug": "mobilize-good-ancestors",
       "title": "Mobilize good ancestors"
-    },
-    {
-      "kind": "out",
-      "slug": "jesus-whom-god-wanted-to-find",
-      "title": "Jesus, Whom God Wanted To Find"
     },
     {
       "kind": "out",
@@ -5225,11 +5152,6 @@
       "kind": "out",
       "slug": "the-parents-of-heaven-and-earth-and-the-family-of-absolute-unity",
       "title": "The Parents of Heaven and Earth and the Family of Absolute Unity"
-    },
-    {
-      "kind": "out",
-      "slug": "coronation-for-the-authority-of-the-liberation-of-god-the-king-of-kings",
-      "title": "Coronation for the Authority of the Liberation of God, the King of Kings"
     },
     {
       "kind": "in",
@@ -5274,16 +5196,6 @@
       "kind": "out",
       "slug": "the-true-sons-and-daughters-of-heavenly-father",
       "title": "The True Sons and Daughters of Heavenly Father Who Will Remain in the Last Days  Romans"
-    },
-    {
-      "kind": "out",
-      "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
-      "title": "Jesus' View of Life for the Sake of the Restoration"
-    },
-    {
-      "kind": "out",
-      "slug": "my-family-is-a-representative-family",
-      "title": "My Family Is A Representative Family"
     },
     {
       "kind": "in",
@@ -5652,13 +5564,13 @@
     },
     {
       "kind": "out",
-      "slug": "our-desire",
-      "title": "Children of the Heavenly Father"
+      "slug": "eternal-happiness",
+      "title": "Eternal Happiness"
     },
     {
       "kind": "out",
-      "slug": "eternal-happiness",
-      "title": "Eternal Happiness"
+      "slug": "our-desire",
+      "title": "Children of the Heavenly Father"
     },
     {
       "kind": "out",
@@ -6036,13 +5948,13 @@
     },
     {
       "kind": "out",
-      "slug": "mankind-and-the-ideal-world",
-      "title": "Mankind And The Ideal World"
+      "slug": "the-mission-of-our-life",
+      "title": "The Mission Of Our Life"
     },
     {
       "kind": "out",
-      "slug": "the-mission-of-our-life",
-      "title": "The Mission Of Our Life"
+      "slug": "mankind-and-the-ideal-world",
+      "title": "Mankind And The Ideal World"
     },
     {
       "kind": "in",
@@ -6137,13 +6049,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-desire-of-all-things",
-      "title": "The Desire of All Things"
+      "slug": "original-eden-centering-on-true-love",
+      "title": "Original Eden Centering On True Love"
     },
     {
       "kind": "in",
-      "slug": "original-eden-centering-on-true-love",
-      "title": "Original Eden Centering On True Love"
+      "slug": "the-desire-of-all-things",
+      "title": "The Desire of All Things"
     },
     {
       "kind": "in",
@@ -6275,13 +6187,13 @@
     },
     {
       "kind": "out",
-      "slug": "restoration-and-blessing",
-      "title": "Restoration And Blessing"
+      "slug": "the-ones-who-can-receive-gods-love",
+      "title": "The Ones Who Can Receive God's Love"
     },
     {
       "kind": "out",
-      "slug": "the-ones-who-can-receive-gods-love",
-      "title": "The Ones Who Can Receive God's Love"
+      "slug": "restoration-and-blessing",
+      "title": "Restoration And Blessing"
     },
     {
       "kind": "out",
@@ -6327,8 +6239,8 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-true-heart-for-god",
-      "title": "Jesus' True Heart for God"
+      "slug": "heavens-sorrowful-heart",
+      "title": "Heaven's Sorrowful Heart"
     },
     {
       "kind": "in",
@@ -6366,11 +6278,6 @@
       "kind": "in",
       "slug": "jesus-who-is-to-establish-heavens-love",
       "title": "Jesus Who Is To Establish Heaven's Love"
-    },
-    {
-      "kind": "in",
-      "slug": "gate-of-true-love",
-      "title": "Gate of True Love"
     },
     {
       "kind": "in",
@@ -6786,8 +6693,8 @@
     },
     {
       "kind": "out",
-      "slug": "the-ideal-kingdom-of-heaven-our-hope",
-      "title": "The Ideal Kingdom of Heaven, Our Hope"
+      "slug": "new-morning-of-glory",
+      "title": "New Morning of Glory"
     }
   ],
   "faith-and-reality": [
@@ -7193,13 +7100,13 @@
     },
     {
       "kind": "out",
-      "slug": "faith-and-reality",
-      "title": "Faith And Reality"
+      "slug": "the-desire-of-god",
+      "title": "The Desire of God"
     },
     {
       "kind": "out",
-      "slug": "the-desire-of-god",
-      "title": "The Desire of God"
+      "slug": "faith-and-reality",
+      "title": "Faith And Reality"
     },
     {
       "kind": "in",
@@ -7361,11 +7268,6 @@
     },
     {
       "kind": "in",
-      "slug": "history-of-unification-church-part",
-      "title": "History Of Unification Church"
-    },
-    {
-      "kind": "in",
       "slug": "love-heaven-and-become-patriots",
       "title": "Let Us Love Heaven and Become Patriots"
     },
@@ -7381,18 +7283,23 @@
     },
     {
       "kind": "in",
-      "slug": "true-family-and-true-universe-centering-on-true-love",
-      "title": "True Family And True Universe Centering On True Love"
-    },
-    {
-      "kind": "in",
       "slug": "let-us-find-our-true-selves",
       "title": "Let Us Find Our True Selves - Chil Pal Jeol"
     },
     {
       "kind": "in",
+      "slug": "true-family-and-true-universe-centering-on-true-love",
+      "title": "True Family And True Universe Centering On True Love"
+    },
+    {
+      "kind": "in",
       "slug": "true-parents-at-han-nam-dong",
       "title": "True Parents At Han Nam Dong"
+    },
+    {
+      "kind": "in",
+      "slug": "leaders-address-parents-day",
+      "title": "Commemorative service of the 6th Parents' Day"
     }
   ],
   "first-gods-day-let-us-make-a-full-advance": [
@@ -7400,11 +7307,6 @@
       "kind": "out",
       "slug": "the-true-pattern-of-family-life",
       "title": "The True Pattern Of Family Life"
-    },
-    {
-      "kind": "in",
-      "slug": "day-of-victory-of-love-ceremony",
-      "title": "Day of Victory of Love Ceremony"
     }
   ],
   "following-the-cosmic-true-love-way": [
@@ -7415,13 +7317,13 @@
     },
     {
       "kind": "out",
-      "slug": "gods-possession-and-our-possession",
-      "title": "God's Possession and Our Possession"
+      "slug": "one-age-one-generation",
+      "title": "One Age, One Generation"
     },
     {
       "kind": "out",
-      "slug": "one-age-one-generation",
-      "title": "One Age, One Generation"
+      "slug": "gods-possession-and-our-possession",
+      "title": "God's Possession and Our Possession"
     },
     {
       "kind": "out",
@@ -7447,16 +7349,6 @@
       "kind": "in",
       "slug": "god-is-our-king-and-true-parent",
       "title": "God Is Our King And True Parent"
-    },
-    {
-      "kind": "in",
-      "slug": "true-parents-wedding-anniversary-address",
-      "title": "True Parents' Wedding Anniversary Address"
-    },
-    {
-      "kind": "in",
-      "slug": "love-right-absolutism-42nd-true-parents-day",
-      "title": "Love - Right Absolutism (42nd True Parents' Day)"
     }
   ],
   "for-god-so-loves-the-world": [
@@ -7885,13 +7777,13 @@
     },
     {
       "kind": "out",
-      "slug": "god-would-like-to-abolish-hell",
-      "title": "God would like to abolish Hell"
+      "slug": "liberation-amnesty-and-freedom",
+      "title": "Liberation, Amnesty And Freedom"
     },
     {
       "kind": "out",
-      "slug": "liberation-amnesty-and-freedom",
-      "title": "Liberation, Amnesty And Freedom"
+      "slug": "god-would-like-to-abolish-hell",
+      "title": "God would like to abolish Hell"
     },
     {
       "kind": "out",
@@ -8084,11 +7976,6 @@
       "kind": "out",
       "slug": "time-to-establish-heavens-sovereignty",
       "title": "Time to Establish Heaven's Sovereignty"
-    },
-    {
-      "kind": "out",
-      "slug": "establishment-of-a-world-of-true-heart-centered-culture",
-      "title": "Establishment of a World of True Heart-Centered Culture"
     },
     {
       "kind": "in",
@@ -8821,11 +8708,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-pinnacle-of-suffering",
-      "title": "The Pinnacle of Suffering"
-    },
-    {
-      "kind": "in",
       "slug": "the-original-mind-starts-with-the-right-hand",
       "title": "The Original Mind Starts With The Right Hand"
     },
@@ -8863,13 +8745,13 @@
     },
     {
       "kind": "out",
-      "slug": "what-kind-of-resurrection-are-you-trying-to-accomplish",
-      "title": "What Kind of Resurrection are you Trying to Accomplish?"
+      "slug": "let-us-fulfill-the-will-of-gods-love-that-seeks-to-bring-unification",
+      "title": "Let Us Fulfill the Will of God's Love That Seeks to Bring Unification"
     },
     {
       "kind": "out",
-      "slug": "let-us-fulfill-the-will-of-gods-love-that-seeks-to-bring-unification",
-      "title": "Let Us Fulfill the Will of God's Love That Seeks to Bring Unification"
+      "slug": "what-kind-of-resurrection-are-you-trying-to-accomplish",
+      "title": "What Kind of Resurrection are you Trying to Accomplish?"
     },
     {
       "kind": "out",
@@ -8927,13 +8809,13 @@
     },
     {
       "kind": "out",
-      "slug": "a-family-life-of-faith-educates-the-children",
-      "title": "A Family Life Of Faith Educates The Children"
+      "slug": "jesus-is-the-hero-of-the-universal-revolution",
+      "title": "Jesus Is the Hero of the Universal Revolution"
     },
     {
       "kind": "out",
-      "slug": "jesus-is-the-hero-of-the-universal-revolution",
-      "title": "Jesus Is the Hero of the Universal Revolution"
+      "slug": "a-family-life-of-faith-educates-the-children",
+      "title": "A Family Life Of Faith Educates The Children"
     },
     {
       "kind": "out",
@@ -9031,11 +8913,6 @@
       "kind": "in",
       "slug": "children-who-remain-faithful",
       "title": "Let Us Become Children Who Remain Faithful Until The Day Of Victory"
-    },
-    {
-      "kind": "in",
-      "slug": "sunday-service-registered-families",
-      "title": "Sunday Service"
     },
     {
       "kind": "in",
@@ -9143,8 +9020,8 @@
     },
     {
       "kind": "in",
-      "slug": "the-viewpoint-of-cosmic-history-and-i",
-      "title": "The Viewpoint Of Cosmic History And I"
+      "slug": "given-a-special-order-from-god",
+      "title": "You Are An Emissary Who Is Given A Special Order From God"
     }
   ],
   "god-myself-and-the-country-of-my-assignment": [
@@ -9227,13 +9104,13 @@
     },
     {
       "kind": "out",
-      "slug": "gods-grief-training-session",
-      "title": "God's Grief"
+      "slug": "territory-of-goodness",
+      "title": "Territory Of Goodness"
     },
     {
       "kind": "out",
-      "slug": "territory-of-goodness",
-      "title": "Territory Of Goodness"
+      "slug": "gods-grief-training-session",
+      "title": "God's Grief"
     },
     {
       "kind": "out",
@@ -9400,16 +9277,6 @@
       "kind": "in",
       "slug": "freedom-and-ideals-are-meant-for-our-partner",
       "title": "Freedom and ideals are meant for our partner"
-    },
-    {
-      "kind": "in",
-      "slug": "our-goal",
-      "title": "Our Goal"
-    },
-    {
-      "kind": "in",
-      "slug": "the-significance-of-victory-in-korea",
-      "title": "The Significance Of Victory In Korea"
     },
     {
       "kind": "in",
@@ -9590,13 +9457,13 @@
     },
     {
       "kind": "in",
-      "slug": "gods-day-morning-address",
-      "title": "God's Day Morning Address"
+      "slug": "the-parent-in-the-north-and-the-parent-in-the-south",
+      "title": "The parent in the North and the parent in the South"
     },
     {
       "kind": "in",
-      "slug": "the-parent-in-the-north-and-the-parent-in-the-south",
-      "title": "The parent in the North and the parent in the South"
+      "slug": "gods-day-morning-address",
+      "title": "God's Day Morning Address"
     },
     {
       "kind": "in",
@@ -9644,11 +9511,6 @@
       "kind": "in",
       "slug": "our-life-in-the-kingdom-of-god",
       "title": "Our Life In The Kingdom Of God"
-    },
-    {
-      "kind": "in",
-      "slug": "our-future-path-of-advancement",
-      "title": "Our Future Path Of Advancement"
     }
   ],
   "gods-day-morning-1983": [
@@ -9698,23 +9560,6 @@
       "kind": "out",
       "slug": "gods-day-and-my-congratulations",
       "title": "God's Day And My Congratulations"
-    },
-    {
-      "kind": "in",
-      "slug": "gods-day-speech",
-      "title": "God's Day Speech"
-    }
-  ],
-  "gods-day-speech": [
-    {
-      "kind": "out",
-      "slug": "the-pledge-that-must-be-fulfilled",
-      "title": "The Pledge That Must Be Fulfilled"
-    },
-    {
-      "kind": "out",
-      "slug": "gods-day-morning-address",
-      "title": "God's Day Morning Address"
     }
   ],
   "gods-family-centered-world-of-kindred": [
@@ -9859,11 +9704,6 @@
     },
     {
       "kind": "in",
-      "slug": "ceremony-for-the-total-liberation-of-6-000-years-of-providential-history",
-      "title": "Ceremony for the Total Liberation of 6,000 Years of Providential History"
-    },
-    {
-      "kind": "in",
       "slug": "good-day",
       "title": "Good Day"
     },
@@ -9916,11 +9756,6 @@
     },
     {
       "kind": "in",
-      "slug": "our-goal",
-      "title": "Our Goal"
-    },
-    {
-      "kind": "in",
       "slug": "the-start-of-the-40-day-witnessing-condition",
       "title": "The Start of the 40-Day Witnessing Condition"
     },
@@ -9928,6 +9763,11 @@
       "kind": "in",
       "slug": "the-unification-philosophy-of-personality",
       "title": "The Unification Philosophy of Personality"
+    },
+    {
+      "kind": "in",
+      "slug": "let-us-become-the-ones-who-can-understand-gods-sorrow",
+      "title": "Let Us Become the Ones Who Can Understand God's Sorrow"
     }
   ],
   "gods-homeland-and-the-peace-kingdom-are-built-on-the-foundation": [
@@ -10062,18 +9902,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-conference-for-the-unity-of-science",
-      "title": "The Conference for the Unity of Science"
-    },
-    {
-      "kind": "in",
       "slug": "myself",
       "title": "Myself"
     },
     {
       "kind": "in",
-      "slug": "the-mind-body-problem",
-      "title": "The Mind-Body Problem"
+      "slug": "the-conference-for-the-unity-of-science",
+      "title": "The Conference for the Unity of Science"
     },
     {
       "kind": "in",
@@ -10084,6 +9919,11 @@
       "kind": "in",
       "slug": "let-us-protect-ourselves",
       "title": "Let Us Protect Ourselves"
+    },
+    {
+      "kind": "in",
+      "slug": "the-mind-body-problem",
+      "title": "The Mind-Body Problem"
     },
     {
       "kind": "in",
@@ -10198,13 +10038,13 @@
     },
     {
       "kind": "in",
-      "slug": "gods-day-morning-address",
-      "title": "God's Day Morning Address"
+      "slug": "my-new-self",
+      "title": "My New Self"
     },
     {
       "kind": "in",
-      "slug": "my-new-self",
-      "title": "My New Self"
+      "slug": "gods-day-morning-address",
+      "title": "God's Day Morning Address"
     }
   ],
   "gods-plan-for-the-human-family": [
@@ -10364,8 +10204,8 @@
     },
     {
       "kind": "out",
-      "slug": "the-dignity-of-god-and-man",
-      "title": "The Dignity of God and Man"
+      "slug": "the-price-of-the-dispensation",
+      "title": "The Price Of The Dispensation"
     },
     {
       "kind": "in",
@@ -10394,13 +10234,13 @@
     },
     {
       "kind": "in",
-      "slug": "let-us-think-once-more",
-      "title": "Let Us Think Once More"
+      "slug": "fathers-nation-is-my-nation",
+      "title": "Father's Nation Is My Nation"
     },
     {
       "kind": "in",
-      "slug": "fathers-nation-is-my-nation",
-      "title": "Father's Nation Is My Nation"
+      "slug": "let-us-think-once-more",
+      "title": "Let Us Think Once More"
     }
   ],
   "gods-providence-in-the-scriptures": [
@@ -10649,11 +10489,6 @@
     },
     {
       "kind": "in",
-      "slug": "heavenly-fatherism",
-      "title": "Heavenly Parentism"
-    },
-    {
-      "kind": "in",
       "slug": "personal-salvation-and-collective-salvation",
       "title": "Personal Salvation and Collective Salvation"
     },
@@ -10661,6 +10496,11 @@
       "kind": "in",
       "slug": "the-necessity-for-the-day-of-victory-of-love",
       "title": "The Necessity For The Day Of Victory Of Love"
+    },
+    {
+      "kind": "in",
+      "slug": "what-is-our-fatherland-and-where-is-it",
+      "title": "What is our fatherland, and where is it?"
     }
   ],
   "gods-true-nation": [
@@ -10728,13 +10568,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
+      "slug": "the-purpose-of-the-messiah",
+      "title": "The Purpose of the Messiah"
     },
     {
       "kind": "out",
-      "slug": "the-purpose-of-the-messiah",
-      "title": "The Purpose of the Messiah"
+      "slug": "jesus-christ-the-pride-of-god",
+      "title": "Jesus Christ, The Pride of God"
     },
     {
       "kind": "out",
@@ -10857,13 +10697,13 @@
     },
     {
       "kind": "in",
-      "slug": "process-of-restoration",
-      "title": "Process Of Restoration"
+      "slug": "jesus-who-came-with-the-destiny-of-restoration",
+      "title": "Jesus, Who Came with the Destiny of Restoration"
     },
     {
       "kind": "in",
-      "slug": "jesus-who-came-with-the-destiny-of-restoration",
-      "title": "Jesus, Who Came with the Destiny of Restoration"
+      "slug": "process-of-restoration",
+      "title": "Process Of Restoration"
     },
     {
       "kind": "in",
@@ -10990,6 +10830,11 @@
       "kind": "out",
       "slug": "jesus-standard-of-goodness",
       "title": "Jesus' Standard Of Goodness"
+    },
+    {
+      "kind": "in",
+      "slug": "before-the-fathers-very-eyes",
+      "title": "Before the Father’s Very Eyes"
     }
   ],
   "good-day": [
@@ -11264,18 +11109,13 @@
     },
     {
       "kind": "out",
-      "slug": "god-wishes-to-bond-with-you-as-father-and-child",
-      "title": "God Wishes to Bond with You as Father and Child"
-    },
-    {
-      "kind": "out",
       "slug": "the-resurrection-of-jesus-and-ourselves",
       "title": "The Resurrection of Jesus and Ourselves"
     },
     {
-      "kind": "in",
-      "slug": "territory-of-goodness",
-      "title": "Territory Of Goodness"
+      "kind": "out",
+      "slug": "god-wishes-to-bond-with-you-as-father-and-child",
+      "title": "God Wishes to Bond with You as Father and Child"
     },
     {
       "kind": "in",
@@ -11328,13 +11168,13 @@
     },
     {
       "kind": "in",
-      "slug": "to-the-matching-candidates",
-      "title": "To The Matching Candidates"
+      "slug": "be-serious-about-your-mission",
+      "title": "Be Serious About Your Mission"
     },
     {
       "kind": "in",
-      "slug": "be-serious-about-your-mission",
-      "title": "Be Serious About Your Mission"
+      "slug": "to-the-matching-candidates",
+      "title": "To The Matching Candidates"
     },
     {
       "kind": "in",
@@ -11474,13 +11314,13 @@
     },
     {
       "kind": "out",
-      "slug": "learning-through-love",
-      "title": "Learning Through Love"
+      "slug": "heart-and-heaven",
+      "title": "Heart and Heaven"
     },
     {
       "kind": "out",
-      "slug": "heart-and-heaven",
-      "title": "Heart and Heaven"
+      "slug": "learning-through-love",
+      "title": "Learning Through Love"
     },
     {
       "kind": "out",
@@ -11523,11 +11363,6 @@
       "kind": "in",
       "slug": "the-harvest-season-for-gods-providence",
       "title": "The Harvest Season For God's Providence"
-    },
-    {
-      "kind": "in",
-      "slug": "the-tide-of-the-heart",
-      "title": "The Tide Of The Heart"
     },
     {
       "kind": "in",
@@ -11597,11 +11432,6 @@
       "kind": "out",
       "slug": "the-way-to-true-happiness",
       "title": "The Way To True Happiness"
-    },
-    {
-      "kind": "in",
-      "slug": "spring-season-of-the-providence",
-      "title": "Spring Season Of The Providence"
     },
     {
       "kind": "in",
@@ -11718,11 +11548,6 @@
       "kind": "out",
       "slug": "the-purpose-of-the-messiah",
       "title": "The Purpose of the Messiah"
-    },
-    {
-      "kind": "in",
-      "slug": "fathers-nation-is-my-nation",
-      "title": "Father's Nation Is My Nation"
     },
     {
       "kind": "in",
@@ -11942,13 +11767,13 @@
     },
     {
       "kind": "in",
-      "slug": "gods-fatherland-and-the-one-world",
-      "title": "God's Fatherland and the One World"
+      "slug": "the-turning-point-of-history",
+      "title": "The Turning Point of History"
     },
     {
       "kind": "in",
-      "slug": "the-turning-point-of-history",
-      "title": "The Turning Point of History"
+      "slug": "gods-fatherland-and-the-one-world",
+      "title": "God's Fatherland and the One World"
     }
   ],
   "heavens-sorrowful-heart": [
@@ -11984,8 +11809,8 @@
     },
     {
       "kind": "out",
-      "slug": "god-would-like-to-abolish-hell",
-      "title": "God would like to abolish Hell"
+      "slug": "god-created-human-beings-to-perfect-themselves",
+      "title": "God created human beings to perfect themselves"
     },
     {
       "kind": "in",
@@ -12004,11 +11829,6 @@
     },
     {
       "kind": "in",
-      "slug": "gods-possession-and-our-possession",
-      "title": "God's Possession and Our Possession"
-    },
-    {
-      "kind": "in",
       "slug": "past-and-future-generations",
       "title": "Past and Future Generations"
     },
@@ -12016,6 +11836,11 @@
       "kind": "in",
       "slug": "the-heart-of-heaven-in-relation-to-elijah",
       "title": "The Heart of Heaven in Relation to Elijah"
+    },
+    {
+      "kind": "in",
+      "slug": "gods-possession-and-our-possession",
+      "title": "God's Possession and Our Possession"
     },
     {
       "kind": "in",
@@ -12299,8 +12124,8 @@
     },
     {
       "kind": "out",
-      "slug": "our-family-and-the-dispensation",
-      "title": "Our Family and the Dispensation"
+      "slug": "washington-monument",
+      "title": "Washington Monument"
     },
     {
       "kind": "in",
@@ -12324,11 +12149,6 @@
     },
     {
       "kind": "in",
-      "slug": "our-present-position",
-      "title": "Our Present Position"
-    },
-    {
-      "kind": "in",
       "slug": "core-love-and-indemnity",
       "title": "Core Love And Indemnity"
     },
@@ -12336,6 +12156,11 @@
       "kind": "in",
       "slug": "let-us-know-ourselves",
       "title": "Let Us Know Ourselves"
+    },
+    {
+      "kind": "in",
+      "slug": "our-present-position",
+      "title": "Our Present Position"
     }
   ],
   "history-and-our-responsibility": [
@@ -12423,13 +12248,13 @@
     },
     {
       "kind": "out",
-      "slug": "restoration-of-true-sonship",
-      "title": "Restoration Of True Sonship"
+      "slug": "today-in-the-light-of-dispensational-history",
+      "title": "Today In the Light of Dispensational History"
     },
     {
       "kind": "out",
-      "slug": "today-in-the-light-of-dispensational-history",
-      "title": "Today In the Light of Dispensational History"
+      "slug": "restoration-of-true-sonship",
+      "title": "Restoration Of True Sonship"
     },
     {
       "kind": "out",
@@ -12463,23 +12288,23 @@
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-god",
-      "title": "The Providence of God and the Nature of the Adventure That Transcends Reality"
-    },
-    {
-      "kind": "in",
       "slug": "victory-in-the-history-of-gods-providence",
       "title": "The Age Of Great Victory In The History Of God's Providence"
     },
     {
       "kind": "in",
-      "slug": "the-day-of-victory-over-resentment",
-      "title": "The Day Of Victory Over Resentment"
+      "slug": "the-path-of-indemnity-that-we-must-go",
+      "title": "The Path Of Indemnity That We Must Go"
     },
     {
       "kind": "in",
-      "slug": "the-path-of-indemnity-that-we-must-go",
-      "title": "The Path Of Indemnity That We Must Go"
+      "slug": "the-providence-of-god",
+      "title": "The Providence of God and the Nature of the Adventure That Transcends Reality"
+    },
+    {
+      "kind": "in",
+      "slug": "the-start-of-the-40-day-witnessing-condition",
+      "title": "The Start of the 40-Day Witnessing Condition"
     }
   ],
   "history-of-unification-church-part": [
@@ -12487,16 +12312,6 @@
       "kind": "bi",
       "slug": "jacobs-course-and-our-life-in-faith",
       "title": "Jacob's Course And Our Life In Faith"
-    },
-    {
-      "kind": "out",
-      "slug": "find-your-true-self",
-      "title": "Find Your True Self"
-    },
-    {
-      "kind": "out",
-      "slug": "the-providence-of-god",
-      "title": "The Providence of God and the Nature of the Adventure That Transcends Reality"
     },
     {
       "kind": "in",
@@ -12582,11 +12397,6 @@
     },
     {
       "kind": "in",
-      "slug": "man-the-starting-point-of-hope-the-path-for-our-family",
-      "title": "Man, The Starting Point Of Hope - The Path For Our Family"
-    },
-    {
-      "kind": "in",
       "slug": "let-us-become-the-elite-troop-of-god",
       "title": "Let Us Become the Elite Troop of God"
     },
@@ -12629,13 +12439,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-dispensation-of-restoration-and-me",
-      "title": "The Dispensation Of Restoration and Me"
+      "slug": "the-history-of-restoration-is-so-complicated",
+      "title": "The history of restoration is so complicated"
     },
     {
       "kind": "out",
-      "slug": "the-history-of-restoration-is-so-complicated",
-      "title": "The history of restoration is so complicated"
+      "slug": "the-dispensation-of-restoration-and-me",
+      "title": "The Dispensation Of Restoration and Me"
     },
     {
       "kind": "in",
@@ -13130,13 +12940,13 @@
     },
     {
       "kind": "out",
-      "slug": "human-life",
-      "title": "Human Life"
+      "slug": "the-center-of-the-universe",
+      "title": "The Center of the Universe"
     },
     {
       "kind": "out",
-      "slug": "the-center-of-the-universe",
-      "title": "The Center of the Universe"
+      "slug": "human-life",
+      "title": "Human Life"
     },
     {
       "kind": "out",
@@ -13281,23 +13091,18 @@
     },
     {
       "kind": "out",
-      "slug": "the-central-figure-and-the-transitional-period",
-      "title": "The Central Figure And The Transitional Period"
-    },
-    {
-      "kind": "out",
       "slug": "jesus-true-heart-for-god",
       "title": "Jesus' True Heart for God"
     },
     {
       "kind": "out",
-      "slug": "restoration-and-blessing",
-      "title": "Restoration And Blessing"
+      "slug": "the-ones-who-can-receive-gods-love",
+      "title": "The Ones Who Can Receive God's Love"
     },
     {
       "kind": "out",
-      "slug": "the-ones-who-can-receive-gods-love",
-      "title": "The Ones Who Can Receive God's Love"
+      "slug": "the-turning-point-of-history",
+      "title": "The Turning Point of History"
     }
   ],
   "how-gods-will-was-conceived-and-will-end": [
@@ -13602,13 +13407,13 @@
     },
     {
       "kind": "out",
-      "slug": "our-family-and-the-dispensation",
-      "title": "Our Family and the Dispensation"
+      "slug": "the-way-to-true-happiness",
+      "title": "The Way To True Happiness"
     },
     {
       "kind": "out",
-      "slug": "the-way-to-true-happiness",
-      "title": "The Way To True Happiness"
+      "slug": "our-family-and-the-dispensation",
+      "title": "Our Family and the Dispensation"
     },
     {
       "kind": "out",
@@ -13659,8 +13464,8 @@
     },
     {
       "kind": "out",
-      "slug": "restoration-of-true-sonship",
-      "title": "Restoration Of True Sonship"
+      "slug": "today-in-the-light-of-dispensational-history",
+      "title": "Today In the Light of Dispensational History"
     },
     {
       "kind": "in",
@@ -13703,11 +13508,6 @@
       "kind": "out",
       "slug": "the-necessity-of-prayer",
       "title": "The Necessity Of Prayer"
-    },
-    {
-      "kind": "out",
-      "slug": "message-at-the-unification-ceremony",
-      "title": "Message At The Unification Ceremony"
     }
   ],
   "how-will-the-unified-world-be-established-on-earth": [
@@ -13934,13 +13734,13 @@
     },
     {
       "kind": "in",
-      "slug": "my-life-of-faith",
-      "title": "My Life Of Faith"
+      "slug": "sorrow-and-tears",
+      "title": "Sorrow and Tears"
     },
     {
       "kind": "in",
-      "slug": "sorrow-and-tears",
-      "title": "Sorrow and Tears"
+      "slug": "my-life-of-faith",
+      "title": "My Life Of Faith"
     },
     {
       "kind": "in",
@@ -14028,18 +13828,13 @@
     },
     {
       "kind": "in",
-      "slug": "god-is-the-origin-of-peace",
-      "title": "God Is the Origin of Peace"
-    },
-    {
-      "kind": "in",
       "slug": "let-us-become-the-citizens-who-take-possession-of-the-kingdom-of-heaven",
       "title": "Let Us Become the Citizens Who Take Possession of the Kingdom of Heaven"
     },
     {
       "kind": "in",
-      "slug": "the-fruit-of-life-and-the-divine-spirit",
-      "title": "The Fruit Of Life And The Divine Spirit"
+      "slug": "god-is-the-origin-of-peace",
+      "title": "God Is the Origin of Peace"
     },
     {
       "kind": "in",
@@ -14060,6 +13855,11 @@
       "kind": "in",
       "slug": "reflection-upon-life",
       "title": "Reflection Upon Life"
+    },
+    {
+      "kind": "in",
+      "slug": "the-fruit-of-life-and-the-divine-spirit",
+      "title": "The Fruit Of Life And The Divine Spirit"
     }
   ],
   "humankind-wanders-in-search-of-the-truth": [
@@ -14097,11 +13897,6 @@
       "kind": "in",
       "slug": "let-us-celebrate-christmas-on-behalf-of-heaven",
       "title": "Let Us Celebrate Christmas on Behalf of Heaven"
-    },
-    {
-      "kind": "in",
-      "slug": "true-father-speaks-on-lunar-new-year",
-      "title": "True Father Speaks on Lunar New Year"
     }
   ],
   "i-am-the-center-of-the-whole": [
@@ -14325,11 +14120,6 @@
       "kind": "in",
       "slug": "true-family",
       "title": "True Family"
-    },
-    {
-      "kind": "in",
-      "slug": "blessed-family",
-      "title": "Blessed Family"
     },
     {
       "kind": "in",
@@ -14595,11 +14385,6 @@
     },
     {
       "kind": "out",
-      "slug": "on-unification-philosophy",
-      "title": "On Unification Philosophy"
-    },
-    {
-      "kind": "out",
       "slug": "significance-of-the-training-session",
       "title": "Three Stages of Judgment"
     },
@@ -14607,6 +14392,11 @@
       "kind": "out",
       "slug": "how-to-teach-divine-principle",
       "title": "How To Teach Divine Principle"
+    },
+    {
+      "kind": "out",
+      "slug": "on-unification-philosophy",
+      "title": "On Unification Philosophy"
     },
     {
       "kind": "out",
@@ -14970,11 +14760,6 @@
     }
   ],
   "indemnity-and-returning-glory-to-heaven": [
-    {
-      "kind": "out",
-      "slug": "the-ideal-world-of-subject-and-object",
-      "title": "The Ideal World of Subject and Object"
-    },
     {
       "kind": "out",
       "slug": "the-resurrection-of-jesus-and-ourselves",
@@ -15392,11 +15177,6 @@
     },
     {
       "kind": "in",
-      "slug": "our-goal",
-      "title": "Our Goal"
-    },
-    {
-      "kind": "in",
       "slug": "day-of-the-victory-of-love",
       "title": "Day Of The Victory Of Love"
     },
@@ -15404,11 +15184,6 @@
       "kind": "in",
       "slug": "jesus-christ-who-went-and-came",
       "title": "Jesus Christ Who Went and Came and Who Will Come and Go for the Sake of Heaven and Earth"
-    },
-    {
-      "kind": "in",
-      "slug": "true-father-speaks-on-lunar-new-year",
-      "title": "True Father Speaks on Lunar New Year"
     }
   ],
   "jesus-and-us": [
@@ -15543,13 +15318,13 @@
     },
     {
       "kind": "in",
-      "slug": "our-family-and-the-dispensation",
-      "title": "Our Family and the Dispensation"
+      "slug": "living-sacrifice",
+      "title": "Living Sacrifice"
     },
     {
       "kind": "in",
-      "slug": "living-sacrifice",
-      "title": "Living Sacrifice"
+      "slug": "our-family-and-the-dispensation",
+      "title": "Our Family and the Dispensation"
     }
   ],
   "jesus-christ-who-went-and-came": [
@@ -15642,11 +15417,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-forsaken-jesus",
-      "title": "The Forsaken Jesus"
-    },
-    {
-      "kind": "in",
       "slug": "how-to-train-members-and-make-the-kingdom-of-heaven",
       "title": "How to train members and make the Kingdom of Heaven"
     },
@@ -15654,6 +15424,11 @@
       "kind": "in",
       "slug": "reclaim-what-was-lost-to-jesus",
       "title": "Let Us Become the Brides Who Reclaim What Was Lost to Jesus"
+    },
+    {
+      "kind": "in",
+      "slug": "the-forsaken-jesus",
+      "title": "The Forsaken Jesus"
     }
   ],
   "jesus-is-the-hero-of-the-universal-revolution": [
@@ -15771,6 +15546,11 @@
     },
     {
       "kind": "in",
+      "slug": "for-what-is-the-messiah-to-come-again",
+      "title": "For what is the Messiah to come again?"
+    },
+    {
+      "kind": "in",
       "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
       "title": "Jesus' View of Life for the Sake of the Restoration"
     },
@@ -15778,11 +15558,6 @@
       "kind": "in",
       "slug": "jesus-whom-god-wanted-to-find",
       "title": "Jesus, Whom God Wanted To Find"
-    },
-    {
-      "kind": "in",
-      "slug": "for-what-is-the-messiah-to-come-again",
-      "title": "For what is the Messiah to come again?"
     },
     {
       "kind": "in",
@@ -15843,13 +15618,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-starting-point-of-good-and-evil",
-      "title": "The Starting Point Of Good And Evil"
+      "slug": "good-and-evil-and-the-rise-and-fall-of-fortunes",
+      "title": "Good and Evil, and the Rise and Fall of Fortunes"
     },
     {
       "kind": "in",
-      "slug": "good-and-evil-and-the-rise-and-fall-of-fortunes",
-      "title": "Good and Evil, and the Rise and Fall of Fortunes"
+      "slug": "the-starting-point-of-good-and-evil",
+      "title": "The Starting Point Of Good And Evil"
     },
     {
       "kind": "in",
@@ -15920,13 +15695,13 @@
     },
     {
       "kind": "in",
-      "slug": "jesus-whom-god-wanted-to-find",
-      "title": "Jesus, Whom God Wanted To Find"
+      "slug": "for-what-is-the-messiah-to-come-again",
+      "title": "For what is the Messiah to come again?"
     },
     {
       "kind": "in",
-      "slug": "for-what-is-the-messiah-to-come-again",
-      "title": "For what is the Messiah to come again?"
+      "slug": "jesus-whom-god-wanted-to-find",
+      "title": "Jesus, Whom God Wanted To Find"
     },
     {
       "kind": "in",
@@ -15987,11 +15762,6 @@
     },
     {
       "kind": "in",
-      "slug": "declaration-of-the-realm-of-the-cosmic-sabbath-for-the-parents-of-heaven-and-earth",
-      "title": "Declaration of the Realm of the Cosmic Sabbath for the Parents of Heaven and Earth"
-    },
-    {
-      "kind": "in",
       "slug": "jesus-is-searching-for-us-in-this-way",
       "title": "Jesus Is Searching For Us in This Way"
     },
@@ -16002,8 +15772,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-significance-of-victory-in-korea",
-      "title": "The Significance Of Victory In Korea"
+      "slug": "true-member-of-jesus-family",
+      "title": "Let Us Become a True Member of Jesus' Family"
+    },
+    {
+      "kind": "in",
+      "slug": "determination-toward-heaven",
+      "title": "Let Us Not Weaken Our Determination Toward Heaven"
     }
   ],
   "jesus-who-came-with-the-destiny-of-restoration": [
@@ -16024,13 +15799,13 @@
     },
     {
       "kind": "in",
-      "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
-      "title": "Jesus' View of Life for the Sake of the Restoration"
+      "slug": "the-pledge-that-must-be-fulfilled",
+      "title": "The Pledge That Must Be Fulfilled"
     },
     {
       "kind": "in",
-      "slug": "the-pledge-that-must-be-fulfilled",
-      "title": "The Pledge That Must Be Fulfilled"
+      "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
+      "title": "Jesus' View of Life for the Sake of the Restoration"
     },
     {
       "kind": "in",
@@ -16111,13 +15886,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-lord-is-my-good-shepherd",
-      "title": "The Lord Is My Good Shepherd"
+      "slug": "in-search-of-the-original-homeland",
+      "title": "In Search of the Original Homeland"
     },
     {
       "kind": "in",
-      "slug": "in-search-of-the-original-homeland",
-      "title": "In Search of the Original Homeland"
+      "slug": "the-lord-is-my-good-shepherd",
+      "title": "The Lord Is My Good Shepherd"
     },
     {
       "kind": "in",
@@ -16254,13 +16029,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-true-heart-for-god",
-      "title": "Jesus' True Heart for God"
+      "slug": "on-jesus-family",
+      "title": "On Jesus' Family"
     },
     {
       "kind": "out",
-      "slug": "on-jesus-family",
-      "title": "On Jesus' Family"
+      "slug": "jesus-true-heart-for-god",
+      "title": "Jesus' True Heart for God"
     },
     {
       "kind": "out",
@@ -16284,23 +16059,18 @@
     },
     {
       "kind": "in",
-      "slug": "harvest-of-goodness-heaven-desires",
-      "title": "Let Us Be the Harvest of Goodness Heaven Desires"
-    },
-    {
-      "kind": "in",
       "slug": "19th-parents-day",
       "title": "19th Parents Day"
     },
     {
       "kind": "in",
-      "slug": "the-incarnation-of-jesus-a-pioneer",
-      "title": "The Incarnation of Jesus, A Pioneer"
+      "slug": "harvest-of-goodness-heaven-desires",
+      "title": "Let Us Be the Harvest of Goodness Heaven Desires"
     },
     {
       "kind": "in",
-      "slug": "declaration-of-the-era-of-family-kingship",
-      "title": "Declaration of the Era of Family Kingship"
+      "slug": "the-incarnation-of-jesus-a-pioneer",
+      "title": "The Incarnation of Jesus, A Pioneer"
     },
     {
       "kind": "in",
@@ -16311,6 +16081,11 @@
       "kind": "in",
       "slug": "determination-toward-heaven",
       "title": "Let Us Not Weaken Our Determination Toward Heaven"
+    },
+    {
+      "kind": "in",
+      "slug": "let-us-regain-the-victorious-nation",
+      "title": "Let Us Regain the Victorious Nation"
     }
   ],
   "jesus-would-have-become-the-king-of-kings-if-he-had-lived-to-be-43-years-old": [
@@ -16541,13 +16316,13 @@
     },
     {
       "kind": "out",
-      "slug": "our-family-and-the-dispensation",
-      "title": "Our Family and the Dispensation"
+      "slug": "victorious-sons-and-daughters",
+      "title": "Victorious Sons and Daughters"
     },
     {
       "kind": "out",
-      "slug": "victorious-sons-and-daughters",
-      "title": "Victorious Sons and Daughters"
+      "slug": "our-family-and-the-dispensation",
+      "title": "Our Family and the Dispensation"
     }
   ],
   "know-the-spirit-world-to-go-the-path-of-faith": [
@@ -16691,13 +16466,13 @@
     },
     {
       "kind": "out",
-      "slug": "my-life-of-faith",
-      "title": "My Life Of Faith"
+      "slug": "how-we-are-born-again",
+      "title": "How We Are Born Again"
     },
     {
       "kind": "out",
-      "slug": "how-we-are-born-again",
-      "title": "How We Are Born Again"
+      "slug": "my-life-of-faith",
+      "title": "My Life Of Faith"
     },
     {
       "kind": "out",
@@ -16762,13 +16537,13 @@
   "leaders-conference-january-2-1996": [
     {
       "kind": "out",
-      "slug": "mobilize-good-ancestors",
-      "title": "Mobilize good ancestors"
+      "slug": "the-problem-of-fallen-mankind",
+      "title": "The Problem of Fallen Mankind"
     },
     {
       "kind": "out",
-      "slug": "the-problem-of-fallen-mankind",
-      "title": "The Problem of Fallen Mankind"
+      "slug": "mobilize-good-ancestors",
+      "title": "Mobilize good ancestors"
     },
     {
       "kind": "out",
@@ -16816,13 +16591,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-physical-body-and-hell",
-      "title": "The physical body and hell"
+      "slug": "what-shall-we-do",
+      "title": "What Shall We Do?"
     },
     {
       "kind": "out",
-      "slug": "what-shall-we-do",
-      "title": "What Shall We Do?"
+      "slug": "the-physical-body-and-hell",
+      "title": "The physical body and hell"
     },
     {
       "kind": "out",
@@ -16941,11 +16716,6 @@
       "kind": "in",
       "slug": "blessed-couples-conference",
       "title": "Duty of Blessed Families"
-    },
-    {
-      "kind": "in",
-      "slug": "true-father-speaks-on-lunar-new-year",
-      "title": "True Father Speaks on Lunar New Year"
     }
   ],
   "lessons-from-fathers-course-in-danbury": [
@@ -16971,11 +16741,6 @@
     },
     {
       "kind": "in",
-      "slug": "providential-age-of-restoration",
-      "title": "Providential Age of Restoration"
-    },
-    {
-      "kind": "in",
       "slug": "truly-thank-you-all-perfection-is-from-my-true-love",
       "title": "Truly Thank You, All Perfection Is From My True Love"
     },
@@ -16988,6 +16753,11 @@
       "kind": "in",
       "slug": "creation-and-building-of-the-kingdom-of-heaven",
       "title": "Creation And Building Of The Kingdom Of Heaven"
+    },
+    {
+      "kind": "in",
+      "slug": "providential-age-of-restoration",
+      "title": "Providential Age of Restoration"
     },
     {
       "kind": "in",
@@ -17139,11 +16909,6 @@
     },
     {
       "kind": "in",
-      "slug": "historical-view-of-the-dispensation",
-      "title": "Historical View Of The Dispensation"
-    },
-    {
-      "kind": "in",
       "slug": "world-of-gods-dominion",
       "title": "Let Us Claim Back the World of God's Dominion and Offer It to Him"
     },
@@ -17166,6 +16931,11 @@
       "kind": "in",
       "slug": "debt-of-6-000-years",
       "title": "Who Will Eliminate the Debt of 6,000 Years?"
+    },
+    {
+      "kind": "in",
+      "slug": "father-we-welcome-you",
+      "title": "Oh, Father! We Welcome You"
     }
   ],
   "let-us-be-a-victor-for-god": [
@@ -17265,13 +17035,13 @@
     },
     {
       "kind": "out",
-      "slug": "restoration-of-true-sonship",
-      "title": "Restoration Of True Sonship"
+      "slug": "today-in-the-light-of-dispensational-history",
+      "title": "Today In the Light of Dispensational History"
     },
     {
       "kind": "out",
-      "slug": "today-in-the-light-of-dispensational-history",
-      "title": "Today In the Light of Dispensational History"
+      "slug": "restoration-of-true-sonship",
+      "title": "Restoration Of True Sonship"
     },
     {
       "kind": "out",
@@ -17491,13 +17261,13 @@
     },
     {
       "kind": "out",
-      "slug": "change-of-blood-lineage-the-real-experience",
-      "title": "Change Of Blood Lineage; The Real Experience Of Salvation By The Messiah"
+      "slug": "the-liberation-of-heaven-and-earth",
+      "title": "The Liberation Of Heaven And Earth"
     },
     {
       "kind": "out",
-      "slug": "the-liberation-of-heaven-and-earth",
-      "title": "The Liberation Of Heaven And Earth"
+      "slug": "change-of-blood-lineage-the-real-experience",
+      "title": "Change Of Blood Lineage; The Real Experience Of Salvation By The Messiah"
     },
     {
       "kind": "out",
@@ -17945,11 +17715,6 @@
       "kind": "in",
       "slug": "children-who-remain-faithful",
       "title": "Let Us Become Children Who Remain Faithful Until The Day Of Victory"
-    },
-    {
-      "kind": "in",
-      "slug": "the-great-transition-point",
-      "title": "The Great Transition Point"
     }
   ],
   "let-us-find-our-true-selves": [
@@ -18323,11 +18088,6 @@
       "kind": "out",
       "slug": "the-basis-of-good-and-evil",
       "title": "The Basis Of Good And Evil"
-    },
-    {
-      "kind": "in",
-      "slug": "responsibility-of-the-tribal-messiah",
-      "title": "The Responsibility of the Tribal Messiah"
     },
     {
       "kind": "in",
@@ -18792,11 +18552,6 @@
     },
     {
       "kind": "out",
-      "slug": "humankind-wanders-in-search-of-the-truth",
-      "title": "Humankind Wanders In Search of the Truth"
-    },
-    {
-      "kind": "out",
       "slug": "the-era-of-nations-has-passed",
       "title": "The Era Of Nations Has Passed"
     },
@@ -18804,6 +18559,11 @@
       "kind": "out",
       "slug": "current-providence-and-true-love",
       "title": "Current Providence And True Love"
+    },
+    {
+      "kind": "out",
+      "slug": "humankind-wanders-in-search-of-the-truth",
+      "title": "Humankind Wanders In Search of the Truth"
     },
     {
       "kind": "in",
@@ -19088,13 +18848,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-conference-for-the-unity-of-science",
-      "title": "The Conference for the Unity of Science"
+      "slug": "why-we-go-tuna-fishing",
+      "title": "Why We Go Tuna Fishing"
     },
     {
       "kind": "in",
-      "slug": "why-we-go-tuna-fishing",
-      "title": "Why We Go Tuna Fishing"
+      "slug": "the-conference-for-the-unity-of-science",
+      "title": "The Conference for the Unity of Science"
     },
     {
       "kind": "in",
@@ -19113,13 +18873,13 @@
     },
     {
       "kind": "in",
-      "slug": "holy-spirit-association",
-      "title": "Holy Spirit Association for the Unification of World Christianity"
+      "slug": "our-pride",
+      "title": "Our Pride"
     },
     {
       "kind": "in",
-      "slug": "our-pride",
-      "title": "Our Pride"
+      "slug": "the-burden-of-destiny",
+      "title": "The Burden of Destiny"
     }
   ],
   "let-us-stand-on-heavens-side": [
@@ -19192,13 +18952,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-original-mind-and-physical-mind-conflict",
-      "title": "The original mind and physical mind conflict"
+      "slug": "environment-and-evolution",
+      "title": "Environment and Evolution"
     },
     {
       "kind": "out",
-      "slug": "environment-and-evolution",
-      "title": "Environment and Evolution"
+      "slug": "god-and-the-building-of-the-kingdom-of-god",
+      "title": "God and the Building of the Kingdom of God"
     },
     {
       "kind": "in",
@@ -19217,11 +18977,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-pinnacle-of-suffering",
-      "title": "The Pinnacle of Suffering"
-    },
-    {
-      "kind": "in",
       "slug": "gods-day-and-my-congratulations",
       "title": "God's Day And My Congratulations"
     },
@@ -19234,6 +18989,11 @@
       "kind": "in",
       "slug": "victory-or-defeat",
       "title": "Victory Or Defeat"
+    },
+    {
+      "kind": "in",
+      "slug": "role-of-the-media-in-the-21st-century",
+      "title": "Freedom, Family, Faith - The Role of the Media in the 21st Century"
     }
   ],
   "let-us-think": [
@@ -19259,13 +19019,13 @@
     },
     {
       "kind": "out",
-      "slug": "mankind-and-the-ideal-world",
-      "title": "Mankind And The Ideal World"
+      "slug": "universality",
+      "title": "Universality"
     },
     {
       "kind": "out",
-      "slug": "universality",
-      "title": "Universality"
+      "slug": "mankind-and-the-ideal-world",
+      "title": "Mankind And The Ideal World"
     },
     {
       "kind": "in",
@@ -19313,11 +19073,6 @@
       "kind": "in",
       "slug": "the-desire-of-god",
       "title": "The Desire of God"
-    },
-    {
-      "kind": "in",
-      "slug": "the-pinnacle-of-suffering",
-      "title": "The Pinnacle of Suffering"
     },
     {
       "kind": "in",
@@ -19545,18 +19300,6 @@
       "kind": "in",
       "slug": "let-us-untie-the-knot",
       "title": "Let Us Untie The Knot"
-    }
-  ],
-  "lets-establish-the-foundation-for-unification": [
-    {
-      "kind": "out",
-      "slug": "jesus-true-heart-for-god",
-      "title": "Jesus' True Heart for God"
-    },
-    {
-      "kind": "out",
-      "slug": "god-wishes-to-bond-with-you-as-father-and-child",
-      "title": "God Wishes to Bond with You as Father and Child"
     }
   ],
   "lets-fulfill-the-responsibility-of-the-third-creators": [
@@ -19881,13 +19624,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-original-mind-and-physical-mind-conflict",
-      "title": "The original mind and physical mind conflict"
+      "slug": "my-21-year-course",
+      "title": "My 21 Year Course"
     },
     {
       "kind": "out",
-      "slug": "my-21-year-course",
-      "title": "My 21 Year Course"
+      "slug": "the-original-mind-and-physical-mind-conflict",
+      "title": "The original mind and physical mind conflict"
     },
     {
       "kind": "out",
@@ -20029,13 +19772,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
+      "slug": "the-purpose-of-the-messiah",
+      "title": "The Purpose of the Messiah"
     },
     {
       "kind": "out",
-      "slug": "the-purpose-of-the-messiah",
-      "title": "The Purpose of the Messiah"
+      "slug": "jesus-christ-the-pride-of-god",
+      "title": "Jesus Christ, The Pride of God"
     },
     {
       "kind": "out",
@@ -20366,8 +20109,8 @@
     },
     {
       "kind": "in",
-      "slug": "the-path-of-life-we-must-go",
-      "title": "The Path of Life We Must Go, Entertaining Hope"
+      "slug": "original-race-from-one-lineage",
+      "title": "Original Race From One Lineage"
     }
   ],
   "love-heaven-and-become-patriots": [
@@ -20428,6 +20171,11 @@
     },
     {
       "kind": "in",
+      "slug": "who-am-i",
+      "title": "Who Am I?"
+    },
+    {
+      "kind": "in",
       "slug": "god-is-the-origin-of-peace",
       "title": "God Is the Origin of Peace"
     },
@@ -20435,11 +20183,6 @@
       "kind": "in",
       "slug": "the-path-of-life-we-must-go",
       "title": "The Path of Life We Must Go, Entertaining Hope"
-    },
-    {
-      "kind": "in",
-      "slug": "who-am-i",
-      "title": "Who Am I?"
     }
   ],
   "love-right-absolutism-42nd-true-parents-day": [
@@ -20452,31 +20195,6 @@
       "kind": "out",
       "slug": "how-we-are-born-again",
       "title": "How We Are Born Again"
-    },
-    {
-      "kind": "out",
-      "slug": "a-family-life-of-faith-educates-the-children",
-      "title": "A Family Life Of Faith Educates The Children"
-    },
-    {
-      "kind": "out",
-      "slug": "true-parents-day-and-true-parents",
-      "title": "True Parents' Day And True Parents"
-    },
-    {
-      "kind": "out",
-      "slug": "following-the-cosmic-true-love-way",
-      "title": "Following The Cosmic True Love Way"
-    },
-    {
-      "kind": "out",
-      "slug": "purity-lineage-and-the-love-organ",
-      "title": "Purity, Lineage and the Love Organ"
-    },
-    {
-      "kind": "out",
-      "slug": "true-parents-wedding-anniversary-address",
-      "title": "True Parents' Wedding Anniversary Address"
     },
     {
       "kind": "in",
@@ -20499,11 +20217,6 @@
       "kind": "in",
       "slug": "lets-attend-the-owner-of-true-love",
       "title": "Let's Attend the Owner of True Love"
-    },
-    {
-      "kind": "in",
-      "slug": "pursuit-of-the-homeland",
-      "title": "Let Us Join in the Pursuit of the Homeland"
     }
   ],
   "lucifer-and-adam-have-the-same-father-2": [
@@ -20591,8 +20304,8 @@
     },
     {
       "kind": "in",
-      "slug": "process-of-restoration",
-      "title": "Process Of Restoration"
+      "slug": "the-first-day-and-our-lifetime",
+      "title": "The First Day And Our Lifetime"
     }
   ],
   "mainstream-thought-of-the-dispensational-history": [
@@ -20677,11 +20390,6 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
-    },
-    {
-      "kind": "out",
       "slug": "the-law-of-indemnity",
       "title": "The Law Of Indemnity"
     },
@@ -20702,8 +20410,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-mind-body-problem",
-      "title": "The Mind-Body Problem"
+      "slug": "the-official-course-of-true-love-and-heavenly-fate",
+      "title": "The Official Course Of True Love And Heavenly Fate"
+    },
+    {
+      "kind": "out",
+      "slug": "my-21-year-course",
+      "title": "My 21 Year Course"
     },
     {
       "kind": "in",
@@ -20761,11 +20474,6 @@
       "kind": "in",
       "slug": "true-couple",
       "title": "True Couple"
-    },
-    {
-      "kind": "in",
-      "slug": "the-meaning-of-ahn-shi-il",
-      "title": "The Meaning of Ahn Shi Il"
     },
     {
       "kind": "in",
@@ -20840,13 +20548,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "way-of-life",
+      "title": "Way Of Life"
     },
     {
       "kind": "out",
-      "slug": "way-of-life",
-      "title": "Way Of Life"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
@@ -21144,13 +20852,13 @@
     },
     {
       "kind": "in",
-      "slug": "let-us-thank-god",
-      "title": "Let Us Thank God"
+      "slug": "the-day-of-the-victory-of-heaven",
+      "title": "The Day of the Victory of Heaven"
     },
     {
       "kind": "in",
-      "slug": "the-day-of-the-victory-of-heaven",
-      "title": "The Day of the Victory of Heaven"
+      "slug": "let-us-thank-god",
+      "title": "Let Us Thank God"
     },
     {
       "kind": "in",
@@ -21191,13 +20899,13 @@
     },
     {
       "kind": "out",
-      "slug": "tradition-centered-on-god",
-      "title": "Tradition Centered On God"
+      "slug": "ceremony-for-the-total-dissolution-of-resentment",
+      "title": "Ceremony for the Total Dissolution of Resentment"
     },
     {
       "kind": "out",
-      "slug": "ceremony-for-the-total-dissolution-of-resentment",
-      "title": "Ceremony for the Total Dissolution of Resentment"
+      "slug": "the-victorious-unified-front",
+      "title": "The Victorious Unified Front"
     },
     {
       "kind": "in",
@@ -21208,11 +20916,6 @@
       "kind": "in",
       "slug": "chil-il-jeol-7-1-day-declaration-day-of-gods-eternal-blessing",
       "title": "Chil Il Jeol (7-1 Day) – Declaration Day of God’s Eternal Blessing"
-    },
-    {
-      "kind": "in",
-      "slug": "how-we-run-a-training-session",
-      "title": "How We Run A Training Session"
     },
     {
       "kind": "in",
@@ -21587,8 +21290,8 @@
     },
     {
       "kind": "in",
-      "slug": "centering-on-you-your-husband-and-children-will-become-completely-one",
-      "title": "Centering On You, Your Husband And Children Will Become Completely One"
+      "slug": "how-to-be-a-leader",
+      "title": "How To Be A Leader"
     }
   ],
   "my-course-prior-to-becoming-the-true-parents": [
@@ -21670,13 +21373,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-mind-body-problem",
-      "title": "The Mind-Body Problem"
+      "slug": "true-family-and-i",
+      "title": "True Family and I"
     },
     {
       "kind": "out",
-      "slug": "true-family-and-i",
-      "title": "True Family and I"
+      "slug": "the-mind-body-problem",
+      "title": "The Mind-Body Problem"
     },
     {
       "kind": "out",
@@ -21687,11 +21390,6 @@
       "kind": "out",
       "slug": "20-years-of-ocean-work",
       "title": "20 Years of Ocean Work"
-    },
-    {
-      "kind": "in",
-      "slug": "declaration-of-the-realm-of-the-cosmic-sabbath-for-the-parents-of-heaven-and-earth",
-      "title": "Declaration of the Realm of the Cosmic Sabbath for the Parents of Heaven and Earth"
     },
     {
       "kind": "in",
@@ -21900,13 +21598,13 @@
     },
     {
       "kind": "in",
-      "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
-      "title": "Jesus' View of Life for the Sake of the Restoration"
+      "slug": "lineage-must-be-made-different",
+      "title": "Lineage must be made different"
     },
     {
       "kind": "in",
-      "slug": "lineage-must-be-made-different",
-      "title": "Lineage must be made different"
+      "slug": "gods-wish-and-our-wish",
+      "title": "God’s Wish and Our Wish"
     },
     {
       "kind": "in",
@@ -21915,8 +21613,8 @@
     },
     {
       "kind": "in",
-      "slug": "gods-wish-and-our-wish",
-      "title": "God’s Wish and Our Wish"
+      "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
+      "title": "Jesus' View of Life for the Sake of the Restoration"
     }
   ],
   "my-lifes-fate-and-destiny": [
@@ -22212,13 +21910,13 @@
     },
     {
       "kind": "in",
-      "slug": "let-us-think-once-more",
-      "title": "Let Us Think Once More"
+      "slug": "19th-parents-day",
+      "title": "19th Parents Day"
     },
     {
       "kind": "in",
-      "slug": "19th-parents-day",
-      "title": "19th Parents Day"
+      "slug": "let-us-think-once-more",
+      "title": "Let Us Think Once More"
     }
   ],
   "new-culture-of-peace-closing-plenary": [
@@ -22427,13 +22125,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "way-of-life",
+      "title": "Way Of Life"
     },
     {
       "kind": "out",
-      "slug": "way-of-life",
-      "title": "Way Of Life"
+      "slug": "homeland-the-garden-of-eden",
+      "title": "We Who Are Searching for the Homeland, the Garden of Eden"
     },
     {
       "kind": "in",
@@ -22710,13 +22408,13 @@
     },
     {
       "kind": "in",
-      "slug": "those-who-will-prevail",
-      "title": "Those Who Will Prevail"
+      "slug": "the-mission-we-are-undertaking",
+      "title": "The Mission We Are Undertaking"
     },
     {
       "kind": "in",
-      "slug": "the-mission-we-are-undertaking",
-      "title": "The Mission We Are Undertaking"
+      "slug": "those-who-will-prevail",
+      "title": "Those Who Will Prevail"
     },
     {
       "kind": "in",
@@ -22920,11 +22618,6 @@
     },
     {
       "kind": "in",
-      "slug": "message-at-the-unification-ceremony",
-      "title": "Message At The Unification Ceremony"
-    },
-    {
-      "kind": "in",
       "slug": "the-25th-year-of-the-unification-church",
       "title": "The 25th Year of the Unification Church"
     },
@@ -22997,8 +22690,8 @@
     },
     {
       "kind": "in",
-      "slug": "following-the-cosmic-true-love-way",
-      "title": "Following The Cosmic True Love Way"
+      "slug": "let-us-meet-opportunity-well",
+      "title": "Let Us Meet Opportunity Well"
     },
     {
       "kind": "in",
@@ -23049,11 +22742,6 @@
     },
     {
       "kind": "in",
-      "slug": "return-to-hometown",
-      "title": "Return To Hometown"
-    },
-    {
-      "kind": "in",
       "slug": "what-shall-we-do",
       "title": "What Shall We Do?"
     },
@@ -23061,6 +22749,11 @@
       "kind": "in",
       "slug": "my-21-year-course",
       "title": "My 21 Year Course"
+    },
+    {
+      "kind": "in",
+      "slug": "return-to-hometown",
+      "title": "Return To Hometown"
     },
     {
       "kind": "in",
@@ -23217,13 +22910,13 @@
     },
     {
       "kind": "out",
-      "slug": "let-us-find-our-true-self",
-      "title": "Let Us Find Our True Self"
+      "slug": "the-original-base-of-cosmic-completion",
+      "title": "The Original Base Of Cosmic Completion"
     },
     {
       "kind": "out",
-      "slug": "the-original-base-of-cosmic-completion",
-      "title": "The Original Base Of Cosmic Completion"
+      "slug": "let-us-find-our-true-self",
+      "title": "Let Us Find Our True Self"
     },
     {
       "kind": "in",
@@ -23402,13 +23095,13 @@
     },
     {
       "kind": "out",
-      "slug": "human-life",
-      "title": "Human Life"
+      "slug": "the-center-of-the-universe",
+      "title": "The Center of the Universe"
     },
     {
       "kind": "out",
-      "slug": "the-center-of-the-universe",
-      "title": "The Center of the Universe"
+      "slug": "human-life",
+      "title": "Human Life"
     },
     {
       "kind": "out",
@@ -23681,11 +23374,6 @@
   ],
   "our-advancement-and-retreat": [
     {
-      "kind": "bi",
-      "slug": "our-goal",
-      "title": "Our Goal"
-    },
-    {
       "kind": "out",
       "slug": "the-will-of-god",
       "title": "The Will Of God"
@@ -23732,13 +23420,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-unification-philosophy-of-personality",
-      "title": "The Unification Philosophy of Personality"
+      "slug": "path-of-advancement-for-our-faith",
+      "title": "Path Of Advancement For Our Faith"
     },
     {
       "kind": "in",
-      "slug": "path-of-advancement-for-our-faith",
-      "title": "Path Of Advancement For Our Faith"
+      "slug": "the-unification-philosophy-of-personality",
+      "title": "The Unification Philosophy of Personality"
     },
     {
       "kind": "in",
@@ -23851,11 +23539,6 @@
     },
     {
       "kind": "in",
-      "slug": "our-future-path-of-advancement",
-      "title": "Our Future Path Of Advancement"
-    },
-    {
-      "kind": "in",
       "slug": "who-am-i",
       "title": "Who Am I?"
     },
@@ -23904,11 +23587,6 @@
       "kind": "out",
       "slug": "blessed-families-are-to-stand-for-high-priest-for-their-race-and-nation",
       "title": "Blessed Families Are To Stand For High Priest For Their Race And Nation"
-    },
-    {
-      "kind": "in",
-      "slug": "glorious-true-family",
-      "title": "Glorious True Family"
     }
   ],
   "our-attitude-toward-the-enemy": [
@@ -24016,13 +23694,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-desire-of-all-things",
-      "title": "The Desire of All Things"
+      "slug": "victory-or-defeat-and-the-present-time",
+      "title": "Victory Or Defeat And The Present Time"
     },
     {
       "kind": "in",
-      "slug": "victory-or-defeat-and-the-present-time",
-      "title": "Victory Or Defeat And The Present Time"
+      "slug": "the-desire-of-all-things",
+      "title": "The Desire of All Things"
     },
     {
       "kind": "in",
@@ -24268,11 +23946,6 @@
     },
     {
       "kind": "in",
-      "slug": "our-present-position",
-      "title": "Our Present Position"
-    },
-    {
-      "kind": "in",
       "slug": "our-responsibility-in-becoming-children-of-true-parents",
       "title": "Our Responsibility In Becoming Children Of True Parents"
     },
@@ -24280,6 +23953,11 @@
       "kind": "in",
       "slug": "our-determination-to-win",
       "title": "Our Determination To Win"
+    },
+    {
+      "kind": "in",
+      "slug": "our-present-position",
+      "title": "Our Present Position"
     }
   ],
   "our-family-and-the-dispensation": [
@@ -24320,18 +23998,13 @@
     },
     {
       "kind": "out",
-      "slug": "human-life",
-      "title": "Human Life"
+      "slug": "the-center-of-the-universe",
+      "title": "The Center of the Universe"
     },
     {
       "kind": "in",
       "slug": "the-dignity-of-god-and-man",
       "title": "The Dignity of God and Man"
-    },
-    {
-      "kind": "in",
-      "slug": "historical-view-of-the-dispensation",
-      "title": "Historical View Of The Dispensation"
     },
     {
       "kind": "in",
@@ -24357,6 +24030,11 @@
       "kind": "in",
       "slug": "glory-of-the-resurrection-to-god",
       "title": "Like Jesus, Let Us Return the Glory of the Resurrection to God"
+    },
+    {
+      "kind": "in",
+      "slug": "gods-preparation-for-our-church-and-its-early-days",
+      "title": "God's Preparation for Our Church, and Its Early Days"
     }
   ],
   "our-fatherland": [
@@ -24407,11 +24085,6 @@
     },
     {
       "kind": "in",
-      "slug": "our-future-path-of-advancement",
-      "title": "Our Future Path Of Advancement"
-    },
-    {
-      "kind": "in",
       "slug": "message-at-the-unification-ceremony",
       "title": "Message At The Unification Ceremony"
     },
@@ -24429,34 +24102,14 @@
       "kind": "in",
       "slug": "south-north-unification-is-the-independence-of-our-fatherland-regained-the-41st-true-parents-day",
       "title": "South-North Unification is the Independence of Our Fatherland Regained — the 41st True Parents' Day"
+    },
+    {
+      "kind": "in",
+      "slug": "who-can-save-the-world",
+      "title": "Who Can Save the World?"
     }
   ],
   "our-future-path-of-advancement": [
-    {
-      "kind": "bi",
-      "slug": "our-goal",
-      "title": "Our Goal"
-    },
-    {
-      "kind": "out",
-      "slug": "heavenly-tradition",
-      "title": "Heavenly Tradition"
-    },
-    {
-      "kind": "out",
-      "slug": "our-desire",
-      "title": "Children of the Heavenly Father"
-    },
-    {
-      "kind": "out",
-      "slug": "change-of-blood-lineage",
-      "title": "Change Of Blood Lineage"
-    },
-    {
-      "kind": "out",
-      "slug": "change-of-blood-lineage-the-real-experience",
-      "title": "Change Of Blood Lineage; The Real Experience Of Salvation By The Messiah"
-    },
     {
       "kind": "out",
       "slug": "past-and-future-generations",
@@ -24469,8 +24122,13 @@
     },
     {
       "kind": "out",
-      "slug": "our-fatherland",
-      "title": "Our Fatherland"
+      "slug": "our-goal",
+      "title": "Our Goal"
+    },
+    {
+      "kind": "out",
+      "slug": "true-love-and-one-unified-thought",
+      "title": "True Love And One Unified Thought"
     },
     {
       "kind": "in",
@@ -24494,65 +24152,35 @@
     },
     {
       "kind": "in",
-      "slug": "our-shame-instead-of-honor",
-      "title": "Our Shame (Instead Of Honor)"
+      "slug": "host-of-the-future",
+      "title": "Host of the Future"
     },
     {
       "kind": "in",
-      "slug": "host-of-the-future",
-      "title": "Host of the Future"
+      "slug": "our-shame-instead-of-honor",
+      "title": "Our Shame (Instead Of Honor)"
     }
   ],
   "our-goal": [
-    {
-      "kind": "bi",
-      "slug": "our-advancement-and-retreat",
-      "title": "Our Advancement And Retreat"
-    },
-    {
-      "kind": "bi",
-      "slug": "our-future-path-of-advancement",
-      "title": "Our Future Path Of Advancement"
-    },
-    {
-      "kind": "out",
-      "slug": "faith-and-reality",
-      "title": "Faith And Reality"
-    },
     {
       "kind": "out",
       "slug": "fathers-words-on-witnessing",
       "title": "Father's Words on Witnessing"
     },
     {
-      "kind": "out",
-      "slug": "the-spirit-world-is-our-subjective-nation",
-      "title": "The spirit world is our subjective nation"
-    },
-    {
-      "kind": "out",
-      "slug": "gods-grief-training-session",
-      "title": "God's Grief"
-    },
-    {
-      "kind": "out",
-      "slug": "our-life-in-the-kingdom-of-god",
-      "title": "Our Life In The Kingdom Of God"
-    },
-    {
-      "kind": "out",
-      "slug": "god-would-like-to-abolish-hell",
-      "title": "God would like to abolish Hell"
-    },
-    {
-      "kind": "out",
-      "slug": "the-unification-philosophy-of-personality",
-      "title": "The Unification Philosophy of Personality"
+      "kind": "in",
+      "slug": "our-advancement-and-retreat",
+      "title": "Our Advancement And Retreat"
     },
     {
       "kind": "in",
       "slug": "our-attitude",
       "title": "Our Attitude"
+    },
+    {
+      "kind": "in",
+      "slug": "our-future-path-of-advancement",
+      "title": "Our Future Path Of Advancement"
     },
     {
       "kind": "in",
@@ -24665,13 +24293,13 @@
     },
     {
       "kind": "in",
-      "slug": "true-parents-day-from-the-historical-point-of-view",
-      "title": "True Parents Day From The Historical Point Of View"
+      "slug": "the-completion-of-the-providence-and-parents-day",
+      "title": "The Completion Of The Providence And Parents' Day"
     },
     {
       "kind": "in",
-      "slug": "the-completion-of-the-providence-and-parents-day",
-      "title": "The Completion Of The Providence And Parents' Day"
+      "slug": "true-parents-day-from-the-historical-point-of-view",
+      "title": "True Parents Day From The Historical Point Of View"
     },
     {
       "kind": "in",
@@ -24791,18 +24419,18 @@
     },
     {
       "kind": "in",
-      "slug": "our-advancement-and-retreat",
-      "title": "Our Advancement And Retreat"
-    },
-    {
-      "kind": "in",
       "slug": "our-one-life",
       "title": "Our One Life"
     },
     {
       "kind": "in",
-      "slug": "our-goal",
-      "title": "Our Goal"
+      "slug": "our-advancement-and-retreat",
+      "title": "Our Advancement And Retreat"
+    },
+    {
+      "kind": "in",
+      "slug": "the-age-of-judgment-and-ourselves",
+      "title": "The Age of Judgment and Ourselves"
     }
   ],
   "our-mission-during-the-time-of-world-transition": [
@@ -25122,8 +24750,8 @@
     },
     {
       "kind": "out",
-      "slug": "god-is-the-origin-of-peace",
-      "title": "God Is the Origin of Peace"
+      "slug": "the-standard-bearer-of-tradition",
+      "title": "The Standard Bearer of Tradition"
     },
     {
       "kind": "in",
@@ -25181,11 +24809,6 @@
       "kind": "out",
       "slug": "let-us-know-ourselves",
       "title": "Let Us Know Ourselves"
-    },
-    {
-      "kind": "in",
-      "slug": "territory-of-goodness",
-      "title": "Territory Of Goodness"
     },
     {
       "kind": "in",
@@ -25476,11 +25099,6 @@
     },
     {
       "kind": "out",
-      "slug": "the-freedom-liberation-and-unification",
-      "title": "The Freedom, Liberation and Unification God Seeks to Attain"
-    },
-    {
-      "kind": "out",
       "slug": "the-person-of-central-value",
       "title": "The Person Of Central Value"
     }
@@ -25525,11 +25143,6 @@
       "kind": "in",
       "slug": "the-path-of-abel",
       "title": "The Path Of Abel"
-    },
-    {
-      "kind": "in",
-      "slug": "our-goal",
-      "title": "Our Goal"
     },
     {
       "kind": "in",
@@ -25755,13 +25368,13 @@
     },
     {
       "kind": "out",
-      "slug": "change-of-blood-lineage-the-real-experience",
-      "title": "Change Of Blood Lineage; The Real Experience Of Salvation By The Messiah"
+      "slug": "the-victorious-person-and-the-defeated-person",
+      "title": "The Victorious Person and the Defeated Person"
     },
     {
       "kind": "out",
-      "slug": "the-victorious-person-and-the-defeated-person",
-      "title": "The Victorious Person and the Defeated Person"
+      "slug": "change-of-blood-lineage-the-real-experience",
+      "title": "Change Of Blood Lineage; The Real Experience Of Salvation By The Messiah"
     },
     {
       "kind": "out",
@@ -26283,13 +25896,13 @@
     },
     {
       "kind": "in",
-      "slug": "day-of-attendance-of-safe-settlement",
-      "title": "Day of Attendance of Safe Settlement"
+      "slug": "the-road-of-gods-will",
+      "title": "The Road of God's Will"
     },
     {
       "kind": "in",
-      "slug": "the-road-of-gods-will",
-      "title": "The Road of God's Will"
+      "slug": "day-of-attendance-of-safe-settlement",
+      "title": "Day of Attendance of Safe Settlement"
     },
     {
       "kind": "in",
@@ -26357,8 +25970,8 @@
     },
     {
       "kind": "out",
-      "slug": "tradition-centered-on-god",
-      "title": "Tradition Centered On God"
+      "slug": "god-and-the-building-of-the-kingdom-of-god",
+      "title": "God and the Building of the Kingdom of God"
     },
     {
       "kind": "in",
@@ -26439,13 +26052,13 @@
     },
     {
       "kind": "in",
-      "slug": "renewed-pride",
-      "title": "Renewed Pride"
+      "slug": "original-root-and-self",
+      "title": "Original Root And Self"
     },
     {
       "kind": "in",
-      "slug": "original-root-and-self",
-      "title": "Original Root And Self"
+      "slug": "renewed-pride",
+      "title": "Renewed Pride"
     },
     {
       "kind": "in",
@@ -27114,13 +26727,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-freedom-liberation-and-unification",
-      "title": "The Freedom, Liberation and Unification God Seeks to Attain"
+      "slug": "restoration-of-trust",
+      "title": "Restoration of Trust"
     },
     {
       "kind": "in",
-      "slug": "restoration-of-trust",
-      "title": "Restoration of Trust"
+      "slug": "the-freedom-liberation-and-unification",
+      "title": "The Freedom, Liberation and Unification God Seeks to Attain"
     },
     {
       "kind": "in",
@@ -27134,8 +26747,8 @@
     },
     {
       "kind": "in",
-      "slug": "centering-on-you-your-husband-and-children-will-become-completely-one",
-      "title": "Centering On You, Your Husband And Children Will Become Completely One"
+      "slug": "on-the-day-of-resurrection",
+      "title": "On the Day of Resurrection"
     }
   ],
   "proclamation-of-the-liberation-day-for-the-blessing-of-the-whole-cosmos": [
@@ -27208,13 +26821,13 @@
     },
     {
       "kind": "in",
-      "slug": "heavenly-fatherism",
-      "title": "Heavenly Parentism"
+      "slug": "childrens-day-1990",
+      "title": "Children's Day 1990"
     },
     {
       "kind": "in",
-      "slug": "childrens-day-1990",
-      "title": "Children's Day 1990"
+      "slug": "heavenly-fatherism",
+      "title": "Heavenly Parentism"
     },
     {
       "kind": "in",
@@ -27272,13 +26885,13 @@
     },
     {
       "kind": "in",
-      "slug": "responsibility-in-the-perspective-of-the-principle",
-      "title": "Responsibility in the Perspective of the Principle"
+      "slug": "hill-of-historical-misfortune",
+      "title": "Let Us Climb over the Hill of Historical Misfortune"
     },
     {
       "kind": "in",
-      "slug": "hill-of-historical-misfortune",
-      "title": "Let Us Climb over the Hill of Historical Misfortune"
+      "slug": "responsibility-in-the-perspective-of-the-principle",
+      "title": "Responsibility in the Perspective of the Principle"
     },
     {
       "kind": "in",
@@ -27537,11 +27150,6 @@
       "kind": "in",
       "slug": "god-is-our-king-and-true-parent",
       "title": "God Is Our King And True Parent"
-    },
-    {
-      "kind": "in",
-      "slug": "love-right-absolutism-42nd-true-parents-day",
-      "title": "Love - Right Absolutism (42nd True Parents' Day)"
     },
     {
       "kind": "in",
@@ -27872,11 +27480,6 @@
     },
     {
       "kind": "in",
-      "slug": "historical-view-of-the-dispensation",
-      "title": "Historical View Of The Dispensation"
-    },
-    {
-      "kind": "in",
       "slug": "let-us-analyze-ourselves",
       "title": "Let Us Analyze Ourselves"
     },
@@ -27924,13 +27527,13 @@
     },
     {
       "kind": "in",
-      "slug": "record-setter-of-history",
-      "title": "Record-Setter Of History"
+      "slug": "the-trust-placed-in-us",
+      "title": "The Trust Placed In Us"
     },
     {
       "kind": "in",
-      "slug": "the-trust-placed-in-us",
-      "title": "The Trust Placed In Us"
+      "slug": "record-setter-of-history",
+      "title": "Record-Setter Of History"
     },
     {
       "kind": "in",
@@ -27943,16 +27546,6 @@
       "kind": "out",
       "slug": "the-coronation-ceremony-of-the-kingship-of-god",
       "title": "The Coronation Ceremony of the Kingship of God"
-    },
-    {
-      "kind": "out",
-      "slug": "change-of-blood-lineage-the-real-experience",
-      "title": "Change Of Blood Lineage; The Real Experience Of Salvation By The Messiah"
-    },
-    {
-      "kind": "out",
-      "slug": "gods-palace-of-peace",
-      "title": "God's Palace Of Peace Is The Home That We Long For In The Hometown And Homeland With True Parents At The Center"
     },
     {
       "kind": "in",
@@ -28032,13 +27625,13 @@
     },
     {
       "kind": "out",
-      "slug": "on-unification-philosophy",
-      "title": "On Unification Philosophy"
+      "slug": "significance-of-the-training-session",
+      "title": "Three Stages of Judgment"
     },
     {
       "kind": "out",
-      "slug": "significance-of-the-training-session",
-      "title": "Three Stages of Judgment"
+      "slug": "on-unification-philosophy",
+      "title": "On Unification Philosophy"
     },
     {
       "kind": "out",
@@ -28082,13 +27675,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-day-of-victory-of-love",
-      "title": "The Day Of Victory Of Love"
+      "slug": "where-god-and-man-meet",
+      "title": "Where God And Man Meet"
     },
     {
       "kind": "in",
-      "slug": "where-god-and-man-meet",
-      "title": "Where God And Man Meet"
+      "slug": "the-day-of-victory-of-love",
+      "title": "The Day Of Victory Of Love"
     }
   ],
   "relatives-of-members-have-a-heavy-responsibility": [
@@ -28232,11 +27825,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-dividing-peak-of-restoration",
-      "title": "The Dividing Peak Of Restoration"
-    },
-    {
-      "kind": "in",
       "slug": "all-things-depend-on-us",
       "title": "All Things Depend On Us"
     },
@@ -28285,11 +27873,6 @@
       "kind": "out",
       "slug": "our-direction-from-now-on",
       "title": "Our Direction From Now On"
-    },
-    {
-      "kind": "in",
-      "slug": "message-at-the-unification-ceremony",
-      "title": "Message At The Unification Ceremony"
     },
     {
       "kind": "in",
@@ -28355,13 +27938,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-most-important-stripe-and-the-point-of-origin-in-dispensational-history",
-      "title": "The Most Important Stripe and the Point of Origin in Dispensational History"
+      "slug": "keywords-regarding-tribal-messiah",
+      "title": "Keywords Regarding Tribal Messiah"
     },
     {
       "kind": "in",
-      "slug": "keywords-regarding-tribal-messiah",
-      "title": "Keywords Regarding Tribal Messiah"
+      "slug": "the-most-important-stripe-and-the-point-of-origin-in-dispensational-history",
+      "title": "The Most Important Stripe and the Point of Origin in Dispensational History"
     },
     {
       "kind": "in",
@@ -28419,16 +28002,6 @@
       "kind": "in",
       "slug": "true-parents-give-rebirth-to-humanity-through-true-love",
       "title": "True Parents Give Rebirth To Humanity Through True Love"
-    },
-    {
-      "kind": "in",
-      "slug": "the-history-of-the-blessed-couples",
-      "title": "The History Of The Blessed Couples"
-    },
-    {
-      "kind": "in",
-      "slug": "blessed-families-are-to-stand-for-high-priest-for-their-race-and-nation",
-      "title": "Blessed Families Are To Stand For High Priest For Their Race And Nation"
     },
     {
       "kind": "in",
@@ -28553,11 +28126,6 @@
     },
     {
       "kind": "in",
-      "slug": "critical-turning-point-of-the-dispensation-of-god",
-      "title": "Critical Turning Point Of The Dispensation Of God"
-    },
-    {
-      "kind": "in",
       "slug": "how-we-are-born-again",
       "title": "How We Are Born Again"
     },
@@ -28580,6 +28148,11 @@
       "kind": "in",
       "slug": "the-true-path-of-restoration",
       "title": "The True Path Of Restoration"
+    },
+    {
+      "kind": "in",
+      "slug": "perfection-and-gratitude",
+      "title": "Perfection and Gratitude"
     }
   ],
   "restoration-of-trust": [
@@ -28719,13 +28292,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-god",
-      "title": "The Providence of God and the Nature of the Adventure That Transcends Reality"
+      "slug": "keywords-regarding-tribal-messiah",
+      "title": "Keywords Regarding Tribal Messiah"
     },
     {
       "kind": "in",
-      "slug": "keywords-regarding-tribal-messiah",
-      "title": "Keywords Regarding Tribal Messiah"
+      "slug": "the-providence-of-god",
+      "title": "The Providence of God and the Nature of the Adventure That Transcends Reality"
     },
     {
       "kind": "in",
@@ -28761,13 +28334,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "way-of-life",
+      "title": "Way Of Life"
     },
     {
       "kind": "out",
-      "slug": "way-of-life",
-      "title": "Way Of Life"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
@@ -28786,16 +28359,6 @@
     },
     {
       "kind": "in",
-      "slug": "to-the-matching-candidates",
-      "title": "To The Matching Candidates"
-    },
-    {
-      "kind": "in",
-      "slug": "god-is-the-origin-of-peace",
-      "title": "God Is the Origin of Peace"
-    },
-    {
-      "kind": "in",
       "slug": "our-responsibility-in-becoming-children-of-true-parents",
       "title": "Our Responsibility In Becoming Children Of True Parents"
     },
@@ -28808,6 +28371,16 @@
       "kind": "in",
       "slug": "the-present-time",
       "title": "The Present Time"
+    },
+    {
+      "kind": "in",
+      "slug": "to-the-matching-candidates",
+      "title": "To The Matching Candidates"
+    },
+    {
+      "kind": "in",
+      "slug": "god-is-the-origin-of-peace",
+      "title": "God Is the Origin of Peace"
     },
     {
       "kind": "in",
@@ -28949,13 +28522,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "way-of-life",
+      "title": "Way Of Life"
     },
     {
       "kind": "out",
-      "slug": "way-of-life",
-      "title": "Way Of Life"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
@@ -28989,11 +28562,6 @@
     },
     {
       "kind": "in",
-      "slug": "spring-season-of-the-providence",
-      "title": "Spring Season Of The Providence"
-    },
-    {
-      "kind": "in",
       "slug": "chil-il-jeol-7-1-day-declaration-day-of-gods-eternal-blessing",
       "title": "Chil Il Jeol (7-1 Day) – Declaration Day of God’s Eternal Blessing"
     },
@@ -29006,6 +28574,11 @@
       "kind": "in",
       "slug": "the-secret-of-total-success",
       "title": "The Secret Of Total Success"
+    },
+    {
+      "kind": "in",
+      "slug": "the-tribal-messiah-and-my-homeland",
+      "title": "The Tribal Messiah And My Homeland"
     }
   ],
   "rev-sun-myung-moon-the-man": [
@@ -29100,13 +28673,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-desire-of-all-things",
-      "title": "The Desire of All Things"
+      "slug": "summary-of-fathers-words-at-hoon-dok-hae",
+      "title": "Summary Of Father's Words At Hoon Dok Hae"
     },
     {
       "kind": "in",
-      "slug": "summary-of-fathers-words-at-hoon-dok-hae",
-      "title": "Summary Of Father's Words At Hoon Dok Hae"
+      "slug": "the-desire-of-all-things",
+      "title": "The Desire of All Things"
     },
     {
       "kind": "in",
@@ -29164,13 +28737,13 @@
     },
     {
       "kind": "in",
-      "slug": "jacobs-course-and-our-life-in-faith",
-      "title": "Jacob's Course And Our Life In Faith"
+      "slug": "separation-between-good-and-evil",
+      "title": "Separation between Good and Evil"
     },
     {
       "kind": "in",
-      "slug": "separation-between-good-and-evil",
-      "title": "Separation between Good and Evil"
+      "slug": "jacobs-course-and-our-life-in-faith",
+      "title": "Jacob's Course And Our Life In Faith"
     },
     {
       "kind": "in",
@@ -29260,13 +28833,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-lord-is-my-good-shepherd",
-      "title": "The Lord Is My Good Shepherd"
+      "slug": "the-history-of-the-struggle-of-good-and-evil-and-oneself",
+      "title": "The History Of The Struggle Of Good And Evil And Oneself"
     },
     {
       "kind": "in",
-      "slug": "the-history-of-the-struggle-of-good-and-evil-and-oneself",
-      "title": "The History Of The Struggle Of Good And Evil And Oneself"
+      "slug": "the-lord-is-my-good-shepherd",
+      "title": "The Lord Is My Good Shepherd"
     },
     {
       "kind": "in",
@@ -29579,8 +29152,8 @@
     },
     {
       "kind": "in",
-      "slug": "heaven-and-man-unite-and-create-goodness",
-      "title": "Heaven And Man Unite And Create Goodness"
+      "slug": "to-whom-do-i-belong",
+      "title": "To Whom Do I Belong?"
     }
   ],
   "separation-between-good-and-evil": [
@@ -29883,13 +29456,13 @@
     },
     {
       "kind": "out",
-      "slug": "on-unification-philosophy",
-      "title": "On Unification Philosophy"
+      "slug": "heaven-is-calling-us",
+      "title": "Heaven Is Calling Us"
     },
     {
       "kind": "out",
-      "slug": "heaven-is-calling-us",
-      "title": "Heaven Is Calling Us"
+      "slug": "on-unification-philosophy",
+      "title": "On Unification Philosophy"
     },
     {
       "kind": "in",
@@ -30024,11 +29597,6 @@
     },
     {
       "kind": "in",
-      "slug": "heaven-and-us",
-      "title": "Heaven And Us"
-    },
-    {
-      "kind": "in",
       "slug": "how-to-train-members-and-make-the-kingdom-of-heaven",
       "title": "How to train members and make the Kingdom of Heaven"
     },
@@ -30036,6 +29604,11 @@
       "kind": "in",
       "slug": "day-of-all-things-new-york",
       "title": "World Day actually means the Day of All Things"
+    },
+    {
+      "kind": "in",
+      "slug": "heaven-and-us",
+      "title": "Heaven And Us"
     },
     {
       "kind": "in",
@@ -30240,13 +29813,13 @@
     },
     {
       "kind": "out",
-      "slug": "god-and-humanity-should-live-together",
-      "title": "God and Humanity Should Live Together"
+      "slug": "the-history-of-restoration-is-so-complicated",
+      "title": "The history of restoration is so complicated"
     },
     {
       "kind": "out",
-      "slug": "the-history-of-restoration-is-so-complicated",
-      "title": "The history of restoration is so complicated"
+      "slug": "god-and-humanity-should-live-together",
+      "title": "God and Humanity Should Live Together"
     },
     {
       "kind": "out",
@@ -30366,21 +29939,6 @@
       "kind": "out",
       "slug": "let-us-set-the-tradition",
       "title": "Let Us Set The Tradition"
-    },
-    {
-      "kind": "out",
-      "slug": "return-to-hometown",
-      "title": "Return To Hometown"
-    },
-    {
-      "kind": "out",
-      "slug": "heaven-and-us",
-      "title": "Heaven And Us"
-    },
-    {
-      "kind": "out",
-      "slug": "true-parents-day-and-our-family",
-      "title": "True Parents Day And Our Family"
     },
     {
       "kind": "in",
@@ -30781,23 +30339,13 @@
     },
     {
       "kind": "out",
-      "slug": "gods-possession-and-our-possession",
-      "title": "God's Possession and Our Possession"
-    },
-    {
-      "kind": "out",
       "slug": "the-heart-of-heaven-in-relation-to-elijah",
       "title": "The Heart of Heaven in Relation to Elijah"
     },
     {
       "kind": "out",
-      "slug": "love-all-people",
-      "title": "Love All People"
-    },
-    {
-      "kind": "out",
-      "slug": "god-is-the-origin-of-peace",
-      "title": "God Is the Origin of Peace"
+      "slug": "declaration-of-return-to-the-home-country",
+      "title": "Declaration of Return to the Home Country"
     }
   ],
   "sunday-service-with-true-parents-in-east-garden": [
@@ -30828,13 +30376,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-blessed-land-shall-be-established-by-truth-character-and-heart",
-      "title": "The Blessed Land Shall Be Established By Truth, Character And Heart"
+      "slug": "han-nam-dong",
+      "title": "Hoon Dok Hae - Han Nam Dong"
     },
     {
       "kind": "out",
-      "slug": "han-nam-dong",
-      "title": "Hoon Dok Hae - Han Nam Dong"
+      "slug": "the-blessed-land-shall-be-established-by-truth-character-and-heart",
+      "title": "The Blessed Land Shall Be Established By Truth, Character And Heart"
     }
   ],
   "take-up-gods-worst-problem": [
@@ -30971,13 +30519,13 @@
     },
     {
       "kind": "in",
-      "slug": "let-us-inherit-the-realm-of-victory-of-our-true-parents",
-      "title": "Let Us Inherit The Realm Of Victory Of Our True Parents"
+      "slug": "the-realm-of-heavenly-liberation",
+      "title": "The Realm Of Heavenly Liberation"
     },
     {
       "kind": "in",
-      "slug": "the-realm-of-heavenly-liberation",
-      "title": "The Realm Of Heavenly Liberation"
+      "slug": "let-us-inherit-the-realm-of-victory-of-our-true-parents",
+      "title": "Let Us Inherit The Realm Of Victory Of Our True Parents"
     },
     {
       "kind": "in",
@@ -31013,23 +30561,18 @@
     },
     {
       "kind": "out",
-      "slug": "human-life",
-      "title": "Human Life"
-    },
-    {
-      "kind": "out",
       "slug": "the-center-of-the-universe",
       "title": "The Center of the Universe"
     },
     {
       "kind": "out",
-      "slug": "engagement-of-705-couples",
-      "title": "Engagement of 705 Couples"
+      "slug": "human-life",
+      "title": "Human Life"
     },
     {
-      "kind": "in",
-      "slug": "historical-view-of-the-dispensation",
-      "title": "Historical View Of The Dispensation"
+      "kind": "out",
+      "slug": "engagement-of-705-couples",
+      "title": "Engagement of 705 Couples"
     }
   ],
   "the-14th-day-of-victory-of-love": [
@@ -31276,13 +30819,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-law-of-indemnity",
-      "title": "The Law Of Indemnity"
+      "slug": "the-central-figure-and-the-transitional-period",
+      "title": "The Central Figure And The Transitional Period"
     },
     {
       "kind": "out",
-      "slug": "the-central-figure-and-the-transitional-period",
-      "title": "The Central Figure And The Transitional Period"
+      "slug": "the-law-of-indemnity",
+      "title": "The Law Of Indemnity"
     },
     {
       "kind": "in",
@@ -31553,13 +31096,13 @@
     },
     {
       "kind": "in",
-      "slug": "let-us-inherit-the-realm-of-victory-of-our-true-parents",
-      "title": "Let Us Inherit The Realm Of Victory Of Our True Parents"
+      "slug": "the-completion-of-the-providence-and-parents-day",
+      "title": "The Completion Of The Providence And Parents' Day"
     },
     {
       "kind": "in",
-      "slug": "the-completion-of-the-providence-and-parents-day",
-      "title": "The Completion Of The Providence And Parents' Day"
+      "slug": "the-ideal-world-of-adam",
+      "title": "The Ideal World Of Adam"
     }
   ],
   "the-beginning-of-cheon-ii-guk": [
@@ -31876,11 +31419,6 @@
   "the-blessed-land-shall-be-established-by-truth-character-and-heart": [
     {
       "kind": "in",
-      "slug": "the-history-of-the-blessed-couples",
-      "title": "The History Of The Blessed Couples"
-    },
-    {
-      "kind": "in",
       "slug": "sunday-service-with-true-parents-in-east-garden",
       "title": "Sunday Service With True Parents In East Garden"
     }
@@ -31918,8 +31456,8 @@
     },
     {
       "kind": "out",
-      "slug": "christianity-in-crisis",
-      "title": "Christianity in Crisis"
+      "slug": "unification",
+      "title": "Unification"
     },
     {
       "kind": "in",
@@ -32311,13 +31849,13 @@
     },
     {
       "kind": "in",
-      "slug": "our-family-and-the-dispensation",
-      "title": "Our Family and the Dispensation"
+      "slug": "the-price-of-the-dispensation",
+      "title": "The Price Of The Dispensation"
     },
     {
       "kind": "in",
-      "slug": "the-price-of-the-dispensation",
-      "title": "The Price Of The Dispensation"
+      "slug": "our-family-and-the-dispensation",
+      "title": "Our Family and the Dispensation"
     },
     {
       "kind": "in",
@@ -32364,11 +31902,6 @@
       "title": "Our Ideal Home"
     },
     {
-      "kind": "out",
-      "slug": "true-family-and-true-universe-centering-on-true-love",
-      "title": "True Family And True Universe Centering On True Love"
-    },
-    {
       "kind": "in",
       "slug": "mainstream-of-the-dispensation-of-god",
       "title": "Mainstream Of the Dispensation Of God"
@@ -32385,13 +31918,13 @@
     },
     {
       "kind": "in",
-      "slug": "change-of-blood-lineage-the-real-experience",
-      "title": "Change Of Blood Lineage; The Real Experience Of Salvation By The Messiah"
+      "slug": "the-age-of-new-dispensation",
+      "title": "The Age of New Dispensation"
     },
     {
       "kind": "in",
-      "slug": "the-age-of-new-dispensation",
-      "title": "The Age of New Dispensation"
+      "slug": "change-of-blood-lineage-the-real-experience",
+      "title": "Change Of Blood Lineage; The Real Experience Of Salvation By The Messiah"
     },
     {
       "kind": "in",
@@ -32634,11 +32167,6 @@
     },
     {
       "kind": "in",
-      "slug": "our-attitude",
-      "title": "Our Attitude"
-    },
-    {
-      "kind": "in",
       "slug": "the-responsibility-the-root",
       "title": "The Responsibility of Those Who Have Become the Root"
     },
@@ -32646,6 +32174,11 @@
       "kind": "in",
       "slug": "significance-of-the-training-session",
       "title": "Three Stages of Judgment"
+    },
+    {
+      "kind": "in",
+      "slug": "our-attitude",
+      "title": "Our Attitude"
     },
     {
       "kind": "in",
@@ -32827,8 +32360,8 @@
     },
     {
       "kind": "out",
-      "slug": "responsibility-in-the-perspective-of-the-principle",
-      "title": "Responsibility in the Perspective of the Principle"
+      "slug": "one-world",
+      "title": "One World"
     },
     {
       "kind": "in",
@@ -32943,13 +32476,13 @@
     },
     {
       "kind": "out",
-      "slug": "restoration-of-true-sonship",
-      "title": "Restoration Of True Sonship"
+      "slug": "today-in-the-light-of-dispensational-history",
+      "title": "Today In the Light of Dispensational History"
     },
     {
       "kind": "out",
-      "slug": "today-in-the-light-of-dispensational-history",
-      "title": "Today In the Light of Dispensational History"
+      "slug": "restoration-of-true-sonship",
+      "title": "Restoration Of True Sonship"
     },
     {
       "kind": "in",
@@ -33010,11 +32543,6 @@
     },
     {
       "kind": "in",
-      "slug": "human-life",
-      "title": "Human Life"
-    },
-    {
-      "kind": "in",
       "slug": "us-set-the-record",
       "title": "Let Us Set The Record"
     },
@@ -33030,11 +32558,6 @@
     },
     {
       "kind": "in",
-      "slug": "renewed-pride",
-      "title": "Renewed Pride"
-    },
-    {
-      "kind": "in",
       "slug": "the-way-of-original-form",
       "title": "The Way Of Original Form"
     },
@@ -33042,6 +32565,16 @@
       "kind": "in",
       "slug": "core-love-and-indemnity",
       "title": "Core Love And Indemnity"
+    },
+    {
+      "kind": "in",
+      "slug": "renewed-pride",
+      "title": "Renewed Pride"
+    },
+    {
+      "kind": "in",
+      "slug": "who-goes-the-way-of-indemnity",
+      "title": "Who Goes The Way Of Indemnity?"
     }
   ],
   "the-consciousness-of-purpose-in-all-beings-and-the-one-world": [
@@ -33177,16 +32710,6 @@
   ],
   "the-coronation-ceremony-of-gods-kingship-completes-the-victory-of-heaven-and-earth": [
     {
-      "kind": "out",
-      "slug": "the-coronation-ceremony-of-the-kingship-of-god",
-      "title": "The Coronation Ceremony of the Kingship of God"
-    },
-    {
-      "kind": "out",
-      "slug": "change-of-blood-lineage-the-real-experience",
-      "title": "Change Of Blood Lineage; The Real Experience Of Salvation By The Messiah"
-    },
-    {
       "kind": "in",
       "slug": "coronation-for-the-authority-of-the-liberation-of-god-the-king-of-kings",
       "title": "Coronation for the Authority of the Liberation of God, the King of Kings"
@@ -33245,13 +32768,13 @@
     },
     {
       "kind": "in",
-      "slug": "gods-palace-of-peace",
-      "title": "God's Palace Of Peace Is The Home That We Long For In The Hometown And Homeland With True Parents At The Center"
+      "slug": "god-is-our-king-and-true-parent",
+      "title": "God Is Our King And True Parent"
     },
     {
       "kind": "in",
-      "slug": "god-is-our-king-and-true-parent",
-      "title": "God Is Our King And True Parent"
+      "slug": "gods-palace-of-peace",
+      "title": "God's Palace Of Peace Is The Home That We Long For In The Hometown And Homeland With True Parents At The Center"
     },
     {
       "kind": "in",
@@ -33260,23 +32783,23 @@
     },
     {
       "kind": "in",
-      "slug": "the-coronation-ceremony-of-gods-kingship-completes-the-victory-of-heaven-and-earth",
-      "title": "The Coronation Ceremony Of God’s Kingship Completes The Victory Of Heaven And Earth"
-    },
-    {
-      "kind": "in",
       "slug": "the-meaning-of-ahn-shi-il",
       "title": "The Meaning of Ahn Shi Il"
     },
     {
       "kind": "in",
-      "slug": "coronation-for-the-authority-of-the-liberation-of-god-the-king-of-kings",
-      "title": "Coronation for the Authority of the Liberation of God, the King of Kings"
+      "slug": "the-settlement-of-the-abel-un",
+      "title": "The Settlement of the Abel UN"
     },
     {
       "kind": "in",
-      "slug": "purity-lineage-and-the-love-organ",
-      "title": "Purity, Lineage and the Love Organ"
+      "slug": "true-parents-birthday-tribute-king-of-peace-crowning-ceremony-of-cosmic-unity",
+      "title": "True Parents' Birthday Tribute: King Of Peace Crowning Ceremony Of Cosmic Unity"
+    },
+    {
+      "kind": "in",
+      "slug": "coronation-for-the-authority-of-the-liberation-of-god-the-king-of-kings",
+      "title": "Coronation for the Authority of the Liberation of God, the King of Kings"
     }
   ],
   "the-coronation-of-gods-kingship": [
@@ -33391,13 +32914,13 @@
     },
     {
       "kind": "in",
-      "slug": "restoration-and-blessing",
-      "title": "Restoration And Blessing"
+      "slug": "the-protagonists-of-history",
+      "title": "The Protagonists of History"
     },
     {
       "kind": "in",
-      "slug": "the-protagonists-of-history",
-      "title": "The Protagonists of History"
+      "slug": "restoration-and-blessing",
+      "title": "Restoration And Blessing"
     },
     {
       "kind": "in",
@@ -33502,13 +33025,13 @@
     },
     {
       "kind": "in",
-      "slug": "loving-the-creation-as-an-owner",
-      "title": "Loving The Creation As An Owner"
+      "slug": "the-meaning-of-the-coronation-ceremony",
+      "title": "The Meaning of the Coronation Ceremony"
     },
     {
       "kind": "in",
-      "slug": "the-meaning-of-the-coronation-ceremony",
-      "title": "The Meaning of the Coronation Ceremony"
+      "slug": "loving-the-creation-as-an-owner",
+      "title": "Loving The Creation As An Owner"
     },
     {
       "kind": "in",
@@ -33601,8 +33124,8 @@
     },
     {
       "kind": "out",
-      "slug": "god-and-humanity-should-live-together",
-      "title": "God and Humanity Should Live Together"
+      "slug": "the-history-of-restoration-is-so-complicated",
+      "title": "The history of restoration is so complicated"
     },
     {
       "kind": "in",
@@ -33658,13 +33181,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-law-of-indemnity",
-      "title": "The Law Of Indemnity"
+      "slug": "the-central-figure-and-the-transitional-period",
+      "title": "The Central Figure And The Transitional Period"
     },
     {
       "kind": "out",
-      "slug": "the-central-figure-and-the-transitional-period",
-      "title": "The Central Figure And The Transitional Period"
+      "slug": "the-law-of-indemnity",
+      "title": "The Law Of Indemnity"
     },
     {
       "kind": "out",
@@ -33708,13 +33231,13 @@
     },
     {
       "kind": "in",
-      "slug": "true-parents-wedding-anniversary-address",
-      "title": "True Parents' Wedding Anniversary Address"
+      "slug": "thirtieth-anniversary-of-the-unification-church",
+      "title": "Thirtieth Anniversary Of The Unification Church"
     },
     {
       "kind": "in",
-      "slug": "thirtieth-anniversary-of-the-unification-church",
-      "title": "Thirtieth Anniversary Of The Unification Church"
+      "slug": "the-coronation-of-gods-kingship",
+      "title": "The Celebration of the 43rd True God's Day and the 9-year Anniversary of the Coronation of God's Kingship"
     }
   ],
   "the-day-of-victory-over-resentment": [
@@ -33752,11 +33275,6 @@
       "kind": "out",
       "slug": "christianity-in-crisis",
       "title": "Christianity in Crisis"
-    },
-    {
-      "kind": "in",
-      "slug": "ceremony-for-the-total-dissolution-of-resentment",
-      "title": "Ceremony for the Total Dissolution of Resentment"
     },
     {
       "kind": "in",
@@ -33957,11 +33475,6 @@
       "kind": "in",
       "slug": "visualizing-the-kingdom-of-god",
       "title": "Visualizing the Kingdom of God"
-    },
-    {
-      "kind": "in",
-      "slug": "the-pinnacle-of-suffering",
-      "title": "The Pinnacle of Suffering"
     },
     {
       "kind": "in",
@@ -34307,8 +33820,8 @@
     },
     {
       "kind": "in",
-      "slug": "the-providence-of-god",
-      "title": "The Providence of God and the Nature of the Adventure That Transcends Reality"
+      "slug": "gods-will-which-we-must-untangle",
+      "title": "God's Will Which We Must Untangle"
     }
   ],
   "the-dispensational-era-of-the-unification-of-the-first-second-and-third-generations": [
@@ -34455,11 +33968,6 @@
       "kind": "in",
       "slug": "significance-of-madison-square-garden-success",
       "title": "Significance Of Madison Square Garden Success"
-    },
-    {
-      "kind": "in",
-      "slug": "new-heaven-and-new-earth-centering-on-our-pledge",
-      "title": "New Heaven And New Earth Centering On Our Pledge"
     },
     {
       "kind": "in",
@@ -34822,13 +34330,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-pledge-that-must-be-fulfilled",
-      "title": "The Pledge That Must Be Fulfilled"
+      "slug": "always-report-to-god",
+      "title": "Always Report to God"
     },
     {
       "kind": "in",
-      "slug": "always-report-to-god",
-      "title": "Always Report to God"
+      "slug": "the-pledge-that-must-be-fulfilled",
+      "title": "The Pledge That Must Be Fulfilled"
     },
     {
       "kind": "in",
@@ -35166,6 +34674,23 @@
       "title": "The 48th Day of All True Things"
     }
   ],
+  "the-final-hour-and-i": [
+    {
+      "kind": "out",
+      "slug": "unification-church",
+      "title": "Unification Church"
+    },
+    {
+      "kind": "out",
+      "slug": "the-history-of-restoration-is-so-complicated",
+      "title": "The history of restoration is so complicated"
+    },
+    {
+      "kind": "out",
+      "slug": "gods-wish-and-our-wish",
+      "title": "God’s Wish and Our Wish"
+    }
+  ],
   "the-final-path-to-golgotha-that-we-must-go": [
     {
       "kind": "out",
@@ -35337,13 +34862,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-law-of-indemnity",
-      "title": "The Law Of Indemnity"
+      "slug": "the-central-figure-and-the-transitional-period",
+      "title": "The Central Figure And The Transitional Period"
     },
     {
       "kind": "out",
-      "slug": "the-central-figure-and-the-transitional-period",
-      "title": "The Central Figure And The Transitional Period"
+      "slug": "the-law-of-indemnity",
+      "title": "The Law Of Indemnity"
     },
     {
       "kind": "out",
@@ -35552,11 +35077,6 @@
       "kind": "in",
       "slug": "beloved-children",
       "title": "The Toil of God As He Tries To Raise Up His Beloved Children"
-    },
-    {
-      "kind": "in",
-      "slug": "be-a-complete-reflector",
-      "title": "Be a Complete Reflector"
     }
   ],
   "the-founding-of-ocean-church": [
@@ -35738,11 +35258,6 @@
     },
     {
       "kind": "in",
-      "slug": "our-road-to-go",
-      "title": "Our Road To Go"
-    },
-    {
-      "kind": "in",
       "slug": "prepare-a-passport-to-heaven",
       "title": "Prepare A Passport To Heaven"
     }
@@ -35794,11 +35309,6 @@
       "kind": "in",
       "slug": "harvest-of-goodness-heaven-desires",
       "title": "Let Us Be the Harvest of Goodness Heaven Desires"
-    },
-    {
-      "kind": "in",
-      "slug": "true-parents-wedding-anniversary-address",
-      "title": "True Parents' Wedding Anniversary Address"
     },
     {
       "kind": "in",
@@ -36033,11 +35543,6 @@
       "kind": "out",
       "slug": "on-jesus-family",
       "title": "On Jesus' Family"
-    },
-    {
-      "kind": "out",
-      "slug": "let-us-find-our-true-self",
-      "title": "Let Us Find Our True Self"
     }
   ],
   "the-greatest-of-all-is-love": [
@@ -36573,13 +36078,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-conference-for-the-unity-of-science",
-      "title": "The Conference for the Unity of Science"
+      "slug": "the-betrayer-and-heaven",
+      "title": "The Betrayer and Heaven"
     },
     {
       "kind": "in",
-      "slug": "the-betrayer-and-heaven",
-      "title": "The Betrayer and Heaven"
+      "slug": "the-conference-for-the-unity-of-science",
+      "title": "The Conference for the Unity of Science"
     },
     {
       "kind": "in",
@@ -36598,16 +36103,6 @@
     }
   ],
   "the-history-of-the-blessed-couples": [
-    {
-      "kind": "out",
-      "slug": "restoration-and-blessing",
-      "title": "Restoration And Blessing"
-    },
-    {
-      "kind": "out",
-      "slug": "the-blessed-land-shall-be-established-by-truth-character-and-heart",
-      "title": "The Blessed Land Shall Be Established By Truth, Character And Heart"
-    },
     {
       "kind": "in",
       "slug": "the-burden-of-destiny",
@@ -36800,13 +36295,13 @@
   "the-ideal-kingdom-of-heaven-our-hope": [
     {
       "kind": "out",
-      "slug": "jesus-true-heart-for-god",
-      "title": "Jesus' True Heart for God"
+      "slug": "on-jesus-family",
+      "title": "On Jesus' Family"
     },
     {
       "kind": "out",
-      "slug": "on-jesus-family",
-      "title": "On Jesus' Family"
+      "slug": "jesus-true-heart-for-god",
+      "title": "Jesus' True Heart for God"
     },
     {
       "kind": "out",
@@ -36840,11 +36335,6 @@
     },
     {
       "kind": "in",
-      "slug": "purity-lineage-and-the-love-organ",
-      "title": "Purity, Lineage and the Love Organ"
-    },
-    {
-      "kind": "in",
       "slug": "19th-parents-day",
       "title": "19th Parents Day"
     },
@@ -36852,6 +36342,11 @@
       "kind": "in",
       "slug": "day-of-resolution-of-victory",
       "title": "Day Of Resolution Of Victory"
+    },
+    {
+      "kind": "in",
+      "slug": "purity-lineage-and-the-love-organ",
+      "title": "Purity, Lineage and the Love Organ"
     },
     {
       "kind": "in",
@@ -36971,13 +36466,13 @@
     },
     {
       "kind": "out",
-      "slug": "human-life",
-      "title": "Human Life"
+      "slug": "the-center-of-the-universe",
+      "title": "The Center of the Universe"
     },
     {
       "kind": "out",
-      "slug": "the-center-of-the-universe",
-      "title": "The Center of the Universe"
+      "slug": "human-life",
+      "title": "Human Life"
     },
     {
       "kind": "out",
@@ -37013,13 +36508,13 @@
     },
     {
       "kind": "out",
-      "slug": "human-life",
-      "title": "Human Life"
+      "slug": "the-center-of-the-universe",
+      "title": "The Center of the Universe"
     },
     {
       "kind": "out",
-      "slug": "the-center-of-the-universe",
-      "title": "The Center of the Universe"
+      "slug": "human-life",
+      "title": "Human Life"
     },
     {
       "kind": "out",
@@ -37063,8 +36558,8 @@
     },
     {
       "kind": "in",
-      "slug": "indemnity-and-returning-glory-to-heaven",
-      "title": "Indemnity and Returning Glory to Heaven"
+      "slug": "original-way-of-gods-will",
+      "title": "Original Way Of God's Will"
     }
   ],
   "the-importance-of-mind-body-unity-to-witnessing": [
@@ -37182,13 +36677,13 @@
     },
     {
       "kind": "in",
-      "slug": "mankind-and-the-ideal-world",
-      "title": "Mankind And The Ideal World"
+      "slug": "the-mission-of-our-life",
+      "title": "The Mission Of Our Life"
     },
     {
       "kind": "in",
-      "slug": "the-mission-of-our-life",
-      "title": "The Mission Of Our Life"
+      "slug": "mankind-and-the-ideal-world",
+      "title": "Mankind And The Ideal World"
     }
   ],
   "the-importance-of-the-heavenly-heart": [
@@ -37241,11 +36736,6 @@
     },
     {
       "kind": "out",
-      "slug": "the-providence-of-god",
-      "title": "The Providence of God and the Nature of the Adventure That Transcends Reality"
-    },
-    {
-      "kind": "out",
       "slug": "heart-of-jesus-christ",
       "title": "Let's Be the Person Who Has the Heart of Jesus Christ"
     },
@@ -37253,6 +36743,11 @@
       "kind": "out",
       "slug": "let-us-become-the-citizens-who-take-possession-of-the-kingdom-of-heaven",
       "title": "Let Us Become the Citizens Who Take Possession of the Kingdom of Heaven"
+    },
+    {
+      "kind": "out",
+      "slug": "the-providence-of-god",
+      "title": "The Providence of God and the Nature of the Adventure That Transcends Reality"
     },
     {
       "kind": "out",
@@ -37362,18 +36857,6 @@
       "kind": "in",
       "slug": "true-parents-address-at-the-wcsf-opening-gods-kingdom-of-peace-is-our-familys",
       "title": "True Parents' Address At The WCSF Opening - God's Kingdom Of Peace Is Our Family's"
-    }
-  ],
-  "the-international-wedding-of-777": [
-    {
-      "kind": "out",
-      "slug": "restoration-and-blessing",
-      "title": "Restoration And Blessing"
-    },
-    {
-      "kind": "out",
-      "slug": "blessed-marriage-and-eternal-life",
-      "title": "Blessed Marriage and Eternal Life"
     }
   ],
   "the-key-to-restoring-the-world-lies-within-us": [
@@ -37783,11 +37266,6 @@
     },
     {
       "kind": "in",
-      "slug": "time-to-establish-heavens-sovereignty",
-      "title": "Time to Establish Heaven's Sovereignty"
-    },
-    {
-      "kind": "in",
       "slug": "the-providential-life-of-jesus",
       "title": "The Providential Life of Jesus and its Victorious Purpose"
     },
@@ -37920,11 +37398,6 @@
     },
     {
       "kind": "out",
-      "slug": "mankind-and-the-ideal-world",
-      "title": "Mankind And The Ideal World"
-    },
-    {
-      "kind": "out",
       "slug": "in-god-and-true-parents-we-never-die",
       "title": "In God and True Parents, We Never Die"
     },
@@ -37940,13 +37413,13 @@
     },
     {
       "kind": "in",
-      "slug": "day-of-attendance-of-safe-settlement",
-      "title": "Day of Attendance of Safe Settlement"
+      "slug": "people-who-do-the-family-pledge-go-to-heaven",
+      "title": "People who do the Family Pledge go to heaven"
     },
     {
       "kind": "in",
-      "slug": "people-who-do-the-family-pledge-go-to-heaven",
-      "title": "People who do the Family Pledge go to heaven"
+      "slug": "day-of-attendance-of-safe-settlement",
+      "title": "Day of Attendance of Safe Settlement"
     },
     {
       "kind": "in",
@@ -37982,13 +37455,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
+      "slug": "the-purpose-of-the-messiah",
+      "title": "The Purpose of the Messiah"
     },
     {
       "kind": "out",
-      "slug": "the-purpose-of-the-messiah",
-      "title": "The Purpose of the Messiah"
+      "slug": "jesus-christ-the-pride-of-god",
+      "title": "Jesus Christ, The Pride of God"
     },
     {
       "kind": "out",
@@ -38081,13 +37554,13 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-christ-the-pride-of-god",
-      "title": "Jesus Christ, The Pride of God"
+      "slug": "the-purpose-of-the-messiah",
+      "title": "The Purpose of the Messiah"
     },
     {
       "kind": "out",
-      "slug": "the-purpose-of-the-messiah",
-      "title": "The Purpose of the Messiah"
+      "slug": "jesus-christ-the-pride-of-god",
+      "title": "Jesus Christ, The Pride of God"
     },
     {
       "kind": "out",
@@ -38121,13 +37594,13 @@
     },
     {
       "kind": "in",
-      "slug": "to-the-matching-candidates",
-      "title": "To The Matching Candidates"
+      "slug": "a-day-when-we-welcome-the-blessing",
+      "title": "A Day When We Welcome the Blessing"
     },
     {
       "kind": "in",
-      "slug": "a-day-when-we-welcome-the-blessing",
-      "title": "A Day When We Welcome the Blessing"
+      "slug": "to-the-matching-candidates",
+      "title": "To The Matching Candidates"
     },
     {
       "kind": "in",
@@ -38264,16 +37737,6 @@
     },
     {
       "kind": "in",
-      "slug": "man-the-starting-point-of-hope-the-path-for-our-family",
-      "title": "Man, The Starting Point Of Hope - The Path For Our Family"
-    },
-    {
-      "kind": "in",
-      "slug": "my-family-is-a-representative-family",
-      "title": "My Family Is A Representative Family"
-    },
-    {
-      "kind": "in",
       "slug": "the-sound-of-the-bell-of-the-mind",
       "title": "The Sound Of The Bell Of The Mind"
     },
@@ -38284,8 +37747,18 @@
     },
     {
       "kind": "in",
+      "slug": "my-family-is-a-representative-family",
+      "title": "My Family Is A Representative Family"
+    },
+    {
+      "kind": "in",
       "slug": "the-meaning-of-the-tribulation",
       "title": "The Meaning of the Tribulation that God Foretold Heavenly Father Whom We All Want to Attend"
+    },
+    {
+      "kind": "in",
+      "slug": "transition-of-the-three-ages-four-position-foundation",
+      "title": "Transition of the Three Ages Four Position Foundation Registration Unification Blessing Ceremony"
     }
   ],
   "the-mission-bound-responsibility": [
@@ -38370,13 +37843,13 @@
     },
     {
       "kind": "in",
-      "slug": "mankind-and-the-ideal-world",
-      "title": "Mankind And The Ideal World"
+      "slug": "engagement-of-705-couples",
+      "title": "Engagement of 705 Couples"
     },
     {
       "kind": "in",
-      "slug": "engagement-of-705-couples",
-      "title": "Engagement of 705 Couples"
+      "slug": "mankind-and-the-ideal-world",
+      "title": "Mankind And The Ideal World"
     },
     {
       "kind": "in",
@@ -38550,11 +38023,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-unification-church-and-the-land-and-the-sea",
-      "title": "The Unification Church And The Land And The Sea"
-    },
-    {
-      "kind": "in",
       "slug": "mainstream-thought-of-the-dispensational-history",
       "title": "The Unification Church And The Mainstream Thought of the Dispensational History"
     }
@@ -38636,13 +38104,13 @@
     },
     {
       "kind": "out",
-      "slug": "cain-abel-relationships",
-      "title": "Cain-Abel Relationships"
+      "slug": "gods-true-love-and-the-liberation-of-the-relationship-of-heaven-and-earth-and-humankind",
+      "title": "God's True Love And The Liberation Of The Relationship Of Heaven And Earth And Humankind"
     },
     {
       "kind": "out",
-      "slug": "gods-true-love-and-the-liberation-of-the-relationship-of-heaven-and-earth-and-humankind",
-      "title": "God's True Love And The Liberation Of The Relationship Of Heaven And Earth And Humankind"
+      "slug": "the-fall-is-related-to-sex",
+      "title": "The Fall is related to sex"
     },
     {
       "kind": "in",
@@ -39125,13 +38593,13 @@
     },
     {
       "kind": "in",
-      "slug": "let-us-thank-god",
-      "title": "Let Us Thank God"
+      "slug": "lineage-must-be-made-different",
+      "title": "Lineage must be made different"
     },
     {
       "kind": "in",
-      "slug": "lineage-must-be-made-different",
-      "title": "Lineage must be made different"
+      "slug": "let-us-thank-god",
+      "title": "Let Us Thank God"
     },
     {
       "kind": "in",
@@ -39154,11 +38622,6 @@
       "kind": "in",
       "slug": "true-family-and-i",
       "title": "True Family and I"
-    },
-    {
-      "kind": "in",
-      "slug": "man-the-starting-point-of-hope-the-path-for-our-family",
-      "title": "Man, The Starting Point Of Hope - The Path For Our Family"
     },
     {
       "kind": "in",
@@ -39658,18 +39121,18 @@
     },
     {
       "kind": "out",
-      "slug": "our-life-in-the-kingdom-of-god",
-      "title": "Our Life In The Kingdom Of God"
-    },
-    {
-      "kind": "out",
       "slug": "jesus-is-the-hero-of-the-universal-revolution",
       "title": "Jesus Is the Hero of the Universal Revolution"
     },
     {
       "kind": "out",
-      "slug": "our-advancement-and-retreat",
-      "title": "Our Advancement And Retreat"
+      "slug": "our-life-in-the-kingdom-of-god",
+      "title": "Our Life In The Kingdom Of God"
+    },
+    {
+      "kind": "out",
+      "slug": "the-master-speaks-on-the-divine-principle-movement",
+      "title": "Questions & Answers on the Divine Principle Movement"
     },
     {
       "kind": "in",
@@ -39826,11 +39289,6 @@
       "kind": "in",
       "slug": "humankind-wanders-in-search-of-the-truth",
       "title": "Humankind Wanders In Search of the Truth"
-    },
-    {
-      "kind": "in",
-      "slug": "ceremony-for-the-total-liberation-of-6-000-years-of-providential-history",
-      "title": "Ceremony for the Total Liberation of 6,000 Years of Providential History"
     }
   ],
   "the-path-of-restoration": [
@@ -39994,13 +39452,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "way-of-life",
+      "title": "Way Of Life"
     },
     {
       "kind": "out",
-      "slug": "way-of-life",
-      "title": "Way Of Life"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
@@ -40199,11 +39657,6 @@
     },
     {
       "kind": "out",
-      "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
-      "title": "Jesus' View of Life for the Sake of the Restoration"
-    },
-    {
-      "kind": "out",
       "slug": "the-physical-body-and-hell",
       "title": "The physical body and hell"
     },
@@ -40211,6 +39664,11 @@
       "kind": "out",
       "slug": "the-pledge-that-must-be-fulfilled",
       "title": "The Pledge That Must Be Fulfilled"
+    },
+    {
+      "kind": "out",
+      "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
+      "title": "Jesus' View of Life for the Sake of the Restoration"
     },
     {
       "kind": "out",
@@ -40454,13 +39912,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-mind-body-problem",
-      "title": "The Mind-Body Problem"
+      "slug": "unification-church-heavenly-law",
+      "title": "Unification Church And Heavenly Law"
     },
     {
       "kind": "in",
-      "slug": "unification-church-heavenly-law",
-      "title": "Unification Church And Heavenly Law"
+      "slug": "the-mind-body-problem",
+      "title": "The Mind-Body Problem"
     },
     {
       "kind": "in",
@@ -40766,11 +40224,6 @@
     },
     {
       "kind": "in",
-      "slug": "gods-day-speech",
-      "title": "God's Day Speech"
-    },
-    {
-      "kind": "in",
       "slug": "the-elite-troops-of-heaven",
       "title": "Let Us Become the Elite Troops of Heaven"
     },
@@ -40778,6 +40231,11 @@
       "kind": "in",
       "slug": "our-pledge",
       "title": "Our Pledge"
+    },
+    {
+      "kind": "in",
+      "slug": "the-true-family-and-i-sunday-morning-sermon",
+      "title": "The True Family and I Sunday Morning Sermon"
     }
   ],
   "the-point-of-rise-or-fall": [
@@ -40862,11 +40320,6 @@
     },
     {
       "kind": "out",
-      "slug": "human-life",
-      "title": "Human Life"
-    },
-    {
-      "kind": "out",
       "slug": "the-central-figure-and-the-transitional-period",
       "title": "The Central Figure And The Transitional Period"
     },
@@ -40887,8 +40340,8 @@
     },
     {
       "kind": "out",
-      "slug": "the-conference-for-the-unity-of-science",
-      "title": "The Conference for the Unity of Science"
+      "slug": "the-providence-of-god-in-relation-to-the-human-viewpoint",
+      "title": "The Providence Of God In Relation To The Human Viewpoint"
     },
     {
       "kind": "in",
@@ -41001,13 +40454,13 @@
     },
     {
       "kind": "out",
-      "slug": "human-life",
-      "title": "Human Life"
+      "slug": "the-center-of-the-universe",
+      "title": "The Center of the Universe"
     },
     {
       "kind": "out",
-      "slug": "the-center-of-the-universe",
-      "title": "The Center of the Universe"
+      "slug": "human-life",
+      "title": "Human Life"
     },
     {
       "kind": "in",
@@ -41511,11 +40964,6 @@
       "kind": "in",
       "slug": "host-of-the-future",
       "title": "Host of the Future"
-    },
-    {
-      "kind": "in",
-      "slug": "true-parents-wedding-anniversary-address",
-      "title": "True Parents' Wedding Anniversary Address"
     }
   ],
   "the-providence-of-god": [
@@ -41546,11 +40994,6 @@
     },
     {
       "kind": "in",
-      "slug": "history-of-unification-church-part",
-      "title": "History Of Unification Church"
-    },
-    {
-      "kind": "in",
       "slug": "providential-age-of-restoration",
       "title": "Providential Age of Restoration"
     },
@@ -41563,11 +41006,6 @@
       "kind": "in",
       "slug": "the-incarnation-of-jesus-a-pioneer",
       "title": "The Incarnation of Jesus, A Pioneer"
-    },
-    {
-      "kind": "in",
-      "slug": "true-parents-wedding-anniversary-address",
-      "title": "True Parents' Wedding Anniversary Address"
     },
     {
       "kind": "in",
@@ -41759,13 +41197,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-dignity-of-god-and-man",
-      "title": "The Dignity of God and Man"
+      "slug": "critical-turning-point-of-the-dispensation-of-god",
+      "title": "Critical Turning Point Of The Dispensation Of God"
     },
     {
       "kind": "out",
-      "slug": "critical-turning-point-of-the-dispensation-of-god",
-      "title": "Critical Turning Point Of The Dispensation Of God"
+      "slug": "the-dignity-of-god-and-man",
+      "title": "The Dignity of God and Man"
     },
     {
       "kind": "out",
@@ -42434,18 +41872,18 @@
     },
     {
       "kind": "out",
-      "slug": "the-providence-of-god",
-      "title": "The Providence of God and the Nature of the Adventure That Transcends Reality"
-    },
-    {
-      "kind": "in",
-      "slug": "harvest-of-goodness-heaven-desires",
-      "title": "Let Us Be the Harvest of Goodness Heaven Desires"
+      "slug": "heart-of-jesus-christ",
+      "title": "Let's Be the Person Who Has the Heart of Jesus Christ"
     },
     {
       "kind": "in",
       "slug": "speech-by-hyo-jin-moon-filial-piety",
       "title": "Speech by Hyo Jin Moon  Filial piety"
+    },
+    {
+      "kind": "in",
+      "slug": "harvest-of-goodness-heaven-desires",
+      "title": "Let Us Be the Harvest of Goodness Heaven Desires"
     },
     {
       "kind": "in",
@@ -42927,11 +42365,6 @@
     },
     {
       "kind": "in",
-      "slug": "gods-preparation-for-our-church-and-its-early-days",
-      "title": "God's Preparation for Our Church, and Its Early Days"
-    },
-    {
-      "kind": "in",
       "slug": "man-the-starting-point-of-hope-the-path-for-our-family",
       "title": "Man, The Starting Point Of Hope - The Path For Our Family"
     },
@@ -43250,11 +42683,6 @@
     },
     {
       "kind": "in",
-      "slug": "let-us-inherit-the-realm-of-victory-of-our-true-parents",
-      "title": "Let Us Inherit The Realm Of Victory Of Our True Parents"
-    },
-    {
-      "kind": "in",
       "slug": "pledge-service-for-true-parents-birthday",
       "title": "Pledge service for True Parents' birthday"
     },
@@ -43262,6 +42690,11 @@
       "kind": "in",
       "slug": "the-perfect-settlement-of-gods-will-on-earth",
       "title": "The Perfect Settlement of God's Will on Earth"
+    },
+    {
+      "kind": "in",
+      "slug": "let-us-inherit-the-realm-of-victory-of-our-true-parents",
+      "title": "Let Us Inherit The Realm Of Victory Of Our True Parents"
     },
     {
       "kind": "in",
@@ -43465,13 +42898,13 @@
     },
     {
       "kind": "in",
-      "slug": "am-i-really-needed",
-      "title": "Am I Really Needed?"
+      "slug": "the-completion-of-our-responsibility",
+      "title": "The Completion Of Our Responsibility"
     },
     {
       "kind": "in",
-      "slug": "the-completion-of-our-responsibility",
-      "title": "The Completion Of Our Responsibility"
+      "slug": "am-i-really-needed",
+      "title": "Am I Really Needed?"
     }
   ],
   "the-significance-of-gods-day": [
@@ -43509,11 +42942,6 @@
     },
     {
       "kind": "out",
-      "slug": "the-law-of-indemnity",
-      "title": "The Law Of Indemnity"
-    },
-    {
-      "kind": "out",
       "slug": "significance-of-madison-square-garden-success",
       "title": "Significance Of Madison Square Garden Success"
     },
@@ -43521,6 +42949,11 @@
       "kind": "out",
       "slug": "god-wishes-to-bond-with-you-as-father-and-child",
       "title": "God Wishes to Bond with You as Father and Child"
+    },
+    {
+      "kind": "out",
+      "slug": "the-providence-of-god-in-relation-to-the-human-viewpoint",
+      "title": "The Providence Of God In Relation To The Human Viewpoint"
     },
     {
       "kind": "in",
@@ -43653,8 +43086,8 @@
     },
     {
       "kind": "in",
-      "slug": "the-lord-is-my-good-shepherd",
-      "title": "The Lord Is My Good Shepherd"
+      "slug": "what-are-the-most-precious-things-in-the-unification-church",
+      "title": "What are the most precious things in the Unification Church?"
     }
   ],
   "the-sound-of-the-bell-of-the-mind": [
@@ -43831,13 +43264,13 @@
     },
     {
       "kind": "in",
-      "slug": "our-goal",
-      "title": "Our Goal"
+      "slug": "to-whom-do-i-belong",
+      "title": "To Whom Do I Belong?"
     },
     {
       "kind": "in",
-      "slug": "to-whom-do-i-belong",
-      "title": "To Whom Do I Belong?"
+      "slug": "the-boundary-point-of-victory",
+      "title": "The Boundary Point Of Victory"
     }
   ],
   "the-standard-bearer-of-tradition": [
@@ -44147,11 +43580,6 @@
     },
     {
       "kind": "in",
-      "slug": "holy-spirit-association",
-      "title": "Holy Spirit Association for the Unification of World Christianity"
-    },
-    {
-      "kind": "in",
       "slug": "public-life",
       "title": "Public Life"
     },
@@ -44159,6 +43587,11 @@
       "kind": "in",
       "slug": "true-parents-and-ourselves",
       "title": "True Parents and Ourselves"
+    },
+    {
+      "kind": "in",
+      "slug": "holy-spirit-association",
+      "title": "Holy Spirit Association for the Unification of World Christianity"
     }
   ],
   "the-textbook-is-the-substance": [
@@ -44226,13 +43659,13 @@
     },
     {
       "kind": "in",
-      "slug": "our-life-in-the-kingdom-of-god",
-      "title": "Our Life In The Kingdom Of God"
+      "slug": "god-is-the-owner-of-all-beings-and-historical-events",
+      "title": "God is the Owner of All Beings and Historical Events"
     },
     {
       "kind": "in",
-      "slug": "god-is-the-owner-of-all-beings-and-historical-events",
-      "title": "God is the Owner of All Beings and Historical Events"
+      "slug": "our-life-in-the-kingdom-of-god",
+      "title": "Our Life In The Kingdom Of God"
     },
     {
       "kind": "in",
@@ -44591,13 +44024,13 @@
     },
     {
       "kind": "out",
-      "slug": "restoration-of-true-sonship",
-      "title": "Restoration Of True Sonship"
+      "slug": "today-in-the-light-of-dispensational-history",
+      "title": "Today In the Light of Dispensational History"
     },
     {
       "kind": "out",
-      "slug": "today-in-the-light-of-dispensational-history",
-      "title": "Today In the Light of Dispensational History"
+      "slug": "restoration-of-true-sonship",
+      "title": "Restoration Of True Sonship"
     },
     {
       "kind": "out",
@@ -44717,13 +44150,13 @@
   "the-true-family-and-i-sunday-morning-sermon": [
     {
       "kind": "out",
-      "slug": "the-pledge-that-must-be-fulfilled",
-      "title": "The Pledge That Must Be Fulfilled"
+      "slug": "what-shall-we-do",
+      "title": "What Shall We Do?"
     },
     {
       "kind": "out",
-      "slug": "what-shall-we-do",
-      "title": "What Shall We Do?"
+      "slug": "the-pledge-that-must-be-fulfilled",
+      "title": "The Pledge That Must Be Fulfilled"
     },
     {
       "kind": "out",
@@ -44925,13 +44358,13 @@
     },
     {
       "kind": "in",
-      "slug": "a-family-life-of-faith-educates-the-children",
-      "title": "A Family Life Of Faith Educates The Children"
+      "slug": "god-of-lamentation",
+      "title": "God Of Lamentation"
     },
     {
       "kind": "in",
-      "slug": "god-of-lamentation",
-      "title": "God Of Lamentation"
+      "slug": "a-family-life-of-faith-educates-the-children",
+      "title": "A Family Life Of Faith Educates The Children"
     },
     {
       "kind": "in",
@@ -45506,13 +44939,13 @@
     },
     {
       "kind": "in",
-      "slug": "our-fatherland",
-      "title": "Our Fatherland"
+      "slug": "blessed-family",
+      "title": "Blessed Family"
     },
     {
       "kind": "in",
-      "slug": "blessed-family",
-      "title": "Blessed Family"
+      "slug": "our-fatherland",
+      "title": "Our Fatherland"
     },
     {
       "kind": "in",
@@ -45642,11 +45075,6 @@
     },
     {
       "kind": "in",
-      "slug": "our-goal",
-      "title": "Our Goal"
-    },
-    {
-      "kind": "in",
       "slug": "the-principle-of-the-providential-history-of-salvation",
       "title": "The Proclamation of the Complete Testament Age - View of the Principle of the Providential History of Salvation"
     },
@@ -45689,13 +45117,13 @@
     },
     {
       "kind": "in",
-      "slug": "let-us-find-our-true-self",
-      "title": "Let Us Find Our True Self"
+      "slug": "becoming-a-responsible-person",
+      "title": "Becoming A Responsible Person"
     },
     {
       "kind": "in",
-      "slug": "becoming-a-responsible-person",
-      "title": "Becoming A Responsible Person"
+      "slug": "let-us-find-our-true-self",
+      "title": "Let Us Find Our True Self"
     },
     {
       "kind": "in",
@@ -45965,11 +45393,6 @@
     },
     {
       "kind": "in",
-      "slug": "true-path-and-discern-the-side-path",
-      "title": "Let Us Understand the True Path and Discern the Side Path"
-    },
-    {
-      "kind": "in",
       "slug": "leaders-address-parents-day",
       "title": "Commemorative service of the 6th Parents' Day"
     },
@@ -45982,6 +45405,11 @@
       "kind": "in",
       "slug": "determination-toward-heaven",
       "title": "Let Us Not Weaken Our Determination Toward Heaven"
+    },
+    {
+      "kind": "in",
+      "slug": "true-path-and-discern-the-side-path",
+      "title": "Let Us Understand the True Path and Discern the Side Path"
     }
   ],
   "the-victorious-person-and-the-defeated-person": [
@@ -46042,8 +45470,8 @@
     },
     {
       "kind": "in",
-      "slug": "record-setter-of-history",
-      "title": "Record-Setter Of History"
+      "slug": "host-of-the-future",
+      "title": "Host of the Future"
     }
   ],
   "the-victorious-unified-front": [
@@ -46069,13 +45497,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-day-of-victory-of-love",
-      "title": "The Day Of Victory Of Love"
+      "slug": "judgment-by-gods-word",
+      "title": "Judgment By God's Word"
     },
     {
       "kind": "out",
-      "slug": "judgment-by-gods-word",
-      "title": "Judgment By God's Word"
+      "slug": "the-day-of-victory-of-love",
+      "title": "The Day Of Victory Of Love"
     },
     {
       "kind": "out",
@@ -46190,11 +45618,6 @@
       "kind": "in",
       "slug": "true-parents-wedding-anniversary-and-fishing-tournament",
       "title": "True Parents Wedding Anniversary And Fishing Tournament"
-    },
-    {
-      "kind": "in",
-      "slug": "true-parents-return-to-america",
-      "title": "True Parents Return To America"
     }
   ],
   "the-way": [
@@ -46839,13 +46262,13 @@
     },
     {
       "kind": "in",
-      "slug": "return-to-hometown",
-      "title": "Return To Hometown"
+      "slug": "gods-wish-and-our-wish",
+      "title": "God’s Wish and Our Wish"
     },
     {
       "kind": "in",
-      "slug": "gods-wish-and-our-wish",
-      "title": "God’s Wish and Our Wish"
+      "slug": "return-to-hometown",
+      "title": "Return To Hometown"
     },
     {
       "kind": "in",
@@ -46886,13 +46309,13 @@
     },
     {
       "kind": "out",
-      "slug": "christianity-in-crisis",
-      "title": "Christianity in Crisis"
+      "slug": "the-basic-formula-for-the-realization-of-the-kingdom-of-god-on-earth",
+      "title": "The Basic Formula for the Realization of the Kingdom of God on Earth"
     },
     {
       "kind": "out",
-      "slug": "the-basic-formula-for-the-realization-of-the-kingdom-of-god-on-earth",
-      "title": "The Basic Formula for the Realization of the Kingdom of God on Earth"
+      "slug": "christianity-in-crisis",
+      "title": "Christianity in Crisis"
     },
     {
       "kind": "in",
@@ -47019,11 +46442,6 @@
       "kind": "in",
       "slug": "the-mission-we-are-undertaking",
       "title": "The Mission We Are Undertaking"
-    },
-    {
-      "kind": "in",
-      "slug": "the-present-and-the-future",
-      "title": "The Present And The Future"
     }
   ],
   "the-world-as-the-expansion-of-one-family": [
@@ -47096,13 +46514,13 @@
     },
     {
       "kind": "in",
-      "slug": "let-us-inherit-the-realm-of-victory-of-our-true-parents",
-      "title": "Let Us Inherit The Realm Of Victory Of Our True Parents"
+      "slug": "the-history-of-the-struggle-of-good-and-evil-and-oneself",
+      "title": "The History Of The Struggle Of Good And Evil And Oneself"
     },
     {
       "kind": "in",
-      "slug": "the-history-of-the-struggle-of-good-and-evil-and-oneself",
-      "title": "The History Of The Struggle Of Good And Evil And Oneself"
+      "slug": "let-us-inherit-the-realm-of-victory-of-our-true-parents",
+      "title": "Let Us Inherit The Realm Of Victory Of Our True Parents"
     },
     {
       "kind": "in",
@@ -47289,13 +46707,13 @@
     },
     {
       "kind": "out",
-      "slug": "restoration-and-blessing",
-      "title": "Restoration And Blessing"
+      "slug": "god-is-the-owner-and-victor",
+      "title": "God Is The Owner And Victor"
     },
     {
       "kind": "out",
-      "slug": "god-is-the-owner-and-victor",
-      "title": "God Is The Owner And Victor"
+      "slug": "restoration-and-blessing",
+      "title": "Restoration And Blessing"
     },
     {
       "kind": "in",
@@ -47402,13 +46820,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-day-of-victory-over-resentment",
-      "title": "The Day Of Victory Over Resentment"
+      "slug": "our-present-mission",
+      "title": "Our Present Mission"
     },
     {
       "kind": "out",
-      "slug": "our-present-mission",
-      "title": "Our Present Mission"
+      "slug": "the-day-of-victory-over-resentment",
+      "title": "The Day Of Victory Over Resentment"
     },
     {
       "kind": "out",
@@ -47439,13 +46857,13 @@
     },
     {
       "kind": "out",
-      "slug": "who-will-be-responsible-for-the-providence-of-god",
-      "title": "Who Will Be Responsible For The Providence Of God?"
+      "slug": "on-approaching-god",
+      "title": "On Approaching God"
     },
     {
       "kind": "out",
-      "slug": "on-approaching-god",
-      "title": "On Approaching God"
+      "slug": "who-will-be-responsible-for-the-providence-of-god",
+      "title": "Who Will Be Responsible For The Providence Of God?"
     },
     {
       "kind": "out",
@@ -47461,11 +46879,6 @@
       "kind": "in",
       "slug": "cain-abel-relationships",
       "title": "Cain-Abel Relationships"
-    },
-    {
-      "kind": "in",
-      "slug": "the-significance-of-victory-in-korea",
-      "title": "The Significance Of Victory In Korea"
     },
     {
       "kind": "in",
@@ -47611,11 +47024,6 @@
       "title": "Visualizing the Kingdom of God"
     },
     {
-      "kind": "out",
-      "slug": "the-lord-is-my-good-shepherd",
-      "title": "The Lord Is My Good Shepherd"
-    },
-    {
       "kind": "in",
       "slug": "resurrected-kingdom-of-god",
       "title": "Resurrected Kingdom of God"
@@ -47642,13 +47050,13 @@
     },
     {
       "kind": "in",
-      "slug": "let-us-think-once-more",
-      "title": "Let Us Think Once More"
+      "slug": "creation-of-the-fatherland",
+      "title": "Creation Of The Fatherland"
     },
     {
       "kind": "in",
-      "slug": "creation-of-the-fatherland",
-      "title": "Creation Of The Fatherland"
+      "slug": "let-us-think-once-more",
+      "title": "Let Us Think Once More"
     }
   ],
   "to-be-in-the-presence-of-god": [
@@ -48041,11 +47449,6 @@
       "kind": "in",
       "slug": "where-do-we-go",
       "title": "Where Do We Go?"
-    },
-    {
-      "kind": "in",
-      "slug": "a-day-when-we-welcome-the-blessing",
-      "title": "A Day When We Welcome the Blessing"
     },
     {
       "kind": "in",
@@ -48791,13 +48194,13 @@
     },
     {
       "kind": "in",
-      "slug": "heavenly-fatherism",
-      "title": "Heavenly Parentism"
+      "slug": "the-realm-of-heavenly-liberation",
+      "title": "The Realm Of Heavenly Liberation"
     },
     {
       "kind": "in",
-      "slug": "the-realm-of-heavenly-liberation",
-      "title": "The Realm Of Heavenly Liberation"
+      "slug": "heavenly-fatherism",
+      "title": "Heavenly Parentism"
     }
   ],
   "true-couple": [
@@ -48823,11 +48226,6 @@
     },
     {
       "kind": "out",
-      "slug": "mankind-and-the-ideal-world",
-      "title": "Mankind And The Ideal World"
-    },
-    {
-      "kind": "out",
       "slug": "the-mission-of-our-life",
       "title": "The Mission Of Our Life"
     },
@@ -48835,6 +48233,11 @@
       "kind": "out",
       "slug": "engagement-of-705-couples",
       "title": "Engagement of 705 Couples"
+    },
+    {
+      "kind": "out",
+      "slug": "mankind-and-the-ideal-world",
+      "title": "Mankind And The Ideal World"
     },
     {
       "kind": "in",
@@ -49001,8 +48404,8 @@
     },
     {
       "kind": "out",
-      "slug": "ideal-family-and-ideal-world",
-      "title": "Ideal Family And Ideal World"
+      "slug": "analysis-of-the-present-time-and-the-blessing",
+      "title": "Analysis of the Present Time and the Blessing"
     },
     {
       "kind": "in",
@@ -49053,11 +48456,6 @@
     },
     {
       "kind": "out",
-      "slug": "the-original-mind-starts-with-the-right-hand",
-      "title": "The Original Mind Starts With The Right Hand"
-    },
-    {
-      "kind": "out",
       "slug": "strengthen-the-power-of-your-conscience",
       "title": "Strengthen the Power of your Conscience"
     },
@@ -49065,6 +48463,11 @@
       "kind": "out",
       "slug": "the-inner-self-where-heaven-can-be-present",
       "title": "The Inner Self Where Heaven Can Be Present"
+    },
+    {
+      "kind": "out",
+      "slug": "the-original-mind-starts-with-the-right-hand",
+      "title": "The Original Mind Starts With The Right Hand"
     },
     {
       "kind": "in",
@@ -49083,23 +48486,23 @@
     },
     {
       "kind": "in",
-      "slug": "my-family-is-a-representative-family",
-      "title": "My Family Is A Representative Family"
-    },
-    {
-      "kind": "in",
       "slug": "core-of-unification",
       "title": "Core of Unification"
     },
     {
       "kind": "in",
-      "slug": "gods-day-event",
-      "title": "God's Day Speech"
+      "slug": "my-family-is-a-representative-family",
+      "title": "My Family Is A Representative Family"
     },
     {
       "kind": "in",
       "slug": "true-parents-birthday-unification-church-headquarters",
       "title": "Commemoration and celebration event of True Parents' Birthday"
+    },
+    {
+      "kind": "in",
+      "slug": "gods-day-event",
+      "title": "God's Day Speech"
     }
   ],
   "true-family-and-true-universe-centering-on-true-love": [
@@ -49110,23 +48513,18 @@
     },
     {
       "kind": "out",
-      "slug": "find-your-true-self",
-      "title": "Find Your True Self"
-    },
-    {
-      "kind": "out",
       "slug": "true-man-a-man-of-truth-2",
       "title": "A True Man - A Man Of Truth"
     },
     {
       "kind": "out",
-      "slug": "the-principle-of-the-providential-history-of-salvation",
-      "title": "The Proclamation of the Complete Testament Age - View of the Principle of the Providential History of Salvation"
+      "slug": "find-your-true-self",
+      "title": "Find Your True Self"
     },
     {
-      "kind": "in",
-      "slug": "the-central-figure-and-the-transitional-period",
-      "title": "The Central Figure And The Transitional Period"
+      "kind": "out",
+      "slug": "the-principle-of-the-providential-history-of-salvation",
+      "title": "The Proclamation of the Complete Testament Age - View of the Principle of the Providential History of Salvation"
     },
     {
       "kind": "in",
@@ -49211,33 +48609,8 @@
     },
     {
       "kind": "out",
-      "slug": "the-heart-of-heaven-in-relation-to-elijah",
-      "title": "The Heart of Heaven in Relation to Elijah"
-    },
-    {
-      "kind": "out",
-      "slug": "providential-age-of-restoration",
-      "title": "Providential Age of Restoration"
-    },
-    {
-      "kind": "out",
-      "slug": "learning-through-love",
-      "title": "Learning Through Love"
-    },
-    {
-      "kind": "out",
       "slug": "day-of-victory-of-love-ceremony",
       "title": "Day of Victory of Love Ceremony"
-    },
-    {
-      "kind": "out",
-      "slug": "jesus-and-the-spirit-world",
-      "title": "Jesus And The Spirit World"
-    },
-    {
-      "kind": "out",
-      "slug": "humankind-wanders-in-search-of-the-truth",
-      "title": "Humankind Wanders In Search of the Truth"
     }
   ],
   "true-fathers-forty-years-of-life-alone": [
@@ -49250,11 +48623,6 @@
       "kind": "out",
       "slug": "mainstream-of-the-dispensation-of-god",
       "title": "Mainstream Of the Dispensation Of God"
-    },
-    {
-      "kind": "out",
-      "slug": "the-law-of-indemnity",
-      "title": "The Law Of Indemnity"
     },
     {
       "kind": "out",
@@ -49640,23 +49008,23 @@
   "true-member-of-jesus-family": [
     {
       "kind": "out",
-      "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
-      "title": "Jesus' View of Life for the Sake of the Restoration"
-    },
-    {
-      "kind": "out",
       "slug": "the-pledge-that-must-be-fulfilled",
       "title": "The Pledge That Must Be Fulfilled"
     },
     {
       "kind": "out",
-      "slug": "jesus-whom-god-wanted-to-find",
-      "title": "Jesus, Whom God Wanted To Find"
+      "slug": "jesus-who-looks-back",
+      "title": "Jesus Who Looks Back On Walking the Path of His Fate"
     },
     {
       "kind": "out",
-      "slug": "jesus-who-looks-back",
-      "title": "Jesus Who Looks Back On Walking the Path of His Fate"
+      "slug": "jesus-view-of-life-for-the-sake-of-the-restoration",
+      "title": "Jesus' View of Life for the Sake of the Restoration"
+    },
+    {
+      "kind": "out",
+      "slug": "jesus-whom-god-wanted-to-find",
+      "title": "Jesus, Whom God Wanted To Find"
     },
     {
       "kind": "out",
@@ -50196,11 +49564,6 @@
       "kind": "out",
       "slug": "the-age-of-new-dispensation",
       "title": "The Age of New Dispensation"
-    },
-    {
-      "kind": "in",
-      "slug": "spring-season-of-the-providence",
-      "title": "Spring Season Of The Providence"
     }
   ],
   "true-parents-day-and-true-parents": [
@@ -50218,16 +49581,6 @@
       "kind": "in",
       "slug": "ideal-of-creation-and-the-settlement-of-the-covenant-era",
       "title": "The Ideal of Creation and the Settlement of the Covenant Era"
-    },
-    {
-      "kind": "in",
-      "slug": "true-parents-wedding-anniversary-address",
-      "title": "True Parents' Wedding Anniversary Address"
-    },
-    {
-      "kind": "in",
-      "slug": "love-right-absolutism-42nd-true-parents-day",
-      "title": "Love - Right Absolutism (42nd True Parents' Day)"
     },
     {
       "kind": "in",
@@ -50290,11 +49643,6 @@
       "kind": "in",
       "slug": "the-things-that-belong-to-god-and-the-things-that-belong-to-man",
       "title": "The Things That Belong to God and the Things That Belong to Man"
-    },
-    {
-      "kind": "in",
-      "slug": "gods-preparation-for-our-church-and-its-early-days",
-      "title": "God's Preparation for Our Church, and Its Early Days"
     }
   ],
   "true-parents-day-of-hope": [
@@ -50503,35 +49851,20 @@
     },
     {
       "kind": "out",
-      "slug": "restoration-and-blessing",
-      "title": "Restoration And Blessing"
+      "slug": "what-we-must-accomplish-from-now",
+      "title": "What We Must Accomplish from Now"
     },
     {
       "kind": "out",
-      "slug": "what-we-must-accomplish-from-now",
-      "title": "What We Must Accomplish from Now"
+      "slug": "restoration-and-blessing",
+      "title": "Restoration And Blessing"
     }
   ],
   "true-parents-return-to-america": [
     {
       "kind": "out",
-      "slug": "the-coronation-ceremony-of-the-kingship-of-god",
-      "title": "The Coronation Ceremony of the Kingship of God"
-    },
-    {
-      "kind": "out",
       "slug": "myself",
       "title": "Myself"
-    },
-    {
-      "kind": "out",
-      "slug": "the-physical-body-and-hell",
-      "title": "The physical body and hell"
-    },
-    {
-      "kind": "out",
-      "slug": "the-viewpoint-of-cosmic-history-and-i",
-      "title": "The Viewpoint Of Cosmic History And I"
     }
   ],
   "true-parents-return-to-east-garden": [
@@ -50600,46 +49933,6 @@
   ],
   "true-parents-wedding-anniversary-address": [
     {
-      "kind": "out",
-      "slug": "the-ideal-kingdom-of-heaven-our-hope",
-      "title": "The Ideal Kingdom of Heaven, Our Hope"
-    },
-    {
-      "kind": "out",
-      "slug": "the-day-of-victory-of-love",
-      "title": "The Day Of Victory Of Love"
-    },
-    {
-      "kind": "out",
-      "slug": "the-providence-of-god",
-      "title": "The Providence of God and the Nature of the Adventure That Transcends Reality"
-    },
-    {
-      "kind": "out",
-      "slug": "true-parents-day-and-true-parents",
-      "title": "True Parents' Day And True Parents"
-    },
-    {
-      "kind": "out",
-      "slug": "following-the-cosmic-true-love-way",
-      "title": "Following The Cosmic True Love Way"
-    },
-    {
-      "kind": "out",
-      "slug": "the-fruit-of-life-and-the-divine-spirit",
-      "title": "The Fruit Of Life And The Divine Spirit"
-    },
-    {
-      "kind": "out",
-      "slug": "the-providence-and-the-individual-past-and-present",
-      "title": "The Providence And The Individual, Past And Present"
-    },
-    {
-      "kind": "in",
-      "slug": "love-right-absolutism-42nd-true-parents-day",
-      "title": "Love - Right Absolutism (42nd True Parents' Day)"
-    },
-    {
       "kind": "in",
       "slug": "to-members-of-true-parents-birthday",
       "title": "To Members of True Parents' Birthday"
@@ -50692,11 +49985,6 @@
       "kind": "out",
       "slug": "true-abel",
       "title": "True Abel"
-    },
-    {
-      "kind": "in",
-      "slug": "sunday-service-registered-families",
-      "title": "Sunday Service"
     }
   ],
   "true-self-and-safe-settlement-of-the-family": [
@@ -50856,13 +50144,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-conference-for-the-unity-of-science",
-      "title": "The Conference for the Unity of Science"
+      "slug": "the-true-sons-and-daughters-of-heavenly-father",
+      "title": "The True Sons and Daughters of Heavenly Father Who Will Remain in the Last Days  Romans"
     },
     {
       "kind": "in",
-      "slug": "the-true-sons-and-daughters-of-heavenly-father",
-      "title": "The True Sons and Daughters of Heavenly Father Who Will Remain in the Last Days  Romans"
+      "slug": "the-conference-for-the-unity-of-science",
+      "title": "The Conference for the Unity of Science"
     },
     {
       "kind": "in",
@@ -51245,8 +50533,8 @@
     },
     {
       "kind": "in",
-      "slug": "the-freedom-liberation-and-unification",
-      "title": "The Freedom, Liberation and Unification God Seeks to Attain"
+      "slug": "the-victorious-unified-front",
+      "title": "The Victorious Unified Front"
     }
   ],
   "unification-church-national-conference": [
@@ -51324,8 +50612,8 @@
     },
     {
       "kind": "in",
-      "slug": "man-the-starting-point-of-hope-the-path-for-our-family",
-      "title": "Man, The Starting Point Of Hope - The Path For Our Family"
+      "slug": "the-25th-year-of-the-unification-church",
+      "title": "The 25th Year of the Unification Church"
     }
   ],
   "unification-of-my-country": [
@@ -52309,13 +51597,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-dispensation-of-restoration-and-me",
-      "title": "The Dispensation Of Restoration and Me"
+      "slug": "the-history-of-restoration-is-so-complicated",
+      "title": "The history of restoration is so complicated"
     },
     {
       "kind": "out",
-      "slug": "the-history-of-restoration-is-so-complicated",
-      "title": "The history of restoration is so complicated"
+      "slug": "the-dispensation-of-restoration-and-me",
+      "title": "The Dispensation Of Restoration and Me"
     },
     {
       "kind": "out",
@@ -53083,11 +52371,6 @@
     },
     {
       "kind": "in",
-      "slug": "message-at-the-unification-ceremony",
-      "title": "Message At The Unification Ceremony"
-    },
-    {
-      "kind": "in",
       "slug": "god-going-to-do-with-exiled-humanity",
       "title": "What Is God Going to Do with Exiled Humanity?"
     }
@@ -53127,11 +52410,6 @@
       "kind": "out",
       "slug": "mobilize-good-ancestors",
       "title": "Mobilize good ancestors"
-    },
-    {
-      "kind": "in",
-      "slug": "historical-view-of-the-dispensation",
-      "title": "Historical View Of The Dispensation"
     },
     {
       "kind": "in",
@@ -53192,13 +52470,13 @@
     },
     {
       "kind": "in",
-      "slug": "purity-lineage-and-the-love-organ",
-      "title": "Purity, Lineage and the Love Organ"
+      "slug": "declaration-of-the-return-of-the-land-to-god",
+      "title": "Declaration of the Return of the Land to God"
     },
     {
       "kind": "in",
-      "slug": "declaration-of-the-return-of-the-land-to-god",
-      "title": "Declaration of the Return of the Land to God"
+      "slug": "purity-lineage-and-the-love-organ",
+      "title": "Purity, Lineage and the Love Organ"
     },
     {
       "kind": "in",
@@ -53207,13 +52485,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-viewpoint-of-cosmic-history-and-i",
-      "title": "The Viewpoint Of Cosmic History And I"
+      "slug": "to-the-los-angeles-family",
+      "title": "To The Los Angeles Family"
     },
     {
       "kind": "in",
-      "slug": "to-the-los-angeles-family",
-      "title": "To The Los Angeles Family"
+      "slug": "the-original-i",
+      "title": "The Original I"
     }
   ],
   "what-shall-we-live-for": [
@@ -53590,11 +52868,6 @@
       "kind": "in",
       "slug": "our-attitude",
       "title": "Our Attitude"
-    },
-    {
-      "kind": "in",
-      "slug": "our-future-path-of-advancement",
-      "title": "Our Future Path Of Advancement"
     }
   ],
   "where-do-we-go": [
@@ -53620,13 +52893,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-formula-for-gods-providence",
-      "title": "The Formula For God's Providence"
+      "slug": "way-of-life",
+      "title": "Way Of Life"
     },
     {
       "kind": "out",
-      "slug": "way-of-life",
-      "title": "Way Of Life"
+      "slug": "the-formula-for-gods-providence",
+      "title": "The Formula For God's Providence"
     },
     {
       "kind": "out",
@@ -53707,13 +52980,13 @@
     },
     {
       "kind": "in",
-      "slug": "tradition-centered-on-god",
-      "title": "Tradition Centered On God"
+      "slug": "history-and-our-responsibility",
+      "title": "History and Our Responsibility"
     },
     {
       "kind": "in",
-      "slug": "history-and-our-responsibility",
-      "title": "History and Our Responsibility"
+      "slug": "tradition-centered-on-god",
+      "title": "Tradition Centered On God"
     },
     {
       "kind": "in",
@@ -54100,13 +53373,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-desire-of-all-things",
-      "title": "The Desire of All Things"
+      "slug": "the-meaning-of-the-day-of-victory-of-love",
+      "title": "The Meaning Of The Day Of Victory Of Love"
     },
     {
       "kind": "in",
-      "slug": "the-meaning-of-the-day-of-victory-of-love",
-      "title": "The Meaning Of The Day Of Victory Of Love"
+      "slug": "the-desire-of-all-things",
+      "title": "The Desire of All Things"
     },
     {
       "kind": "in",
@@ -54238,11 +53511,6 @@
       "kind": "out",
       "slug": "the-declaration-of-true-parents",
       "title": "The Declaration of True Parents"
-    },
-    {
-      "kind": "in",
-      "slug": "ceremony-for-the-total-liberation-of-6-000-years-of-providential-history",
-      "title": "Ceremony for the Total Liberation of 6,000 Years of Providential History"
     }
   ],
   "who-will-be-responsible-for-the-providence-of-god": [
@@ -54293,23 +53561,23 @@
     },
     {
       "kind": "in",
-      "slug": "those-who-will-prevail",
-      "title": "Those Who Will Prevail"
-    },
-    {
-      "kind": "in",
       "slug": "the-mission-we-are-undertaking",
       "title": "The Mission We Are Undertaking"
     },
     {
       "kind": "in",
-      "slug": "the-significance-of-victory-in-korea",
-      "title": "The Significance Of Victory In Korea"
+      "slug": "those-who-will-prevail",
+      "title": "Those Who Will Prevail"
     },
     {
       "kind": "in",
       "slug": "a-needed-man",
       "title": "A Needed Man"
+    },
+    {
+      "kind": "in",
+      "slug": "to-the-los-angeles-family",
+      "title": "To The Los Angeles Family"
     }
   ],
   "who-will-become-the-friend-of-golgotha": [
@@ -54597,13 +53865,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-most-important-stripe-and-the-point-of-origin-in-dispensational-history",
-      "title": "The Most Important Stripe and the Point of Origin in Dispensational History"
+      "slug": "total-self-reevaluation",
+      "title": "Total Self Reevaluation"
     },
     {
       "kind": "in",
-      "slug": "total-self-reevaluation",
-      "title": "Total Self Reevaluation"
+      "slug": "the-most-important-stripe-and-the-point-of-origin-in-dispensational-history",
+      "title": "The Most Important Stripe and the Point of Origin in Dispensational History"
     },
     {
       "kind": "in",
@@ -54957,13 +54225,13 @@
     },
     {
       "kind": "out",
-      "slug": "gods-possession-and-our-possession",
-      "title": "God's Possession and Our Possession"
+      "slug": "the-betrayer-and-heaven",
+      "title": "The Betrayer and Heaven"
     },
     {
       "kind": "out",
-      "slug": "the-betrayer-and-heaven",
-      "title": "The Betrayer and Heaven"
+      "slug": "gods-possession-and-our-possession",
+      "title": "God's Possession and Our Possession"
     },
     {
       "kind": "out",
@@ -55029,13 +54297,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-dispensation-of-restoration-and-me",
-      "title": "The Dispensation Of Restoration and Me"
+      "slug": "the-history-of-restoration-is-so-complicated",
+      "title": "The history of restoration is so complicated"
     },
     {
       "kind": "out",
-      "slug": "the-history-of-restoration-is-so-complicated",
-      "title": "The history of restoration is so complicated"
+      "slug": "the-dispensation-of-restoration-and-me",
+      "title": "The Dispensation Of Restoration and Me"
     },
     {
       "kind": "out",
@@ -55205,11 +54473,6 @@
     }
   ],
   "you-are-not-for-yourself-alone": [
-    {
-      "kind": "out",
-      "slug": "gods-possession-and-our-possession",
-      "title": "God's Possession and Our Possession"
-    },
     {
       "kind": "in",
       "slug": "the-age-of-indemnity",
@@ -55405,11 +54668,6 @@
     },
     {
       "kind": "in",
-      "slug": "what-kind-of-resurrection-are-you-trying-to-accomplish",
-      "title": "What Kind of Resurrection are you Trying to Accomplish?"
-    },
-    {
-      "kind": "in",
       "slug": "my-purpose-and-conviction",
       "title": "My Purpose and Conviction"
     },
@@ -55417,6 +54675,11 @@
       "kind": "in",
       "slug": "preparation-for-blessing",
       "title": "Preparation for Blessing"
+    },
+    {
+      "kind": "in",
+      "slug": "what-kind-of-resurrection-are-you-trying-to-accomplish",
+      "title": "What Kind of Resurrection are you Trying to Accomplish?"
     }
   ],
   "youth-in-bloom": [
