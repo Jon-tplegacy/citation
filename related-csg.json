@@ -162,11 +162,6 @@
       "title": "Restoration of the Right of the Eldest Son, the Right of the Parent, and the Right of Kingship"
     },
     {
-      "kind": "out",
-      "slug": "the-purpose-and-goal-of-a-life-of-faith",
-      "title": "The Foundation of Faith and the Foundation of Substance"
-    },
-    {
       "kind": "in",
       "slug": "the-family-pledge-and-the-tradition-of-the-blessed-families",
       "title": "The Family Pledge and the Tradition of the Blessed Families"
@@ -294,11 +289,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-purpose-and-goal-of-a-life-of-faith",
-      "title": "The Foundation of Faith and the Foundation of Substance"
-    },
-    {
-      "kind": "in",
       "slug": "restoration-through-indemnity",
       "title": "The Way of Restoration Is the Inevitable Course for Humankind"
     },
@@ -393,13 +383,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-human-fall",
-      "title": "The Fall Means the Father's Place was Taken by Another"
+      "slug": "parents-must-establish-the-law-of-love",
+      "title": "Parents Must Establish the Law of Love"
     },
     {
       "kind": "in",
-      "slug": "parents-must-establish-the-law-of-love",
-      "title": "Parents Must Establish the Law of Love"
+      "slug": "the-human-fall",
+      "title": "The Fall Means the Father's Place was Taken by Another"
     },
     {
       "kind": "in",
@@ -638,11 +628,6 @@
       "kind": "out",
       "slug": "the-seonghwa-ceremony",
       "title": "Ancestral Rituals for Blessed Families"
-    },
-    {
-      "kind": "out",
-      "slug": "the-practice-of-hoon-dok-hae",
-      "title": "Rules and Etiquette among Members"
     }
   ],
   "blessed-families-and-eternal-life": [
@@ -853,13 +838,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-practice-of-hoon-dok-hae",
-      "title": "Rules and Etiquette among Members"
+      "slug": "proclamation-of-the-true-parents-and-the-three-great-subject-partners-principle",
+      "title": "The Proclamation of True Parents"
     },
     {
       "kind": "in",
-      "slug": "proclamation-of-the-true-parents-and-the-three-great-subject-partners-principle",
-      "title": "The Proclamation of True Parents"
+      "slug": "the-practice-of-hoon-dok-hae",
+      "title": "Rules and Etiquette among Members"
     }
   ],
   "coming-of-age-and-the-love-between-man-and-woman": [
@@ -1246,11 +1231,6 @@
   "evolution-or-creation": [
     {
       "kind": "bi",
-      "slug": "subject-and-object-partners-comprise-the-universe",
-      "title": "Subject and Object Partners Comprise the Universe"
-    },
-    {
-      "kind": "bi",
       "slug": "the-sexual-organs-are-the-greatest-mystery-and-interest",
       "title": "The Sexual Organs Are the Greatest Mystery and Interest"
     },
@@ -1308,6 +1288,11 @@
       "kind": "out",
       "slug": "the-returning-lord-and-the-spirit-world",
       "title": "The Returning Lord and the Spirit World"
+    },
+    {
+      "kind": "in",
+      "slug": "subject-and-object-partners-comprise-the-universe",
+      "title": "Subject and Object Partners Comprise the Universe"
     },
     {
       "kind": "in",
@@ -1452,13 +1437,13 @@
     },
     {
       "kind": "out",
-      "slug": "subject-and-object-partners-comprise-the-universe",
-      "title": "Subject and Object Partners Comprise the Universe"
+      "slug": "the-meaning-of-death",
+      "title": "Understanding Death"
     },
     {
       "kind": "out",
-      "slug": "the-meaning-of-death",
-      "title": "Understanding Death"
+      "slug": "subject-and-object-partners-comprise-the-universe",
+      "title": "Subject and Object Partners Comprise the Universe"
     },
     {
       "kind": "out",
@@ -1849,11 +1834,6 @@
     },
     {
       "kind": "out",
-      "slug": "the-characteristics-of-true-love",
-      "title": "Love Is Boundless"
-    },
-    {
-      "kind": "out",
       "slug": "the-blessing-is-the-ceremony-to-convey-gods-love",
       "title": "The Blessing Is the Ceremony to Convey God's Love"
     },
@@ -1861,6 +1841,11 @@
       "kind": "out",
       "slug": "the-family-is-the-school-of-love-for-life-in-the-heavenly-kingdom",
       "title": "The Family is the School of Love for Life in the Heavenly Kingdom"
+    },
+    {
+      "kind": "out",
+      "slug": "the-characteristics-of-true-love",
+      "title": "Love Is Boundless"
     },
     {
       "kind": "out",
@@ -2536,13 +2521,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-human-fall",
-      "title": "The Fall Means the Father's Place was Taken by Another"
+      "slug": "love-among-brothers-and-sisters",
+      "title": "Love Between Siblings"
     },
     {
       "kind": "out",
-      "slug": "love-among-brothers-and-sisters",
-      "title": "Love Between Siblings"
+      "slug": "the-human-fall",
+      "title": "The Fall Means the Father's Place was Taken by Another"
     },
     {
       "kind": "in",
@@ -3086,11 +3071,6 @@
       "kind": "out",
       "slug": "we-can-learn-a-great-deal-from-the-ocean",
       "title": "We can learn a great deal from the ocean"
-    },
-    {
-      "kind": "in",
-      "slug": "the-history-of-human-civilization-and-trends-in-its-development",
-      "title": "The History of Human Civilization and Trends in its Development"
     },
     {
       "kind": "in",
@@ -4007,11 +3987,6 @@
       "title": "The Peninsular Civilization and Korea"
     },
     {
-      "kind": "out",
-      "slug": "the-true-parents-practice-of-true-love",
-      "title": "True Parents' Love"
-    },
-    {
       "kind": "in",
       "slug": "inauguration-of-the-federation-of-island-nations",
       "title": "Inauguration of the Federation of Island Nations"
@@ -4230,13 +4205,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-true-parents-practice-of-true-love",
-      "title": "True Parents' Love"
+      "slug": "family-is-the-training-ground-of-true-love",
+      "title": "A Training Ground of Love for Entering the Kingdom of Love"
     },
     {
       "kind": "out",
-      "slug": "family-is-the-training-ground-of-true-love",
-      "title": "A Training Ground of Love for Entering the Kingdom of Love"
+      "slug": "the-true-parents-practice-of-true-love",
+      "title": "True Parents' Love"
     },
     {
       "kind": "in",
@@ -4286,11 +4261,6 @@
       "kind": "out",
       "slug": "the-results-of-the-fall",
       "title": "Through the Fall, our lineage changed to that of Satan"
-    },
-    {
-      "kind": "out",
-      "slug": "the-purpose-and-goal-of-a-life-of-faith",
-      "title": "The Foundation of Faith and the Foundation of Substance"
     },
     {
       "kind": "in",
@@ -4410,11 +4380,6 @@
     }
   ],
   "our-life-of-faith-and-the-providence-of-restoration": [
-    {
-      "kind": "out",
-      "slug": "the-purpose-and-goal-of-a-life-of-faith",
-      "title": "The Foundation of Faith and the Foundation of Substance"
-    },
     {
       "kind": "in",
       "slug": "the-meaning-and-value-of-the-family-pledge",
@@ -4696,11 +4661,6 @@
     },
     {
       "kind": "out",
-      "slug": "the-purpose-and-goal-of-a-life-of-faith",
-      "title": "The Foundation of Faith and the Foundation of Substance"
-    },
-    {
-      "kind": "out",
       "slug": "the-goal-of-training",
       "title": "The Discovery of the Portion of Responsibility and its Significance"
     },
@@ -4957,11 +4917,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-characteristics-of-true-love",
-      "title": "Love Is Boundless"
-    },
-    {
-      "kind": "in",
       "slug": "the-blessing-is-the-ceremony-to-convey-gods-love",
       "title": "The Blessing Is the Ceremony to Convey God's Love"
     },
@@ -4969,6 +4924,11 @@
       "kind": "in",
       "slug": "the-sexual-organs-are-the-three-great-original-palaces-and-the-most-holy-place",
       "title": "The Sexual Organs Are the Three Great Original Palaces, and the Most Holy Place"
+    },
+    {
+      "kind": "in",
+      "slug": "the-three-great-subjects-principle-and-the-parent-centered-ideology",
+      "title": "The Three Great Subjects Principle and the Parent-Centered Ideology"
     }
   ],
   "parents-love-and-responsibility": [
@@ -5350,13 +5310,13 @@
     },
     {
       "kind": "in",
-      "slug": "inauguration-of-the-federation-of-island-nations",
-      "title": "Inauguration of the Federation of Island Nations"
+      "slug": "the-significance-of-island-civilization",
+      "title": "The Significance of Island Civilization"
     },
     {
       "kind": "in",
-      "slug": "the-significance-of-island-civilization",
-      "title": "The Significance of Island Civilization"
+      "slug": "inauguration-of-the-federation-of-island-nations",
+      "title": "Inauguration of the Federation of Island Nations"
     },
     {
       "kind": "in",
@@ -5387,11 +5347,6 @@
     },
     {
       "kind": "out",
-      "slug": "the-characteristics-of-true-love",
-      "title": "Love Is Boundless"
-    },
-    {
-      "kind": "out",
       "slug": "the-family-is-the-school-of-love-for-life-in-the-heavenly-kingdom",
       "title": "The Family is the School of Love for Life in the Heavenly Kingdom"
     },
@@ -5399,6 +5354,11 @@
       "kind": "out",
       "slug": "the-love-that-man-and-woman-desire",
       "title": "The Love that Man and Woman Desire"
+    },
+    {
+      "kind": "out",
+      "slug": "the-characteristics-of-true-love",
+      "title": "Love Is Boundless"
     },
     {
       "kind": "in",
@@ -5685,13 +5645,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-human-fall",
-      "title": "The Fall Means the Father's Place was Taken by Another"
+      "slug": "a-life-of-sanctification",
+      "title": "A Life of Sanctification"
     },
     {
       "kind": "in",
-      "slug": "a-life-of-sanctification",
-      "title": "A Life of Sanctification"
+      "slug": "the-human-fall",
+      "title": "The Fall Means the Father's Place was Taken by Another"
     },
     {
       "kind": "in",
@@ -5769,13 +5729,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-human-fall",
-      "title": "The Fall Means the Father's Place was Taken by Another"
+      "slug": "a-life-of-sanctification",
+      "title": "A Life of Sanctification"
     },
     {
       "kind": "in",
-      "slug": "a-life-of-sanctification",
-      "title": "A Life of Sanctification"
+      "slug": "the-human-fall",
+      "title": "The Fall Means the Father's Place was Taken by Another"
     },
     {
       "kind": "in",
@@ -5894,13 +5854,13 @@
     },
     {
       "kind": "out",
-      "slug": "subject-and-object-partners-comprise-the-universe",
-      "title": "Subject and Object Partners Comprise the Universe"
+      "slug": "the-providential-significance-of-home-church",
+      "title": "The Meaning and Value of the Blessing"
     },
     {
       "kind": "out",
-      "slug": "the-providential-significance-of-home-church",
-      "title": "The Meaning and Value of the Blessing"
+      "slug": "subject-and-object-partners-comprise-the-universe",
+      "title": "Subject and Object Partners Comprise the Universe"
     },
     {
       "kind": "out",
@@ -6330,11 +6290,6 @@
     },
     {
       "kind": "bi",
-      "slug": "evolution-or-creation",
-      "title": "Evolution or Creation?"
-    },
-    {
-      "kind": "bi",
       "slug": "the-sexual-organs-are-the-three-great-original-palaces-and-the-most-holy-place",
       "title": "The Sexual Organs Are the Three Great Original Palaces, and the Most Holy Place"
     },
@@ -6347,6 +6302,11 @@
       "kind": "bi",
       "slug": "the-manifestation-of-gods-dual-characteristics",
       "title": "The Manifestation of God's Dual Characteristics"
+    },
+    {
+      "kind": "out",
+      "slug": "evolution-or-creation",
+      "title": "Evolution or Creation?"
     },
     {
       "kind": "out",
@@ -6754,13 +6714,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-characteristics-of-true-love",
-      "title": "Love Is Boundless"
+      "slug": "the-blessing-is-the-ceremony-to-convey-gods-love",
+      "title": "The Blessing Is the Ceremony to Convey God's Love"
     },
     {
       "kind": "in",
-      "slug": "the-blessing-is-the-ceremony-to-convey-gods-love",
-      "title": "The Blessing Is the Ceremony to Convey God's Love"
+      "slug": "the-characteristics-of-true-love",
+      "title": "Love Is Boundless"
     },
     {
       "kind": "in",
@@ -7120,13 +7080,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-characteristics-of-true-love",
-      "title": "Love Is Boundless"
+      "slug": "the-family-is-the-school-of-love-for-life-in-the-heavenly-kingdom",
+      "title": "The Family is the School of Love for Life in the Heavenly Kingdom"
     },
     {
       "kind": "in",
-      "slug": "the-family-is-the-school-of-love-for-life-in-the-heavenly-kingdom",
-      "title": "The Family is the School of Love for Life in the Heavenly Kingdom"
+      "slug": "the-characteristics-of-true-love",
+      "title": "Love Is Boundless"
     },
     {
       "kind": "in",
@@ -7194,11 +7154,6 @@
       "kind": "in",
       "slug": "perfection-is-attained-through-love",
       "title": "Perfection Is Attained through Love"
-    },
-    {
-      "kind": "in",
-      "slug": "the-family-is-the-school-of-love-for-life-in-the-heavenly-kingdom",
-      "title": "The Family is the School of Love for Life in the Heavenly Kingdom"
     },
     {
       "kind": "in",
@@ -7722,11 +7677,6 @@
     },
     {
       "kind": "out",
-      "slug": "the-characteristics-of-true-love",
-      "title": "Love Is Boundless"
-    },
-    {
-      "kind": "out",
       "slug": "the-blessing-is-the-ceremony-to-convey-gods-love",
       "title": "The Blessing Is the Ceremony to Convey God's Love"
     },
@@ -7741,19 +7691,24 @@
       "title": "The Ideal of Love is Established in the Family"
     },
     {
+      "kind": "out",
+      "slug": "the-characteristics-of-true-love",
+      "title": "Love Is Boundless"
+    },
+    {
       "kind": "in",
       "slug": "people-and-the-hobby-life",
       "title": "People and the Hobby Life"
     },
     {
       "kind": "in",
-      "slug": "inauguration-of-the-federation-of-island-nations",
-      "title": "Inauguration of the Federation of Island Nations"
+      "slug": "the-significance-of-island-civilization",
+      "title": "The Significance of Island Civilization"
     },
     {
       "kind": "in",
-      "slug": "the-significance-of-island-civilization",
-      "title": "The Significance of Island Civilization"
+      "slug": "inauguration-of-the-federation-of-island-nations",
+      "title": "Inauguration of the Federation of Island Nations"
     }
   ],
   "the-dual-structure-of-human-beings": [
@@ -8229,11 +8184,6 @@
       "kind": "bi",
       "slug": "the-power-of-true-love",
       "title": "Love of the Nation, Love of the World, and Love of Humankind"
-    },
-    {
-      "kind": "out",
-      "slug": "the-characteristics-of-true-love",
-      "title": "Love Is Boundless"
     },
     {
       "kind": "out",
@@ -8865,11 +8815,6 @@
     },
     {
       "kind": "out",
-      "slug": "inauguration-of-the-federation-of-island-nations",
-      "title": "Inauguration of the Federation of Island Nations"
-    },
-    {
-      "kind": "out",
       "slug": "our-course-of-life-centered-on-love",
       "title": "Our course of Life centered on Love"
     }
@@ -8981,11 +8926,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-purpose-and-goal-of-a-life-of-faith",
-      "title": "The Foundation of Faith and the Foundation of Substance"
-    },
-    {
-      "kind": "in",
       "slug": "a-life-of-inheritance",
       "title": "Grief Caused Over the Fall and God's Heart in the Process of Restoration"
     },
@@ -9003,6 +8943,11 @@
       "kind": "in",
       "slug": "our-course-to-meet-true-parents",
       "title": "The Blessing of the True Parents and the Restoration of Lineage"
+    },
+    {
+      "kind": "in",
+      "slug": "registration-and-settlement-in-cheon-il-guk",
+      "title": "Registration and Settlement in Cheon Il Guk"
     }
   ],
   "the-ideal-of-love-is-established-in-the-family": [
@@ -9713,11 +9658,6 @@
     },
     {
       "kind": "out",
-      "slug": "the-characteristics-of-true-love",
-      "title": "Love Is Boundless"
-    },
-    {
-      "kind": "out",
       "slug": "perfection-is-attained-through-love",
       "title": "Perfection Is Attained through Love"
     },
@@ -9725,6 +9665,11 @@
       "kind": "out",
       "slug": "the-love-that-man-and-woman-desire",
       "title": "The Love that Man and Woman Desire"
+    },
+    {
+      "kind": "out",
+      "slug": "the-rights-of-equality-mutual-participation-and-inheritance",
+      "title": "The Rights of Equality, Mutual Participation, and Inheritance"
     },
     {
       "kind": "in",
@@ -10539,13 +10484,13 @@
     },
     {
       "kind": "out",
-      "slug": "subject-and-object-partners-comprise-the-universe",
-      "title": "Subject and Object Partners Comprise the Universe"
+      "slug": "the-meaning-of-death",
+      "title": "Understanding Death"
     },
     {
       "kind": "out",
-      "slug": "the-meaning-of-death",
-      "title": "Understanding Death"
+      "slug": "subject-and-object-partners-comprise-the-universe",
+      "title": "Subject and Object Partners Comprise the Universe"
     },
     {
       "kind": "out",
@@ -11041,13 +10986,13 @@
     },
     {
       "kind": "bi",
-      "slug": "the-characteristics-of-true-love",
-      "title": "Love Is Boundless"
+      "slug": "the-family-is-the-school-of-love-for-life-in-the-heavenly-kingdom",
+      "title": "The Family is the School of Love for Life in the Heavenly Kingdom"
     },
     {
       "kind": "bi",
-      "slug": "the-family-is-the-school-of-love-for-life-in-the-heavenly-kingdom",
-      "title": "The Family is the School of Love for Life in the Heavenly Kingdom"
+      "slug": "the-characteristics-of-true-love",
+      "title": "Love Is Boundless"
     },
     {
       "kind": "out",
@@ -11102,11 +11047,6 @@
       "kind": "out",
       "slug": "the-seonghwa-ceremony",
       "title": "Ancestral Rituals for Blessed Families"
-    },
-    {
-      "kind": "in",
-      "slug": "attitude-of-a-church-leader",
-      "title": "Attitude of a Church Leader"
     }
   ],
   "the-practice-of-true-love": [
@@ -11454,38 +11394,6 @@
       "kind": "in",
       "slug": "the-3-6-million-couples",
       "title": "The 3.6 Million Couples"
-    }
-  ],
-  "the-purpose-and-goal-of-a-life-of-faith": [
-    {
-      "kind": "out",
-      "slug": "the-human-fall",
-      "title": "The Fall Means the Father's Place was Taken by Another"
-    },
-    {
-      "kind": "out",
-      "slug": "a-life-of-faith",
-      "title": "Faith Means Keeping the Law of Indemnity"
-    },
-    {
-      "kind": "in",
-      "slug": "a-life-of-accomplishment",
-      "title": "You Must Set Indemnity Conditions Yourself"
-    },
-    {
-      "kind": "in",
-      "slug": "our-life-of-faith-and-the-providence-of-restoration",
-      "title": "The Historical Indemnity Course of True Father"
-    },
-    {
-      "kind": "in",
-      "slug": "our-course-to-meet-true-parents",
-      "title": "The Blessing of the True Parents and the Restoration of Lineage"
-    },
-    {
-      "kind": "in",
-      "slug": "our-way-to-perfection-through-true-parents",
-      "title": "The Eight-Stage Indemnity Course and the Ceremony of the Settlement of the Eight Stages"
     }
   ],
   "the-purpose-of-gods-providence-of-salvation": [
@@ -12504,13 +12412,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-practice-of-hoon-dok-hae",
-      "title": "Rules and Etiquette among Members"
+      "slug": "attitude-of-a-church-leader",
+      "title": "Attitude of a Church Leader"
     },
     {
       "kind": "in",
-      "slug": "attitude-of-a-church-leader",
-      "title": "Attitude of a Church Leader"
+      "slug": "the-practice-of-hoon-dok-hae",
+      "title": "Rules and Etiquette among Members"
     }
   ],
   "the-seven-great-jardim-declarations-and-the-establishment-of-the-new-eden": [
@@ -13388,11 +13296,6 @@
     },
     {
       "kind": "bi",
-      "slug": "the-characteristics-of-true-love",
-      "title": "Love Is Boundless"
-    },
-    {
-      "kind": "bi",
       "slug": "perfection-is-attained-through-love",
       "title": "Perfection Is Attained through Love"
     },
@@ -13400,6 +13303,11 @@
       "kind": "bi",
       "slug": "the-family-is-the-school-of-love-for-life-in-the-heavenly-kingdom",
       "title": "The Family is the School of Love for Life in the Heavenly Kingdom"
+    },
+    {
+      "kind": "bi",
+      "slug": "the-characteristics-of-true-love",
+      "title": "Love Is Boundless"
     },
     {
       "kind": "out",
@@ -13502,11 +13410,6 @@
     }
   ],
   "the-true-parents-practice-of-true-love": [
-    {
-      "kind": "in",
-      "slug": "now-is-the-pacific-rim-era",
-      "title": "Now is the Pacific Rim era"
-    },
     {
       "kind": "in",
       "slug": "keeping-true-parents-photograph",
@@ -14979,13 +14882,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-characteristics-of-true-love",
-      "title": "Love Is Boundless"
+      "slug": "the-blessing-is-the-ceremony-to-convey-gods-love",
+      "title": "The Blessing Is the Ceremony to Convey God's Love"
     },
     {
       "kind": "out",
-      "slug": "the-blessing-is-the-ceremony-to-convey-gods-love",
-      "title": "The Blessing Is the Ceremony to Convey God's Love"
+      "slug": "the-characteristics-of-true-love",
+      "title": "Love Is Boundless"
     },
     {
       "kind": "in",
@@ -15191,13 +15094,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-characteristics-of-true-love",
-      "title": "Love Is Boundless"
+      "slug": "explanation-of-family-pledge-number-three",
+      "title": "Explanation of Family Pledge Number Three"
     },
     {
       "kind": "in",
-      "slug": "explanation-of-family-pledge-number-three",
-      "title": "Explanation of Family Pledge Number Three"
+      "slug": "the-characteristics-of-true-love",
+      "title": "Love Is Boundless"
     },
     {
       "kind": "in",
