@@ -342,6 +342,18 @@
       "title": "The Path Of Humanity And The United States In The Era Of The Peace Kingdom"
     }
   ],
+  "course-of-life": [
+    {
+      "kind": "in",
+      "slug": "the-mission-of-the-ambassadors-for-peace-in-the-revolutionary-era-after-the-coming-of-heaven",
+      "title": "The Mission of Ambassadors for Peace at the Dawn of the Era after the Coming of Heaven"
+    },
+    {
+      "kind": "in",
+      "slug": "understanding-life-and-death",
+      "title": "Understanding Life and Death"
+    }
+  ],
   "declaring-the-era-of-the-peace-kingdom": [
     {
       "kind": "out",
@@ -610,13 +622,6 @@
       "title": "The Role of Continental Nations in the Twenty-First Century"
     }
   ],
-  "gods-model-for-absoluteness-peace-and-the-ideal-is-the-family-and-global-kingdom": [
-    {
-      "kind": "in",
-      "slug": "our-course-of-life",
-      "title": "Our Course of Life"
-    }
-  ],
   "gods-plan-centered-on-the-united-states": [
     {
       "kind": "out",
@@ -864,16 +869,6 @@
   "let-us-achieve-everlasting-harmony-among-religions": [
     {
       "kind": "out",
-      "slug": "one-god-one-world-religion",
-      "title": "One God, One World Religion"
-    },
-    {
-      "kind": "out",
-      "slug": "religion-and-the-creation-of-world-peace",
-      "title": "Religion and the Creation of World Peace"
-    },
-    {
-      "kind": "out",
       "slug": "the-significance-of-the-inauguration-of-the-sun-moon-peace-cup",
       "title": "The Significance of the Inauguration of the Sun Moon Peace Cup"
     }
@@ -955,11 +950,6 @@
     },
     {
       "kind": "out",
-      "slug": "our-course-of-life",
-      "title": "Our Course of Life"
-    },
-    {
-      "kind": "out",
       "slug": "the-corporeal-world-and-the-incorporeal-world-section",
       "title": "The Corporeal World and the Incorporeal World Section"
     },
@@ -1017,11 +1007,6 @@
     },
     {
       "kind": "in",
-      "slug": "let-us-achieve-everlasting-harmony-among-religions",
-      "title": "Let Us Achieve Everlasting Harmony among Religions"
-    },
-    {
-      "kind": "in",
       "slug": "religions-mission-for-world-peace",
       "title": "Religion’s Mission for World Peace"
     }
@@ -1031,28 +1016,6 @@
       "kind": "in",
       "slug": "the-reunification-of-korea-and-world-peace",
       "title": "The Reunification of Korea and World Peace"
-    }
-  ],
-  "our-course-of-life": [
-    {
-      "kind": "out",
-      "slug": "the-original-vision-for-love-between-men-and-women",
-      "title": "The Original Vision for Love Between Men and Women"
-    },
-    {
-      "kind": "out",
-      "slug": "gods-model-for-absoluteness-peace-and-the-ideal-is-the-family-and-global-kingdom",
-      "title": "God’s Model for Absoluteness, Peace, and the Ideal Is the Family and Global Kingdom Upholding Absolute Sexual Morality"
-    },
-    {
-      "kind": "in",
-      "slug": "modern-science-and-our-view-of-moral-values",
-      "title": "Modern Science and Our View of Moral Values"
-    },
-    {
-      "kind": "in",
-      "slug": "the-corporeal-world-and-the-incorporeal-world-section",
-      "title": "The Corporeal World and the Incorporeal World Section"
     }
   ],
   "our-homeland-for-the-sake-of-the-world": [
@@ -1188,11 +1151,6 @@
       "kind": "in",
       "slug": "dialogue-and-alliance",
       "title": "Dialogue and Alliance"
-    },
-    {
-      "kind": "in",
-      "slug": "let-us-achieve-everlasting-harmony-among-religions",
-      "title": "Let Us Achieve Everlasting Harmony among Religions"
     },
     {
       "kind": "in",
@@ -1350,11 +1308,6 @@
       "kind": "out",
       "slug": "path-to-realize-gods-homeland-and-the-peace-kingdom",
       "title": "Fifty Years on the Providential Path to Realize God’s Homeland and the Peace Kingdom"
-    },
-    {
-      "kind": "out",
-      "slug": "our-course-of-life",
-      "title": "Our Course of Life"
     },
     {
       "kind": "out",
@@ -1652,16 +1605,6 @@
   ],
   "the-messiah-and-true-parents": [
     {
-      "kind": "out",
-      "slug": "the-true-owners-in-establishing-the-kingdom-of-peace-and-unity-in-heaven-and-on-earth",
-      "title": "The True Owners in Establishing the Kingdom of Peace and Unity in Heaven and on Earth I"
-    },
-    {
-      "kind": "out",
-      "slug": "true-parents-are-the-hope-of-god-and-humankind",
-      "title": "True Parents Are The Hope Of God And Humankind"
-    },
-    {
       "kind": "in",
       "slug": "the-ideal-world-for-god-and-humankind",
       "title": "The Ideal World for God and Humankind"
@@ -1697,6 +1640,11 @@
       "kind": "out",
       "slug": "gods-kingdom-of-peace-is-the-eternal-home-of-our-blessed-families",
       "title": "God's Kingdom Of Peace Is The Eternal Home Of Our Blessed Families"
+    },
+    {
+      "kind": "out",
+      "slug": "course-of-life",
+      "title": "Our Course of Life"
     },
     {
       "kind": "in",
@@ -1813,11 +1761,6 @@
     },
     {
       "kind": "in",
-      "slug": "our-course-of-life",
-      "title": "Our Course of Life"
-    },
-    {
-      "kind": "in",
       "slug": "the-role-of-continental-nations-in-the-twenty-first-century",
       "title": "The Role of Continental Nations in the Twenty-First Century"
     }
@@ -1906,13 +1849,13 @@
   "the-role-of-continental-nations-in-the-twenty-first-century": [
     {
       "kind": "out",
-      "slug": "the-original-vision-for-love-between-men-and-women",
-      "title": "The Original Vision for Love Between Men and Women"
+      "slug": "gods-kingdom-of-peace-is-the-eternal-home-of-our-blessed-families",
+      "title": "God's Kingdom Of Peace Is The Eternal Home Of Our Blessed Families"
     },
     {
       "kind": "out",
-      "slug": "gods-kingdom-of-peace-is-the-eternal-home-of-our-blessed-families",
-      "title": "God's Kingdom Of Peace Is The Eternal Home Of Our Blessed Families"
+      "slug": "the-original-vision-for-love-between-men-and-women",
+      "title": "The Original Vision for Love Between Men and Women"
     },
     {
       "kind": "out",
@@ -2034,13 +1977,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-original-vision-for-love-between-men-and-women",
-      "title": "The Original Vision for Love Between Men and Women"
+      "slug": "the-corporeal-world-and-the-incorporeal-world-section",
+      "title": "The Corporeal World and the Incorporeal World Section"
     },
     {
       "kind": "in",
-      "slug": "the-corporeal-world-and-the-incorporeal-world-section",
-      "title": "The Corporeal World and the Incorporeal World Section"
+      "slug": "the-original-vision-for-love-between-men-and-women",
+      "title": "The Original Vision for Love Between Men and Women"
     }
   ],
   "the-true-land-for-a-king": [
@@ -2058,11 +2001,6 @@
     }
   ],
   "the-true-owners-in-establishing-the-kingdom-of-peace-and-unity-in-heaven-and-on-earth": [
-    {
-      "kind": "in",
-      "slug": "the-messiah-and-true-parents",
-      "title": "The Messiah And True Parents"
-    },
     {
       "kind": "in",
       "slug": "dialogue-and-harmony-among-civilizations",
@@ -2311,11 +2249,6 @@
   "true-parents-are-the-hope-of-god-and-humankind": [
     {
       "kind": "in",
-      "slug": "the-messiah-and-true-parents",
-      "title": "The Messiah And True Parents"
-    },
-    {
-      "kind": "in",
       "slug": "gods-true-love-and-restoring-his-relationship-with-heaven-earth-and-humankind",
       "title": "God’s True Love and Restoring His Relationship with Heaven, Earth, and Humankind"
     }
@@ -2342,6 +2275,11 @@
       "kind": "out",
       "slug": "cheon-il-guk-is-the-ideal-heavenly-kingdom-of-eternal-peace",
       "title": "Cheon Il Guk is the Ideal Heavenly Kingdom of Eternal Peace"
+    },
+    {
+      "kind": "out",
+      "slug": "course-of-life",
+      "title": "Our Course of Life"
     },
     {
       "kind": "in",
