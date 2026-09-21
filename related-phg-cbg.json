@@ -323,11 +323,6 @@
     },
     {
       "kind": "in",
-      "slug": "understanding-life-and-death",
-      "title": "Understanding Life and Death"
-    },
-    {
-      "kind": "in",
       "slug": "restoration-of-cain-and-abel",
       "title": "Complete and Perfect Restoration of Cain and Abel Brotherhood and the Ideal World of Creation"
     },
@@ -2271,11 +2266,6 @@
     }
   ],
   "understanding-life-and-death": [
-    {
-      "kind": "out",
-      "slug": "cheon-il-guk-is-the-ideal-heavenly-kingdom-of-eternal-peace",
-      "title": "Cheon Il Guk is the Ideal Heavenly Kingdom of Eternal Peace"
-    },
     {
       "kind": "out",
       "slug": "course-of-life",
