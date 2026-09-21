@@ -1,16 +1,6 @@
 {
   "a-church-leaders-devotional-life": [
     {
-      "kind": "bi",
-      "slug": "the-declaration-of-tribal-messiahship",
-      "title": "The History of the Blessed Couples"
-    },
-    {
-      "kind": "out",
-      "slug": "the-completion-of-home-church",
-      "title": "Responsibilities of Blessed Families"
-    },
-    {
       "kind": "out",
       "slug": "the-providential-significance-of-home-church",
       "title": "The Meaning and Value of the Blessing"
@@ -19,11 +9,6 @@
       "kind": "out",
       "slug": "the-responsibility-of-the-tribal-messiah",
       "title": "The 36 Couples"
-    },
-    {
-      "kind": "out",
-      "slug": "the-purpose-of-home-church",
-      "title": "True Parents, Rebirth, and Transformation of the Lineage"
     },
     {
       "kind": "out",
@@ -39,6 +24,21 @@
       "kind": "out",
       "slug": "the-mission-and-responsibility-of-a-church-leader",
       "title": "The 430 Couples"
+    },
+    {
+      "kind": "out",
+      "slug": "the-public-life-of-a-church-leader",
+      "title": "The 777 Couples"
+    },
+    {
+      "kind": "out",
+      "slug": "giving-sermons-that-move-hearts",
+      "title": "The 6000 Couples"
+    },
+    {
+      "kind": "in",
+      "slug": "the-declaration-of-tribal-messiahship",
+      "title": "The History of the Blessed Couples"
     },
     {
       "kind": "in",
@@ -173,13 +173,13 @@
     },
     {
       "kind": "in",
-      "slug": "stages-in-a-life-of-faith",
-      "title": "The Realms of Indirect and Direct Dominion"
+      "slug": "a-life-of-caring-for-others",
+      "title": "Fulfilling Our Portion of Responsibility"
     },
     {
       "kind": "in",
-      "slug": "a-life-of-caring-for-others",
-      "title": "Fulfilling Our Portion of Responsibility"
+      "slug": "stages-in-a-life-of-faith",
+      "title": "The Realms of Indirect and Direct Dominion"
     },
     {
       "kind": "in",
@@ -257,13 +257,13 @@
     },
     {
       "kind": "in",
-      "slug": "stages-in-a-life-of-faith",
-      "title": "The Realms of Indirect and Direct Dominion"
+      "slug": "the-path-of-faith",
+      "title": "Satan Is the Adulterer of God's Love"
     },
     {
       "kind": "in",
-      "slug": "the-path-of-faith",
-      "title": "Satan Is the Adulterer of God's Love"
+      "slug": "stages-in-a-life-of-faith",
+      "title": "The Realms of Indirect and Direct Dominion"
     },
     {
       "kind": "in",
@@ -450,13 +450,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-international-peace-highway-tunnel",
-      "title": "Complete Providential Settlement and the Great Proclamation of the True Parents"
+      "slug": "rituals-in-the-life-of-blessed-families",
+      "title": "Rituals in the Life of Blessed Families"
     },
     {
       "kind": "in",
-      "slug": "rituals-in-the-life-of-blessed-families",
-      "title": "Rituals in the Life of Blessed Families"
+      "slug": "the-international-peace-highway-tunnel",
+      "title": "Complete Providential Settlement and the Great Proclamation of the True Parents"
     }
   ],
   "absolute-loyalty-and-filial-piety-that-moves-god": [
@@ -801,13 +801,13 @@
     },
     {
       "kind": "in",
-      "slug": "world-peace-through-religion",
-      "title": "World Peace through Religion"
+      "slug": "gods-laws-of-love-centering-on-the-family",
+      "title": "God's Laws Of Love Centering On The Family"
     },
     {
       "kind": "in",
-      "slug": "gods-laws-of-love-centering-on-the-family",
-      "title": "God's Laws Of Love Centering On The Family"
+      "slug": "the-development-of-the-ocean-leisure-industry",
+      "title": "The Development of the Ocean Leisure Industry"
     }
   ],
   "church-service-and-prayer": [
@@ -926,23 +926,23 @@
     },
     {
       "kind": "out",
-      "slug": "the-international-peace-highway-tunnel",
-      "title": "Complete Providential Settlement and the Great Proclamation of the True Parents"
-    },
-    {
-      "kind": "out",
       "slug": "section-4-the-family-federation-for-world-peace-and-unification",
       "title": "Section 4. The Family Federation for World Peace and Unification"
     },
     {
       "kind": "out",
-      "slug": "organizations-for-world-peace",
-      "title": "The Settlement of the Victorious Domain of True Parents"
+      "slug": "the-international-peace-highway-tunnel",
+      "title": "Complete Providential Settlement and the Great Proclamation of the True Parents"
     },
     {
       "kind": "out",
       "slug": "gods-will-through-adam-and-eve",
       "title": "God's Will through Adam and Eve"
+    },
+    {
+      "kind": "out",
+      "slug": "organizations-for-world-peace",
+      "title": "The Settlement of the Victorious Domain of True Parents"
     },
     {
       "kind": "in",
@@ -968,13 +968,13 @@
     },
     {
       "kind": "out",
-      "slug": "peace-between-mind-and-body",
-      "title": "Original Human Nature and the True Lifestyle"
+      "slug": "a-life-of-attendance",
+      "title": "Living in Attendance of God"
     },
     {
       "kind": "out",
-      "slug": "a-life-of-attendance",
-      "title": "Living in Attendance of God"
+      "slug": "peace-between-mind-and-body",
+      "title": "Original Human Nature and the True Lifestyle"
     },
     {
       "kind": "out",
@@ -1103,11 +1103,6 @@
       "kind": "out",
       "slug": "the-constitution-and-teaching-materials-of-cheon-il-guk",
       "title": "Citizens of God's Kingdom are Educated in True Families"
-    },
-    {
-      "kind": "out",
-      "slug": "the-nature-of-cheon-ii-guk",
-      "title": "Witness in Order to Win the Heavenly Right of Ownership"
     },
     {
       "kind": "out",
@@ -1271,8 +1266,8 @@
     },
     {
       "kind": "out",
-      "slug": "the-returning-lord-and-the-spirit-world",
-      "title": "The Returning Lord and the Spirit World"
+      "slug": "true-parents-family-and-the-spirit-world",
+      "title": "True Parents' Family and the Spirit World"
     },
     {
       "kind": "in",
@@ -2533,13 +2528,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-kingdom-of-heaven-in-the-family",
-      "title": "The Family is a Model for the Heavenly Kingdom"
+      "slug": "gods-laws-of-love-centering-on-the-family",
+      "title": "God's Laws Of Love Centering On The Family"
     },
     {
       "kind": "out",
-      "slug": "gods-laws-of-love-centering-on-the-family",
-      "title": "God's Laws Of Love Centering On The Family"
+      "slug": "the-kingdom-of-heaven-in-the-family",
+      "title": "The Family is a Model for the Heavenly Kingdom"
     },
     {
       "kind": "out",
@@ -2550,11 +2545,6 @@
       "kind": "out",
       "slug": "the-true-family-centered-ideology-and-the-religion-of-true-parents",
       "title": "The True-Family-Centered Ideology And The Religion Of True Parents"
-    },
-    {
-      "kind": "in",
-      "slug": "the-essence-of-the-universe-and-the-true-lineage",
-      "title": "We Must Find Our Homeland"
     },
     {
       "kind": "in",
@@ -3613,8 +3603,8 @@
     },
     {
       "kind": "out",
-      "slug": "the-nature-of-cheon-ii-guk",
-      "title": "Witness in Order to Win the Heavenly Right of Ownership"
+      "slug": "the-ideal-of-love-is-established-in-the-family",
+      "title": "The Ideal of Love is Established in the Family"
     }
   ],
   "life-with-the-goal-of-mind-body-unity": [
@@ -3835,11 +3825,6 @@
     },
     {
       "kind": "in",
-      "slug": "peace-between-mind-and-body",
-      "title": "Original Human Nature and the True Lifestyle"
-    },
-    {
-      "kind": "in",
       "slug": "the-meaning-and-value-of-the-family-pledge",
       "title": "The Meaning and Value of the Family Pledge"
     },
@@ -3847,6 +3832,11 @@
       "kind": "in",
       "slug": "love-is-the-root-of-the-universe",
       "title": "Love Is the Root of the Universe"
+    },
+    {
+      "kind": "in",
+      "slug": "peace-between-mind-and-body",
+      "title": "Original Human Nature and the True Lifestyle"
     },
     {
       "kind": "in",
@@ -4133,11 +4123,6 @@
       "kind": "out",
       "slug": "worldwide-sharing-of-technology",
       "title": "When God-centered Sovereignty Is Restored"
-    },
-    {
-      "kind": "in",
-      "slug": "the-seven-great-jardim-declarations-and-the-establishment-of-the-new-eden",
-      "title": "The Seven Great Jardim Declarations and the Establishment of the New Eden"
     },
     {
       "kind": "in",
@@ -4446,13 +4431,13 @@
     },
     {
       "kind": "in",
-      "slug": "stages-in-a-life-of-faith",
-      "title": "The Realms of Indirect and Direct Dominion"
+      "slug": "a-life-of-accomplishment",
+      "title": "You Must Set Indemnity Conditions Yourself"
     },
     {
       "kind": "in",
-      "slug": "a-life-of-accomplishment",
-      "title": "You Must Set Indemnity Conditions Yourself"
+      "slug": "stages-in-a-life-of-faith",
+      "title": "The Realms of Indirect and Direct Dominion"
     },
     {
       "kind": "in",
@@ -4503,11 +4488,6 @@
     },
     {
       "kind": "in",
-      "slug": "what-is-heaven",
-      "title": "The Prerequisites and Conditions for Going to Heaven"
-    },
-    {
-      "kind": "in",
       "slug": "true-parents-building-the-kingdom-heaven",
       "title": "True Parents and the Building of the Kingdom of Heaven"
     },
@@ -4515,6 +4495,11 @@
       "kind": "in",
       "slug": "the-path-of-a-life-of-true-love",
       "title": "True Parents and the Works of True Love"
+    },
+    {
+      "kind": "in",
+      "slug": "what-is-heaven",
+      "title": "The Prerequisites and Conditions for Going to Heaven"
     },
     {
       "kind": "in",
@@ -5037,11 +5022,6 @@
     },
     {
       "kind": "out",
-      "slug": "there-is-no-separation-from-satan-without-the-law-of-indemnity",
-      "title": "There is No Separation from Satan without the Law of Indemnity"
-    },
-    {
-      "kind": "out",
       "slug": "the-concept-of-peace",
       "title": "What Is Human Life?"
     },
@@ -5052,6 +5032,11 @@
     },
     {
       "kind": "out",
+      "slug": "there-is-no-separation-from-satan-without-the-law-of-indemnity",
+      "title": "There is No Separation from Satan without the Law of Indemnity"
+    },
+    {
+      "kind": "out",
       "slug": "rituals-in-the-life-of-blessed-families",
       "title": "Rituals in the Life of Blessed Families"
     },
@@ -5059,11 +5044,6 @@
       "kind": "in",
       "slug": "peace-in-the-family",
       "title": "The Path of True People"
-    },
-    {
-      "kind": "in",
-      "slug": "the-seven-great-jardim-declarations-and-the-establishment-of-the-new-eden",
-      "title": "The Seven Great Jardim Declarations and the Establishment of the New Eden"
     },
     {
       "kind": "in",
@@ -5082,13 +5062,18 @@
     },
     {
       "kind": "in",
-      "slug": "world-peace-through-religion",
-      "title": "World Peace through Religion"
+      "slug": "world-peace-through-ideal-families",
+      "title": "What Is an Ideal Family?"
     },
     {
       "kind": "in",
-      "slug": "the-international-peace-highway-tunnel",
-      "title": "Complete Providential Settlement and the Great Proclamation of the True Parents"
+      "slug": "what-kind-of-place-is-the-spirit-world",
+      "title": "What Kind of Place Is the Spirit World?"
+    },
+    {
+      "kind": "in",
+      "slug": "world-peace-through-religion",
+      "title": "World Peace through Religion"
     }
   ],
   "peace-in-the-family": [
@@ -5119,6 +5104,11 @@
     },
     {
       "kind": "in",
+      "slug": "world-peace-through-ideal-families",
+      "title": "What Is an Ideal Family?"
+    },
+    {
+      "kind": "in",
       "slug": "world-peace-through-religion",
       "title": "World Peace through Religion"
     },
@@ -5126,11 +5116,6 @@
       "kind": "in",
       "slug": "the-international-peace-highway-tunnel",
       "title": "Complete Providential Settlement and the Great Proclamation of the True Parents"
-    },
-    {
-      "kind": "in",
-      "slug": "world-peace-through-ideal-families",
-      "title": "What Is an Ideal Family?"
     }
   ],
   "peace-in-the-world": [
@@ -5238,13 +5223,13 @@
     },
     {
       "kind": "in",
-      "slug": "world-peace-through-religion",
-      "title": "World Peace through Religion"
+      "slug": "world-peace-through-ideal-families",
+      "title": "What Is an Ideal Family?"
     },
     {
       "kind": "in",
-      "slug": "world-peace-through-ideal-families",
-      "title": "What Is an Ideal Family?"
+      "slug": "world-peace-through-religion",
+      "title": "World Peace through Religion"
     }
   ],
   "people-and-the-hobby-life": [
@@ -5585,13 +5570,13 @@
     },
     {
       "kind": "out",
-      "slug": "raising-children-in-faith",
-      "title": "Raising Children in Faith"
+      "slug": "the-exemplary-family-life-of-faith",
+      "title": "The Exemplary Family Life of Faith"
     },
     {
       "kind": "out",
-      "slug": "the-exemplary-family-life-of-faith",
-      "title": "The Exemplary Family Life of Faith"
+      "slug": "raising-children-in-faith",
+      "title": "Raising Children in Faith"
     },
     {
       "kind": "out",
@@ -5607,11 +5592,6 @@
       "kind": "in",
       "slug": "love-is-the-root-of-the-universe",
       "title": "Love Is the Root of the Universe"
-    },
-    {
-      "kind": "in",
-      "slug": "the-human-fall",
-      "title": "The Fall Means the Father's Place was Taken by Another"
     },
     {
       "kind": "in",
@@ -5694,11 +5674,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-human-fall",
-      "title": "The Fall Means the Father's Place was Taken by Another"
-    },
-    {
-      "kind": "in",
       "slug": "a-life-of-sanctification",
       "title": "A Life of Sanctification"
     },
@@ -5709,13 +5684,13 @@
     },
     {
       "kind": "in",
-      "slug": "proprieties-of-daily-living",
-      "title": "Proprieties of Daily Living"
+      "slug": "our-life-mission",
+      "title": "Development of the Providence of Restoration and the Mission of the Providential Nations"
     },
     {
       "kind": "in",
-      "slug": "our-life-mission",
-      "title": "Development of the Providence of Restoration and the Mission of the Providential Nations"
+      "slug": "proprieties-of-daily-living",
+      "title": "Proprieties of Daily Living"
     }
   ],
   "rebirth-through-blessed-marriage": [
@@ -6016,13 +5991,13 @@
     },
     {
       "kind": "in",
-      "slug": "peace-between-mind-and-body",
-      "title": "Original Human Nature and the True Lifestyle"
+      "slug": "love-is-the-root-of-the-universe",
+      "title": "Love Is the Root of the Universe"
     },
     {
       "kind": "in",
-      "slug": "love-is-the-root-of-the-universe",
-      "title": "Love Is the Root of the Universe"
+      "slug": "peace-between-mind-and-body",
+      "title": "Original Human Nature and the True Lifestyle"
     }
   ],
   "saints-and-divine-sons-and-daughters-of-perfect-loyalty-and-filial-piety": [
@@ -6161,11 +6136,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-way-of-indemnity-is-the-way-of-absolute-obedience-and-absolute-submission",
-      "title": "The Way of Indemnity is the Way of Absolute Obedience and Absolute Submission"
-    },
-    {
-      "kind": "in",
       "slug": "the-goal-of-training",
       "title": "The Discovery of the Portion of Responsibility and its Significance"
     },
@@ -6208,13 +6178,13 @@
     },
     {
       "kind": "in",
-      "slug": "peace-between-mind-and-body",
-      "title": "Original Human Nature and the True Lifestyle"
+      "slug": "the-family-pledge-and-the-tradition-of-the-blessed-families",
+      "title": "The Family Pledge and the Tradition of the Blessed Families"
     },
     {
       "kind": "in",
-      "slug": "the-family-pledge-and-the-tradition-of-the-blessed-families",
-      "title": "The Family Pledge and the Tradition of the Blessed Families"
+      "slug": "peace-between-mind-and-body",
+      "title": "Original Human Nature and the True Lifestyle"
     },
     {
       "kind": "in",
@@ -6831,34 +6801,14 @@
       "title": "The Significance of the Tribal Messiah"
     },
     {
-      "kind": "out",
-      "slug": "the-path-of-restoration-through-the-blessing",
-      "title": "Our Ancestors and Ourselves"
-    },
-    {
-      "kind": "out",
-      "slug": "what-is-heaven",
-      "title": "The Prerequisites and Conditions for Going to Heaven"
-    },
-    {
-      "kind": "out",
-      "slug": "the-returning-lord-and-the-spirit-world",
-      "title": "The Returning Lord and the Spirit World"
-    },
-    {
-      "kind": "out",
-      "slug": "the-dual-structure-of-human-beings",
-      "title": "The Status and Character of Human Beings"
+      "kind": "in",
+      "slug": "explanation-of-family-pledge-number-one",
+      "title": "Explanation of Family Pledge Number One"
     },
     {
       "kind": "in",
       "slug": "the-nature-of-cheon-ii-guk",
       "title": "Witness in Order to Win the Heavenly Right of Ownership"
-    },
-    {
-      "kind": "in",
-      "slug": "explanation-of-family-pledge-number-one",
-      "title": "Explanation of Family Pledge Number One"
     },
     {
       "kind": "in",
@@ -7273,13 +7223,13 @@
     },
     {
       "kind": "in",
-      "slug": "peace-between-mind-and-body",
-      "title": "Original Human Nature and the True Lifestyle"
+      "slug": "the-family-pledge-and-the-tradition-of-the-blessed-families",
+      "title": "The Family Pledge and the Tradition of the Blessed Families"
     },
     {
       "kind": "in",
-      "slug": "the-family-pledge-and-the-tradition-of-the-blessed-families",
-      "title": "The Family Pledge and the Tradition of the Blessed Families"
+      "slug": "peace-between-mind-and-body",
+      "title": "Original Human Nature and the True Lifestyle"
     },
     {
       "kind": "in",
@@ -7335,13 +7285,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-purpose-of-home-church",
-      "title": "True Parents, Rebirth, and Transformation of the Lineage"
+      "slug": "harmony-arises-in-the-presence-of-love",
+      "title": "Harmony Arises in the Presence of Love"
     },
     {
       "kind": "out",
-      "slug": "harmony-arises-in-the-presence-of-love",
-      "title": "Harmony Arises in the Presence of Love"
+      "slug": "the-purpose-of-home-church",
+      "title": "True Parents, Rebirth, and Transformation of the Lineage"
     },
     {
       "kind": "in",
@@ -7550,13 +7500,13 @@
     },
     {
       "kind": "bi",
-      "slug": "a-church-leaders-devotional-life",
-      "title": "The 1800 Couples"
+      "slug": "giving-sermons-that-move-hearts",
+      "title": "The 6000 Couples"
     },
     {
       "kind": "bi",
-      "slug": "giving-sermons-that-move-hearts",
-      "title": "The 6000 Couples"
+      "slug": "the-360-million-couples",
+      "title": "The 360 Million Couples"
     },
     {
       "kind": "out",
@@ -7572,6 +7522,11 @@
       "kind": "out",
       "slug": "hoon-dok-hae-and-home-church-activities",
       "title": "True Parents and the Realm of the Third Israel"
+    },
+    {
+      "kind": "out",
+      "slug": "a-church-leaders-devotional-life",
+      "title": "The 1800 Couples"
     },
     {
       "kind": "out",
@@ -7676,11 +7631,6 @@
       "kind": "out",
       "slug": "understanding-the-reality-of-the-spirit-world",
       "title": "To go to a Higher Realm in the Spirit World"
-    },
-    {
-      "kind": "in",
-      "slug": "the-background-and-proclamation-of-cheon-il-guk",
-      "title": "Cheon Il Guk, Our Original Homeland"
     }
   ],
   "the-emergence-of-the-true-parents": [
@@ -7854,26 +7804,6 @@
     }
   ],
   "the-essence-of-the-universe-and-the-true-lineage": [
-    {
-      "kind": "out",
-      "slug": "the-kingdom-of-heaven-in-the-family",
-      "title": "The Family is a Model for the Heavenly Kingdom"
-    },
-    {
-      "kind": "out",
-      "slug": "gods-providential-view-of-history",
-      "title": "The Homeland that the True God Desires"
-    },
-    {
-      "kind": "out",
-      "slug": "together-the-love-of-three-generations",
-      "title": "The Family Brings Together The Love Of Three Generations"
-    },
-    {
-      "kind": "out",
-      "slug": "the-relationship-between-grandparents-and-grandchildren",
-      "title": "The Relationship Between Grandparents And Grandchildren"
-    },
     {
       "kind": "in",
       "slug": "one-family-under-god",
@@ -8238,11 +8168,6 @@
     },
     {
       "kind": "out",
-      "slug": "there-is-no-separation-from-satan-without-the-law-of-indemnity",
-      "title": "There is No Separation from Satan without the Law of Indemnity"
-    },
-    {
-      "kind": "out",
       "slug": "the-concept-of-peace",
       "title": "What Is Human Life?"
     },
@@ -8250,6 +8175,11 @@
       "kind": "out",
       "slug": "steps-toward-a-world-of-peace",
       "title": "The Great Value of Human Beings"
+    },
+    {
+      "kind": "out",
+      "slug": "there-is-no-separation-from-satan-without-the-law-of-indemnity",
+      "title": "There is No Separation from Satan without the Law of Indemnity"
     },
     {
       "kind": "out",
@@ -8344,6 +8274,11 @@
       "kind": "in",
       "slug": "the-providential-mission-of-the-korean-peninsula",
       "title": "The Providential Mission of the Korean Peninsula"
+    },
+    {
+      "kind": "in",
+      "slug": "the-way-of-our-original-nature",
+      "title": "The Secret of Entering Heaven"
     }
   ],
   "the-goal-of-training": [
@@ -8354,13 +8289,13 @@
     },
     {
       "kind": "out",
-      "slug": "stages-in-a-life-of-faith",
-      "title": "The Realms of Indirect and Direct Dominion"
+      "slug": "experiences-and-challenges-on-the-path-of-faith",
+      "title": "Human Beings Have a Portion of Responsibility"
     },
     {
       "kind": "out",
-      "slug": "experiences-and-challenges-on-the-path-of-faith",
-      "title": "Human Beings Have a Portion of Responsibility"
+      "slug": "stages-in-a-life-of-faith",
+      "title": "The Realms of Indirect and Direct Dominion"
     },
     {
       "kind": "in",
@@ -8860,16 +8795,6 @@
       "title": "A Life of Living with True Love"
     },
     {
-      "kind": "out",
-      "slug": "proprieties-of-daily-living",
-      "title": "Proprieties of Daily Living"
-    },
-    {
-      "kind": "out",
-      "slug": "raising-children-in-faith",
-      "title": "Raising Children in Faith"
-    },
-    {
       "kind": "in",
       "slug": "a-life-of-faith",
       "title": "Faith Means Keeping the Law of Indemnity"
@@ -9225,13 +9150,13 @@
     },
     {
       "kind": "out",
-      "slug": "peace-between-mind-and-body",
-      "title": "Original Human Nature and the True Lifestyle"
+      "slug": "the-united-nations-and-world-peace",
+      "title": "The Way of True Love is the Central Ideology of Humankind"
     },
     {
       "kind": "out",
-      "slug": "the-united-nations-and-world-peace",
-      "title": "The Way of True Love is the Central Ideology of Humankind"
+      "slug": "peace-between-mind-and-body",
+      "title": "Original Human Nature and the True Lifestyle"
     },
     {
       "kind": "out",
@@ -9252,11 +9177,6 @@
       "kind": "out",
       "slug": "peace-in-the-family",
       "title": "The Path of True People"
-    },
-    {
-      "kind": "in",
-      "slug": "the-seven-great-jardim-declarations-and-the-establishment-of-the-new-eden",
-      "title": "The Seven Great Jardim Declarations and the Establishment of the New Eden"
     },
     {
       "kind": "in",
@@ -9289,18 +9209,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-essence-of-the-universe-and-the-true-lineage",
-      "title": "We Must Find Our Homeland"
+      "slug": "true-parents-and-the-nation",
+      "title": "True Parents and the Nation"
     },
     {
       "kind": "in",
       "slug": "gods-providential-view-of-history",
       "title": "The Homeland that the True God Desires"
-    },
-    {
-      "kind": "in",
-      "slug": "true-parents-and-the-nation",
-      "title": "True Parents and the Nation"
     },
     {
       "kind": "in",
@@ -10027,11 +9942,6 @@
     },
     {
       "kind": "in",
-      "slug": "gods-providential-view-of-history",
-      "title": "The Homeland that the True God Desires"
-    },
-    {
-      "kind": "in",
       "slug": "our-growth-and-portion-of-responsibility",
       "title": "The Relationship between Those in the Spirit World and Those on Earth"
     },
@@ -10039,6 +9949,11 @@
       "kind": "in",
       "slug": "gods-hope",
       "title": "God's Hope"
+    },
+    {
+      "kind": "in",
+      "slug": "gods-providential-view-of-history",
+      "title": "The Homeland that the True God Desires"
     }
   ],
   "the-meaning-of-education": [
@@ -10286,11 +10201,6 @@
     },
     {
       "kind": "in",
-      "slug": "embodying-god-through-love-and-living-a-life-of-attendance",
-      "title": "True Family Is the Primary Platform of True Love"
-    },
-    {
-      "kind": "in",
       "slug": "owner-of-cheon-il-guk-and-the-family-pledge",
       "title": "Heaven is Based On True Families"
     },
@@ -10298,6 +10208,11 @@
       "kind": "in",
       "slug": "life-of-owners-of-cheon-il-guk",
       "title": "Life of Owners of Cheon Il Guk"
+    },
+    {
+      "kind": "in",
+      "slug": "era-of-cheon-il-guk-true-mothers-words",
+      "title": "True Parents Who Liberate God"
     }
   ],
   "the-nobility-of-life-on-earth": [
@@ -10750,11 +10665,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-background-and-proclamation-of-cheon-il-guk",
-      "title": "Cheon Il Guk, Our Original Homeland"
-    },
-    {
-      "kind": "in",
       "slug": "a-life-of-attendance",
       "title": "Living in Attendance of God"
     },
@@ -11183,6 +11093,11 @@
     },
     {
       "kind": "out",
+      "slug": "the-goal-of-restoration-is-adams-family",
+      "title": "The Goal of Restoration is Adam's Family"
+    },
+    {
+      "kind": "out",
       "slug": "the-peninsular-civilization-and-korea",
       "title": "The Peninsular Civilization and Korea"
     },
@@ -11195,11 +11110,6 @@
       "kind": "out",
       "slug": "first-love-in-young-adulthood",
       "title": "First Love in Young Adulthood"
-    },
-    {
-      "kind": "out",
-      "slug": "love-has-no-evolution-or-revolution",
-      "title": "Love Has No Evolution or Revolution"
     },
     {
       "kind": "in",
@@ -11431,11 +11341,6 @@
     },
     {
       "kind": "in",
-      "slug": "a-church-leaders-devotional-life",
-      "title": "The 1800 Couples"
-    },
-    {
-      "kind": "in",
       "slug": "the-conditions-for-registration",
       "title": "The Conditions for Registration"
     },
@@ -11443,14 +11348,14 @@
       "kind": "in",
       "slug": "the-360-million-couples",
       "title": "The 360 Million Couples"
+    },
+    {
+      "kind": "in",
+      "slug": "registration-of-the-blessed-families-and-our-homeland",
+      "title": "Registration of the Blessed Families and Our Homeland"
     }
   ],
   "the-purpose-of-our-creation-and-the-three-great-blessings": [
-    {
-      "kind": "out",
-      "slug": "the-three-stages-of-life",
-      "title": "The Inevitable Path of Our Life"
-    },
     {
       "kind": "in",
       "slug": "our-position-in-the-created-world",
@@ -11544,13 +11449,13 @@
     },
     {
       "kind": "out",
-      "slug": "the-international-peace-highway-tunnel",
-      "title": "Complete Providential Settlement and the Great Proclamation of the True Parents"
+      "slug": "section-4-the-family-federation-for-world-peace-and-unification",
+      "title": "Section 4. The Family Federation for World Peace and Unification"
     },
     {
       "kind": "out",
-      "slug": "section-4-the-family-federation-for-world-peace-and-unification",
-      "title": "Section 4. The Family Federation for World Peace and Unification"
+      "slug": "the-international-peace-highway-tunnel",
+      "title": "Complete Providential Settlement and the Great Proclamation of the True Parents"
     },
     {
       "kind": "in",
@@ -11817,11 +11722,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-essence-of-the-universe-and-the-true-lineage",
-      "title": "We Must Find Our Homeland"
-    },
-    {
-      "kind": "in",
       "slug": "the-kingdom-of-heaven-in-the-family",
       "title": "The Family is a Model for the Heavenly Kingdom"
     }
@@ -12065,11 +11965,6 @@
       "kind": "out",
       "slug": "the-essence-of-life",
       "title": "The Essence of Life"
-    },
-    {
-      "kind": "in",
-      "slug": "the-background-and-proclamation-of-cheon-il-guk",
-      "title": "Cheon Il Guk, Our Original Homeland"
     },
     {
       "kind": "in",
@@ -12389,28 +12284,8 @@
     },
     {
       "kind": "out",
-      "slug": "peace-between-mind-and-body",
-      "title": "Original Human Nature and the True Lifestyle"
-    },
-    {
-      "kind": "out",
       "slug": "the-united-nations-and-world-peace",
       "title": "The Way of True Love is the Central Ideology of Humankind"
-    },
-    {
-      "kind": "out",
-      "slug": "world-peace-through-religion",
-      "title": "World Peace through Religion"
-    },
-    {
-      "kind": "out",
-      "slug": "the-international-peace-highway-tunnel",
-      "title": "Complete Providential Settlement and the Great Proclamation of the True Parents"
-    },
-    {
-      "kind": "out",
-      "slug": "organizations-for-world-peace",
-      "title": "The Settlement of the Victorious Domain of True Parents"
     },
     {
       "kind": "in",
@@ -12538,11 +12413,6 @@
     },
     {
       "kind": "in",
-      "slug": "world-peace-through-religion",
-      "title": "World Peace through Religion"
-    },
-    {
-      "kind": "in",
       "slug": "what-is-training",
       "title": "The Fruit of the Tree of the Knowledge of Good and Evil was Eve's Sexual Organ"
     },
@@ -12550,6 +12420,11 @@
       "kind": "in",
       "slug": "the-sexual-organs-are-the-crossroads-to-heaven-or-hell",
       "title": "The Sexual Organs Are the Crossroads to Heaven or Hell"
+    },
+    {
+      "kind": "in",
+      "slug": "world-peace-through-religion",
+      "title": "World Peace through Religion"
     },
     {
       "kind": "in",
@@ -12817,13 +12692,13 @@
   "the-spirit-world-and-the-heavenly-kingdom": [
     {
       "kind": "in",
-      "slug": "gods-providential-view-of-history",
-      "title": "The Homeland that the True God Desires"
+      "slug": "one-family-under-god",
+      "title": "The Development of Home Church Activities"
     },
     {
       "kind": "in",
-      "slug": "one-family-under-god",
-      "title": "The Development of Home Church Activities"
+      "slug": "gods-providential-view-of-history",
+      "title": "The Homeland that the True God Desires"
     },
     {
       "kind": "in",
@@ -13041,11 +12916,6 @@
       "kind": "out",
       "slug": "what-is-heaven",
       "title": "The Prerequisites and Conditions for Going to Heaven"
-    },
-    {
-      "kind": "in",
-      "slug": "the-purpose-of-our-creation-and-the-three-great-blessings",
-      "title": "The Final Wish of Life"
     },
     {
       "kind": "in",
@@ -13281,13 +13151,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-completion-of-home-church",
-      "title": "Responsibilities of Blessed Families"
+      "slug": "god-is-our-true-parent",
+      "title": "God Is Our Father"
     },
     {
       "kind": "in",
-      "slug": "god-is-our-true-parent",
-      "title": "God Is Our Father"
+      "slug": "the-completion-of-home-church",
+      "title": "Responsibilities of Blessed Families"
     },
     {
       "kind": "in",
@@ -13620,16 +13490,6 @@
   ],
   "the-way-of-indemnity-is-the-way-of-absolute-obedience-and-absolute-submission": [
     {
-      "kind": "out",
-      "slug": "there-is-no-separation-from-satan-without-the-law-of-indemnity",
-      "title": "There is No Separation from Satan without the Law of Indemnity"
-    },
-    {
-      "kind": "out",
-      "slug": "stages-in-a-life-of-faith",
-      "title": "The Realms of Indirect and Direct Dominion"
-    },
-    {
       "kind": "in",
       "slug": "the-providential-significance-of-home-church",
       "title": "The Meaning and Value of the Blessing"
@@ -13683,13 +13543,13 @@
     },
     {
       "kind": "out",
-      "slug": "our-value-in-unity-with-god",
-      "title": "The Value of Our Earthly Life"
+      "slug": "the-goal-of-restoration-is-adams-family",
+      "title": "The Goal of Restoration is Adam's Family"
     },
     {
       "kind": "out",
-      "slug": "the-path-of-a-life-of-true-love",
-      "title": "True Parents and the Works of True Love"
+      "slug": "our-value-in-unity-with-god",
+      "title": "The Value of Our Earthly Life"
     },
     {
       "kind": "in",
@@ -13839,18 +13699,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-purpose-of-home-church",
-      "title": "True Parents, Rebirth, and Transformation of the Lineage"
-    },
-    {
-      "kind": "in",
-      "slug": "peace-between-mind-and-body",
-      "title": "Original Human Nature and the True Lifestyle"
-    },
-    {
-      "kind": "in",
       "slug": "the-family-pledge-and-the-tradition-of-the-blessed-families",
       "title": "The Family Pledge and the Tradition of the Blessed Families"
+    },
+    {
+      "kind": "in",
+      "slug": "the-purpose-of-home-church",
+      "title": "True Parents, Rebirth, and Transformation of the Lineage"
     },
     {
       "kind": "in",
@@ -13859,8 +13714,8 @@
     },
     {
       "kind": "in",
-      "slug": "the-way-of-indemnity-is-the-way-of-absolute-obedience-and-absolute-submission",
-      "title": "The Way of Indemnity is the Way of Absolute Obedience and Absolute Submission"
+      "slug": "peace-between-mind-and-body",
+      "title": "Original Human Nature and the True Lifestyle"
     }
   ],
   "things-we-should-cherish-as-our-own-life": [
@@ -13967,11 +13822,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-essence-of-the-universe-and-the-true-lineage",
-      "title": "We Must Find Our Homeland"
-    },
-    {
-      "kind": "in",
       "slug": "the-relationship-between-grandparents-and-grandchildren",
       "title": "The Relationship Between Grandparents And Grandchildren"
     }
@@ -14021,11 +13871,6 @@
     },
     {
       "kind": "out",
-      "slug": "stages-in-a-life-of-faith",
-      "title": "The Realms of Indirect and Direct Dominion"
-    },
-    {
-      "kind": "out",
       "slug": "a-life-of-accomplishment",
       "title": "You Must Set Indemnity Conditions Yourself"
     },
@@ -14033,6 +13878,11 @@
       "kind": "out",
       "slug": "our-life-of-faith-and-the-providence-of-restoration",
       "title": "The Historical Indemnity Course of True Father"
+    },
+    {
+      "kind": "out",
+      "slug": "stages-in-a-life-of-faith",
+      "title": "The Realms of Indirect and Direct Dominion"
     },
     {
       "kind": "out",
@@ -14492,13 +14342,13 @@
   "true-parents-and-the-nation": [
     {
       "kind": "out",
-      "slug": "the-kingdom-of-heaven-in-the-family",
-      "title": "The Family is a Model for the Heavenly Kingdom"
+      "slug": "the-second-coming-of-jesus-and-the-true-parents",
+      "title": "The Second Coming and the True Parents"
     },
     {
       "kind": "out",
-      "slug": "the-second-coming-of-jesus-and-the-true-parents",
-      "title": "The Second Coming and the True Parents"
+      "slug": "the-kingdom-of-heaven-in-the-family",
+      "title": "The Family is a Model for the Heavenly Kingdom"
     },
     {
       "kind": "out",
@@ -14598,13 +14448,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-purpose-of-home-church",
-      "title": "True Parents, Rebirth, and Transformation of the Lineage"
+      "slug": "the-meaning-and-value-of-the-family-pledge",
+      "title": "The Meaning and Value of the Family Pledge"
     },
     {
       "kind": "in",
-      "slug": "the-meaning-and-value-of-the-family-pledge",
-      "title": "The Meaning and Value of the Family Pledge"
+      "slug": "the-purpose-of-home-church",
+      "title": "True Parents, Rebirth, and Transformation of the Lineage"
     },
     {
       "kind": "in",
@@ -15134,11 +14984,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-background-and-proclamation-of-cheon-il-guk",
-      "title": "Cheon Il Guk, Our Original Homeland"
-    },
-    {
-      "kind": "in",
       "slug": "the-three-stages-of-life",
       "title": "The Inevitable Path of Our Life"
     },
@@ -15480,13 +15325,13 @@
     },
     {
       "kind": "out",
-      "slug": "peace-between-mind-and-body",
-      "title": "Original Human Nature and the True Lifestyle"
+      "slug": "the-sexual-organs-are-the-greatest-mystery-and-interest",
+      "title": "The Sexual Organs Are the Greatest Mystery and Interest"
     },
     {
       "kind": "out",
-      "slug": "the-sexual-organs-are-the-greatest-mystery-and-interest",
-      "title": "The Sexual Organs Are the Greatest Mystery and Interest"
+      "slug": "peace-between-mind-and-body",
+      "title": "Original Human Nature and the True Lifestyle"
     },
     {
       "kind": "out",
@@ -15507,11 +15352,6 @@
       "kind": "in",
       "slug": "the-united-nations-and-world-peace",
       "title": "The Way of True Love is the Central Ideology of Humankind"
-    },
-    {
-      "kind": "in",
-      "slug": "the-seven-great-jardim-declarations-and-the-establishment-of-the-new-eden",
-      "title": "The Seven Great Jardim Declarations and the Establishment of the New Eden"
     },
     {
       "kind": "in",
