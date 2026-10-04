@@ -382,13 +382,13 @@
     },
     {
       "kind": "in",
-      "slug": "hypocrisy",
-      "title": "Hypocrisy"
+      "slug": "gratitude-and-indebtedness",
+      "title": "Gratitude and Indebtedness"
     },
     {
       "kind": "in",
-      "slug": "gratitude-and-indebtedness",
-      "title": "Gratitude and Indebtedness"
+      "slug": "hypocrisy",
+      "title": "Hypocrisy"
     },
     {
       "kind": "in",
@@ -397,13 +397,13 @@
     },
     {
       "kind": "in",
-      "slug": "the-moral-foundations-of-society",
-      "title": "The Moral Foundations of Society"
+      "slug": "hope",
+      "title": "Hope"
     },
     {
       "kind": "in",
-      "slug": "hope",
-      "title": "Hope"
+      "slug": "arguing-with-god",
+      "title": "Arguing with God"
     }
   ],
   "beauty": [
@@ -936,11 +936,6 @@
       "title": "Good Deeds"
     },
     {
-      "kind": "bi",
-      "slug": "universal-love",
-      "title": "Universal Love"
-    },
-    {
       "kind": "out",
       "slug": "angels",
       "title": "Angels"
@@ -997,13 +992,13 @@
     },
     {
       "kind": "in",
-      "slug": "beyond-the-law",
-      "title": "Beyond the Law"
+      "slug": "universal-love",
+      "title": "Universal Love"
     },
     {
       "kind": "in",
-      "slug": "grief",
-      "title": "Grief"
+      "slug": "beyond-the-law",
+      "title": "Beyond the Law"
     }
   ],
   "chastity": [
@@ -1518,8 +1513,8 @@
     },
     {
       "kind": "out",
-      "slug": "hypocrisy",
-      "title": "Hypocrisy"
+      "slug": "selfish-desires-and-fallen-nature",
+      "title": "Selfish Desires and Fallen Nature"
     },
     {
       "kind": "in",
@@ -1684,8 +1679,8 @@
     },
     {
       "kind": "in",
-      "slug": "assurance",
-      "title": "Assurance"
+      "slug": "forgiveness",
+      "title": "Forgiveness"
     }
   ],
   "discipleship": [
@@ -2379,11 +2374,6 @@
     },
     {
       "kind": "in",
-      "slug": "ritual",
-      "title": "Ritual"
-    },
-    {
-      "kind": "in",
       "slug": "spiritual-union",
       "title": "Spiritual Union"
     },
@@ -2391,6 +2381,11 @@
       "kind": "in",
       "slug": "the-basic-form-of-life",
       "title": "The Basic Form of Life"
+    },
+    {
+      "kind": "in",
+      "slug": "ritual",
+      "title": "Ritual"
     }
   ],
   "eternal-life-world-scripture": [
@@ -2835,13 +2830,13 @@
     },
     {
       "kind": "in",
-      "slug": "ritual",
-      "title": "Ritual"
+      "slug": "patriotism-and-public-service",
+      "title": "Patriotism and Public Service"
     },
     {
       "kind": "in",
-      "slug": "patriotism-and-public-service",
-      "title": "Patriotism and Public Service"
+      "slug": "ritual",
+      "title": "Ritual"
     }
   ],
   "forgiveness-world-scripture": [
@@ -2862,13 +2857,13 @@
     },
     {
       "kind": "out",
-      "slug": "universal-love",
-      "title": "Universal Love"
+      "slug": "joseph-world-scripture",
+      "title": "Joseph"
     },
     {
       "kind": "out",
-      "slug": "joseph-world-scripture",
-      "title": "Joseph"
+      "slug": "universal-love",
+      "title": "Universal Love"
     },
     {
       "kind": "in",
@@ -2973,11 +2968,6 @@
       "kind": "bi",
       "slug": "buddha-world-scripture",
       "title": "Buddha"
-    },
-    {
-      "kind": "bi",
-      "slug": "isaac-world-scripture",
-      "title": "Isaac"
     },
     {
       "kind": "bi",
@@ -3460,11 +3450,6 @@
     },
     {
       "kind": "in",
-      "slug": "the-devil-and-his-activities",
-      "title": "The Devil and His Activities"
-    },
-    {
-      "kind": "in",
       "slug": "inherited-sin-and-karma",
       "title": "Inherited Sin and Karma"
     },
@@ -3475,11 +3460,6 @@
     },
     {
       "kind": "in",
-      "slug": "love-your-enemy",
-      "title": "Love Your Enemy"
-    },
-    {
-      "kind": "in",
       "slug": "spiritual-error-and-the-occult",
       "title": "Spiritual Error and the Occult"
     },
@@ -3487,6 +3467,16 @@
       "kind": "in",
       "slug": "god-fearing-leadership",
       "title": "God-Fearing Leadership"
+    },
+    {
+      "kind": "in",
+      "slug": "love-your-enemy",
+      "title": "Love Your Enemy"
+    },
+    {
+      "kind": "in",
+      "slug": "cause-and-effect",
+      "title": "Cause and Effect"
     }
   ],
   "good-deeds": [
@@ -3509,11 +3499,6 @@
       "kind": "out",
       "slug": "repentance",
       "title": "Repentance"
-    },
-    {
-      "kind": "out",
-      "slug": "love-your-enemy",
-      "title": "Love Your Enemy"
     },
     {
       "kind": "in",
@@ -4070,8 +4055,8 @@
     },
     {
       "kind": "out",
-      "slug": "devotion",
-      "title": "Devotion"
+      "slug": "the-messiah",
+      "title": "The Messiah"
     },
     {
       "kind": "in",
@@ -4139,11 +4124,6 @@
       "kind": "in",
       "slug": "testing",
       "title": "Testing"
-    },
-    {
-      "kind": "in",
-      "slug": "the-moral-foundations-of-society",
-      "title": "The Moral Foundations of Society"
     }
   ],
   "honesty": [
@@ -4253,11 +4233,6 @@
       "kind": "in",
       "slug": "gratitude-and-indebtedness",
       "title": "Gratitude and Indebtedness"
-    },
-    {
-      "kind": "in",
-      "slug": "the-moral-foundations-of-society",
-      "title": "The Moral Foundations of Society"
     }
   ],
   "hospitality": [
@@ -4365,13 +4340,13 @@
     },
     {
       "kind": "in",
-      "slug": "faith",
-      "title": "Faith"
+      "slug": "meditation",
+      "title": "Meditation"
     },
     {
       "kind": "in",
-      "slug": "meditation",
-      "title": "Meditation"
+      "slug": "faith",
+      "title": "Faith"
     },
     {
       "kind": "in",
@@ -4380,13 +4355,13 @@
     },
     {
       "kind": "in",
-      "slug": "devotion",
-      "title": "Devotion"
+      "slug": "the-messiah",
+      "title": "The Messiah"
     },
     {
       "kind": "in",
-      "slug": "the-messiah",
-      "title": "The Messiah"
+      "slug": "devotion",
+      "title": "Devotion"
     }
   ],
   "humility": [
@@ -4447,13 +4422,13 @@
     },
     {
       "kind": "in",
-      "slug": "living-for-others",
-      "title": "Living for Others"
+      "slug": "the-last-judgment",
+      "title": "The Last Judgment"
     },
     {
       "kind": "in",
-      "slug": "the-last-judgment",
-      "title": "The Last Judgment"
+      "slug": "living-for-others",
+      "title": "Living for Others"
     },
     {
       "kind": "in",
@@ -4534,8 +4509,8 @@
     },
     {
       "kind": "in",
-      "slug": "the-moral-foundations-of-society",
-      "title": "The Moral Foundations of Society"
+      "slug": "purity-of-intention",
+      "title": "Purity of Intention"
     }
   ],
   "idolatry-and-materialism": [
@@ -4658,13 +4633,13 @@
     },
     {
       "kind": "in",
-      "slug": "hypocrisy",
-      "title": "Hypocrisy"
+      "slug": "selfish-desires-and-fallen-nature",
+      "title": "Selfish Desires and Fallen Nature"
     },
     {
       "kind": "in",
-      "slug": "selfish-desires-and-fallen-nature",
-      "title": "Selfish Desires and Fallen Nature"
+      "slug": "suffering",
+      "title": "Suffering"
     }
   ],
   "immanent-and-dwelling-within-the-heart": [
@@ -4849,13 +4824,13 @@
     },
     {
       "kind": "in",
-      "slug": "devotion",
-      "title": "Devotion"
+      "slug": "hell",
+      "title": "Hell"
     },
     {
       "kind": "in",
-      "slug": "hell",
-      "title": "Hell"
+      "slug": "devotion",
+      "title": "Devotion"
     },
     {
       "kind": "in",
@@ -5093,19 +5068,9 @@
       "title": "Women of the Bible"
     },
     {
-      "kind": "bi",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
-    },
-    {
       "kind": "out",
       "slug": "angels",
       "title": "Angels"
-    },
-    {
-      "kind": "out",
-      "slug": "noah",
-      "title": "Noah"
     },
     {
       "kind": "in",
@@ -5129,6 +5094,11 @@
     },
     {
       "kind": "in",
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
+    },
+    {
+      "kind": "in",
       "slug": "healing",
       "title": "Healing"
     },
@@ -5136,11 +5106,6 @@
       "kind": "in",
       "slug": "joseph-world-scripture",
       "title": "Joseph"
-    },
-    {
-      "kind": "in",
-      "slug": "hope",
-      "title": "Hope"
     }
   ],
   "islam": [
@@ -5405,13 +5370,13 @@
     },
     {
       "kind": "in",
-      "slug": "devotion",
-      "title": "Devotion"
+      "slug": "hell",
+      "title": "Hell"
     },
     {
       "kind": "in",
-      "slug": "hell",
-      "title": "Hell"
+      "slug": "devotion",
+      "title": "Devotion"
     },
     {
       "kind": "in",
@@ -5574,8 +5539,8 @@
     },
     {
       "kind": "in",
-      "slug": "ritual",
-      "title": "Ritual"
+      "slug": "cause-and-effect",
+      "title": "Cause and Effect"
     }
   ],
   "judaism": [
@@ -5661,13 +5626,13 @@
     },
     {
       "kind": "in",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
+      "slug": "the-moral-law",
+      "title": "The Moral Law"
     },
     {
       "kind": "in",
-      "slug": "the-moral-law",
-      "title": "The Moral Law"
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
     }
   ],
   "judge-not": [
@@ -6082,18 +6047,18 @@
     },
     {
       "kind": "in",
+      "slug": "the-golden-rule",
+      "title": "The Golden Rule"
+    },
+    {
+      "kind": "in",
       "slug": "universal-love",
       "title": "Universal Love"
     },
     {
       "kind": "in",
-      "slug": "love-your-enemy",
-      "title": "Love Your Enemy"
-    },
-    {
-      "kind": "in",
-      "slug": "the-golden-rule",
-      "title": "The Golden Rule"
+      "slug": "patriotism-and-public-service",
+      "title": "Patriotism and Public Service"
     }
   ],
   "love-your-enemy": [
@@ -6126,21 +6091,6 @@
       "kind": "out",
       "slug": "good-and-evil",
       "title": "Good and Evil"
-    },
-    {
-      "kind": "out",
-      "slug": "living-for-others",
-      "title": "Living for Others"
-    },
-    {
-      "kind": "out",
-      "slug": "universal-love",
-      "title": "Universal Love"
-    },
-    {
-      "kind": "in",
-      "slug": "good-deeds",
-      "title": "Good Deeds"
     },
     {
       "kind": "in",
@@ -6543,13 +6493,13 @@
     },
     {
       "kind": "in",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
+      "slug": "sacrificial-love",
+      "title": "Sacrificial Love"
     },
     {
       "kind": "in",
-      "slug": "sacrificial-love",
-      "title": "Sacrificial Love"
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
     }
   ],
   "nature-as-teacher": [
@@ -6729,11 +6679,6 @@
     },
     {
       "kind": "in",
-      "slug": "isaac-world-scripture",
-      "title": "Isaac"
-    },
-    {
-      "kind": "in",
       "slug": "the-ten-commandments",
       "title": "The Ten Commandments"
     },
@@ -6870,13 +6815,13 @@
     },
     {
       "kind": "out",
-      "slug": "faith",
-      "title": "Faith"
+      "slug": "meditation",
+      "title": "Meditation"
     },
     {
       "kind": "out",
-      "slug": "meditation",
-      "title": "Meditation"
+      "slug": "faith",
+      "title": "Faith"
     },
     {
       "kind": "out",
@@ -6925,13 +6870,13 @@
     },
     {
       "kind": "in",
-      "slug": "hypocrisy",
-      "title": "Hypocrisy"
+      "slug": "self-sacrifice",
+      "title": "Self-Sacrifice"
     },
     {
       "kind": "in",
-      "slug": "self-sacrifice",
-      "title": "Self-Sacrifice"
+      "slug": "hypocrisy",
+      "title": "Hypocrisy"
     },
     {
       "kind": "in",
@@ -7168,13 +7113,13 @@
     },
     {
       "kind": "out",
-      "slug": "universal-love",
-      "title": "Universal Love"
+      "slug": "love-your-enemy",
+      "title": "Love Your Enemy"
     },
     {
       "kind": "out",
-      "slug": "love-your-enemy",
-      "title": "Love Your Enemy"
+      "slug": "universal-love",
+      "title": "Universal Love"
     },
     {
       "kind": "out",
@@ -7362,8 +7307,8 @@
     },
     {
       "kind": "in",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
+      "slug": "gods-grief",
+      "title": "God’s Grief"
     }
   ],
   "perseverance-and-patience": [
@@ -7503,13 +7448,13 @@
     },
     {
       "kind": "bi",
-      "slug": "faith",
-      "title": "Faith"
+      "slug": "meditation",
+      "title": "Meditation"
     },
     {
       "kind": "bi",
-      "slug": "meditation",
-      "title": "Meditation"
+      "slug": "faith",
+      "title": "Faith"
     },
     {
       "kind": "out",
@@ -7548,13 +7493,13 @@
     },
     {
       "kind": "in",
-      "slug": "devotion",
-      "title": "Devotion"
+      "slug": "the-messiah",
+      "title": "The Messiah"
     },
     {
       "kind": "in",
-      "slug": "the-messiah",
-      "title": "The Messiah"
+      "slug": "devotion",
+      "title": "Devotion"
     },
     {
       "kind": "in",
@@ -7739,13 +7684,13 @@
     },
     {
       "kind": "out",
-      "slug": "good-and-evil",
-      "title": "Good and Evil"
+      "slug": "self-control",
+      "title": "Self-Control"
     },
     {
       "kind": "out",
-      "slug": "self-control",
-      "title": "Self-Control"
+      "slug": "good-and-evil",
+      "title": "Good and Evil"
     },
     {
       "kind": "out",
@@ -7850,18 +7795,13 @@
     },
     {
       "kind": "out",
-      "slug": "faith",
-      "title": "Faith"
-    },
-    {
-      "kind": "out",
       "slug": "praise",
       "title": "Praise"
     },
     {
       "kind": "out",
-      "slug": "devotion",
-      "title": "Devotion"
+      "slug": "faith",
+      "title": "Faith"
     },
     {
       "kind": "out",
@@ -7872,6 +7812,11 @@
       "kind": "out",
       "slug": "the-creator",
       "title": "The Creator"
+    },
+    {
+      "kind": "out",
+      "slug": "devotion",
+      "title": "Devotion"
     },
     {
       "kind": "out",
@@ -7954,13 +7899,13 @@
     },
     {
       "kind": "out",
-      "slug": "love-your-enemy",
-      "title": "Love Your Enemy"
+      "slug": "sons-and-daughters-of-god",
+      "title": "Sons and Daughters of God"
     },
     {
       "kind": "out",
-      "slug": "sons-and-daughters-of-god",
-      "title": "Sons and Daughters of God"
+      "slug": "love-your-enemy",
+      "title": "Love Your Enemy"
     },
     {
       "kind": "out",
@@ -8701,13 +8646,13 @@
     },
     {
       "kind": "out",
-      "slug": "faith",
-      "title": "Faith"
+      "slug": "praise",
+      "title": "Praise"
     },
     {
       "kind": "out",
-      "slug": "praise",
-      "title": "Praise"
+      "slug": "faith",
+      "title": "Faith"
     },
     {
       "kind": "in",
@@ -8718,11 +8663,6 @@
       "kind": "in",
       "slug": "beyond-the-law",
       "title": "Beyond the Law"
-    },
-    {
-      "kind": "in",
-      "slug": "the-moral-foundations-of-society",
-      "title": "The Moral Foundations of Society"
     },
     {
       "kind": "in",
@@ -9649,13 +9589,13 @@
     },
     {
       "kind": "in",
-      "slug": "ritual",
-      "title": "Ritual"
+      "slug": "spiritual-growth",
+      "title": "Spiritual Growth"
     },
     {
       "kind": "in",
-      "slug": "spiritual-growth",
-      "title": "Spiritual Growth"
+      "slug": "ritual",
+      "title": "Ritual"
     }
   ],
   "sons-and-daughters-of-god": [
@@ -11085,13 +11025,13 @@
     },
     {
       "kind": "in",
-      "slug": "devotion",
-      "title": "Devotion"
+      "slug": "hell",
+      "title": "Hell"
     },
     {
       "kind": "in",
-      "slug": "hell",
-      "title": "Hell"
+      "slug": "devotion",
+      "title": "Devotion"
     },
     {
       "kind": "in",
@@ -11410,16 +11350,6 @@
     },
     {
       "kind": "out",
-      "slug": "faith",
-      "title": "Faith"
-    },
-    {
-      "kind": "out",
-      "slug": "devotion",
-      "title": "Devotion"
-    },
-    {
-      "kind": "out",
       "slug": "dreams",
       "title": "Dreams"
     },
@@ -11427,11 +11357,6 @@
       "kind": "out",
       "slug": "reconciliation-and-peacemaking",
       "title": "Reconciliation and Peacemaking"
-    },
-    {
-      "kind": "out",
-      "slug": "assurance",
-      "title": "Assurance"
     },
     {
       "kind": "in",
@@ -11502,13 +11427,13 @@
     },
     {
       "kind": "in",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
+      "slug": "filial-piety",
+      "title": "Filial Piety"
     },
     {
       "kind": "in",
-      "slug": "filial-piety",
-      "title": "Filial Piety"
+      "slug": "founders-prophets-and-saints",
+      "title": "Founders, Prophets, and Saints"
     },
     {
       "kind": "in",
@@ -11554,8 +11479,8 @@
     },
     {
       "kind": "out",
-      "slug": "founders-prophets-and-saints",
-      "title": "Founders, Prophets, and Saints"
+      "slug": "formless-invisible-mystery",
+      "title": "Formless, Invisible, Mystery"
     },
     {
       "kind": "in",
@@ -11710,13 +11635,13 @@
     },
     {
       "kind": "in",
-      "slug": "assurance",
-      "title": "Assurance"
+      "slug": "restitution",
+      "title": "Restitution"
     },
     {
       "kind": "in",
-      "slug": "restitution",
-      "title": "Restitution"
+      "slug": "assurance",
+      "title": "Assurance"
     },
     {
       "kind": "in",
@@ -12744,13 +12669,13 @@
     },
     {
       "kind": "in",
-      "slug": "universal-love",
-      "title": "Universal Love"
+      "slug": "martyrdom",
+      "title": "Martyrdom"
     },
     {
       "kind": "in",
-      "slug": "martyrdom",
-      "title": "Martyrdom"
+      "slug": "universal-love",
+      "title": "Universal Love"
     }
   ],
   "true-love": [
@@ -13005,11 +12930,6 @@
       "title": "Praise"
     },
     {
-      "kind": "bi",
-      "slug": "charity",
-      "title": "Charity"
-    },
-    {
       "kind": "out",
       "slug": "jesus-world-scripture",
       "title": "Jesus"
@@ -13053,11 +12973,6 @@
       "kind": "in",
       "slug": "equality",
       "title": "Equality"
-    },
-    {
-      "kind": "in",
-      "slug": "love-your-enemy",
-      "title": "Love Your Enemy"
     },
     {
       "kind": "in",
